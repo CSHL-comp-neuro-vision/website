@@ -19,7 +19,7 @@ Computational approaches to neuroscience produce important advances in our under
 
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 2022 Course
 
    2022/schedule
