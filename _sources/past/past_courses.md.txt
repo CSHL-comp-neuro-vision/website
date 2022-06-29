@@ -3,7 +3,7 @@
 ## 2018
 
 <table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="text-align:left;margin-right:auto">
-<div><font size="3">Cold Spring Harbor Laboratory, July 11 - July 24, 2016</font></div>
+<div><font size="3">Cold Spring Harbor Laboratory, July 9 - July 22, 2018</font></div>
 <div><span style="font-family:helvetica,arial,sans-serif;line-height:18px;text-align:left;word-spacing:1px"><i><font size="2"><div style="display:block;text-align:left"><a href="" imageanchor="1"><img border="0" src="_static/images/past/2018.jpg" style="width:100%" /></a></div><br />
 </font></i></span></div>
 <div>
@@ -54,8 +54,8 @@ Students:</b><br />
 <br />
 </td>
 <td style="width:217px;height:189px" valign="top"><br />Michael Beyeler<br />Daniel Birman<br />Luke Brezovec<br />Charles Burlingham<br />Kelly Chang<br />Erika Dunn-Weiss<br />Maydel Fernandez-Alonso<br />Ranran French</td>
-<td style="width:224px;height:189px" valign="top"><br />Jiakun Fu<br />Ma'ayan Gadot<br />Margaret Henderson<br />Danique Jeurissen<br />David Klindt<br />Eline Kupers<br />Rosa Lafer-Sousa<br />Krithika Mohan</td>
-<td style="width:214px;height:189px" valign="top"><br />Luis Ramos Traslosheros Lopez<br />Zvi Roth</span><br />Heiko Schütt<br />Andrea Stacy<br />Kirstie Wailes-Newson<br />Michael Waskom<br />Matthew Whitmire<br />Cheng Xue</td>
+<td style="width:224px;height:189px" valign="top"><br />Jiakun Fu<br />Ma'ayan Gadot<br />Margaret Henderson<br />Danique Jeurissen<br />David Klindt<br />Eline Kupers<br />Rosa Lafer-Sousa<br />Krithika Mohan<br />Luis Ramos Traslosheros Lopez</td>
+<td style="width:214px;height:189px" valign="top"><br />Zvi Roth</span><br />Heiko Schütt<br />Andrea Stacy<br />Kirstie Wailes-Newson<br />Michael Waskom<br />Matthew Whitmire<br />Cheng Xue</td>
 </tr>
 </tbody>
 </table>
