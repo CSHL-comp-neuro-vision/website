@@ -2,79 +2,76 @@
 
 ## 2018
 
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="text-align:left;margin-right:auto">
-<div><font size="3">Cold Spring Harbor Laboratory, July 9 - July 22, 2018</font></div>
-<div><span style="font-family:helvetica,arial,sans-serif;line-height:18px;text-align:left;word-spacing:1px"><i><font size="2"><div style="display:block;text-align:left"><a href="" imageanchor="1"><img border="0" src="_static/images/past/2018.jpg" style="width:100%" /></a></div><br />
-</font></i></span></div>
+**Cold Spring Harbor Laboratory, July 9 - July 22, 2018**
+
+<div style="display:block;text-align:left"><img border="0" src="../_static/images/past/2018.jpg" style="width:100%" />
 <div>
 <hr />
 </div>
 <div>
-<table align="center" border="0" cellpadding="4" cellspacing="5">
-<tbody>
-<tr>
-<td bgcolor="#FFFFFF" style="width:103px;height:42px" valign="middle"><b>Organizers:</b></td>
-<td style="width:217px;height:42px" valign="top"><a href="http://www.google.com/url?q=http%3A%2F%2Ffaculty.washington.edu%2Fgboynton%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2WzUJ-QZzEIvohHwazhbhL">Geoffrey Boynton</a></td>
-<td style="width:224px;height:42px" valign="top"><a href="http://www.google.com/url?q=http%3A%2F%2Ffaculty.washington.edu%2Fghorwitz%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3H5xKoH97r_DsbJ8Vdq5f8">Gregory Horwitz</a></td>
-<td style="width:214px;height:42px" valign="top"><a href="http://www.google.com/url?q=http%3A%2F%2Fpillowlab.cps.utexas.edu%2F~pillow%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1Z3ogSsY8K6E6D3WFKxw37">Jonathan Pillow</a></td>
-<td style="width:214px;height:42px" valign="top"><a href="http://cohenlab.com/">Marlene Cohen</a></td>
-</tr>
-<tr>
-<td bgcolor="#FFFFFF" style="width:103px;height:42px" valign="middle"><b>Teaching<br />
-Assistants:</b></td>
-<td style="width:217px;height:42px" valign="top">Lea Duncker</td>
-<td style="width:224px;height:42px" valign="top">Jacob Yates</td>
-<td style="width:214px;height:42px" valign="top"> </td>
-</tr>
-<tr>
-<td bgcolor="#FFFFFF" style="width:103px;height:126px" valign="middle"><b><br />
-Lecturers:</b><br />
-<br />
-</td>
-<td style="width:217px;height:126px" valign="top">
-<br />
-<!-- <a href="http://www.google.com/url?q=http%3A%2F%2Fcolor.psych.upenn.edu%2Fbrainard%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw10q6kID2c3Nif1ruOfHshE" target="_blank">David Brainard</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.carandinilab.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw20mV_rQwUZNeuy8crX50Ro" target="_blank">Matteo Carandini</a><br />
-<a href="http://www.google.com/url?q=http%3A%2F%2Fneurosurgery.stanford.edu%2Fresearch%2Fchichilnisky%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1d6l35m1nOZMsXsbIO9WZQ" target="_blank">EJ Chichilnisky</a><br />
-<a href="http://www.google.com/url?q=http%3A%2F%2Fchurchlandlab.cshl.edu%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0m3Nd7_Wn0E9Wz5sjWHTfJ" target="_blank">Anne Churchland</a><br />
-<a href="http://www.google.com/url?q=http%3A%2F%2Fmarlenecohen.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw18uAL3FaE_EJvxxOo3rOvq" target="_blank">Marlene Cohen</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Fdicarlolab.mit.edu%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1LArNgBfsU5t8imFytolcw" target="_blank">James DiCarlo</a><br />
-<a href="http://www.google.com/url?q=http%3A%2F%2Ffairhalllab.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw04FB4ODNRwGjyvPvCZGoAQ" target="_blank">Adrienne Fairhall</a><br /><br /></td>
-<td style="width:224px;height:126px" valign="top">
-<br /><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.people.fas.harvard.edu%2F~gjorgjieva%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw05YfOCiDAJOrKOjyXMZozD" target="_blank">Julijana Gjorgjieva</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Fmotion.cps.utexas.edu%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1lGEyaNCr6X0p9IFue5tbq" target="_blank">Alexander Huk</a><br />
-<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cns.nyu.edu%2Fkianilab%2FHome.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1AJlvLWUFr_DB6elq69qu2" target="_blank">Roozbeh Kiani</a><br />
-<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cns.nyu.edu%2Fmalab%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw28qzJu7nKjbrBol0xHkINH" target="_blank">Wei Ji Ma</a><br />
-<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cns.nyu.edu%2Fcorefaculty%2FMovshon.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0wFx3xcQ_vRrkIexeQ-Gmo" target="_blank">J. Anthony Movshon</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Fpondside.uchicago.edu%2Foba%2Ffaculty%2Fpalmer_s.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw24ueCt2iCw7duq59bQBhWX" target="_blank">Stephanie Palmer</a></td>
-<td style="width:214px;height:126px" valign="top">
-<br /><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.jennyreadresearch.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2_-BjSoHVGk2QFKK3TclDe" target="_blank">Jenny Read</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Frieke-server.physiol.washington.edu%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2A18504P1hSMSY-VJtXXZx" target="_blank">Fred Rieke</a><br />
-<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.psych.upenn.edu%2Fpeople%2Fnrust&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0FKAOurZGuRE6AGzK3heJe" target="_blank">Nicole Rust</a><br />
-<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cns.nyu.edu%2F~eero%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1ZdVucUPY_AYySijVcG5RI" target="_blank">Eero Simoncelli</a><br /><a href="http://research.google.com/pubs/JonathonShlens.html" target="_blank">Jon Shlens</a><br /><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dpz.eu%2Fen%2Funit%2Fcognitive-neurosciences%2Fabout-us.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0NWE2U5RMfib8C0y_GTLqc" target="_blank">Stefan Treue</a></td> -->
-</tr>
-<tr>
-<td bgcolor="#FFFFFF" style="width:103px;height:189px" valign="middle"><b><br />
-Students:</b><br />
-<br />
-</td>
-<td style="width:217px;height:189px" valign="top"><br />Michael Beyeler<br />Daniel Birman<br />Luke Brezovec<br />Charles Burlingham<br />Kelly Chang<br />Erika Dunn-Weiss<br />Maydel Fernandez-Alonso<br />Ranran French</td>
-<td style="width:224px;height:189px" valign="top"><br />Jiakun Fu<br />Ma'ayan Gadot<br />Margaret Henderson<br />Danique Jeurissen<br />David Klindt<br />Eline Kupers<br />Rosa Lafer-Sousa<br />Krithika Mohan<br />Luis Ramos Traslosheros Lopez</td>
-<td style="width:214px;height:189px" valign="top"><br />Zvi Roth</span><br />Heiko Schütt<br />Andrea Stacy<br />Kirstie Wailes-Newson<br />Michael Waskom<br />Matthew Whitmire<br />Cheng Xue</td>
-</tr>
-</tbody>
-</table>
+	<table align="center" border="0" cellpadding="4" cellspacing="5">
+		<tbody>
+			<tr>
+				<td bgcolor="#FFFFFF" style="width:103px;height:42px" valign="middle"><b>Organizers:</b></td>
+				<td style="width:217px;height:42px" valign="top"><a href="http://www.google.com/url?q=http%3A%2F%2Ffaculty.washington.edu%2Fgboynton%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2WzUJ-QZzEIvohHwazhbhL">Geoffrey Boynton</a></td>
+				<td style="width:224px;height:42px" valign="top"><a href="http://www.google.com/url?q=http%3A%2F%2Ffaculty.washington.edu%2Fghorwitz%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3H5xKoH97r_DsbJ8Vdq5f8">Gregory Horwitz</a></td>
+				<td style="width:214px;height:42px" valign="top"><a href="http://www.google.com/url?q=http%3A%2F%2Fpillowlab.cps.utexas.edu%2F~pillow%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1Z3ogSsY8K6E6D3WFKxw37">Jonathan Pillow</a></td>
+				<td style="width:214px;height:42px" valign="top"><a href="http://cohenlab.com/">Marlene Cohen</a></td>
+			</tr>
+			<tr>
+				<td bgcolor="#FFFFFF" style="width:103px;height:42px" valign="middle"><b>Teaching<br />
+				Assistants:</b></td>
+				<td style="width:217px;height:42px" valign="top">Lea Duncker</td>
+				<td style="width:224px;height:42px" valign="top">Jacob Yates</td>
+				<td style="width:214px;height:42px" valign="top"> </td>
+			</tr>
+			<tr>
+				<td bgcolor="#FFFFFF" style="width:103px;height:126px" valign="middle"><b><br />
+				Lecturers:</b><br />
+				<br />
+			</td>
+			<td style="width:217px;height:126px" valign="top">
+				<br />
+				<a href="http://www.google.com/url?q=http%3A%2F%2Fcolor.psych.upenn.edu%2Fbrainard%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw10q6kID2c3Nif1ruOfHshE" target="_blank">David Brainard</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.carandinilab.net%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw20mV_rQwUZNeuy8crX50Ro" target="_blank">Matteo Carandini</a><br />
+				<a href="http://www.google.com/url?q=http%3A%2F%2Fneurosurgery.stanford.edu%2Fresearch%2Fchichilnisky%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1d6l35m1nOZMsXsbIO9WZQ" target="_blank">EJ Chichilnisky</a><br />
+				<a href="http://www.google.com/url?q=http%3A%2F%2Fchurchlandlab.cshl.edu%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0m3Nd7_Wn0E9Wz5sjWHTfJ" target="_blank">Anne Churchland</a><br />
+				<a href="http://www.google.com/url?q=http%3A%2F%2Fmarlenecohen.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw18uAL3FaE_EJvxxOo3rOvq" target="_blank">Marlene Cohen</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Fdicarlolab.mit.edu%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1LArNgBfsU5t8imFytolcw" target="_blank">James DiCarlo</a><br />
+				<a href="http://www.google.com/url?q=http%3A%2F%2Ffairhalllab.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw04FB4ODNRwGjyvPvCZGoAQ" target="_blank">Adrienne Fairhall</a><br /><br /></td>
+				<td style="width:224px;height:126px" valign="top">
+					<br /><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.people.fas.harvard.edu%2F~gjorgjieva%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw05YfOCiDAJOrKOjyXMZozD" target="_blank">Julijana Gjorgjieva</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Fmotion.cps.utexas.edu%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1lGEyaNCr6X0p9IFue5tbq" target="_blank">Alexander Huk</a><br />
+					<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cns.nyu.edu%2Fkianilab%2FHome.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1AJlvLWUFr_DB6elq69qu2" target="_blank">Roozbeh Kiani</a><br />
+					<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cns.nyu.edu%2Fmalab%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw28qzJu7nKjbrBol0xHkINH" target="_blank">Wei Ji Ma</a><br />
+					<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cns.nyu.edu%2Fcorefaculty%2FMovshon.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0wFx3xcQ_vRrkIexeQ-Gmo" target="_blank">J. Anthony Movshon</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Fpondside.uchicago.edu%2Foba%2Ffaculty%2Fpalmer_s.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw24ueCt2iCw7duq59bQBhWX" target="_blank">Stephanie Palmer</a></td>
+					<td style="width:214px;height:126px" valign="top">
+						<br /><a href="http://www.google.com/url?q=http%3A%2F%2Fwww.jennyreadresearch.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2_-BjSoHVGk2QFKK3TclDe" target="_blank">Jenny Read</a><br /><a href="http://www.google.com/url?q=http%3A%2F%2Frieke-server.physiol.washington.edu%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2A18504P1hSMSY-VJtXXZx" target="_blank">Fred Rieke</a><br />
+						<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.psych.upenn.edu%2Fpeople%2Fnrust&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0FKAOurZGuRE6AGzK3heJe" target="_blank">Nicole Rust</a><br />
+						<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cns.nyu.edu%2F~eero%2F&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1ZdVucUPY_AYySijVcG5RI" target="_blank">Eero Simoncelli</a><br /><a href="http://research.google.com/pubs/JonathonShlens.html" target="_blank">Jon Shlens</a><br /><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.dpz.eu%2Fen%2Funit%2Fcognitive-neurosciences%2Fabout-us.html&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0NWE2U5RMfib8C0y_GTLqc" target="_blank">Stefan Treue</a></td>
+					</tr>
+					<tr>
+						<td bgcolor="#FFFFFF" style="width:103px;height:189px" valign="middle"><b><br />
+						Students:</b><br />
+						<br />
+					</td>
+					<td style="width:217px;height:189px" valign="top"><br />Michael Beyeler<br />Daniel Birman<br />Luke Brezovec<br />Charles Burlingham<br />Kelly Chang<br />Erika Dunn-Weiss<br />Maydel Fernandez-Alonso<br />Ranran French</td>
+					<td style="width:224px;height:189px" valign="top"><br />Jiakun Fu<br />Ma'ayan Gadot<br />Margaret Henderson<br />Danique Jeurissen<br />David Klindt<br />Eline Kupers<br />Rosa Lafer-Sousa<br />Krithika Mohan<br />Luis Ramos Traslosheros Lopez</td>
+					<td style="width:214px;height:189px" valign="top"><br />Zvi Roth</span><br />Heiko Schütt<br />Andrea Stacy<br />Kirstie Wailes-Newson<br />Michael Waskom<br />Matthew Whitmire<br />Cheng Xue</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </div>
-<div dir="ltr"><br />
-</div>
-<br /></div></td></tr></tbody></table>
 
 ## 2016
 
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="text-align:left;margin-right:auto">
-<div><font size="3">Cold Spring Harbor Laboratory, July 11 - July 24, 2016</font></div>
-<div><span style="font-family:helvetica,arial,sans-serif;line-height:18px;word-spacing:1px;background-color:transparent"><i><font size="2">Access to this site is restricted. If you cannot <a href="https://www.google.com/a/UniversalLogin?service=jotspot&amp;continue=https://sites.google.com/site/compneurovision/past-courses/2014/course-pages">sign in</a> </font></i></span><span style="line-height:18px;word-spacing:1px;background-color:transparent"><font face="helvetica, arial, sans-serif" size="2"><i>to view current course content</i></font></span><i style="font-family:helvetica,arial,sans-serif;line-height:18px;word-spacing:1px;font-size:10pt;background-color:transparent"><font size="2">, email <a href="mailto:compneurovision@gmail.com">compneurovision@gmail.com</a> for access.</font></i></div>
-</div>
-<div><span style="font-family:helvetica,arial,sans-serif;line-height:18px;text-align:left;word-spacing:1px"><i><font size="2"><div style="display:block;text-align:left"><a href="https://sites.google.com/site/compneurovision/past-courses/2016/13767199_1301432929869477_1822003909431715098_o.jpg?attredirects=0" imageanchor="1"><img border="0" src="https://sites.google.com/site/compneurovision/_/rsrc/1655870917002/past-courses/2016/13767199_1301432929869477_1822003909431715098_o.jpg" style="width:100%" /></a></div><br />
-</font></i></span></div>
+
+**Cold Spring Harbor Laboratory, July 11 - July 24, 2016**
+
+<div style="display:block;text-align:left"><img border="0" src="../_static/images/past/2016.jpg" style="width:100%" />
 <div>
 <hr />
 </div>
+
+
 <div>
 <table align="center" border="0" cellpadding="4" cellspacing="5">
 <tbody>
@@ -125,9 +122,8 @@ Students:</b><br />
 </tbody>
 </table>
 </div>
-<div dir="ltr"><br />
 </div>
-<br /></div></td></tr></tbody></table>
+
 
 ## 2014
 
