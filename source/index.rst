@@ -24,7 +24,6 @@ Computational approaches to neuroscience produce important advances in our under
 
    2022/schedule
    2022/lecture_notes
-   2022/quotes
    2022/course_tshirt_submissions
    2022/people
    2022/photos
@@ -42,11 +41,3 @@ Computational approaches to neuroscience produce important advances in our under
    :caption: Past Courses & Alumni
 
    past/past_courses
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
