@@ -4,7 +4,7 @@
 
 <table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="text-align:left;margin-right:auto">
 <div><font size="3">Cold Spring Harbor Laboratory, July 11 - July 24, 2016</font></div>
-<div><span style="font-family:helvetica,arial,sans-serif;line-height:18px;text-align:left;word-spacing:1px"><i><font size="2"><div style="display:block;text-align:left"><a href="https://sites.google.com/site/compneurovision/past-courses/2016/13767199_1301432929869477_1822003909431715098_o.jpg?attredirects=0" imageanchor="1"><img border="0" src="https://sites.google.com/site/compneurovision/_/rsrc/1655870917002/past-courses/2016/13767199_1301432929869477_1822003909431715098_o.jpg" style="width:100%" /></a></div><br />
+<div><span style="font-family:helvetica,arial,sans-serif;line-height:18px;text-align:left;word-spacing:1px"><i><font size="2"><div style="display:block;text-align:left"><a href="" imageanchor="1"><img border="0" src="_static/images/past/2018.jpg" style="width:100%" /></a></div><br />
 </font></i></span></div>
 <div>
 <hr />

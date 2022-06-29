@@ -4,7 +4,7 @@
   <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Schedule &mdash; CSHL: Computational Neuroscience Vision  documentation</title>
+  <title>Overview &mdash; CSHL: Computational Neuroscience Vision  documentation</title>
       <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
   <!--[if lt IE 9]>
@@ -18,8 +18,8 @@
     <script src="../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Schedule" href="../past/past_courses.html" />
-    <link rel="prev" title="Schedule" href="../2022/photos.html" /> 
+    <link rel="next" title="Past Courses &amp; Alumni" href="../past/past_courses.html" />
+    <link rel="prev" title="Course photos" href="../2022/photos.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -40,19 +40,44 @@
               <p class="caption" role="heading"><span class="caption-text">2022 Course</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../2022/schedule.html">Schedule</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2022/lecture_notes.html">Schedule</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2022/quotes.html">Schedule</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2022/course_tshirt_submissions.html">Schedule</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2022/people.html">Schedule</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2022/photos.html">Schedule</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2022/lecture_notes.html">Lecture Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2022/course_tshirt_submissions.html">Course T-Shirt</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2022/people.html">People</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2022/photos.html">Course photos</a></li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Tutorials</span></p>
 <ul class="current">
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Schedule</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Overview</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#origins">Origins</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#programming-language">Programming language</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#where-do-i-start">Where do I start?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#covering-some-fundamentals">Covering some fundamentals</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#linear-algebra">Linear Algebra</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#signalprocessing">SignalProcessing</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#bayesian-estimation">Bayesian Estimation</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#diffusion-process">Diffusion Process</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#modeling-individual-neurons">Modeling Individual Neurons</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#or-you-want-to-model-a-lot-of-neurons-functional-mri-fmri">Or you want to model a lot of neurons…Functional MRI (fMRI)</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#what-about-putting-it-all-together">What about putting it all together?</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#modeling-light-detection">Modeling Light Detection</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#choice-probability">Choice Probability</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#generalized-linear-model-glm-coming-soon">Generalized Linear Model (GLM) (coming soon)</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#psychophysics">Psychophysics</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#all-about-color">All About Color</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#modeling-attention">Modeling Attention</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#modeling-motion-processing">Modeling Motion Processing</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#python-tutorials-include-introductions-to">Python tutorials include introductions to:</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#todo">TODO:</a></li>
+</ul>
+</li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Past Courses &amp; Alumni</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../past/past_courses.html">Schedule</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../past/past_courses.html">Past Courses &amp; Alumni</a></li>
 </ul>
 
         </div>
@@ -69,7 +94,7 @@
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
       <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
-      <li>Schedule</li>
+      <li>Overview</li>
       <li class="wy-breadcrumbs-aside">
             <a href="../_sources/tutorials/overview.md.txt" rel="nofollow"> View page source</a>
       </li>
@@ -79,16 +104,115 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="schedule">
-<h1>Schedule<a class="headerlink" href="#schedule" title="Permalink to this headline"></a></h1>
+  <section id="overview">
+<h1>Overview<a class="headerlink" href="#overview" title="Permalink to this headline"></a></h1>
+<p>Hello! Welcome to the tutorials for the CSHL Computational Neuroscience: Vision course.</p>
+<p>The tutorials themselves are stored in the <a class="reference external" href="https://github.com/CSHL-comp-neuro-vision/tutorials">tutorials repository</a>.</p>
+<section id="origins">
+<h2>Origins<a class="headerlink" href="#origins" title="Permalink to this headline"></a></h2>
+<p>These tutorials have been generously donated by various course participants and organizers over the years. For this reason, you’ll find that one tutorial may not follow exactly the same style/organization as another. If you find one style particularly helpful – or another unhelpful – let us know! We’re always looking to improve.</p>
+</section>
+<section id="programming-language">
+<h2>Programming language<a class="headerlink" href="#programming-language" title="Permalink to this headline"></a></h2>
+<p>Currently, the vast majority of these tutorials are in Matlab, but there are some Python tutorials in the <code class="docutils literal notranslate"><span class="pre">Python</span></code> folder. See the bottom of this page for a summary.</p>
+</section>
+<section id="where-do-i-start">
+<h2>Where do I start?<a class="headerlink" href="#where-do-i-start" title="Permalink to this headline"></a></h2>
+<p>Get your dependencies in order: Some tutorials have shared dependencies, so it is easiest to just go ahead and add the “dependencies_shared” folder to your path, with all its subfolders. To do this, you can navigate to the top level tutorials folder and enter this into your command prompt:</p>
+<p><code class="docutils literal notranslate"><span class="pre">addpath(genpath('dependencies_shared'))</span></code></p>
+<p>Other tutorial-specific dependencies are included in the folder with each tutorial and are loaded by each tutorial script.</p>
+</section>
+<section id="covering-some-fundamentals">
+<h2>Covering some fundamentals<a class="headerlink" href="#covering-some-fundamentals" title="Permalink to this headline"></a></h2>
+<p>Some of our tutorials cover quite general concepts that should be broadly useful. These may be a good place to start, even just as a refresh.</p>
+<section id="linear-algebra">
+<h3>Linear Algebra<a class="headerlink" href="#linear-algebra" title="Permalink to this headline"></a></h3>
+<p>Dive into these tutorials to learn why Gilbert Strang has called linear algebra a “wonderful adventure.” Or in a practical sense, maybe you want to gain a better understanding of linear equations, vectors, and matrices. A beginner’s tutorial is offered in “leastsqTutorial.”  If you play with the concepts in this tutorial, you may go from knowing next to nothing about linear algebra to an intuition that will help with multiple linear regression. “linearAlgebraTutorial” offers another take on a general introduction to this material. You could then apply some of these concepts in the “PCATutorial” and “pcasvdTutorial” where you’ll be introduced to principal components analysis and singular value decomposition (which are fundamental concepts for dimensionality reduction, among other applications).</p>
+</section>
+<section id="signalprocessing">
+<h3>SignalProcessing<a class="headerlink" href="#signalprocessing" title="Permalink to this headline"></a></h3>
+<p>The general principles of how to process and manipulate signals provide important foundations for understanding vision. This collection of signal processing tutorials is a great place to start. Check out the “FourierTutorial” for an introduction to the Fourier Transform (that is, learn how to take a function of time or space (or whatever) and express it as a function of frequency. Dig more into the time domain with “linSysTutorial” and then “Linear_1D_Filter_Tutorial,” which will take you through some applications of filtering signals in the time domain. The “samplingTutorial” will take you through signal sampling in multiple domains. You can move into higher dimensional signals by checking out “imageTutorial,” “imageFormationTutorial,” and “pyramidTutorial.” For a little something different, “ICA_Tutorial” will show you how to use independent components analysis to separate about multiple sources that are mixed together in measured signals.</p>
+</section>
+<section id="bayesian-estimation">
+<h3>Bayesian Estimation<a class="headerlink" href="#bayesian-estimation" title="Permalink to this headline"></a></h3>
+<p>Bayesian statistics provide a principled way to incorporate prior knowledge when you’re using noisy measurements to estimate something (anything?). “bayesTutorialOne” and “bayesTutorialTwo” offer two examples of applying Bayesian estimation techniques. The Bayesian framework also provides an excellent model of perceptual inference!</p>
+</section>
+<section id="diffusion-process">
+<h3>Diffusion Process<a class="headerlink" href="#diffusion-process" title="Permalink to this headline"></a></h3>
+<p>Diffusion processes provide a flexible way to model dynamic systems that are subjected to random fluctuations over time. This tutorial specifically uses a diffusion process to model perceptual decisions that are made by accumulating (noisy) information about a stimulus.</p>
+</section>
+<section id="modeling-individual-neurons">
+<h3>Modeling Individual Neurons<a class="headerlink" href="#modeling-individual-neurons" title="Permalink to this headline"></a></h3>
+<p>Here we have an assortment of tutorials that consider the properties and processes that characterize individual neurons, or “nerve cells” if you want to be a bit old fashioned. You might want to start with the “Hodgkin_HuxleyTutorial” and “intAndFireTutorial,” which implement models of how electrical properties of neurons generate action potentials. But real action potentials have important stochastic properties, too. Check out “poissonTutorial” for an introduction to the Poisson model of stochastic neuronal firing. “stochasticProcessesTutorial” introduces a few facts about renewal processes, beginning with the poisson point process and extending intuitions to gamma processes and beyond.</p>
+</section>
+<section id="or-you-want-to-model-a-lot-of-neurons-functional-mri-fmri">
+<h3>Or you want to model a lot of neurons…Functional MRI (fMRI)<a class="headerlink" href="#or-you-want-to-model-a-lot-of-neurons-functional-mri-fmri" title="Permalink to this headline"></a></h3>
+<p>Functional MRI (fMRI) measures changes in blood flow and oxygenation associated with the underlying neuronal response. Here we have two tutorials on fMRI. Curious about event-related fMRI study designs and deconvolution-based analyses? “ER_fMRI_Tutorial” is a great place to start. You can build on what you learned in that tutorial by trying out “fMRI_Classification_Tutorial,” which demonstrates how to run a classification analysies on multivariate fMRI data. Bonus: the techniques described in this tutorial can be applied nearly identically to populations of neural responses.</p>
+</section>
+</section>
+<section id="what-about-putting-it-all-together">
+<h2>What about putting it all together?<a class="headerlink" href="#what-about-putting-it-all-together" title="Permalink to this headline"></a></h2>
+<section id="modeling-light-detection">
+<h3>Modeling Light Detection<a class="headerlink" href="#modeling-light-detection" title="Permalink to this headline"></a></h3>
+<p>Light detection is an awfully important part of vision. The “PhotonDetectionTutorial” explores the process of light detection, and along the way reinforces concepts from Poisson distributions, signal detection theory, Bayesian estimation and more. Meanwhile, “nonlinearPoolingDemo” follows a similar framework, focusing on the role of non-linearities in the retina. A third tutorial engages you in a similar thought experiment (“sdtTutorial”) while also exploring a discrimination task. And for something a little different (that is, a deep-dive into phototransduction) check out “DiffEqTutorial.”</p>
+</section>
+<section id="choice-probability">
+<h3>Choice Probability<a class="headerlink" href="#choice-probability" title="Permalink to this headline"></a></h3>
+<p>This tutorial deals with the relationship between single neuron activity and the behavioral choices that we (or monkeys) make in psychophysics. It incorporates topics from signal detection theory and motion processing. If you’ve covered these topics, this tutorial should provide you with some good pay off because it shows how signal detection theory gives us something to measure in neurons that will ultimately constrain theories of neural coding.</p>
+</section>
+<section id="generalized-linear-model-glm-coming-soon">
+<h3>Generalized Linear Model (GLM) (coming soon)<a class="headerlink" href="#generalized-linear-model-glm-coming-soon" title="Permalink to this headline"></a></h3>
+</section>
+<section id="psychophysics">
+<h3>Psychophysics<a class="headerlink" href="#psychophysics" title="Permalink to this headline"></a></h3>
+<p>Is it the best type of physics? Decide for yourself with this suite of 3 tutorials on psychophysics that take you through applications of signal detection theory (“Psycho_Tutorial_I_SDT”), estimation of psychophysical thresholds (“Psycho_Tutorial_II_Thresholds”), and bootstrapping techniques (“Psycho_Tutorial_III_Bootstrapping”).</p>
+</section>
+<section id="all-about-color">
+<h3>All About Color<a class="headerlink" href="#all-about-color" title="Permalink to this headline"></a></h3>
+<p>Color – it’s just in your head…or is it? This is a suite of 3 tutorials on color. “colorRenderingTutorial” will introduce you to modelling surfaces and illuminants and how the photoreceptors respond to the resulting light that enters the eye. “colorSpaceTutorial” builds on this to illustrate aspects of the color spaces that we use to represent our perception of color. Finally, the “colorConstancy” tutorial delves in to a simple model of color constancy – that is, how we perceive objects to have consistent colors even under changing illumination. These tutorials are best consumed in the order laid out here (rendering -&gt; space -&gt; constancy)</p>
+</section>
+<section id="modeling-attention">
+<h3>Modeling Attention<a class="headerlink" href="#modeling-attention" title="Permalink to this headline"></a></h3>
+<p>This tutorial works through the ‘normalization model of attention’ based on the 2009 paper published in Neuron by John Reynolds and David Heeger. The model is worth going through because it hits on a range of topics associated with this course - linear filtering, normalization, population responses, and – of course – attention.  It’s a powerful model because it can predict a range of physiological, behavioral and fMRI results from attention studies.</p>
+</section>
+<section id="modeling-motion-processing">
+<h3>Modeling Motion Processing<a class="headerlink" href="#modeling-motion-processing" title="Permalink to this headline"></a></h3>
+<p>Much has been learned about vision by studying the visual signals and visual processing associated with motion. Consider starting with “motionTutorial”: yhis tutorial presents some concepts for representing and analyzing visual motion, including motion energy and computer vision. Dig in more deeply to a model of how motion is processed in MT (Rust at al., 2006) in “RustMTModel.” For another take, “STCovTutorial” demonstrates how spike-triggered covariance can be used to recover functional models in white-noise experiments.</p>
+</section>
+</section>
+<section id="python-tutorials-include-introductions-to">
+<h2>Python tutorials include introductions to:<a class="headerlink" href="#python-tutorials-include-introductions-to" title="Permalink to this headline"></a></h2>
+<ul class="simple">
+<li><p>Machine learning (SVM)</p></li>
+<li><p>FFT</p></li>
+<li><p>Filtering timeseries</p></li>
+<li><p>Mutual Information</p></li>
+</ul>
+<p>All python tutorials are standalone jupyter notebooks (.ipynb files, which can also be uploaded and run using google colab if you don’t have an install on your machine).</p>
+</section>
+<section id="todo">
+<h2>TODO:<a class="headerlink" href="#todo" title="Permalink to this headline"></a></h2>
+<p>Organization: Not convinced this mixture of shared/tutorial-specific dependencies makes sense, but that’s what I started with. If we stick with this organization, need to review the comments at the top of each script and make sure it matches the current actual dependencies</p>
+<p>Tutorials currently giving errors in Matlab 2020:</p>
+<ul class="simple">
+<li><p>pcasvdTutorial</p></li>
+<li><p>FourierTutorial</p></li>
+<li><p>pyramidTutorial</p></li>
+<li><p>stochasticProcessesTutorial</p></li>
+<li><p>fMRI_Classification_Tutorial</p></li>
+<li><p>choiceProbabiltyTutorial</p></li>
+<li><p>Psycho_Tutorial_III_Bootstrapping</p></li>
+</ul>
+<p>GLM Tutorial: Pillow needs to look at this and update the guide to describe what it is</p>
+</section>
 </section>
 
 
            </div>
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
-        <a href="../2022/photos.html" class="btn btn-neutral float-left" title="Schedule" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
-        <a href="../past/past_courses.html" class="btn btn-neutral float-right" title="Schedule" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../2022/photos.html" class="btn btn-neutral float-left" title="Course photos" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../past/past_courses.html" class="btn btn-neutral float-right" title="Past Courses &amp; Alumni" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>
