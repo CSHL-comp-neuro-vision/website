@@ -127,6 +127,8 @@ Students:</b><br />
 
 ## 2014
 
+<div style="display:block;text-align:left"><img border="0" src="../_static/images/past/2014.png" style="width:100%" />
+
 <table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="text-align:left;margin-right:auto">
 <div><font size="3">Cold Spring Harbor Laboratory, July 11 - July 24</font></div>
 <div><br /></div></div>
@@ -216,6 +218,8 @@ Jacob Yates
 <br /></div></td></tr></tbody></table>
 
 ## 2012
+
+<div style="display:block;text-align:left"><img border="0" src="../_static/images/past/2012.png" style="width:100%" />
 
 <table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><table align="center" border="0" cellpadding="4" cellspacing="5" width="700">
 <tbody><tr>
