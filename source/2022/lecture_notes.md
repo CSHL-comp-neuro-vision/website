@@ -22,6 +22,11 @@ Also see:
 
 ## Felice Dunn
 
+<a href="../_static/pdfs/dunn/annurev.physiol.67.031103.151256.pdf">Field (2004)</a>\
+<a href="../_static/pdfs/dunn/Barlow1964">Barlow (1964)</a>\
+
+### Suggested Readings
+
 ## EJ Chichilnisky
 
 ## Jonathan Pillow
