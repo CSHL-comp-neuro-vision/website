@@ -14,6 +14,8 @@
 **6:00-7:00pm** Dinner at Roberston House \
 **7:00-8:30pm** Optional evening lectures
 
+## Course Schedule
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0; width:50vw;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
