@@ -63,6 +63,10 @@
     <td class="tg-73oq">Retina II</td>
     <td class="tg-lmxn">EJ Chichilnisky</td>
   </tr>
+  <tr>
+    <td class="tg-73oq">Wine & Cheese</td>
+    <td class="tg-lmxn">5:30pm</td>
+  </tr>
 </tbody>
 </table>
 
@@ -108,6 +112,10 @@
     <td class="tg-73oq">Natural Vision and Continuous Psychophysics</td>
     <td class="tg-lmxn">Kate Bonnen</td>
   </tr>
+  <tr>
+    <td class="tg-73oq">Evening discussion about diversity in science</td>
+    <td class="tg-lmxn">Lea Duncker & Dan Birman</td>
+  </tr>
 </tbody>
 </table>
 
@@ -127,6 +135,10 @@
   <tr>
     <td class="tg-73oq">Half day</td>
     <td class="tg-lmxn"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">Motion Perception / Visual Area MT</td>
+    <td class="tg-lmxn">Tony Movshon</td>
   </tr>
 </tbody>
 </table>
@@ -167,6 +179,10 @@
   <tr>
     <td class="tg-73oq">Binocular Vision</td>
     <td class="tg-lmxn">Jenny Read</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">Banquet Dinner (Mayr Dining in Blackford Hall)</td>
+    <td class="tg-lmxn">CSHL Main Campus</td>
   </tr>
 </tbody>
 </table>
@@ -248,6 +264,10 @@
     <td class="tg-73oq">Attention and Population Coding</td>
     <td class="tg-lmxn">Marlene Cohen</td>
   </tr>
+  <tr>
+    <td class="tg-73oq">Pasta dinner</td>
+    <td class="tg-lmxn">5:30pm</td>
+  </tr>
 </tbody>
 </table>
 
@@ -294,8 +314,8 @@
     <td class="tg-lmxn"></td>
   </tr>
   <tr>
-    <td class="tg-73oq">Study Time / Banquet</td>
-    <td class="tg-lmxn"></td>
+    <td class="tg-73oq">Course Banquet</td>
+    <td class="tg-lmxn">6:00pm</td>
   </tr>
 </tbody>
 </table>
