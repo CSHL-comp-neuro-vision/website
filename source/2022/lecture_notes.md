@@ -1,6 +1,6 @@
 # Lecture Notes
 
-## Movshon
+## Tony Movshon
 
 ### Suggested Readings
 
@@ -18,4 +18,18 @@ Also see:
 
 ### Project ideas
 
-## Eero
+## Eero Simoncelli
+
+## Felice Dunn
+
+## EJ Chichilnisky
+
+## Jonathan Pillow
+
+## Greg Horwitz
+
+### Suggested Readings
+
+<a href="../_static/pdfs/horwitz/annurev-vision-121219-081801.pdf">Horwitz (2020)</a>\
+<a href="../_static/pdfs/horwitz/HorwitzHass.pdf">Horwitz (2012)</a>
+<a href="../_static/pdfs/horwitz/Weller.pdf">Weller (2017)</a>
