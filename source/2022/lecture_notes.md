@@ -2,6 +2,11 @@
 
 ## Tony Movshon
 
+### Slides
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Lecture slides</a>\
+
+
 ### Suggested Readings
 
 <a href="../_static/pdfs/movshon/marr-1982-chapter1.pdf">Marr (1982)</a>\
@@ -15,8 +20,6 @@ Also see:
 <a href="../_static/pdfs/movshon/enroth-cugell-robson-1984.pdf">Enrtoh, Cugell, Robson (1984)</a>\
 <a href="../_static/pdfs/movshon/lennie-movshon-2005.pdf">Lennie & Movshon (2005)</a>\
 <a href="../_static/pdfs/movshon/movshon-simoncelli-2014.pdf">Movshon & Simoncelli (2014)</a>
-
-### Project ideas
 
 ## Eero Simoncelli
 
