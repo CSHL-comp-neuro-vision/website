@@ -1,6 +1,11 @@
 # Lecture Notes
 
-## Movshon
+## Tony Movshon
+
+### Slides
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Lecture slides</a>\
+
 
 ### Suggested Readings
 
@@ -16,6 +21,18 @@ Also see:
 <a href="../_static/pdfs/movshon/lennie-movshon-2005.pdf">Lennie & Movshon (2005)</a>\
 <a href="../_static/pdfs/movshon/movshon-simoncelli-2014.pdf">Movshon & Simoncelli (2014)</a>
 
-### Project ideas
+## Eero Simoncelli
 
-## Eero
+## Felice Dunn
+
+## EJ Chichilnisky
+
+## Jonathan Pillow
+
+## Greg Horwitz
+
+### Suggested Readings
+
+<a href="../_static/pdfs/horwitz/annurev-vision-121219-081801.pdf">Horwitz (2020)</a>\
+<a href="../_static/pdfs/horwitz/HorwitzHass.pdf">Horwitz (2012)</a>
+<a href="../_static/pdfs/horwitz/Weller.pdf">Weller (2017)</a>
