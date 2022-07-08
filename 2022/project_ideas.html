@@ -44,6 +44,7 @@
 <li class="toctree-l1"><a class="reference internal" href="lecture_notes.html">Lecture Notes</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Project Ideas</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#from-felice-dunn">From Felice Dunn</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#from-jonathan-pillow">From Jonathan Pillow</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="course_tshirt_submissions.html">Course T-Shirt</a></li>
@@ -90,6 +91,30 @@
 <p>Fits to frequency of seeing data to determine how quantum efficiency, dark light, and threshold can trade for each other (Teich et al., 1982, Multiplication noise in the human visual system at threshold 3. The role of non-Poisson quantum fluctuations).</p>
 <p>Model of the phototransduction cascade elements to demonstrate how single events can be amplified. Determine how the phototransduction elements and amplification can be changed to account for rod vs. cone responses. Use this model to predict responses to different stimuli types (Angueyra et al., 2022 Predicting and manipulating cone responses to naturalistic inputs)</p>
 <p>Model different motion detectors and determine how they might be distinguishable from each other (Bae et al., 2014, Space-timing wiring specificity supports direction selectivity in the retina)</p>
+</section>
+<section id="from-jonathan-pillow">
+<h2>From Jonathan Pillow<a class="headerlink" href="#from-jonathan-pillow" title="Permalink to this heading"></a></h2>
+<ol class="arabic simple">
+<li><p>Temporal vs. rate coding in retina (or any other dataset you’d like to examine).
+How much information is carried in the precise timing of spikes vs. in slowly-fluctuating spike rates?  One way to address this question is to decode spikes under models that incorporate vs. ignore precise spike timing information.
+Project idea;  compare decoding under an LNP model and a Poisson GLM with spike history filters. How much (if any) additional information can you recover about the stimulus when you incorporate spike history?</p></li>
+</ol>
+<p>Relevant refs:</p>
+<ul class="simple">
+<li><p>Pillow et al. “Spatio-temporal correlations and visual signalling in a complete neuronal population”.  Nature (2008).</p></li>
+</ul>
+<p>See also: GLM tutorial code (https://github.com/pillowlab/GLMspiketraintutorial).</p>
+<ol class="arabic simple" start="2">
+<li><p>Can a Poisson GLM exhibit divisive normalization?
+Divisive normalization is one of the putative “canonical computations” carried out in the brain, but we still lack a good computational understanding of how it’s carried out, or how to infer statistical models that can exhibit divisive normalization.</p></li>
+</ol>
+<p>The Poisson generalized linear model (GLM) for spike trains provides a simple, tractable statistical model of spike trains. But can it exhibit divisive normalization?</p>
+<p>Relevant refs:</p>
+<ul class="simple">
+<li><p>Carandini &amp; Heeger,, Normalization as a canonical neural computation. Nat Rev Neurosci (2011).</p></li>
+<li><p>Carandini and Heeger. Summation and division by neurons in primate visual cortex. Science (1994).</p></li>
+<li><p>Pillow et al. “Spatio-temporal correlations and visual signalling in a complete neuronal population”.  Nature (2008).</p></li>
+</ul>
 </section>
 </section>
 

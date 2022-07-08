@@ -6,7 +6,7 @@
 **9:00-10:15am** Morning lecture, part I \
 **10:15-10:45am** Coffee break \
 **10:45-12:00pm** Morning lecture, part II \
-**12:00-1:00pm** Lunch at ? \
+**12:15-1:00pm** Lunch at Meier House \
 **1:00-2:15pm** Afternoon lecture, part I \
 **2:15-2:45pm** Coffee break \
 **2:45-4:00pm** Afternoon lecture, part II \

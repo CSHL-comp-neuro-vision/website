@@ -28,7 +28,7 @@ Also see:
 ### Suggested Readings
 
 <a href="../_static/pdfs/dunn/annurev.physiol.67.031103.151256.pdf">Field (2004)</a>\
-<a href="../_static/pdfs/dunn/Barlow1964">Barlow (1964)</a>\
+<a href="../_static/pdfs/dunn/Barlow1964">Barlow (1964)</a>
 
 ## EJ Chichilnisky
 
