@@ -17,7 +17,7 @@ Also see:
 <a href="../_static/pdfs/movshon/adelson-bergen-1991.pdf">Adelson & Bergen (1991)</a>\
 <a href="../_static/pdfs/movshon/anderson-1972.pdf">Anderson (1972)</a>\
 <a href="../_static/pdfs/movshon/barlow-1972.pdf">Barlow (1972)</a>\
-<a href="../_static/pdfs/movshon/enroth-cugell-robson-1984.pdf">Enrtoh, Cugell, Robson (1984)</a>\
+<a href="../_static/pdfs/movshon/enroth-cugell-robson-1984.pdf">Enroth, Cugell, Robson (1984)</a>\
 <a href="../_static/pdfs/movshon/lennie-movshon-2005.pdf">Lennie & Movshon (2005)</a>\
 <a href="../_static/pdfs/movshon/movshon-simoncelli-2014.pdf">Movshon & Simoncelli (2014)</a>
 
@@ -62,6 +62,8 @@ https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99
 ## EJ Chichilnisky
 
 ## Jonathan Pillow
+
+
 
 ## Greg Horwitz
 
