@@ -70,16 +70,16 @@ https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99
 • <A HREF="http://pillowlab.princeton.edu/pubs/abs_Pillow08_nature.html">Spatio-temporal correlations and visual signaling in a complete neuronal population</A>\
 Pillow, Shlens, Paninski, Sher , Litke, Chichilnisky, & Simoncelli. Nature (2008)
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_ParkI_NN14.html"> (2014). Encoding and decoding in parietal cortex during sensorimotor decision-making</A>\ 
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_ParkI_NN14.html"> (2014). Encoding and decoding in parietal cortex during sensorimotor decision-making</A>\
 Park, Meister, Huk, & Pillow. Nat. Neurosci. (2014)
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_IlPark11_NIPS.html">Bayesian spike-triggered covariance</A>\ 
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_IlPark11_NIPS.html">Bayesian spike-triggered covariance</A>\
 Park Il Memming & Pillow JW. Neurips (2011).
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Weber_NC17.html">Capturing the dynamical repertoire of single neurons with generalized linear models.</A>\ 
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Weber_NC17.html">Capturing the dynamical repertoire of single neurons with generalized linear models.</A>\
 Weber & Pillow.  Neural Computation (2017). 
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Latimer_eLife19.html">Inferring synaptic inputs from spikes with a conductance-based neural encoding model</A>\ 
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Latimer_eLife19.html">Inferring synaptic inputs from spikes with a conductance-based neural encoding model</A>\
 Latimer, Rieke, & Pillow.  Elife (2019). 
 
 
