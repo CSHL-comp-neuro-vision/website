@@ -61,8 +61,11 @@ https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99
 
 ## EJ Chichilnisky
 
+### Suggested Readings
+
 ## Jonathan Pillow
 
+### Suggested Readings
 
 
 ## Greg Horwitz
