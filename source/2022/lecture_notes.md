@@ -4,7 +4,7 @@
 
 ### Slides
 
-<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Lecture slides</a>\
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Lecture slides</a>
 
 
 ### Suggested Readings
