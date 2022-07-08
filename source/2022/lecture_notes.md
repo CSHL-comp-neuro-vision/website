@@ -23,6 +23,35 @@ Also see:
 
 ## Eero Simoncelli
 
+My Official and Unofficial Bios (since I failed to introduce myself):
+https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli
+
+### Suggested Readings
+
+• Opposing effects of selectivity and invariance in peripheral vision
+C M Ziemba and E P Simoncelli.  Nature Communications, vol.12(4597), Jul 2021.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Ziemba20
+
+• Selectivity and tolerance for visual texture in macaque V2
+C M Ziemba, J Freeman, J A Movshon and E P Simoncelli.  Proc. Nat'l Academy of Sciences, vol.113(22), pp. E3140-E3149, May 2016.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Ziemba15
+
+• A functional and perceptual signature of the second visual area in primates
+J Freeman, C M Ziemba, D J Heeger, E P Simoncelli and J A Movshon.  Nature Neuroscience, vol.16(7), pp. 974--981, Jul 2013.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Freeman13
+
+• Metamers of the ventral stream
+J Freeman and E P Simoncelli.  Nature Neuroscience, vol.14(9), pp. 1195--1201, Sep 2011.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Girshick10
+
+• Natural image statistics and neural representation
+E P Simoncelli and B Olshausen, 2001.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Simoncelli01
+
+• A parametric texture model based on joint statistics of complex wavelet coefficients
+J Portilla and E P Simoncelli, 2000.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99
+
 ## Felice Dunn
 
 ### Suggested Readings
