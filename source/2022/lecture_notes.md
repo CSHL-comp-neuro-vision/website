@@ -67,6 +67,17 @@ https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99
 
 ### Suggested Readings
 
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Pillow08_nature.html">Pillow JW, Shlens J, Paninski L, Sher A, Litke AM, Chichilnisky EJ, Simoncelli EP (2008) Spatio-temporal correlations and visual signaling in a complete neuronal population. Nature 454: 995-999</A>
+
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_ParkI_NN14.html">Park Il Memming, Meister, MLR, Huk AC, & Pillow JW (2014). Encoding and decoding in parietal cortex during sensorimotor decision-making. Nature Neuroscience 17, 1395-1403</A>
+
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_IlPark11_NIPS.html">Park Il Memming & Pillow JW (2011). Bayesian spike-triggered covariance. Advances in Neural Information Processing Systems (NIPS) 24, eds. Shawe-Taylor, J.; Zemel, R.; Bartlett, P.; Pereira, F. & Weinberger, K., 1692-1700</A>
+
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Weber_NC17.html">Weber AI & Pillow JW (2017). Capturing the dynamical repertoire of single neurons with generalized linear models. Neural Computation 29(12): 3260-3289</A>
+
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Latimer_eLife19.html">Latimer KW, Rieke F, & Pillow JW (2019). Inferring synaptic inputs from spikes with a conductance-based neural encoding model. eLife 8:e47012</A>
+
+
 
 ## Greg Horwitz
 
