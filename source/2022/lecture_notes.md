@@ -67,7 +67,8 @@ https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99
 
 ### Suggested Readings
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Pillow08_nature.html">Pillow JW, Shlens J, Paninski L, Sher A, Litke AM, Chichilnisky EJ, Simoncelli EP (2008) Spatio-temporal correlations and visual signaling in a complete neuronal population. Nature 454: 995-999</A>
+• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Pillow08_nature.html">Spatio-temporal correlations and visual signaling in a complete neuronal population</A>\
+Pillow, Shlens, Paninski, Sher , Litke, Chichilnisky, & Simoncelli. Nature (2008)
 
 • <A HREF="http://pillowlab.princeton.edu/pubs/abs_ParkI_NN14.html">Park Il Memming, Meister, MLR, Huk AC, & Pillow JW (2014). Encoding and decoding in parietal cortex during sensorimotor decision-making. Nature Neuroscience 17, 1395-1403</A>
 
