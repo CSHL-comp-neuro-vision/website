@@ -63,6 +63,10 @@ https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99
 
 ### Suggested Readings
 
+<a href="../_static/pdfs/chichilnisky/Pillow2008.pdf">Pillow (2008)</a>\
+<a href="../_static/pdfs/chichilnisky/Muratore2019c">Muratore (2019)</a>\
+<a href="../_static/pdfs/chichilnisky/Shah2020a">Shah (2020)</a>
+
 ## Jonathan Pillow
 
 ### Suggested Readings
@@ -109,3 +113,20 @@ My lecture period is focused on understanding eye movements in both natural and 
 
 • <a href="../_static/pdfs/cooper/Padmanaban2017.pdf">Padmanaban, Nitish, et al. "Optimizing virtual reality for all users through gaze-contingent and adaptive focus displays." Proceedings of the National Academy of Sciences 114.9 (2017): 2183-2188.</a>
 
+## Marlene Cohen
+
+### Suggested Readings
+
+**This one first:**
+<a href="../_static/pdfs/cohen/rust_cohen_2022.pdf">Rust & Cohen (2022)</a>
+
+**See also**
+<a href="../_static/pdfs/cohen/CohenKohn2011.pdf">Cohen & Kohn (2011)</a>
+
+I will also touch on some newer methods for analyzing neural population data. People wanting to learn more might find these papers useful:
+
+Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R., and Bassett, D.S. (2019). The importance of the whole: topological data analysis for the network neuroscientist. Network Neuroscience 3, 656{673.
+
+Rouse TC, Ni AM, Huang C, Cohen MR (2021). Topological insights into the neural basis of flexible behavior. bioRxiv doi: https://doi.org/10.1101/2021.09.24.461717 Wu-Yan, E., Betzel, R.F., Tang, E., Gu, S., Pasqualetti, F., and Bassett, D.S. (2020).
+
+Benchmarking measures of network controllability on canonical graph models. Journal of Nonlinear Science 30, 2195{2233.
