@@ -76,3 +76,10 @@ Possible publishable extension: Do these calculations in a real data set (yours?
 (note from Dan: not really a project idea, but a tool you could use in a project)
 My lab has produced a python library of tools to explore vision models by  synthesizing novel informative images.
 This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s here: https://github.com/LabForComputationalVision/plenoptic/. Kate Bonnen is an expert user and someone to ask questions about it.
+
+## Kate Bonnen
+
+1. Continuous matching experiment.  Employing a tracking method to continuously match a visual feature (e.g., orientation).
+2. Continuous subjective measurements.  Measuring subjective signals (e.g., target detection in noise — what is your confidence that you can see the target?).
+3. Using a sampling approach to fit a Kalman filter with varying parameters (i.e. what if the detectability of the stimulus changes over time).
+4. Implement a LQG with subjective beliefs (as in this paper) and then try to design a set of conditions that will maximally expose subjective beliefs about the dynamics of the trajectory.

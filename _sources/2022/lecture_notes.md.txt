@@ -103,6 +103,20 @@ Latimer, Rieke, & Pillow.  Elife (2019).
 <a href="../_static/pdfs/horwitz/HorwitzHass.pdf">Horwitz (2012)</a>
 <a href="../_static/pdfs/horwitz/Weller.pdf">Weller (2017)</a>
 
+## Kate Bonnen
+
+### Suggested Readings
+
+1. Bonnen, K., Burge, J., Yates, J., Pillow, J., & Cormack, L. K. (2015). Continuous psychophysics: Target-tracking to measure visual sensitivity. Journal of vision, 15(3), 14-14.
+https://jov.arvojournals.org/article.aspx?articleid=2301260
+
+2. Noel, J. P., Caziot, B., Bruni, S., Fitzgerald, N. E., Avila, E., & Angelaki, D. E. (2021). Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making. Progress in Neurobiology, 201, 101996.
+
+3. Matthis, J. S., Yates, J. L., & Hayhoe, M. M. (2018). Gaze and the control of foot placement when walking in natural terrain. Current Biology, 28(8), 1224-1233.
+ https://www-cell-com.proxyiub.uits.iu.edu/current-biology/pdfExtended/S0960-9822(18)30309-9
+
+4. Bonnen, K., Matthis, J. S., Gibaldi, A., Banks, M. S., Levi, D. M., & Hayhoe, M. (2021). Binocular vision and the control of foot placement during walking in natural terrain. Scientific reports, 11(1), 1-12.
+
 ## Lindsey Glickfeld
 
 ### Suggested Readings
@@ -137,3 +151,4 @@ Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R., and Bassett, D.S. (2019). Th
 Rouse TC, Ni AM, Huang C, Cohen MR (2021). Topological insights into the neural basis of flexible behavior. bioRxiv doi: https://doi.org/10.1101/2021.09.24.461717 Wu-Yan, E., Betzel, R.F., Tang, E., Gu, S., Pasqualetti, F., and Bassett, D.S. (2020).
 
 Benchmarking measures of network controllability on canonical graph models. Journal of Nonlinear Science 30, 2195{2233.
+
