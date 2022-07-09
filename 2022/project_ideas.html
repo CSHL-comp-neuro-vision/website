@@ -47,6 +47,8 @@
 <li class="toctree-l2"><a class="reference internal" href="#from-jonathan-pillow">From Jonathan Pillow</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#lindsey-glickfeld">Lindsey Glickfeld</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#emily-cooper">Emily Cooper</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#ej-chichilnisky">EJ Chichilnisky</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#marlene-cohen">Marlene Cohen</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="course_tshirt_submissions.html">Course T-Shirt</a></li>
@@ -135,6 +137,21 @@ Divisive normalization is one of the putative “canonical computations” carri
 Using the DOVES dataset of eye movements during free-viewing of calibrated natural images (see Google Doc; https://live.ece.utexas.edu/research/doves/), select pairs of fixation points in temporal sequence and create small image patches centered on those fixation points. Characterize the visual similarity (or dissimilarity) of these pairs of sequentially fixated image patches using any approaches you’d like (e.g., mutual information, difference in slope of Fourier power spectrum, difference in orientation spectrum, difference in RMS contrast, SSIM). Next, compare the distribution of these measures to a distribution derived from randomly selected pairs of image patches. Are sequentially fixated image patches more similar or different from random pairs of image patches based on any of these measures? Be sure to control for the distance between pairs (image patches that are closer to each other are known to be more similar). If you do find a pattern, does it extend to fixated points with larger separations in time? You could try this analysis on one of the other eye movements datasets, but keep in mind that the pixel intensity values in Hollywood movies are not necessarily linear with respect to light in the world.</p>
 <p>Project suggestion 2: How far away is your next fixation?
 When engaged in natural tasks, people tend to fixate points that are relatively close to them, as compared to a random sample of points from their surrounding environment. Using the UT Austin Natural Image Databases (see Google Doc; https://natural-scenes.cps.utexas.edu/db.shtml – just the subset with co-registered images and depth maps, scroll down to “Stereo Image and Range Data Collection”), investigate potential low level fixation strategies that might recapitulate this behavior. First, simulate a set of random fixation points and plot the distribution of associated scene distances from the depth maps – this should generally match the overall distribution of distances found in the scenes. Next, try biasing your fixation points based on low level properties of the co-registered images run the scene images. For example, you could run the images through an edge detection algorithm and select a random sample of points that fall on luminance edges. You could calculate the local RMS contrast of points and weight your fixation sampling strategy towards higher contrast image regions. You could even assert that people only fixate points that are red. Do any of these strategies result in the near-distance bias we observe in natural fixations?</p>
+</section>
+<section id="ej-chichilnisky">
+<h2>EJ Chichilnisky<a class="headerlink" href="#ej-chichilnisky" title="Permalink to this heading"></a></h2>
+<p>download Pillow data set, fit GLM. test if we can do better with some kind of subunit model fit (Shah 2020 paper)?</p>
+</section>
+<section id="marlene-cohen">
+<h2>Marlene Cohen<a class="headerlink" href="#marlene-cohen" title="Permalink to this heading"></a></h2>
+<p>Generate a fake multineuron data set. This should include spike count, BOLD, or calcium imaging responses of n neurons (or voxels) on m trials. You could use models from any of several tutorials to generate these responses. (I know that ChoiceProbabilityTutorial will do this for a population of MT neurons.) From this fake data set, calculate:</p>
+<ol class="arabic simple">
+<li><p>the average correlation between each pair of neurons (this could be noise or signal correlation, depending on the data set you generated)</p></li>
+<li><p>the dimensionality of the shared variability (e.g. by calculating the proportion variance explained by the first k principal components for k=1:n)</p></li>
+<li><p>for the overachievers among you, calculate some fancy measurements too, such as communication subspace dimensionality if you modeled multiple brain areas (good code here: https://github.com/joao-semedo/communication-subspace) or average or modal controllability (good code at #3 here: https://complexsystemsupenn.com/codedata ; start with the correlation matrix with the diagonal set to 0 instead of 1). If you would like to experiment with topological data analysis, I can provide code for that too.</p></li>
+</ol>
+<p>Next, make some change to your model that will affect the shared variability (maybe add in a common noise source, or change some model parameters) and repeat the calculations in #1-3. Can you gain some insight into how those numbers are related?</p>
+<p>Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?</p>
 </section>
 </section>
 

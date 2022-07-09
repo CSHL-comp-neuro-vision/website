@@ -52,3 +52,21 @@ Using the DOVES dataset of eye movements during free-viewing of calibrated natur
 
 Project suggestion 2: How far away is your next fixation?
 When engaged in natural tasks, people tend to fixate points that are relatively close to them, as compared to a random sample of points from their surrounding environment. Using the UT Austin Natural Image Databases (see Google Doc; https://natural-scenes.cps.utexas.edu/db.shtml – just the subset with co-registered images and depth maps, scroll down to “Stereo Image and Range Data Collection”), investigate potential low level fixation strategies that might recapitulate this behavior. First, simulate a set of random fixation points and plot the distribution of associated scene distances from the depth maps – this should generally match the overall distribution of distances found in the scenes. Next, try biasing your fixation points based on low level properties of the co-registered images run the scene images. For example, you could run the images through an edge detection algorithm and select a random sample of points that fall on luminance edges. You could calculate the local RMS contrast of points and weight your fixation sampling strategy towards higher contrast image regions. You could even assert that people only fixate points that are red. Do any of these strategies result in the near-distance bias we observe in natural fixations?  
+
+## EJ Chichilnisky
+
+download Pillow data set, fit GLM. test if we can do better with some kind of subunit model fit (Shah 2020 paper)?
+
+## Marlene Cohen
+
+Generate a fake multineuron data set. This should include spike count, BOLD, or calcium imaging responses of n neurons (or voxels) on m trials. You could use models from any of several tutorials to generate these responses. (I know that ChoiceProbabilityTutorial will do this for a population of MT neurons.) From this fake data set, calculate:
+
+1) the average correlation between each pair of neurons (this could be noise or signal correlation, depending on the data set you generated)
+
+2) the dimensionality of the shared variability (e.g. by calculating the proportion variance explained by the first k principal components for k=1:n)
+
+3) for the overachievers among you, calculate some fancy measurements too, such as communication subspace dimensionality if you modeled multiple brain areas (good code here: https://github.com/joao-semedo/communication-subspace) or average or modal controllability (good code at #3 here: https://complexsystemsupenn.com/codedata ; start with the correlation matrix with the diagonal set to 0 instead of 1). If you would like to experiment with topological data analysis, I can provide code for that too.
+
+Next, make some change to your model that will affect the shared variability (maybe add in a common noise source, or change some model parameters) and repeat the calculations in #1-3. Can you gain some insight into how those numbers are related?
+
+Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?
