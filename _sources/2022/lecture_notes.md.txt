@@ -152,3 +152,19 @@ Rouse TC, Ni AM, Huang C, Cohen MR (2021). Topological insights into the neural 
 
 Benchmarking measures of network controllability on canonical graph models. Journal of Nonlinear Science 30, 2195{2233.
 
+## Anitha Pasupathy
+
+### Suggested Readings
+
+REVIEWS/OPINIONS
+______________________
+A. Pasupathy, D.V. Popovkina, T. Kim, 2020 Visual functions of primate area V4. Annual Review of Vision Science 6: 363-385.
+A. Pasupathy, T. Kim, D.V. Popovkina. 2019 Object shape and surface properties are jointly encoded in mid-level ventral visual cortex. Current Opinion in Neurobiology 58: 199-208.
+A. Pasupathy, Y. El-Shamayleh, D.V. Popovkina 2018 Visual shape and object perception. ORE.
+
+ORIGINAL ARTICLES
+__________________
+A. Pasupathy, C. E. Connor., 2001. Shape representation in area V4: Position-specific tuning for boundary conformation. J. Neurophysiol. 86: 2505-2519.
+A. Pasupathy, C. E. Connor., 2002. Population coding of shape in area V4. Nat. Neurosci. 5: 1332-1338, News and Views, 1252-1254.
+D.A. Pospisil, A. Pasupathy, W. Bair. 2018 'Artiphysiology' reveals V4-like shape tuning in a deep network trained for image classification Elife e38242.
+T. Kim, W. Bair, A. Pasupathy. 2019 Neural coding for shape and texture in macaque area V4. J. Neurosci.3073-18.2019.

@@ -226,7 +226,7 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-jn54" colspan="3"><span style="font-weight:bold">Thursday, July 15, 2022</span></th>
+    <th class="tg-jn54" colspan="3"><span style="font-weight:bold">Friday, July 15, 2022</span></th>
   </tr>
 </thead>
 <tbody>
@@ -251,6 +251,11 @@
     <td class="tg-left">9:00am</td>
     <td class="tg-73oq">Eye Movements</td>
     <td class="tg-lmxn">Emily Cooper</span></td>
+  </tr>
+  <tr>
+    <td class="tg-left">12:00pm</td>
+    <td class="tg-73oq">Course photo in front of Banbury Center</td>
+    <td class="tg-lmxn"></td>
   </tr>
   <tr>
     <td class="tg-left">1:00pm</td>
