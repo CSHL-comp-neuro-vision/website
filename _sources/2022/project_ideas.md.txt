@@ -70,3 +70,9 @@ Generate a fake multineuron data set. This should include spike count, BOLD, or 
 Next, make some change to your model that will affect the shared variability (maybe add in a common noise source, or change some model parameters) and repeat the calculations in #1-3. Can you gain some insight into how those numbers are related?
 
 Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?
+
+## Eero Simoncelli
+
+(note from Dan: not really a project idea, but a tool you could use in a project)
+My lab has produced a python library of tools to explore vision models by  synthesizing novel informative images.
+This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s here: https://github.com/LabForComputationalVision/plenoptic/. Kate Bonnen is an expert user and someone to ask questions about it.
