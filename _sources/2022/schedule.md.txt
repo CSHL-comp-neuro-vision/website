@@ -17,7 +17,7 @@
 ## Course Schedule
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0; width:60vw;}
+.tg  {border-collapse:collapse;border-spacing:0; width:53vw;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -25,7 +25,7 @@
 .tg .tg-jn54{background-color:#3b7dc0;border-color:#000000;color:#ffffff;text-align:center;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top;width:30vw;}
 .tg .tg-lmxn{border-color:#000000;font-style:italic;text-align:left;vertical-align:top;width:15vw;}
-.tg .tg-left{border-color:#000000;font-style:italic;text-align:left;vertical-align:top;width:15vw;}
+.tg .tg-left{border-color:#000000;font-style:italic;text-align:left;vertical-align:top;width:8vw;}
 </style>
 <table class="tg">
 <thead>
@@ -98,6 +98,11 @@
     <td class="tg-left">1:00pm</td>
     <td class="tg-73oq">Statistical Encoding Models for Early Vision</td>
     <td class="tg-lmxn">Jonathan Pillow</span></td>
+  </tr>
+  <tr>
+    <td class="tg-left">4:00pm</td>
+    <td class="tg-73oq">Picnic dinner at Airslie Lawn (main campus)</td>
+    <td class="tg-lmxn"></td>
   </tr>
   <tr>
     <td class="tg-left">8:30pm</td>
