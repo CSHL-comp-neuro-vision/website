@@ -1,23 +1,7 @@
 # Schedule
 
-## Daily Schedule
-
-**8:00-9:00am** Breakfast at Robertson House \
-**9:00-10:15am** Morning lecture, part I \
-**10:15-10:45am** Coffee break \
-**10:45-12:00pm** Morning lecture, part II \
-**12:15-1:00pm** Lunch at Meier House \
-**1:00-2:15pm** Afternoon lecture, part I \
-**2:15-2:45pm** Coffee break \
-**2:45-4:00pm** Afternoon lecture, part II \
-**4:00-6:00pm** Free time \
-**6:00-7:00pm** Dinner at Roberston House \
-**7:00-8:30pm** Optional evening lectures
-
-## Course Schedule
-
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0; width:60vw;}
+.tg  {border-collapse:collapse;border-spacing:0; width:53vw;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -25,7 +9,7 @@
 .tg .tg-jn54{background-color:#3b7dc0;border-color:#000000;color:#ffffff;text-align:center;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top;width:30vw;}
 .tg .tg-lmxn{border-color:#000000;font-style:italic;text-align:left;vertical-align:top;width:15vw;}
-.tg .tg-left{border-color:#000000;font-style:italic;text-align:left;vertical-align:top;width:15vw;}
+.tg .tg-left{border-color:#000000;font-style:italic;text-align:left;vertical-align:top;width:8vw;}
 </style>
 <table class="tg">
 <thead>
@@ -98,6 +82,11 @@
     <td class="tg-left">1:00pm</td>
     <td class="tg-73oq">Statistical Encoding Models for Early Vision</td>
     <td class="tg-lmxn">Jonathan Pillow</span></td>
+  </tr>
+  <tr>
+    <td class="tg-left">4:00pm</td>
+    <td class="tg-73oq">Picnic dinner at Airslie Lawn (main campus)</td>
+    <td class="tg-lmxn"></td>
   </tr>
   <tr>
     <td class="tg-left">8:30pm</td>
