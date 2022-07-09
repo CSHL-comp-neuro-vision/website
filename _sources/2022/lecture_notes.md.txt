@@ -52,6 +52,13 @@ https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Simoncelli01
 J Portilla and E P Simoncelli, 2000.
 https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99
 
+### Code repository
+
+Eero's lab has produced a python library of tools to explore vision models by synthesizing novel informative images.
+This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016).
+
+https://github.com/LabForComputationalVision/plenoptic/
+
 ## Felice Dunn
 
 ### Suggested Readings
