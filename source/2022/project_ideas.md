@@ -83,3 +83,11 @@ This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2
 2. Continuous subjective measurements.  Measuring subjective signals (e.g., target detection in noise — what is your confidence that you can see the target?).
 3. Using a sampling approach to fit a Kalman filter with varying parameters (i.e. what if the detectability of the stimulus changes over time).
 4. Implement a LQG with subjective beliefs (as in this paper) and then try to design a set of conditions that will maximally expose subjective beliefs about the dynamics of the trajectory.
+
+## Anitha Pasupathy
+
+In Kim et al., 2019, we demonstrated that shape selectivity in V4 is independent of texture selectivity. In other words, selectivity for 2D shape is similar regardless of the surface texture that's painted on the shape. This argues against the possibility that shape selectivity is a by-product of preference for higher order texture statistics in V4 (Okazawa et al., 2013).
+
+Using the artiphysiology approach of Pospisil et al., (2018) one could ask whether individual units in AlexNet (or another DNN) exhibit the same shape preference across different surface textures painted on the 2D shape.  Comparing the circuitry of units that show texture-invariant shape selectivity and those that do not, one could get some insights into how texture-invariant shape selectivity might be built.
+
+(Note from Dan: see https://models.roboflow.com/ for some pre-trained PyTorch models to run)
