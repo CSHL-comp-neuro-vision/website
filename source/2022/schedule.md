@@ -25,12 +25,12 @@
   </tr>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">What Vision (and this course) is All About</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#tony-movshon">What Vision (and this course) is All About</a></td>
     <td class="tg-lmxn">Tony Movshon</span></td>
   </tr>
   <tr>
     <td class="tg-left">1:00pm</td>
-    <td class="tg-73oq">Natural Image Statistics</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#eero-simoncelli">Natural Image Statistics</a></td>
     <td class="tg-lmxn">Eero Simoncelli</td>
   </tr>
 </tbody>
@@ -47,12 +47,12 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Retina I</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#felice-dunn">Retina I</a></td>
     <td class="tg-lmxn">Felice Dunn</span></td>
   </tr>
   <tr>
     <td class="tg-left">1:00pm</td>
-    <td class="tg-73oq">Retina II</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#ej-chichilnisky">Retina II</a></td>
     <td class="tg-lmxn">EJ Chichilnisky</td>
   </tr>
   <tr>
@@ -75,12 +75,12 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Color and Related Concepts</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#greg-horwitz">Color and Related Concepts</a></td>
     <td class="tg-lmxn">Greg Horwitz</td>
   </tr>
   <tr>
     <td class="tg-left">1:00pm</td>
-    <td class="tg-73oq">Statistical Encoding Models for Early Vision</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#jonathan-pillow">Statistical Encoding Models for Early Vision</a></td>
     <td class="tg-lmxn">Jonathan Pillow</span></td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@
   </tr>
   <tr>
     <td class="tg-left">1:00pm</td>
-    <td class="tg-73oq">Natural Vision and Continuous Psychophysics</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#kate-bonnen">Natural Vision and Continuous Psychophysics</a></td>
     <td class="tg-lmxn">Kate Bonnen</td>
   </tr>
   <tr>
