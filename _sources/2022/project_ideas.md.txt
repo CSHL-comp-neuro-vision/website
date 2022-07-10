@@ -140,3 +140,6 @@ The modern methods that PyTorch makes accessible should dramatically improve the
 Notes:
 Kate Bonnen has offered to provide PyTorch-specific technical support in case somebody needs it. And I can provide project-specific know-how to anyone who needs help w. target-tracking related projects (see Kate’s email from last night). 
 
+## Jennifer Groh
+
+"How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own! "
