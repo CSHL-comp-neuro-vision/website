@@ -73,6 +73,14 @@ https://github.com/LabForComputationalVision/plenoptic/
 <a href="../_static/pdfs/chichilnisky/Muratore2019c">Muratore (2019)</a>\
 <a href="../_static/pdfs/chichilnisky/Shah2020a">Shah (2020)</a>
 
+## Greg Horwitz
+
+### Suggested Readings
+
+<a href="../_static/pdfs/horwitz/annurev-vision-121219-081801.pdf">Horwitz (2020)</a>\
+<a href="../_static/pdfs/horwitz/HorwitzHass.pdf">Horwitz (2012)</a>
+<a href="../_static/pdfs/horwitz/Weller.pdf">Weller (2017)</a>
+
 ## Jonathan Pillow
 
 ### Slides
@@ -97,14 +105,6 @@ Weber & Pillow.  Neural Computation (2017).
 Latimer, Rieke, & Pillow.  Elife (2019). 
 
 
-
-## Greg Horwitz
-
-### Suggested Readings
-
-<a href="../_static/pdfs/horwitz/annurev-vision-121219-081801.pdf">Horwitz (2020)</a>\
-<a href="../_static/pdfs/horwitz/HorwitzHass.pdf">Horwitz (2012)</a>
-<a href="../_static/pdfs/horwitz/Weller.pdf">Weller (2017)</a>
 
 ## Kate Bonnen
 
