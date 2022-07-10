@@ -171,3 +171,19 @@ A. Pasupathy, C. E. Connor., 2001. Shape representation in area V4: Position-spe
 A. Pasupathy, C. E. Connor., 2002. Population coding of shape in area V4. Nat. Neurosci. 5: 1332-1338, News and Views, 1252-1254.
 D.A. Pospisil, A. Pasupathy, W. Bair. 2018 'Artiphysiology' reveals V4-like shape tuning in a deep network trained for image classification Elife e38242.
 T. Kim, W. Bair, A. Pasupathy. 2019 Neural coding for shape and texture in macaque area V4. J. Neurosci.3073-18.2019.
+
+## Johannes Burge
+
+### Suggested Readings
+
+<a href="../_static/pdfs/burge/BurgeRodriguezDorronsoro_CB_2019.pdf">Burge J, Rodriguez-Lopez V, Dorronsoro C (2019). “Monovision and the misperception of motion”. Current Biology, 29(15), 2586-2592.</a>
+
+<a href="../_static/pdfs/burge/Burge_ARVS_2020.pdf">Burge J (2020). “Image-computable ideal observers for tasks with natural images”. Annual Review of Vision Science. 6: 491-517.</a>
+
+<a href="../_static/pdfs/burge/JainiBurge_JOV_2017.pdf">Jaini P, Burge J (2017). “Linking normative models of natural tasks and descriptive models of neural response”. Journal of Vision. 17(12): 16, 1-26.</a>
+
+<a href="../_static/pdfs/burge/BurgeJaini_PLoSCB_2017_Corrected.pdf">Burge J, Jaini P (2017). “Accuracy maximization analysis for sensory-perceptual tasks: Computational improvements, filter robustness, and coding advantages for scaled additive noise”. PLoS Computational Biology. 13(2):e1005281.</a>
+
+Here is a git repository for code related to the last paper. Interested students should focus on AMA-Gauss.
+
+https://github.com/burgelab/AMA
