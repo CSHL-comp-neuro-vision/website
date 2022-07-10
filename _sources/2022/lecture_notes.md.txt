@@ -6,7 +6,6 @@
 
 <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Lecture slides</a>
 
-
 ### Suggested Readings
 
 <a href="../_static/pdfs/movshon/marr-1982-chapter1.pdf">Marr (1982)</a>\
@@ -75,6 +74,10 @@ https://github.com/LabForComputationalVision/plenoptic/
 <a href="../_static/pdfs/chichilnisky/Shah2020a">Shah (2020)</a>
 
 ## Jonathan Pillow
+
+### Slides
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/pillow/pillow_GLMs_CSHL2022slides.pdf">Lecture slides</a>
 
 ### Suggested Readings
 
