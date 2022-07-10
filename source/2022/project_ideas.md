@@ -92,6 +92,28 @@ This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2
 3. Using a sampling approach to fit a Kalman filter with varying parameters (i.e. what if the detectability of the stimulus changes over time).
 4. Implement a LQG with subjective beliefs (as in this paper) and then try to design a set of conditions that will maximally expose subjective beliefs about the dynamics of the trajectory.
 
+### Suggestions related to Eero's plenoptic code repository
+
+Billy
+I've been wanting to extend metamers to generate several metamers at once that are as maximally different (in either pixel space, model space, or by some other metric) from each other as possible
+You could also look through issues, see if there's anything there that they could work on
+[10:57 AM] We also need feedback on the tutorials, so you could get that from them
+Lyndon  [10:57 AM]
+:upside_down_face: modern image/video compression algorithms need a denoiser to compress a clean signal followed by (for artistic reasons) texture synthesis, to simulate things like film grain or fine detail that got removed inadvertently during compression. But current models of “texture” synthesis to add details onto image residuals are hand designed and bad. This would make use of metamers or PS
+Billy  [10:57 AM]
+And where the docs are missing / incomplete /unclear
+[11:00 AM] And if you can take notes on what they found difficult, that would be really helpful. Any installation problems, etc
+Nikhil  [11:03 AM]
+One thing that could be interesting is to use MAD competition to generate images that can differentiate between deepnet layers and the portilla model. People have done a lot just synthesizing from both models but could be interesting to see if there are actual fundamental differences in the representations that are captured by each.
+In the same vain, I'd like to see how well the portilla model does at discriminative tasks like classification. Since a lot of work is saying deepnets trained for classification are texture biased it would be interesting to just see how well a texture model does at object recognition for example on imagenet. Maybe it can provide a better baseline to then evaluate performance of recognition models that capture more than just texture statistics.
+Pierre-Étienne  [12:33 PM]
+It would be interesting to use eigendistortions to understand the computational role of layers deep inside a network (/biological system). Instead of end2end maximally minimally visible distortions, one could ask for changes in an image that result in changes of the representation in layer i that is most / least visible to layer j. Same question could be asked of unit i and unit j. Same question can be asked for the curvature of sequences (geodesics), which would help understand what piece in a net do straightening and how.
+An idea to help understand the shape of the natural image manifold is to use triplets of related images and a model to measure the angles between the geodesics that link them, the shapes of these triangles would reveal the local curvature of the space as seen by the model.
+A texture aware (full reference) perceptual metric would compare isolated features accurately (allowing for shifts and changes in luminance/contrast) while comparing textures loosely (using local statistics only)- and gradually interpolate between these two extremes. A step in that direction is to build a normalized steerable pyramid distance (an evolution of the normalized laplacian pyramid) with a texture/feature gate given by the ratio of local representation std to local representation mean. One would then show that the metric is tolerant to resamplings of texture patterns and sensitive to the exact form of isolated features, just like our visual experience (ie do psychophysics).
+Xinyuan Zhao  [10:22 PM]
+There is a perceptual distance metric called normalized steerable pyramid distance (NSPD) in the code. It is analogous to the published work of normalized Laplacian pyramid distance (NLPD), only replacing the Laplacian pyramid with the steerable pyramid. I have spent some time working on it, but did not get it to perform very well (now about the same as NLPD). Maybe it can be improved by summer school students.
+
+
 ## Anitha Pasupathy
 
 In Kim et al., 2019, we demonstrated that shape selectivity in V4 is independent of texture selectivity. In other words, selectivity for 2D shape is similar regardless of the surface texture that's painted on the shape. This argues against the possibility that shape selectivity is a by-product of preference for higher order texture statistics in V4 (Okazawa et al., 2013).
@@ -99,3 +121,22 @@ In Kim et al., 2019, we demonstrated that shape selectivity in V4 is independent
 Using the artiphysiology approach of Pospisil et al., (2018) one could ask whether individual units in AlexNet (or another DNN) exhibit the same shape preference across different surface textures painted on the 2D shape.  Comparing the circuitry of units that show texture-invariant shape selectivity and those that do not, one could get some insights into how texture-invariant shape selectivity might be built.
 
 (Note from Dan: see https://models.roboflow.com/ for some pre-trained PyTorch models to run)
+
+## Johannes Burge
+
+1) Code up AMA-Gauss (Jaini & Burge, 2017) in PyTorch. 
+Step 1: Write code that takes i) a labeled training set of stimuli, ii) an arbitrary set of filters (receptive fields), iii) defines a filter response model, and iv) uses the responses to each stimulus to compute a posterior probability distribution over the latent variable. This is the key computation.
+Step 2: Write code that computes a cost from the posterior probability distribution (e.g. L0 norm, L2 norm, KL divergence, etc.)… see the attached suppelmentary texts S4-S6 from Burge & Jaini (2017). PLoS CB.
+Step 3: Write code that optimizes the filters to minimize the cost function. 
+
+2) Code up the full version of AMA  in PyTorch (see Burge & Jaini, 2017)… much harder... 
+
+Accuracy Maximization Analysis (AMA) is a recently developed Bayesian ideal observer method for task-specific dimensionality reduction. It allows one to automatically determine the stimulus features that are most useful for performing a sensory-perceptual task of scientific interest. This tool is particularly useful for determining how to construct image-computable ideal observer models (i.e. images in, optimal estimates out) for tasks with natural signals (see Burge, 2020 for review). 
+
+AMA has currently been implemented only in matlab (see link to GitHub page). Matlab, generally speaking, does not take advantage of many modern advances in model-parameter optimization. PyTorch does.
+
+The modern methods that PyTorch makes accessible should dramatically improve the practical utility of AMA by helping it avoid local minima and more quickly finding global minima, especially as problem sizes increase in scope. 
+
+Notes:
+Kate Bonnen has offered to provide PyTorch-specific technical support in case somebody needs it. And I can provide project-specific know-how to anyone who needs help w. target-tracking related projects (see Kate’s email from last night). 
+
