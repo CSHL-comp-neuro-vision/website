@@ -187,3 +187,11 @@ T. Kim, W. Bair, A. Pasupathy. 2019 Neural coding for shape and texture in macaq
 Here is a git repository for code related to the last paper. Interested students should focus on AMA-Gauss.
 
 https://github.com/burgelab/AMA
+
+## Jennifer Groh
+
+### Suggested Readings
+
+<a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso 2018</a>
+<a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters & Murphy 2018</a>
+<a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun 2019</a>
