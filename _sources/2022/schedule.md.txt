@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td class="tg-left">7:30pm</td>
-    <td class="tg-left">Evening discussion about diversity in science</td>
+    <td class="tg-73oq">Evening discussion about diversity in science</td>
     <td class="tg-lmxn">Lea Duncker & Dan Birman</td>
   </tr>
 </tbody>

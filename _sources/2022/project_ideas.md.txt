@@ -143,3 +143,13 @@ Kate Bonnen has offered to provide PyTorch-specific technical support in case so
 ## Jennifer Groh
 
 "How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own! "
+
+## Jenny Read
+
+Analysis of eye tracking data of faces with cleft lip
+
+A group of cleft lip and palate surgeons are interested in developing better metrics of repair quality. As an initial project, we have collected eye tracking data of \~70 participants viewing 24 photos, 3 photos of 8 patients showing their face pre-op, immediately post-op and some years post-op. The participants include lay people and cleft professionals. The photos have been marked up into 20 anatomical regions of interest (ROIs). We are trying to figure out good metrics to describe patterns of eye movements, e.g. % time fixating a given ROI, or the matrix of transition probabilities between ROIs. If a student is interested in working with this dataset to try out these or their own ideas, we can supply it.
+
+Modelling sensitivity to stereoscopic depth information in space and time
+
+Kane et al (attached) examined the minimum (ie threshold) and maximum perceivable disparity for depth corrugations of different spatial and temporal frequencies, and concluded that they were well described by windowed cross-correlation within separable spatial and temporal windows (Rogers & Bradshaw, attached). In their stimuli, the depth corrugations were all horizontally oriented. Thus, they could not examine the well-known stereo anisotropy, whereby at low spatial frequencies disparity thresholds are lower (ie stereoacuity is better) for horizontally-oriented depth corrugations compared to vertical. My collaborator Prof Ignacio Serrano-Pedraza at Universidad Complutense de Madrid has collected disparity thresholds for both horizontal and vertical disparity gratings as a function of spatial and temporal frequency. In this project, you will reproduce the methods of Kane et al but with an anisotropic spatial window, i.e. allowing the window to extend further horizontally than vertically. You will fit this model to Prof Serrano-Pedraza’s dataset in order to assess whether this generalisation can account simultaneously for thresholds to gratings of both orientations. 
