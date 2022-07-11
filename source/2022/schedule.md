@@ -143,7 +143,7 @@
     <td class="tg-lmxn"></td>
   </tr>
   <tr>
-    <td class="tg-left">8:30pm</td>
+    <td class="tg-left">8:00pm</td>
     <td class="tg-73oq">Motion Perception / Visual Area MT</td>
     <td class="tg-lmxn">Tony Movshon</td>
   </tr>
