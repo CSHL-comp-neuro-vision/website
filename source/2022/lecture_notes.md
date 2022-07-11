@@ -193,7 +193,9 @@ https://github.com/burgelab/AMA
 ### Suggested Readings
 
 <a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso 2018</a>
+
 <a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters & Murphy 2018</a>
+
 <a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun 2019</a>
 
 ## Adrienne Fairhall
@@ -203,6 +205,7 @@ https://github.com/burgelab/AMA
 ### Suggested Readings
 
 <a href="https://faculty.washington.edu/gboynton/publications/boynton-neuroimage12.pdf">Boynton, GM., Engel, S., Heeger, D (2012) Linear systems analysis of the fMRI signal</a>
+
 <a href="https://www.biorxiv.org/content/10.1101/2021.04.06.438664v2">Sheehan, T.C. and Serences, J.T. (in press) Attractive serial dependence overcomes repulsive neuronal adaptation. PLoS Biology </a>
 
 Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
