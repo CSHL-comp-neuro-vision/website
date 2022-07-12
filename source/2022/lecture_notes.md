@@ -159,16 +159,16 @@ Benchmarking measures of network controllability on canonical graph models. Jour
 
 ### Suggested Readings
 
-REVIEWS/OPINIONS
-______________________
+#### REVIEWS/OPINIONS
+
 A. Pasupathy, D.V. Popovkina, T. Kim, 2020 Visual functions of primate area V4. Annual Review of Vision Science 6: 363-385.
 
 A. Pasupathy, T. Kim, D.V. Popovkina. 2019 Object shape and surface properties are jointly encoded in mid-level ventral visual cortex. Current Opinion in Neurobiology 58: 199-208.
 
 A. Pasupathy, Y. El-Shamayleh, D.V. Popovkina 2018 Visual shape and object perception. ORE.
 
-ORIGINAL ARTICLES
-__________________
+#### ORIGINAL ARTICLES
+
 A. Pasupathy, C. E. Connor., 2001. Shape representation in area V4: Position-specific tuning for boundary conformation. J. Neurophysiol. 86: 2505-2519.
 
 A. Pasupathy, C. E. Connor., 2002. Population coding of shape in area V4. Nat. Neurosci. 5: 1332-1338, News and Views, 1252-1254.
