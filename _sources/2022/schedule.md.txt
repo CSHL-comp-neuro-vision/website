@@ -134,7 +134,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#lindesey-glickfeld">Rodent Models of Vision & Attention</a></td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#lindsey-glickfeld">Rodent Models of Vision & Attention</a></td>
     <td class="tg-lmxn">Lindsey Glickfeld</span></td>
   </tr>
   <tr>
@@ -161,8 +161,8 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Multisensory Coding</td>
-    <td class="tg-lmxn">Jenny Groh</span></td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#jennifer-groh">Multisensory Coding</a></td>
+    <td class="tg-lmxn">Jennifer Groh</span></td>
   </tr>
   <tr>
     <td class="tg-left">3:00pm</td>
@@ -183,7 +183,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Functional Imaging, Attention, Working Memory</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#john-serences">Functional Imaging, Attention, Working Memory</a></td>
     <td class="tg-lmxn">John Serences</span></td>
   </tr>
   <tr>
@@ -193,8 +193,8 @@
   </tr>
   <tr>
     <td class="tg-left">5:30pm</td>
-    <td class="tg-73oq">Banquet Dinner (Mayr Dining in Blackford Hall)</td>
-    <td class="tg-lmxn">CSHL Main Campus</td>
+    <td class="tg-73oq">Pizza Dinner at Robertson</td>
+    <td class="tg-lmxn"></td>
   </tr>
 </tbody>
 </table>
