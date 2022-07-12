@@ -245,15 +245,6 @@ https://github.com/burgelab/AMA
 
 Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
 
-## John Serences
-
-### Suggested Readings
-
-<a href="https://faculty.washington.edu/gboynton/publications/boynton-neuroimage12.pdf">Boynton, GM., Engel, S., Heeger, D (2012) Linear systems analysis of the fMRI signal</a>\
-<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.biorxiv.org%2Fcontent%2F10.1101%2F2021.04.06.438664v2&sa=D&sntz=1&usg=AOvVaw1fYGbF7V7vdc83ltqTXwG3">Sheehan, T.C. and Serences, J.T. (in press) Attractive serial dependence overcomes repulsive neuronal adaptation. PLoS Biology</a>
-
-Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
-
 ## Josh Gold
 
 ### Suggested Readings

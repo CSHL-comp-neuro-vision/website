@@ -107,7 +107,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Population Coding, Manifolds & Dynamics</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#tatiana-engel">Population Coding, Manifolds & Dynamics</a></td>
     <td class="tg-lmxn">Tatiana Engel</span></td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@
   </tr>
   <tr>
     <td class="tg-left">8:00pm</td>
-    <td class="tg-73oq">Motion Perception / Visual Area MT</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#tony-movshon">Motion Perception / Visual Area MT</a></td>
     <td class="tg-lmxn">Tony Movshon</td>
   </tr>
 </tbody>
@@ -336,7 +336,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Parietal Cortex and Decision Making</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#josh-gold">Parietal Cortex and Decision Making</a></td>
     <td class="tg-lmxn">Joshua Gold</span></td>
   </tr>
   <tr>
