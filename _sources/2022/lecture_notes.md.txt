@@ -189,16 +189,16 @@ Benchmarking measures of network controllability on canonical graph models. Jour
 
 ### Suggested Readings
 
-REVIEWS/OPINIONS
-______________________
+#### REVIEWS/OPINIONS
+
 A. Pasupathy, D.V. Popovkina, T. Kim, 2020 Visual functions of primate area V4. Annual Review of Vision Science 6: 363-385.
 
 A. Pasupathy, T. Kim, D.V. Popovkina. 2019 Object shape and surface properties are jointly encoded in mid-level ventral visual cortex. Current Opinion in Neurobiology 58: 199-208.
 
 A. Pasupathy, Y. El-Shamayleh, D.V. Popovkina 2018 Visual shape and object perception. ORE.
 
-ORIGINAL ARTICLES
-__________________
+#### ORIGINAL ARTICLES
+
 A. Pasupathy, C. E. Connor., 2001. Shape representation in area V4: Position-specific tuning for boundary conformation. J. Neurophysiol. 86: 2505-2519.
 
 A. Pasupathy, C. E. Connor., 2002. Population coding of shape in area V4. Nat. Neurosci. 5: 1332-1338, News and Views, 1252-1254.
@@ -227,16 +227,21 @@ https://github.com/burgelab/AMA
 
 ### Suggested Readings
 
-<a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso 2018</a>\
-<a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters & Murphy 2018</a>\
+<a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso 2018</a>
+
+<a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters & Murphy 2018</a>
+
 <a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun 2019</a>
 
-## John Serences
+## Adrienne Fairhall
+
+## John Serences 
 
 ### Suggested Readings
 
-<a href="https://faculty.washington.edu/gboynton/publications/boynton-neuroimage12.pdf">Boynton, GM., Engel, S., Heeger, D (2012) Linear systems analysis of the fMRI signal</a>\
-<a href="https://www.google.com/url?q=https%3A%2F%2Fwww.biorxiv.org%2Fcontent%2F10.1101%2F2021.04.06.438664v2&sa=D&sntz=1&usg=AOvVaw1fYGbF7V7vdc83ltqTXwG3">Sheehan, T.C. and Serences, J.T. (in press) Attractive serial dependence overcomes repulsive neuronal adaptation. PLoS Biology</a>
+<a href="https://faculty.washington.edu/gboynton/publications/boynton-neuroimage12.pdf">Boynton, GM., Engel, S., Heeger, D (2012) Linear systems analysis of the fMRI signal</a>
+
+<a href="https://www.biorxiv.org/content/10.1101/2021.04.06.438664v2">Sheehan, T.C. and Serences, J.T. (in press) Attractive serial dependence overcomes repulsive neuronal adaptation. PLoS Biology </a>
 
 Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
 
