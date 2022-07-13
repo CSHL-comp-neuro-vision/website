@@ -127,6 +127,8 @@ Step 3: Write code that optimizes the filters to minimize the cost function.
 
 2) Code up the full version of AMA  in PyTorch (see Burge & Jaini, 2017)… much harder... 
 
+3) Code up either AMA-Gauss or the full version of AMA where the recovered filters (i.e. receptive fields) are constrained to be within a particular family of filters (e.g. Gabors).
+
 Accuracy Maximization Analysis (AMA) is a recently developed Bayesian ideal observer method for task-specific dimensionality reduction. It allows one to automatically determine the stimulus features that are most useful for performing a sensory-perceptual task of scientific interest. This tool is particularly useful for determining how to construct image-computable ideal observer models (i.e. images in, optimal estimates out) for tasks with natural signals (see Burge, 2020 for review). 
 
 AMA has currently been implemented only in matlab (see link to GitHub page). Matlab, generally speaking, does not take advantage of many modern advances in model-parameter optimization. PyTorch does.
