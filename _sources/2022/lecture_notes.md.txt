@@ -245,6 +245,16 @@ https://github.com/burgelab/AMA
 
 Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
 
+## Geoff Boynton
+
+### Suggested Readings
+
+<a href="../_static/pdfs/boynton/boynton-jneurosci96.pdf">Boynton G.M., Engel S.A., Glover G.H. and Heeger D.J. (1996). Linear systems analysis of functional magnetic resonance imaging in human V1</a>
+
+<a href="../_static/pdfs/boynton/Fine_PhilTransB15.pdf">Fine I. and Boynton G.M. (2015). Pulse trains to percepts: the challenge of creating a perceptually intelligible world with sight recovery technologies.</a>
+
+<a href="../_static/pdfs/boynton/White_ProcNatlAcadSciUSA_2019.pdf">White A.L., Palmer J., Boynton G.M. and Yeatman J.D. (2019). Parallel spatial channels converge at a bottleneck in anterior word-selective cortex.</a>
+
 ## Josh Gold
 
 ### Suggested Readings
