@@ -215,4 +215,8 @@ https://github.com/burgelab/AMA
 
 Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
 
+## SueYeon Chung
 
+### Suggested Reading
+
+Tutorial at:  <a href="https://github.com/chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial">https://github.com/chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial</a>
