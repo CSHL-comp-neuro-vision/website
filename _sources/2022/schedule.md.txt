@@ -241,6 +241,11 @@
     <td class="tg-lmxn"></td>
   </tr>
   <tr>
+    <td class="tg-left">8:30am</td>
+    <td class="tg-73oq">Boxed lunch delivered to Meier</td>
+    <td class="tg-lmxn"></td>
+  </tr>
+  <tr>
     <td class="tg-left">6:30pm</td>
     <td class="tg-73oq">Hibachi dinner in town (Samurai restaurant)</td>
     <td class="tg-lmxn"></td>
