@@ -107,7 +107,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Population Coding, Manifolds & Dynamics</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#tatiana-engel">Population Coding, Manifolds & Dynamics</a></td>
     <td class="tg-lmxn">Tatiana Engel</span></td>
   </tr>
   <tr>
@@ -134,7 +134,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#lindesey-glickfeld">Rodent Models of Vision & Attention</a></td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#lindsey-glickfeld">Rodent Models of Vision & Attention</a></td>
     <td class="tg-lmxn">Lindsey Glickfeld</span></td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@
   </tr>
   <tr>
     <td class="tg-left">8:00pm</td>
-    <td class="tg-73oq">Motion Perception / Visual Area MT</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#tony-movshon">Motion Perception / Visual Area MT</a></td>
     <td class="tg-lmxn">Tony Movshon</td>
   </tr>
 </tbody>
@@ -161,8 +161,8 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Multisensory Coding</td>
-    <td class="tg-lmxn">Jenny Groh</span></td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#jennifer-groh">Multisensory Coding</a></td>
+    <td class="tg-lmxn">Jennifer Groh</span></td>
   </tr>
   <tr>
     <td class="tg-left">3:00pm</td>
@@ -183,7 +183,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Functional Imaging, Attention, Working Memory</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#john-serences">Functional Imaging, Attention, Working Memory</a></td>
     <td class="tg-lmxn">John Serences</span></td>
   </tr>
   <tr>
@@ -193,8 +193,8 @@
   </tr>
   <tr>
     <td class="tg-left">5:30pm</td>
-    <td class="tg-73oq">Banquet Dinner (Mayr Dining in Blackford Hall)</td>
-    <td class="tg-lmxn">CSHL Main Campus</td>
+    <td class="tg-73oq">Pizza Dinner at Robertson</td>
+    <td class="tg-lmxn"></td>
   </tr>
 </tbody>
 </table>
@@ -233,6 +233,11 @@
   <tr>
     <td class="tg-left"></td>
     <td class="tg-73oq">Day off</td>
+    <td class="tg-lmxn"></td>
+  </tr>
+  <tr>
+    <td class="tg-left">6:30pm</td>
+    <td class="tg-73oq">Hibachi dinner in town (Samurai restaurant)</td>
     <td class="tg-lmxn"></td>
   </tr>
 </tbody>
@@ -336,7 +341,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Parietal Cortex and Decision Making</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#josh-gold">Parietal Cortex and Decision Making</a></td>
     <td class="tg-lmxn">Joshua Gold</span></td>
   </tr>
   <tr>

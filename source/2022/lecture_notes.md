@@ -4,12 +4,19 @@
 
 ### Slides
 
-<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Lecture slides</a>
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Visual system introduction slides</a>\
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-2.pdf">Visual system introduction slides</a>
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-3.pdf">MT slides</a>
 
 ### Suggested Readings
 
 <a href="../_static/pdfs/movshon/marr-1982-chapter1.pdf">Marr (1982)</a>\
 <a href="../_static/pdfs/movshon/barlow-1961.pdf">Barlow (1961)</a>
+
+For MT:
+
+<a href="../_static/pdfs/movshon/adelson-bergen-1985.pdf">Adelson & Bergen (1985)</a>\
+<a href="../_static/pdfs/movshon/rust-mante-simoncelli-movshon-2006.pdf">Rust et al. (2006)</a>
 
 Also see:
 
@@ -20,10 +27,17 @@ Also see:
 <a href="../_static/pdfs/movshon/lennie-movshon-2005.pdf">Lennie & Movshon (2005)</a>\
 <a href="../_static/pdfs/movshon/movshon-simoncelli-2014.pdf">Movshon & Simoncelli (2014)</a>
 
+For 
+
 ## Eero Simoncelli
 
 My Official and Unofficial Bios (since I failed to introduce myself):
 https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli
+
+### Slides
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-discriminability-2022.pdf">Discriminability</a>\
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-metamers-2022.pdf">Metamers</a>
 
 ### Suggested Readings
 
@@ -60,6 +74,10 @@ https://github.com/LabForComputationalVision/plenoptic/
 
 ## Felice Dunn
 
+### Slides
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/dunn/Retina_I_Dunn.pdf">Retina I slides</a>
+
 ### Suggested Readings
 
 <a href="../_static/pdfs/dunn/annurev.physiol.67.031103.151256.pdf">Field (2004)</a>\
@@ -74,6 +92,10 @@ https://github.com/LabForComputationalVision/plenoptic/
 <a href="../_static/pdfs/chichilnisky/Shah2020a">Shah (2020)</a>
 
 ## Greg Horwitz
+
+### Slides
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/horwitz/CSHL2022.key">Retina I slides</a>
 
 ### Suggested Readings
 
@@ -126,6 +148,14 @@ https://jov.arvojournals.org/article.aspx?articleid=2301260
 
 <a href="../_static/pdfs/glickfeld/barbera2022.pdf">Barbera (2022)</a>\
 <a href="../_static/pdfs/glickfeld/niell2021.pdf">Niell (2021)</a>
+
+## Tatiana Engel
+
+### Slides
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/engel/engel_CSHL_course.pdf">Retina I slides</a>
+
+### Suggested Readings
 
 ## Emily Cooper
 
@@ -215,8 +245,27 @@ https://github.com/burgelab/AMA
 
 Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
 
+
 ## SueYeon Chung
 
 ### Suggested Reading
 
 Tutorial at:  <a href="https://github.com/chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial">https://github.com/chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial</a>
+
+## Geoff Boynton
+
+### Suggested Readings
+
+<a href="../_static/pdfs/boynton/boynton-jneurosci96.pdf">Boynton G.M., Engel S.A., Glover G.H. and Heeger D.J. (1996). Linear systems analysis of functional magnetic resonance imaging in human V1</a>
+
+<a href="../_static/pdfs/boynton/Fine_PhilTransB15.pdf">Fine I. and Boynton G.M. (2015). Pulse trains to percepts: the challenge of creating a perceptually intelligible world with sight recovery technologies.</a>
+
+<a href="../_static/pdfs/boynton/White_ProcNatlAcadSciUSA_2019.pdf">White A.L., Palmer J., Boynton G.M. and Yeatman J.D. (2019). Parallel spatial channels converge at a bottleneck in anterior word-selective cortex.</a>
+
+## Josh Gold
+
+### Suggested Readings
+
+<a href="../_static/pdfs/gold/2017_GoldStocker.pdf">Gold & Stocker (2017)</a>\
+<a href="../_static/pdfs/gold/2022_TavoniEtAl.pdf">Tavoni et al (2022)</a>
+
