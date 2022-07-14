@@ -218,6 +218,11 @@
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#anitha-pasupathy">Object Recognition</a></td>
     <td class="tg-lmxn">Anitha Pasupathy</td>
   </tr>
+  <tr>
+    <td class="tg-left">8:00pm</td>
+    <td class="tg-73oq">TA Lectures</td>
+    <td class="tg-lmxn">Lea Duncker & Dan Birman</td>
+  </tr>
 </tbody>
 </table>
 
