@@ -14,7 +14,6 @@
         <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
         <script src="../_static/jquery.js"></script>
         <script src="../_static/underscore.js"></script>
-        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
         <script src="../_static/doctools.js"></script>
     <script src="../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
@@ -100,15 +99,15 @@
            <div itemprop="articleBody">
              
   <section id="project-ideas">
-<h1>Project Ideas<a class="headerlink" href="#project-ideas" title="Permalink to this heading"></a></h1>
+<h1>Project Ideas<a class="headerlink" href="#project-ideas" title="Permalink to this headline"></a></h1>
 <section id="from-felice-dunn">
-<h2>From Felice Dunn<a class="headerlink" href="#from-felice-dunn" title="Permalink to this heading"></a></h2>
+<h2>From Felice Dunn<a class="headerlink" href="#from-felice-dunn" title="Permalink to this headline"></a></h2>
 <p>Fits to frequency of seeing data to determine how quantum efficiency, dark light, and threshold can trade for each other (Teich et al., 1982, Multiplication noise in the human visual system at threshold 3. The role of non-Poisson quantum fluctuations).</p>
 <p>Model of the phototransduction cascade elements to demonstrate how single events can be amplified. Determine how the phototransduction elements and amplification can be changed to account for rod vs. cone responses. Use this model to predict responses to different stimuli types (Angueyra et al., 2022 Predicting and manipulating cone responses to naturalistic inputs)</p>
 <p>Model different motion detectors and determine how they might be distinguishable from each other (Bae et al., 2014, Space-timing wiring specificity supports direction selectivity in the retina)</p>
 </section>
 <section id="from-jonathan-pillow">
-<h2>From Jonathan Pillow<a class="headerlink" href="#from-jonathan-pillow" title="Permalink to this heading"></a></h2>
+<h2>From Jonathan Pillow<a class="headerlink" href="#from-jonathan-pillow" title="Permalink to this headline"></a></h2>
 <ol class="arabic simple">
 <li><p>Temporal vs. rate coding in retina (or any other dataset you’d like to examine).
 How much information is carried in the precise timing of spikes vs. in slowly-fluctuating spike rates?  One way to address this question is to decode spikes under models that incorporate vs. ignore precise spike timing information.
@@ -132,7 +131,7 @@ Divisive normalization is one of the putative “canonical computations” carri
 </ul>
 </section>
 <section id="lindsey-glickfeld">
-<h2>Lindsey Glickfeld<a class="headerlink" href="#lindsey-glickfeld" title="Permalink to this heading"></a></h2>
+<h2>Lindsey Glickfeld<a class="headerlink" href="#lindsey-glickfeld" title="Permalink to this headline"></a></h2>
 <p>In <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0896627321007856">Barbera et al.</a>, we used a simple subunit based, Hubel and Wiesel style model to predict V1 responses to gratings and plaids, and then to test the effect of mask phase on these responses.</p>
 <ol class="arabic simple">
 <li><p>This model built V1 cells that only have one (excitatory) subunit and orientation preference/selectivity is defined by the elongation of the long axis of the RF. However, V1 neurons typically have an “on” and an “off” subunit, and in the mouse orientation preference/selectivity is defined by the axis of overlap of these subunits. Build a new version of this model with on/off subunits and test whether this changes (A) the magnitude of cross orientation interactions and (B) the sensitivity of those interactions to mask phase.</p></li>
@@ -141,7 +140,7 @@ Divisive normalization is one of the putative “canonical computations” carri
 <p>The code for the model in Barbera et al. can be found here: https://figshare.com/collections/BarberaPriebeGlickfeld_Neuron_2022/5677225/ see Figure4_model_code.m</p>
 </section>
 <section id="emily-cooper">
-<h2>Emily Cooper<a class="headerlink" href="#emily-cooper" title="Permalink to this heading"></a></h2>
+<h2>Emily Cooper<a class="headerlink" href="#emily-cooper" title="Permalink to this headline"></a></h2>
 <p>I’ve shared a (non-exhaustive) list of some public databases of natural images, depth maps, and eye movements that may be useful for projects here:</p>
 <p>https://docs.google.com/document/d/1bVTdvXXoGN4Ya4mutdEBQOQdmO6tc68uHHIccrvdlTI/edit?usp=sharing</p>
 <p>Project suggestion 1: What does your next fixation point look like?
@@ -150,11 +149,11 @@ Using the DOVES dataset of eye movements during free-viewing of calibrated natur
 When engaged in natural tasks, people tend to fixate points that are relatively close to them, as compared to a random sample of points from their surrounding environment. Using the UT Austin Natural Image Databases (see Google Doc; https://natural-scenes.cps.utexas.edu/db.shtml – just the subset with co-registered images and depth maps, scroll down to “Stereo Image and Range Data Collection”), investigate potential low level fixation strategies that might recapitulate this behavior. First, simulate a set of random fixation points and plot the distribution of associated scene distances from the depth maps – this should generally match the overall distribution of distances found in the scenes. Next, try biasing your fixation points based on low level properties of the co-registered images run the scene images. For example, you could run the images through an edge detection algorithm and select a random sample of points that fall on luminance edges. You could calculate the local RMS contrast of points and weight your fixation sampling strategy towards higher contrast image regions. You could even assert that people only fixate points that are red. Do any of these strategies result in the near-distance bias we observe in natural fixations?</p>
 </section>
 <section id="ej-chichilnisky">
-<h2>EJ Chichilnisky<a class="headerlink" href="#ej-chichilnisky" title="Permalink to this heading"></a></h2>
+<h2>EJ Chichilnisky<a class="headerlink" href="#ej-chichilnisky" title="Permalink to this headline"></a></h2>
 <p>download Pillow data set, fit GLM. test if we can do better with some kind of subunit model fit (Shah 2020 paper)?</p>
 </section>
 <section id="marlene-cohen">
-<h2>Marlene Cohen<a class="headerlink" href="#marlene-cohen" title="Permalink to this heading"></a></h2>
+<h2>Marlene Cohen<a class="headerlink" href="#marlene-cohen" title="Permalink to this headline"></a></h2>
 <p>Generate a fake multineuron data set. This should include spike count, BOLD, or calcium imaging responses of n neurons (or voxels) on m trials. You could use models from any of several tutorials to generate these responses. (I know that ChoiceProbabilityTutorial will do this for a population of MT neurons.) From this fake data set, calculate:</p>
 <ol class="arabic simple">
 <li><p>the average correlation between each pair of neurons (this could be noise or signal correlation, depending on the data set you generated)</p></li>
@@ -165,7 +164,7 @@ When engaged in natural tasks, people tend to fixate points that are relatively 
 <p>Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?</p>
 </section>
 <section id="eero-simoncelli">
-<h2>Eero Simoncelli<a class="headerlink" href="#eero-simoncelli" title="Permalink to this heading"></a></h2>
+<h2>Eero Simoncelli<a class="headerlink" href="#eero-simoncelli" title="Permalink to this headline"></a></h2>
 <p>Metamers: given a model and a reference image, stochastically generate a new image whose model representation is identical to that of the reference image.  [ref:  Freeman &amp; Simoncelli 2011]</p>
 <p>Eigendistortions: given a model and a reference image, compute the image perturbation that produces the smallest and largest changes (in terms of Euclidean distance) in the model response space.  [ref: Berardino et al 2017]</p>
 <p>Maximal differentiation (MAD) competition: given two models that measure distance between images and a reference image, generate pairs of images that optimally distinguish the models. Specifically, synthesize a pair of images that the first model says are equi-distant from the reference while the second model says they are maximally/minimally distant from the reference. Synthesize a second pair with the roles of the two models reversed.  [ref: Wang &amp; Simoncelli 2008]</p>
@@ -175,7 +174,7 @@ My lab has produced a python library of tools to explore vision models by  synth
 This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s here: https://github.com/LabForComputationalVision/plenoptic/. Kate Bonnen is an expert user and someone to ask questions about it.</p>
 </section>
 <section id="kate-bonnen">
-<h2>Kate Bonnen<a class="headerlink" href="#kate-bonnen" title="Permalink to this heading"></a></h2>
+<h2>Kate Bonnen<a class="headerlink" href="#kate-bonnen" title="Permalink to this headline"></a></h2>
 <ol class="arabic simple">
 <li><p>Continuous matching experiment.  Employing a tracking method to continuously match a visual feature (e.g., orientation).</p></li>
 <li><p>Continuous subjective measurements.  Measuring subjective signals (e.g., target detection in noise — what is your confidence that you can see the target?).</p></li>
@@ -183,7 +182,7 @@ This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2
 <li><p>Implement a LQG with subjective beliefs (as in this paper) and then try to design a set of conditions that will maximally expose subjective beliefs about the dynamics of the trajectory.</p></li>
 </ol>
 <section id="suggestions-related-to-eero-s-plenoptic-code-repository">
-<h3>Suggestions related to Eero’s plenoptic code repository<a class="headerlink" href="#suggestions-related-to-eero-s-plenoptic-code-repository" title="Permalink to this heading"></a></h3>
+<h3>Suggestions related to Eero’s plenoptic code repository<a class="headerlink" href="#suggestions-related-to-eero-s-plenoptic-code-repository" title="Permalink to this headline"></a></h3>
 <p><strong>From Billy</strong>
 I’ve been wanting to extend metamers to generate several metamers at once that are as maximally different (in either pixel space, model space, or by some other metric) from each other as possible</p>
 <p><strong>From Nikhil</strong>
@@ -198,13 +197,13 @@ There is a perceptual distance metric called normalized steerable pyramid distan
 </section>
 </section>
 <section id="anitha-pasupathy">
-<h2>Anitha Pasupathy<a class="headerlink" href="#anitha-pasupathy" title="Permalink to this heading"></a></h2>
+<h2>Anitha Pasupathy<a class="headerlink" href="#anitha-pasupathy" title="Permalink to this headline"></a></h2>
 <p>In Kim et al., 2019, we demonstrated that shape selectivity in V4 is independent of texture selectivity. In other words, selectivity for 2D shape is similar regardless of the surface texture that’s painted on the shape. This argues against the possibility that shape selectivity is a by-product of preference for higher order texture statistics in V4 (Okazawa et al., 2013).</p>
 <p>Using the artiphysiology approach of Pospisil et al., (2018) one could ask whether individual units in AlexNet (or another DNN) exhibit the same shape preference across different surface textures painted on the 2D shape.  Comparing the circuitry of units that show texture-invariant shape selectivity and those that do not, one could get some insights into how texture-invariant shape selectivity might be built.</p>
 <p>(Note from Dan: see <a class="reference external" href="https://models.roboflow.com/">roboflow</a> for some pre-trained PyTorch models to run)</p>
 </section>
 <section id="johannes-burge">
-<h2>Johannes Burge<a class="headerlink" href="#johannes-burge" title="Permalink to this heading"></a></h2>
+<h2>Johannes Burge<a class="headerlink" href="#johannes-burge" title="Permalink to this headline"></a></h2>
 <ol class="arabic simple">
 <li><p>Code up AMA-Gauss (Jaini &amp; Burge, 2017) in PyTorch.
 Step 1: Write code that takes i) a labeled training set of stimuli, ii) an arbitrary set of filters (receptive fields), iii) defines a filter response model, and iv) uses the responses to each stimulus to compute a posterior probability distribution over the latent variable. This is the key computation.
@@ -220,23 +219,23 @@ Step 3: Write code that optimizes the filters to minimize the cost function.</p>
 Kate Bonnen has offered to provide PyTorch-specific technical support in case somebody needs it. And I can provide project-specific know-how to anyone who needs help w. target-tracking related projects (see Kate’s email from last night).</p>
 </section>
 <section id="jennifer-groh">
-<h2>Jennifer Groh<a class="headerlink" href="#jennifer-groh" title="Permalink to this heading"></a></h2>
+<h2>Jennifer Groh<a class="headerlink" href="#jennifer-groh" title="Permalink to this headline"></a></h2>
 <p>“How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own! “</p>
 </section>
 <section id="jenny-read">
-<h2>Jenny Read<a class="headerlink" href="#jenny-read" title="Permalink to this heading"></a></h2>
+<h2>Jenny Read<a class="headerlink" href="#jenny-read" title="Permalink to this headline"></a></h2>
 <p><strong>Analysis of eye tracking data of faces with cleft lip</strong></p>
 <p>A group of cleft lip and palate surgeons are interested in developing better metrics of repair quality. As an initial project, we have collected eye tracking data of ~70 participants viewing 24 photos, 3 photos of 8 patients showing their face pre-op, immediately post-op and some years post-op. The participants include lay people and cleft professionals. The photos have been marked up into 20 anatomical regions of interest (ROIs). We are trying to figure out good metrics to describe patterns of eye movements, e.g. % time fixating a given ROI, or the matrix of transition probabilities between ROIs. If a student is interested in working with this dataset to try out these or their own ideas, we can supply it.</p>
 <p><strong>Modelling sensitivity to stereoscopic depth information in space and time</strong></p>
 <p>Kane et al (attached) examined the minimum (ie threshold) and maximum perceivable disparity for depth corrugations of different spatial and temporal frequencies, and concluded that they were well described by windowed cross-correlation within separable spatial and temporal windows (Rogers &amp; Bradshaw, attached). In their stimuli, the depth corrugations were all horizontally oriented. Thus, they could not examine the well-known stereo anisotropy, whereby at low spatial frequencies disparity thresholds are lower (ie stereoacuity is better) for horizontally-oriented depth corrugations compared to vertical. My collaborator Prof Ignacio Serrano-Pedraza at Universidad Complutense de Madrid has collected disparity thresholds for both horizontal and vertical disparity gratings as a function of spatial and temporal frequency. In this project, you will reproduce the methods of Kane et al but with an anisotropic spatial window, i.e. allowing the window to extend further horizontally than vertically. You will fit this model to Prof Serrano-Pedraza’s dataset in order to assess whether this generalisation can account simultaneously for thresholds to gratings of both orientations.</p>
 </section>
 <section id="josh-gold">
-<h2>Josh Gold<a class="headerlink" href="#josh-gold" title="Permalink to this heading"></a></h2>
+<h2>Josh Gold<a class="headerlink" href="#josh-gold" title="Permalink to this headline"></a></h2>
 <p>Use a task like the one here (https://elifesciences.org/articles/73610) to find the limits, in terms of number of objects and length of time they need to be stored, at which individual items are no longer stored in visual memory individually and instead are aggregated into a decision variable.</p>
 <p>Use the information-bottleneck (https://openresearchsoftware.metajnl.com/articles/10.5334/jors.322/) to show how real or simulated behavioral data from a 2AFC task can reflect similar overall performance (e.g., measured as % correct) but radically different decision strategies that range from the relatively effective use of a restricted subset of task-relevant stimuli to the relatively ineffective use of all task-relevant stimuili.</p>
 </section>
 <section id="tatiana-engel">
-<h2>Tatiana Engel<a class="headerlink" href="#tatiana-engel" title="Permalink to this heading"></a></h2>
+<h2>Tatiana Engel<a class="headerlink" href="#tatiana-engel" title="Permalink to this headline"></a></h2>
 <p><strong>Representational geometry of visual stimuli across the mouse brain during IBL task</strong></p>
 <p>International Brain Laboratory (IBL) is a large-scale collaboration which aims to understand brain-wide computations underlying complex behavior. IBL records neural activity from all areas of the mouse brain with Neuropixels probes while mice perform a two-alternative forced-choice visual discrimination task. On each trial, a visual grating stimulus appears on the right or left side of the screen, and the mouse needs to turn a wheel to bring the stimulus to the screen center. The task has a hidden block structure. In a left block, the stimuli are more likely to appear on the left. In a right block, they are more likely to appear on the right. The blocks switch stochastically without an explicit cue provided to the mouse. The mouse needs to discriminate left and right stimuli, and also it needs to incorporate the block prior information to perform the task optimally. Details of the task and mouse behavior are described in https://elifesciences.org/articles/63711.</p>
 <p>Neural activity across many brain regions changes in response to different task variables. The task variables include the location of the visual stimulus (left vs. right), stimulus contrast, the current block, and the animal’s choice on each trial. Mouse behavior indicates that mice use block prior information to guide their choices. We may, therefore, expect that representations of visual stimuli change depending on the block. The representation of stimuli may also differ between correct and error trials. In addition, we expect that the representations of visual stimuli differ across brain areas. Early sensory areas may carry a more veridical representation of stimuli, whereas association and motor areas may represent stimuli in a more categorical way reflecting the binary choice.</p>
