@@ -248,9 +248,28 @@ Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
 
 ## SueYeon Chung
 
+### Slides
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/chung/Talk_CSHL_Chung_Part1_DL.pdf">Part I</a>
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/chung/Talk_CSHL_Chung_Part2_Theory_Manifolds.pdf">Part II: Manifolds Theory</a>
+
 ### Suggested Reading
 
-Tutorial at:  <a href="https://github.com/chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial">https://github.com/chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial</a>
+**Reading materials on deep learning for neuroscience**\
+https://www.nature.com/articles/s41583-020-00395-8 \
+https://www.nature.com/articles/s41593-019-0520-2.pdf \
+https://www.nature.com/articles/nn.4244.pdf
+
+**Reading materials on neural manifolds +  manifold classification capacity**\
+Neural manifolds review paper: https://doi.org/10.1016/j.conb.2021.10.010
+
+**Perceptron theory of linearly classifying manifolds & applications**\
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031003 \
+https://www.nature.com/articles/s41467-020-14578-5 \
+https://proceedings.neurips.cc/paper/2019/file/e2db7186375992e729165726762cb4c1-Paper.pdf
+
+Tutorial at: <a href="https://github.com/chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial">https://github.com/chung-neuroai-lab/cshl2022-deep-learning-manifolds-tutorial</a>
 
 ## Geoff Boynton
 
