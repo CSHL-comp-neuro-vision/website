@@ -18,7 +18,7 @@ cp -R ~/temp/* ./
 
 # Add and commit all changes
 git add -A .
-git commit -m "$1";
+git commit -m "$1 commit";
 
 # Push the changes
 git push -q origin gh-pages
