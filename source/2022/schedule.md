@@ -268,11 +268,6 @@
     <td class="tg-lmxn">Emily Cooper</span></td>
   </tr>
   <tr>
-    <td class="tg-left">12:00pm</td>
-    <td class="tg-73oq">Course photo in front of Banbury Center</td>
-    <td class="tg-lmxn"></td>
-  </tr>
-  <tr>
     <td class="tg-left">1:00pm</td>
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#johannes-burge">Ideal Observer Models and Natural Task Statistics</a></td>
     <td class="tg-lmxn">Johannes Burge</td>
@@ -300,6 +295,11 @@
     <td class="tg-lmxn">Stefan Treue</span></td>
   </tr>
   <tr>
+    <td class="tg-left">12:00pm</td>
+    <td class="tg-73oq">Course photo in front of Banbury Center</td>
+    <td class="tg-lmxn"></td>
+  </tr>
+  <tr>
     <td class="tg-left">1:00pm</td>
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#marlene-cohen">Attention and Population Coding</a></td>
     <td class="tg-lmxn">Marlene Cohen</td>
@@ -323,13 +323,13 @@
 <tbody>
   <tr>
     <td class="tg-left">9:00am</td>
-    <td class="tg-73oq">Neural Mechanisms of Decision-Making</td>
-    <td class="tg-lmxn">Roozbeh Kiani</span></td>
+    <td class="tg-73oq">Reading/Divided Attention</td>
+    <td class="tg-lmxn">Geoff Boynton</td>
   </tr>
   <tr>
     <td class="tg-left">1:00pm</td>
-    <td class="tg-73oq">Reading/Divided Attention</td>
-    <td class="tg-lmxn">Geoff Boynton</td>
+    <td class="tg-73oq">Neural Mechanisms of Decision-Making</td>
+    <td class="tg-lmxn">Roozbeh Kiani</span></td>
   </tr>
   <tr>
     <td class="tg-left">8:30pm</td>
