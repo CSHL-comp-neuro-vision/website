@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-CSHL: Computational Neuroscience Vision 2022
+CSHL: Computational Neuroscience Vision 2024
 ===================================================================
 
 |pic1| |pic2|
@@ -20,14 +20,14 @@ Computational approaches to neuroscience produce important advances in our under
 .. toctree::
    :hidden:
    :maxdepth: 1
-   :caption: 2022 Course
+   :caption: 2024 Course
 
-   2022/schedule
-   2022/lecture_notes
-   2022/project_ideas
-   2022/course_tshirt_submissions
-   2022/people
-   2022/photos
+   2024/schedule
+   2024/lecture_notes
+   2024/project_ideas
+   2024/course_tshirt_submissions
+   2024/people
+   2024/photos
 
 .. toctree::
    :hidden:
