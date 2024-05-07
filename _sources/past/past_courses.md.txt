@@ -21,6 +21,12 @@
 <hr />
 </div>
 
+<script>
+	document.querySelectorAll('').addEventListener('mouseover', function() {
+		  this.src = 'path/to/my/image.png';
+		});
+</script>
+
 <table class="tg">
 <thead>
   <tr>
@@ -41,7 +47,7 @@
     <td class="tg-ml8a">Lecturers</td>
     <td class="tg-zv4m">Tony Movshon<br>EJ Chichilnisky<br>Tatiana Engel<br>Jennifer Groh<br>SueYeon Chung<br>Stefan Treue<br>Roozbeh Kiani<br></td>
     <td class="tg-zv4m">Eero Simoncelli<br>Greg Horwitz<br>Kate Bonnen<br>Adrienne Fairhall<br>Anitha Pasupathy<br>Marlene Cohen<br>Joshua Gold<br></td>
-    <td class="tg-zv4m">Felice Dunn<br>Jonathan Pillow<br>Lindsey Glickfeld<br>Jenny Read<br>Johannes Burge<br>Geoff Boynton<br></td>
+    <td class="tg-zv4m">Felice Dunn<br>Lindsey Glickfeld<br>Jenny Read<br>Johannes Burge<br>Geoff Boynton<br></td>
   </tr>
   <tr>
     <td class="tg-ml8a">Students</td>

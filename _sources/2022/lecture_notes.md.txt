@@ -209,6 +209,10 @@ T. Kim, W. Bair, A. Pasupathy. 2019 Neural coding for shape and texture in macaq
 
 ## Johannes Burge
 
+### Slides
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/burge/CSHL_2022.pdf">Perceptual illusions & ideal observer models</a>\
+
 ### Suggested Readings
 
 <a href="../_static/pdfs/burge/BurgeRodriguezDorronsoro_CB_2019.pdf">Burge J, Rodriguez-Lopez V, Dorronsoro C (2019). “Monovision and the misperception of motion”. Current Biology, 29(15), 2586-2592.</a>
