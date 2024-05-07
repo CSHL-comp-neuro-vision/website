@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lecture Notes &mdash; CSHL: Computational Neuroscience Vision  documentation</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Project Ideas" href="project_ideas.html" />
+    <link rel="prev" title="Schedule" href="schedule.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../index.html" class="icon icon-home"> CSHL: Computational Neuroscience Vision
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">2024 Course</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="schedule.html">Schedule</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Lecture Notes</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#ej-chichilnisky">EJ Chichilnisky</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#suggested-readings">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#john-serences">John Serences</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id1">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#eero-simoncelli">Eero Simoncelli</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#slides">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id2">Suggested Readings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#code-repository">Code repository</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#stephanie-palmer">Stephanie Palmer</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id3">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id4">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#jonathan-pillow">Jonathan Pillow</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id5">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id6">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#jacob-yates">Jacob Yates</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id7">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id8">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#lea-duncker">Lea Duncker</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id9">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id10">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#ruth-rosenholtz">Ruth Rosenholtz</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id11">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id12">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#rachel-denison">Rachel Denison</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id13">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id14">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#tony-movshon">Tony Movshon</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id15">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id16">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#kate-bonnen">Kate Bonnen</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id17">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id18">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#stefan-treue">Stefan Treue</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id19">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id20">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#emily-cooper">Emily Cooper</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id21">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id22">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#marlene-cohen">Marlene Cohen</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id23">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#madineh-sedigh-sarvestani">Madineh Sedigh-Sarvestani</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id24">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id25">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#ione-fine">Ione Fine</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id26">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id27">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#emma-alexander">Emma Alexander</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id28">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id29">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#jennifer-groh">Jennifer Groh</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id30">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#taraz-lee">Taraz Lee</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id31">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id32">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#maryam-aly">Maryam Aly</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id33">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id34">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#kohitij-kar">Kohitij Kar</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id35">Slides</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#id36">Suggested Readings</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#lindsey-glickfeld">Lindsey Glickfeld</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id37">Suggested Readings</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="project_ideas.html">Project Ideas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="course_tshirt_submissions.html">Course T-Shirt</a></li>
+<li class="toctree-l1"><a class="reference internal" href="people.html">People</a></li>
+<li class="toctree-l1"><a class="reference internal" href="photos.html">Course photos</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Tutorials</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../tutorials/overview.html">Overview</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Past Courses &amp; Alumni</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../past/past_courses.html">Past Courses &amp; Alumni</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">CSHL: Computational Neuroscience Vision</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>Lecture Notes</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/2024/lecture_notes.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="lecture-notes">
+<h1>Lecture Notes<a class="headerlink" href="#lecture-notes" title="Permalink to this heading"></a></h1>
+<section id="ej-chichilnisky">
+<h2>EJ Chichilnisky<a class="headerlink" href="#ej-chichilnisky" title="Permalink to this heading"></a></h2>
+<section id="suggested-readings">
+<h3>Suggested Readings<a class="headerlink" href="#suggested-readings" title="Permalink to this heading"></a></h3>
+<p><a href="../_static/pdfs/chichilnisky/Pillow2008.pdf">Pillow (2008)</a><br />
+<a href="../_static/pdfs/chichilnisky/Muratore2019c">Muratore (2019)</a><br />
+<a href="../_static/pdfs/chichilnisky/Shah2020a">Shah (2020)</a></p>
+</section>
+</section>
+<section id="john-serences">
+<h2>John Serences<a class="headerlink" href="#john-serences" title="Permalink to this heading"></a></h2>
+<section id="id1">
+<h3>Suggested Readings<a class="headerlink" href="#id1" title="Permalink to this heading"></a></h3>
+<p><a href="https://faculty.washington.edu/gboynton/publications/boynton-neuroimage12.pdf">Boynton, GM., Engel, S., Heeger, D (2012) Linear systems analysis of the fMRI signal</a></p>
+<p><a href="https://www.biorxiv.org/content/10.1101/2021.04.06.438664v2">Sheehan, T.C. and Serences, J.T. (in press) Attractive serial dependence overcomes repulsive neuronal adaptation. PLoS Biology </a></p>
+<p>Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m</p>
+</section>
+</section>
+<section id="eero-simoncelli">
+<h2>Eero Simoncelli<a class="headerlink" href="#eero-simoncelli" title="Permalink to this heading"></a></h2>
+<p>My Official and Unofficial Bios (since I failed to introduce myself):
+https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli</p>
+<section id="slides">
+<h3>Slides<a class="headerlink" href="#slides" title="Permalink to this heading"></a></h3>
+<p><a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-discriminability-2022.pdf">Discriminability</a><br />
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-metamers-2022.pdf">Metamers</a></p>
+</section>
+<section id="id2">
+<h3>Suggested Readings<a class="headerlink" href="#id2" title="Permalink to this heading"></a></h3>
+<p>• Opposing effects of selectivity and invariance in peripheral vision
+C M Ziemba and E P Simoncelli.  Nature Communications, vol.12(4597), Jul 2021.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Ziemba20</p>
+<p>• Selectivity and tolerance for visual texture in macaque V2
+C M Ziemba, J Freeman, J A Movshon and E P Simoncelli.  Proc. Nat’l Academy of Sciences, vol.113(22), pp. E3140-E3149, May 2016.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Ziemba15</p>
+<p>• A functional and perceptual signature of the second visual area in primates
+J Freeman, C M Ziemba, D J Heeger, E P Simoncelli and J A Movshon.  Nature Neuroscience, vol.16(7), pp. 974–981, Jul 2013.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Freeman13</p>
+<p>• Metamers of the ventral stream
+J Freeman and E P Simoncelli.  Nature Neuroscience, vol.14(9), pp. 1195–1201, Sep 2011.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Girshick10</p>
+<p>• Natural image statistics and neural representation
+E P Simoncelli and B Olshausen, 2001.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Simoncelli01</p>
+<p>• A parametric texture model based on joint statistics of complex wavelet coefficients
+J Portilla and E P Simoncelli, 2000.
+https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99</p>
+</section>
+<section id="code-repository">
+<h3>Code repository<a class="headerlink" href="#code-repository" title="Permalink to this heading"></a></h3>
+<p>Eero’s lab has produced a python library of tools to explore vision models by synthesizing novel informative images.
+This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016).</p>
+<p>https://github.com/LabForComputationalVision/plenoptic/</p>
+</section>
+</section>
+<section id="stephanie-palmer">
+<h2>Stephanie Palmer<a class="headerlink" href="#stephanie-palmer" title="Permalink to this heading"></a></h2>
+<section id="id3">
+<h3>Slides<a class="headerlink" href="#id3" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id4">
+<h3>Suggested Readings<a class="headerlink" href="#id4" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="jonathan-pillow">
+<h2>Jonathan Pillow<a class="headerlink" href="#jonathan-pillow" title="Permalink to this heading"></a></h2>
+<section id="id5">
+<h3>Slides<a class="headerlink" href="#id5" title="Permalink to this heading"></a></h3>
+<p><a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/pillow/pillow_GLMs_CSHL2022slides.pdf">Lecture slides</a></p>
+</section>
+<section id="id6">
+<h3>Suggested Readings<a class="headerlink" href="#id6" title="Permalink to this heading"></a></h3>
+<p>• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Pillow08_nature.html">Spatio-temporal correlations and visual signaling in a complete neuronal population</A><br />
+Pillow, Shlens, Paninski, Sher , Litke, Chichilnisky, &amp; Simoncelli. Nature (2008)</p>
+<p>• <A HREF="http://pillowlab.princeton.edu/pubs/abs_ParkI_NN14.html"> (2014). Encoding and decoding in parietal cortex during sensorimotor decision-making</A><br />
+Park, Meister, Huk, &amp; Pillow. Nat. Neurosci. (2014)</p>
+<p>• <A HREF="http://pillowlab.princeton.edu/pubs/abs_IlPark11_NIPS.html">Bayesian spike-triggered covariance</A><br />
+Park Il Memming &amp; Pillow JW. Neurips (2011).</p>
+<p>• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Weber_NC17.html">Capturing the dynamical repertoire of single neurons with generalized linear models.</A><br />
+Weber &amp; Pillow.  Neural Computation (2017).</p>
+<p>• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Latimer_eLife19.html">Inferring synaptic inputs from spikes with a conductance-based neural encoding model</A><br />
+Latimer, Rieke, &amp; Pillow.  Elife (2019).</p>
+</section>
+</section>
+<section id="jacob-yates">
+<h2>Jacob Yates<a class="headerlink" href="#jacob-yates" title="Permalink to this heading"></a></h2>
+<section id="id7">
+<h3>Slides<a class="headerlink" href="#id7" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id8">
+<h3>Suggested Readings<a class="headerlink" href="#id8" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="lea-duncker">
+<h2>Lea Duncker<a class="headerlink" href="#lea-duncker" title="Permalink to this heading"></a></h2>
+<section id="id9">
+<h3>Slides<a class="headerlink" href="#id9" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id10">
+<h3>Suggested Readings<a class="headerlink" href="#id10" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="ruth-rosenholtz">
+<h2>Ruth Rosenholtz<a class="headerlink" href="#ruth-rosenholtz" title="Permalink to this heading"></a></h2>
+<section id="id11">
+<h3>Slides<a class="headerlink" href="#id11" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id12">
+<h3>Suggested Readings<a class="headerlink" href="#id12" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="rachel-denison">
+<h2>Rachel Denison<a class="headerlink" href="#rachel-denison" title="Permalink to this heading"></a></h2>
+<section id="id13">
+<h3>Slides<a class="headerlink" href="#id13" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id14">
+<h3>Suggested Readings<a class="headerlink" href="#id14" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="tony-movshon">
+<h2>Tony Movshon<a class="headerlink" href="#tony-movshon" title="Permalink to this heading"></a></h2>
+<section id="id15">
+<h3>Slides<a class="headerlink" href="#id15" title="Permalink to this heading"></a></h3>
+<p><a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Visual system introduction slides</a><br />
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-2.pdf">Visual system introduction slides</a>
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-3.pdf">MT slides</a></p>
+</section>
+<section id="id16">
+<h3>Suggested Readings<a class="headerlink" href="#id16" title="Permalink to this heading"></a></h3>
+<p><a href="../_static/pdfs/movshon/marr-1982-chapter1.pdf">Marr (1982)</a><br />
+<a href="../_static/pdfs/movshon/barlow-1961.pdf">Barlow (1961)</a></p>
+<p>For MT:</p>
+<p><a href="../_static/pdfs/movshon/adelson-bergen-1985.pdf">Adelson &amp; Bergen (1985)</a><br />
+<a href="../_static/pdfs/movshon/rust-mante-simoncelli-movshon-2006.pdf">Rust et al. (2006)</a></p>
+<p>Also see:</p>
+<p><a href="../_static/pdfs/movshon/adelson-bergen-1991.pdf">Adelson &amp; Bergen (1991)</a><br />
+<a href="../_static/pdfs/movshon/anderson-1972.pdf">Anderson (1972)</a><br />
+<a href="../_static/pdfs/movshon/barlow-1972.pdf">Barlow (1972)</a><br />
+<a href="../_static/pdfs/movshon/enroth-cugell-robson-1984.pdf">Enroth, Cugell, Robson (1984)</a><br />
+<a href="../_static/pdfs/movshon/lennie-movshon-2005.pdf">Lennie &amp; Movshon (2005)</a><br />
+<a href="../_static/pdfs/movshon/movshon-simoncelli-2014.pdf">Movshon &amp; Simoncelli (2014)</a></p>
+</section>
+</section>
+<section id="kate-bonnen">
+<h2>Kate Bonnen<a class="headerlink" href="#kate-bonnen" title="Permalink to this heading"></a></h2>
+<section id="id17">
+<h3>Slides<a class="headerlink" href="#id17" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id18">
+<h3>Suggested Readings<a class="headerlink" href="#id18" title="Permalink to this heading"></a></h3>
+<ol class="arabic simple">
+<li><p>Bonnen, K., Burge, J., Yates, J., Pillow, J., &amp; Cormack, L. K. (2015). Continuous psychophysics: Target-tracking to measure visual sensitivity. Journal of vision, 15(3), 14-14.
+https://jov.arvojournals.org/article.aspx?articleid=2301260</p></li>
+<li><p>Noel, J. P., Caziot, B., Bruni, S., Fitzgerald, N. E., Avila, E., &amp; Angelaki, D. E. (2021). Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making. Progress in Neurobiology, 201, 101996.</p></li>
+<li><p>Matthis, J. S., Yates, J. L., &amp; Hayhoe, M. M. (2018). Gaze and the control of foot placement when walking in natural terrain. Current Biology, 28(8), 1224-1233.
+https://www-cell-com.proxyiub.uits.iu.edu/current-biology/pdfExtended/S0960-9822(18)30309-9</p></li>
+<li><p>Bonnen, K., Matthis, J. S., Gibaldi, A., Banks, M. S., Levi, D. M., &amp; Hayhoe, M. (2021). Binocular vision and the control of foot placement during walking in natural terrain. Scientific reports, 11(1), 1-12.</p></li>
+</ol>
+</section>
+</section>
+<section id="stefan-treue">
+<h2>Stefan Treue<a class="headerlink" href="#stefan-treue" title="Permalink to this heading"></a></h2>
+<section id="id19">
+<h3>Slides<a class="headerlink" href="#id19" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id20">
+<h3>Suggested Readings<a class="headerlink" href="#id20" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="emily-cooper">
+<h2>Emily Cooper<a class="headerlink" href="#emily-cooper" title="Permalink to this heading"></a></h2>
+<section id="id21">
+<h3>Slides<a class="headerlink" href="#id21" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id22">
+<h3>Suggested Readings<a class="headerlink" href="#id22" title="Permalink to this heading"></a></h3>
+<p>My lecture period is focused on understanding eye movements in both natural and unnatural settings. We’ll start by going over some basic and fun information about oculomotor control (Kowler review is relevant/interesting for this, but not necessary). Then I’d like to tell you about the importance of binocular coordination of eye movements, particularly for fixating points at different distances and keeping the eyes in focus. Once we’ve covered these foundations, I’ll tell you about some studies I’ve been involved in that examine fixation patterns during natural behavior, how these natural patterns are disrupted in augmented reality systems, and how optocomputational displays can restore natural eye movements. Of the studies I’ll present, I’m suggesting you read the Padmanaban one (but it’s not very computational, so you’ll understand my presentation fine without reading in advance). I’m happy to share additional relevant readings for anyone who’s interested.</p>
+<p>• <a href="../_static/pdfs/cooper/Kowler2011.pdf">Kowler, Eileen. “Eye movements: The past 25 years.” Vision research 51.13 (2011): 1457-1483.</a>\</p>
+<p>• <a href="../_static/pdfs/cooper/Padmanaban2017.pdf">Padmanaban, Nitish, et al. “Optimizing virtual reality for all users through gaze-contingent and adaptive focus displays.” Proceedings of the National Academy of Sciences 114.9 (2017): 2183-2188.</a></p>
+</section>
+</section>
+<section id="marlene-cohen">
+<h2>Marlene Cohen<a class="headerlink" href="#marlene-cohen" title="Permalink to this heading"></a></h2>
+<section id="id23">
+<h3>Suggested Readings<a class="headerlink" href="#id23" title="Permalink to this heading"></a></h3>
+<p><strong>This one first:</strong>
+<a href="../_static/pdfs/cohen/rust_cohen_2022.pdf">Rust &amp; Cohen (2022)</a></p>
+<p><strong>See also</strong>
+<a href="../_static/pdfs/cohen/CohenKohn2011.pdf">Cohen &amp; Kohn (2011)</a></p>
+<p>I will also touch on some newer methods for analyzing neural population data. People wanting to learn more might find these papers useful:</p>
+<p>Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R., and Bassett, D.S. (2019). The importance of the whole: topological data analysis for the network neuroscientist. Network Neuroscience 3, 656{673.</p>
+<p>Rouse TC, Ni AM, Huang C, Cohen MR (2021). Topological insights into the neural basis of flexible behavior. bioRxiv doi: https://doi.org/10.1101/2021.09.24.461717 Wu-Yan, E., Betzel, R.F., Tang, E., Gu, S., Pasqualetti, F., and Bassett, D.S. (2020).</p>
+<p>Benchmarking measures of network controllability on canonical graph models. Journal of Nonlinear Science 30, 2195{2233.</p>
+</section>
+</section>
+<section id="madineh-sedigh-sarvestani">
+<h2>Madineh Sedigh-Sarvestani<a class="headerlink" href="#madineh-sedigh-sarvestani" title="Permalink to this heading"></a></h2>
+<section id="id24">
+<h3>Slides<a class="headerlink" href="#id24" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id25">
+<h3>Suggested Readings<a class="headerlink" href="#id25" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="ione-fine">
+<h2>Ione Fine<a class="headerlink" href="#ione-fine" title="Permalink to this heading"></a></h2>
+<section id="id26">
+<h3>Slides<a class="headerlink" href="#id26" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id27">
+<h3>Suggested Readings<a class="headerlink" href="#id27" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="emma-alexander">
+<h2>Emma Alexander<a class="headerlink" href="#emma-alexander" title="Permalink to this heading"></a></h2>
+<section id="id28">
+<h3>Slides<a class="headerlink" href="#id28" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id29">
+<h3>Suggested Readings<a class="headerlink" href="#id29" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="jennifer-groh">
+<h2>Jennifer Groh<a class="headerlink" href="#jennifer-groh" title="Permalink to this heading"></a></h2>
+<section id="id30">
+<h3>Suggested Readings<a class="headerlink" href="#id30" title="Permalink to this heading"></a></h3>
+<p><a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso 2018</a></p>
+<p><a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters &amp; Murphy 2018</a></p>
+<p><a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun 2019</a></p>
+</section>
+</section>
+<section id="taraz-lee">
+<h2>Taraz Lee<a class="headerlink" href="#taraz-lee" title="Permalink to this heading"></a></h2>
+<section id="id31">
+<h3>Slides<a class="headerlink" href="#id31" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id32">
+<h3>Suggested Readings<a class="headerlink" href="#id32" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="maryam-aly">
+<h2>Maryam Aly<a class="headerlink" href="#maryam-aly" title="Permalink to this heading"></a></h2>
+<section id="id33">
+<h3>Slides<a class="headerlink" href="#id33" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id34">
+<h3>Suggested Readings<a class="headerlink" href="#id34" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="kohitij-kar">
+<h2>Kohitij Kar<a class="headerlink" href="#kohitij-kar" title="Permalink to this heading"></a></h2>
+<section id="id35">
+<h3>Slides<a class="headerlink" href="#id35" title="Permalink to this heading"></a></h3>
+</section>
+<section id="id36">
+<h3>Suggested Readings<a class="headerlink" href="#id36" title="Permalink to this heading"></a></h3>
+</section>
+</section>
+<section id="lindsey-glickfeld">
+<h2>Lindsey Glickfeld<a class="headerlink" href="#lindsey-glickfeld" title="Permalink to this heading"></a></h2>
+<section id="id37">
+<h3>Suggested Readings<a class="headerlink" href="#id37" title="Permalink to this heading"></a></h3>
+<p><a href="../_static/pdfs/glickfeld/barbera2022.pdf">Barbera (2022)</a><br />
+<a href="../_static/pdfs/glickfeld/niell2021.pdf">Niell (2021)</a></p>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="schedule.html" class="btn btn-neutral float-left" title="Schedule" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="project_ideas.html" class="btn btn-neutral float-right" title="Project Ideas" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2024, Eline Kupers, Catrina Hacker, Declan Rowley.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

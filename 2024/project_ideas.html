@@ -18,7 +18,9 @@
         <script src="../_static/doctools.js"></script>
     <script src="../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
-    <link rel="search" title="Search" href="../search.html" /> 
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Course T-Shirt" href="course_tshirt_submissions.html" />
+    <link rel="prev" title="Lecture Notes" href="lecture_notes.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -37,13 +39,27 @@
 </div>
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
               <p class="caption" role="heading"><span class="caption-text">2024 Course</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../2024/schedule.html">Schedule</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2024/lecture_notes.html">Lecture Notes</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2024/project_ideas.html">Project Ideas</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2024/course_tshirt_submissions.html">Course T-Shirt</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2024/people.html">People</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../2024/photos.html">Course photos</a></li>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="schedule.html">Schedule</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lecture_notes.html">Lecture Notes</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Project Ideas</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#from-jonathan-pillow">From Jonathan Pillow</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#lindsey-glickfeld">Lindsey Glickfeld</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#emily-cooper">Emily Cooper</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#ej-chichilnisky">EJ Chichilnisky</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#marlene-cohen">Marlene Cohen</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#eero-simoncelli">Eero Simoncelli</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#kate-bonnen">Kate Bonnen</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#suggestions-related-to-eero-s-plenoptic-code-repository">Suggestions related to Eero’s plenoptic code repository</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#anitha-pasupathy">Anitha Pasupathy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#jennifer-groh">Jennifer Groh</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="course_tshirt_submissions.html">Course T-Shirt</a></li>
+<li class="toctree-l1"><a class="reference internal" href="people.html">People</a></li>
+<li class="toctree-l1"><a class="reference internal" href="photos.html">Course photos</a></li>
 </ul>
 <p class="caption" role="heading"><span class="caption-text">Tutorials</span></p>
 <ul>
@@ -70,7 +86,7 @@
       <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
       <li>Project Ideas</li>
       <li class="wy-breadcrumbs-aside">
-            <a href="../_sources/2022/project_ideas.md.txt" rel="nofollow"> View page source</a>
+            <a href="../_sources/2024/project_ideas.md.txt" rel="nofollow"> View page source</a>
       </li>
   </ul>
   <hr/>
@@ -80,12 +96,6 @@
              
   <section id="project-ideas">
 <h1>Project Ideas<a class="headerlink" href="#project-ideas" title="Permalink to this heading"></a></h1>
-<section id="from-felice-dunn">
-<h2>From Felice Dunn<a class="headerlink" href="#from-felice-dunn" title="Permalink to this heading"></a></h2>
-<p>Fits to frequency of seeing data to determine how quantum efficiency, dark light, and threshold can trade for each other (Teich et al., 1982, Multiplication noise in the human visual system at threshold 3. The role of non-Poisson quantum fluctuations).</p>
-<p>Model of the phototransduction cascade elements to demonstrate how single events can be amplified. Determine how the phototransduction elements and amplification can be changed to account for rod vs. cone responses. Use this model to predict responses to different stimuli types (Angueyra et al., 2022 Predicting and manipulating cone responses to naturalistic inputs)</p>
-<p>Model different motion detectors and determine how they might be distinguishable from each other (Bae et al., 2014, Space-timing wiring specificity supports direction selectivity in the retina)</p>
-</section>
 <section id="from-jonathan-pillow">
 <h2>From Jonathan Pillow<a class="headerlink" href="#from-jonathan-pillow" title="Permalink to this heading"></a></h2>
 <ol class="arabic simple">
@@ -182,57 +192,19 @@ There is a perceptual distance metric called normalized steerable pyramid distan
 <p>Using the artiphysiology approach of Pospisil et al., (2018) one could ask whether individual units in AlexNet (or another DNN) exhibit the same shape preference across different surface textures painted on the 2D shape.  Comparing the circuitry of units that show texture-invariant shape selectivity and those that do not, one could get some insights into how texture-invariant shape selectivity might be built.</p>
 <p>(Note from Dan: see <a class="reference external" href="https://models.roboflow.com/">roboflow</a> for some pre-trained PyTorch models to run)</p>
 </section>
-<section id="johannes-burge">
-<h2>Johannes Burge<a class="headerlink" href="#johannes-burge" title="Permalink to this heading"></a></h2>
-<ol class="arabic simple">
-<li><p>Code up AMA-Gauss (Jaini &amp; Burge, 2017) in PyTorch.
-Step 1: Write code that takes i) a labeled training set of stimuli, ii) an arbitrary set of filters (receptive fields), iii) defines a filter response model, and iv) uses the responses to each stimulus to compute a posterior probability distribution over the latent variable. This is the key computation.
-Step 2: Write code that computes a cost from the posterior probability distribution (e.g. L0 norm, L2 norm, KL divergence, etc.)… see the attached suppelmentary texts S4-S6 from Burge &amp; Jaini (2017). PLoS CB.
-Step 3: Write code that optimizes the filters to minimize the cost function.</p></li>
-<li><p>Code up the full version of AMA  in PyTorch (see Burge &amp; Jaini, 2017)… much harder…</p></li>
-<li><p>Code up either AMA-Gauss or the full version of AMA where the recovered filters (i.e. receptive fields) are constrained to be within a particular family of filters (e.g. Gabors).</p></li>
-</ol>
-<p>Accuracy Maximization Analysis (AMA) is a recently developed Bayesian ideal observer method for task-specific dimensionality reduction. It allows one to automatically determine the stimulus features that are most useful for performing a sensory-perceptual task of scientific interest. This tool is particularly useful for determining how to construct image-computable ideal observer models (i.e. images in, optimal estimates out) for tasks with natural signals (see Burge, 2020 for review).</p>
-<p>AMA has currently been implemented only in matlab (see link to GitHub page). Matlab, generally speaking, does not take advantage of many modern advances in model-parameter optimization. PyTorch does.</p>
-<p>The modern methods that PyTorch makes accessible should dramatically improve the practical utility of AMA by helping it avoid local minima and more quickly finding global minima, especially as problem sizes increase in scope.</p>
-<p>Notes:
-Kate Bonnen has offered to provide PyTorch-specific technical support in case somebody needs it. And I can provide project-specific know-how to anyone who needs help w. target-tracking related projects (see Kate’s email from last night).</p>
-</section>
 <section id="jennifer-groh">
 <h2>Jennifer Groh<a class="headerlink" href="#jennifer-groh" title="Permalink to this heading"></a></h2>
 <p>“How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own! “</p>
-</section>
-<section id="jenny-read">
-<h2>Jenny Read<a class="headerlink" href="#jenny-read" title="Permalink to this heading"></a></h2>
-<p><strong>Analysis of eye tracking data of faces with cleft lip</strong></p>
-<p>A group of cleft lip and palate surgeons are interested in developing better metrics of repair quality. As an initial project, we have collected eye tracking data of ~70 participants viewing 24 photos, 3 photos of 8 patients showing their face pre-op, immediately post-op and some years post-op. The participants include lay people and cleft professionals. The photos have been marked up into 20 anatomical regions of interest (ROIs). We are trying to figure out good metrics to describe patterns of eye movements, e.g. % time fixating a given ROI, or the matrix of transition probabilities between ROIs. If a student is interested in working with this dataset to try out these or their own ideas, we can supply it.</p>
-<p><strong>Modelling sensitivity to stereoscopic depth information in space and time</strong></p>
-<p>Kane et al (attached) examined the minimum (ie threshold) and maximum perceivable disparity for depth corrugations of different spatial and temporal frequencies, and concluded that they were well described by windowed cross-correlation within separable spatial and temporal windows (Rogers &amp; Bradshaw, attached). In their stimuli, the depth corrugations were all horizontally oriented. Thus, they could not examine the well-known stereo anisotropy, whereby at low spatial frequencies disparity thresholds are lower (ie stereoacuity is better) for horizontally-oriented depth corrugations compared to vertical. My collaborator Prof Ignacio Serrano-Pedraza at Universidad Complutense de Madrid has collected disparity thresholds for both horizontal and vertical disparity gratings as a function of spatial and temporal frequency. In this project, you will reproduce the methods of Kane et al but with an anisotropic spatial window, i.e. allowing the window to extend further horizontally than vertically. You will fit this model to Prof Serrano-Pedraza’s dataset in order to assess whether this generalisation can account simultaneously for thresholds to gratings of both orientations.</p>
-</section>
-<section id="josh-gold">
-<h2>Josh Gold<a class="headerlink" href="#josh-gold" title="Permalink to this heading"></a></h2>
-<p>Use a task like the one here (https://elifesciences.org/articles/73610) to find the limits, in terms of number of objects and length of time they need to be stored, at which individual items are no longer stored in visual memory individually and instead are aggregated into a decision variable.</p>
-<p>Use the information-bottleneck (https://openresearchsoftware.metajnl.com/articles/10.5334/jors.322/) to show how real or simulated behavioral data from a 2AFC task can reflect similar overall performance (e.g., measured as % correct) but radically different decision strategies that range from the relatively effective use of a restricted subset of task-relevant stimuli to the relatively ineffective use of all task-relevant stimuili.</p>
-</section>
-<section id="tatiana-engel">
-<h2>Tatiana Engel<a class="headerlink" href="#tatiana-engel" title="Permalink to this heading"></a></h2>
-<p><strong>Representational geometry of visual stimuli across the mouse brain during IBL task</strong></p>
-<p>International Brain Laboratory (IBL) is a large-scale collaboration which aims to understand brain-wide computations underlying complex behavior. IBL records neural activity from all areas of the mouse brain with Neuropixels probes while mice perform a two-alternative forced-choice visual discrimination task. On each trial, a visual grating stimulus appears on the right or left side of the screen, and the mouse needs to turn a wheel to bring the stimulus to the screen center. The task has a hidden block structure. In a left block, the stimuli are more likely to appear on the left. In a right block, they are more likely to appear on the right. The blocks switch stochastically without an explicit cue provided to the mouse. The mouse needs to discriminate left and right stimuli, and also it needs to incorporate the block prior information to perform the task optimally. Details of the task and mouse behavior are described in https://elifesciences.org/articles/63711.</p>
-<p>Neural activity across many brain regions changes in response to different task variables. The task variables include the location of the visual stimulus (left vs. right), stimulus contrast, the current block, and the animal’s choice on each trial. Mouse behavior indicates that mice use block prior information to guide their choices. We may, therefore, expect that representations of visual stimuli change depending on the block. The representation of stimuli may also differ between correct and error trials. In addition, we expect that the representations of visual stimuli differ across brain areas. Early sensory areas may carry a more veridical representation of stimuli, whereas association and motor areas may represent stimuli in a more categorical way reflecting the binary choice.</p>
-<p>The project can use the representational geometry tools to explore how representations of visual stimuli depend on the block and choice and how they differ across brain regions. For example, for each combination of block and choice, you can compute the representational dissimilarity matrix (RDM) for visual stimuli (for each contrast level on each left and right side) using neural activity in several brain region. You can compare these RDMs across conditions and brain areas. Do we see a block structure in RDM indicating a categorical representation? Do we see that on error trials the stimulus representations collapse (distances shrink) leading to poor discriminability?</p>
-<ul class="simple">
-<li><p>You can experiment with different definitions of distances, such as a simple Euclidian distance based just on the mean trial-average firing rates versus Mahalonobis distance that takes the noise covariance matrix into account. You can experiment with using the square-root transform (variance stabilizing transform) that makes noise more Gaussian-like (suitable for Mahalonobis distance). You can find technical details about computing distances in this review paper: https://www.nature.com/articles/s41583-021-00502-3.</p></li>
-<li><p>You can also visualize the manifold of neural responses using the multidimensional scaling algorithm.</p></li>
-<li><p>You can explore the tuning properties of neurons that are used to compute RDMs. Can you find lawful relationship between tuning curves properties and RDMs?</p></li>
-</ul>
-<p>You can download the IBL dataset here: https://int-brain-lab.github.io/iblenv/notebooks_external/data_release_repro_ephys.html</p>
 </section>
 </section>
 
 
            </div>
           </div>
-          <footer>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="lecture_notes.html" class="btn btn-neutral float-left" title="Lecture Notes" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="course_tshirt_submissions.html" class="btn btn-neutral float-right" title="Course T-Shirt" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
 
   <hr/>
 
