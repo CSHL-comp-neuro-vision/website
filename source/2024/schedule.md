@@ -133,8 +133,8 @@
 <tbody>
   <tr>
     <td class="tg-left">9:30am</td>
-    <td class="tg-73oq">Rachel Denison</td>
-    <td class="tg-lmxn">Dynamics of Visual Attention</span></td>
+    <td class="tg-73oq">Dynamics of Visual Attention</td>
+    <td class="tg-lmxn">Rachel Denison</td>
   </tr>
   <tr>
     <td class="tg-left">1:00pm</td>
