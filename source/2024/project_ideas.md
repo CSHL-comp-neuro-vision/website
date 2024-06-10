@@ -114,3 +114,5 @@ Using the artiphysiology approach of Pospisil et al., (2018) one could ask wheth
 ## Jennifer Groh
 
 "How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own! "
+
+## Madineh Sedigh-Sarvestani
