@@ -56,7 +56,10 @@
 <li class="toctree-l2"><a class="reference internal" href="#anitha-pasupathy">Anitha Pasupathy</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#jennifer-groh">Jennifer Groh</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#madineh-sedigh-sarvestani">Madineh Sedigh-Sarvestani</a></li>
+<<<<<<< HEAD
 <li class="toctree-l2"><a class="reference internal" href="#mariam-aly">Mariam Aly</a></li>
+=======
+>>>>>>> 25bc7bbcc89c52c22e3c3c581034b72e38b1385c
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="course_tshirt_submissions.html">Course T-Shirt</a></li>
@@ -184,33 +187,35 @@ In the same vain, I’d like to see how well the portilla model does at discrimi
 It would be interesting to use eigendistortions to understand the computational role of layers deep inside a network (/biological system). Instead of end2end maximally minimally visible distortions, one could ask for changes in an image that result in changes of the representation in layer i that is most / least visible to layer j. Same question could be asked of unit i and unit j. Same question can be asked for the curvature of sequences (geodesics), which would help understand what piece in a net do straightening and how.
 An idea to help understand the shape of the natural image manifold is to use triplets of related images and a model to measure the angles between the geodesics that link them, the shapes of these triangles would reveal the local curvature of the space as seen by the model.
 A texture aware (full reference) perceptual metric would compare isolated features accurately (allowing for shifts and changes in luminance/contrast) while comparing textures loosely (using local statistics only)- and gradually interpolate between these two extremes. A step in that direction is to build a normalized steerable pyramid distance (an evolution of the normalized laplacian pyramid) with a texture/feature gate given by the ratio of local representation std to local representation mean. One would then show that the metric is tolerant to resamplings of texture patterns and sensitive to the exact form of isolated features, just like our visual experience (ie do psychophysics).</p>
-<p><strong>From Xinyuan Zhao</strong>
-There is a perceptual distance metric called normalized steerable pyramid distance (NSPD) in the code. It is analogous to the published work of normalized Laplacian pyramid distance (NLPD), only replacing the Laplacian pyramid with the steerable pyramid. I have spent some time working on it, but did not get it to perform very well (now about the same as NLPD). Maybe it can be improved by summer school students.</p>
+      <p><strong>From Xinyuan Zhao</strong>
+      There is a perceptual distance metric called normalized steerable pyramid distance (NSPD) in the code. It is analogous to the published work of normalized Laplacian pyramid distance (NLPD), only replacing the Laplacian pyramid with the steerable pyramid. I have spent some time working on it, but did not get it to perform very well (now about the same as NLPD). Maybe it can be improved by summer school students.</p>
+      </section>
 </section>
-</section>
-<section id="anitha-pasupathy">
-<h2>Anitha Pasupathy<a class="headerlink" href="#anitha-pasupathy" title="Permalink to this heading"></a></h2>
-<p>In Kim et al., 2019, we demonstrated that shape selectivity in V4 is independent of texture selectivity. In other words, selectivity for 2D shape is similar regardless of the surface texture that’s painted on the shape. This argues against the possibility that shape selectivity is a by-product of preference for higher order texture statistics in V4 (Okazawa et al., 2013).</p>
-<p>Using the artiphysiology approach of Pospisil et al., (2018) one could ask whether individual units in AlexNet (or another DNN) exhibit the same shape preference across different surface textures painted on the 2D shape.  Comparing the circuitry of units that show texture-invariant shape selectivity and those that do not, one could get some insights into how texture-invariant shape selectivity might be built.</p>
-<p>(Note from Dan: see <a class="reference external" href="https://models.roboflow.com/">roboflow</a> for some pre-trained PyTorch models to run)</p>
-</section>
-<section id="jennifer-groh">
-<h2>Jennifer Groh<a class="headerlink" href="#jennifer-groh" title="Permalink to this heading"></a></h2>
-<p>“How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own! “</p>
-</section>
-<section id="madineh-sedigh-sarvestani">
-<h2>Madineh Sedigh-Sarvestani<a class="headerlink" href="#madineh-sedigh-sarvestani" title="Permalink to this heading"></a></h2>
-</section>
-<section id="mariam-aly">
-<h2>Mariam Aly<a class="headerlink" href="#mariam-aly" title="Permalink to this heading"></a></h2>
-<p>Design and program a behavioral experiment that assesses relational attention and/or perception. The task should be designed to tax hippocampal representations, based on the knowledge you acquired from the assigned readings above. You can use PsychoPy, PsychToolBox for Matlab, Gorilla, jsPsych, Pavlovia, or similar software. For inspiration, read about the behavioral tasks in these studies:</p>
-<ul class="simple">
-<li><p>Córdova NI, Turk‐Browne NB, Aly M. Focusing on what matters: Modulation of the human hippocampus by relational attention. Hippocampus. 2019 Nov;29(11):1025-37. https://pubmed.ncbi.nlm.nih.gov/30779473/</p></li>
-<li><p>Ruiz NA, Meager MR, Agarwal S, Aly M. The medial temporal lobe is critical for spatial relational perception. Journal of Cognitive Neuroscience. 2020 Sep 1;32(9):1780-95. https://pubmed.ncbi.nlm.nih.gov/32427068/</p></li>
-</ul>
-</section>
-</section>
+      <section id="anitha-pasupathy">
+      <h2>Anitha Pasupathy<a class="headerlink" href="#anitha-pasupathy" title="Permalink to this heading"></a></h2>
+      <p>In Kim et al., 2019, we demonstrated that shape selectivity in V4 is independent of texture selectivity. In other words, selectivity for 2D shape is similar regardless of the surface texture that’s painted on the shape. This argues against the possibility that shape selectivity is a by-product of preference for higher order texture statistics in V4 (Okazawa et al., 2013).</p>
+      <p>Using the artiphysiology approach of Pospisil et al., (2018) one could ask whether individual units in AlexNet (or another DNN) exhibit the same shape preference across different surface textures painted on the 2D shape.  Comparing the circuitry of units that show texture-invariant shape selectivity and those that do not, one could get some insights into how texture-invariant shape selectivity might be built.</p>
+      <p>(Note from Dan: see <a class="reference external" href="https://models.roboflow.com/">roboflow</a> for some pre-trained PyTorch models to run)</p>
+      </section>
 
+      <section id="jennifer-groh">
+      <h2>Jennifer Groh<a class="headerlink" href="#jennifer-groh" title="Permalink to this heading"></a></h2>
+      <p>“How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own! “</p>
+      </section>
+      <section id="madineh-sedigh-sarvestani">
+      <h2>Madineh Sedigh-Sarvestani<a class="headerlink" href="#madineh-sedigh-sarvestani" title="Permalink to this heading"></a></h2>
+      </section>
+
+      <section id="mariam-aly">
+      <h2>Mariam Aly<a class="headerlink" href="#mariam-aly" title="Permalink to this heading"></a></h2>
+      <p>Design and program a behavioral experiment that assesses relational attention and/or perception. The task should be designed to tax hippocampal representations, based on the knowledge you acquired from the assigned readings above. You can use PsychoPy, PsychToolBox for Matlab, Gorilla, jsPsych, Pavlovia, or similar software. For inspiration, read about the behavioral tasks in these studies:</p>
+      <ul class="simple">
+      <li><p>Córdova NI, Turk‐Browne NB, Aly M. Focusing on what matters: Modulation of the human hippocampus by relational attention. Hippocampus. 2019 Nov;29(11):1025-37. https://pubmed.ncbi.nlm.nih.gov/30779473/</p></li>
+      <li><p>Ruiz NA, Meager MR, Agarwal S, Aly M. The medial temporal lobe is critical for spatial relational perception. Journal of Cognitive Neuroscience. 2020 Sep 1;32(9):1780-95. https://pubmed.ncbi.nlm.nih.gov/32427068/</p></li>
+      </ul>
+      </section>
+
+</section>
 
            </div>
           </div>
