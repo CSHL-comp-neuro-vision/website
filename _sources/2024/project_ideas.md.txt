@@ -114,3 +114,12 @@ Using the artiphysiology approach of Pospisil et al., (2018) one could ask wheth
 ## Jennifer Groh
 
 "How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own! "
+
+## Madineh Sedigh-Sarvestani
+
+## Mariam Aly
+
+Design and program a behavioral experiment that assesses relational attention and/or perception. The task should be designed to tax hippocampal representations, based on the knowledge you acquired from the assigned readings above. You can use PsychoPy, PsychToolBox for Matlab, Gorilla, jsPsych, Pavlovia, or similar software. For inspiration, read about the behavioral tasks in these studies:
+* Córdova NI, Turk‐Browne NB, Aly M. Focusing on what matters: Modulation of the human hippocampus by relational attention. Hippocampus. 2019 Nov;29(11):1025-37. https://pubmed.ncbi.nlm.nih.gov/30779473/
+* Ruiz NA, Meager MR, Agarwal S, Aly M. The medial temporal lobe is critical for spatial relational perception. Journal of Cognitive Neuroscience. 2020 Sep 1;32(9):1780-95. https://pubmed.ncbi.nlm.nih.gov/32427068/
+
