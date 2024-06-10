@@ -232,7 +232,14 @@ Benchmarking measures of network controllability on canonical graph models. Jour
 
 ### Slides
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part1.pdf">Part 1</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part2.pdf">Part 2</a>
+
 ### Suggested Readings
+
+* Aly M, Turk-Browne NB. Flexible weighting of diverse inputs makes hippocampal function malleable. Neuroscience Letters. 2018 Jul 27;680:13-22. https://pubmed.ncbi.nlm.nih.gov/28587901/
+
+* Turk-Browne NB. The hippocampus as a visual area organized by space and time: A spatiotemporal similarity hypothesis. Vision research. 2019 Dec 1;165:123-30. https://pubmed.ncbi.nlm.nih.gov/31734633/
 
 ## Kohitij Kar
 
