@@ -14,22 +14,67 @@
 <table class="tg">
 <thead>
   <tr>
+    <th class="tg-jn54" colspan="3"><span style="font-weight:bold">Daily Schedule</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-left">8:00-9:30am</td>
+    <td class="tg-73oq">Breakfast</td>
+    <td class="tg-lmxn">Robertson</td>
+  </tr>
+  <tr>
+    <td class="tg-left">9:30-11.30am</td>
+    <td class="tg-73oq">Morning lecture (with 10 min break)</a></td>
+    <td class="tg-lmxn">Banbury</span></td>
+  </tr>
+  <tr>
+    <td class="tg-left">11:30am-1:00pm</td>
+    <td class="tg-73oq">Lunch</a></td>
+    <td class="tg-lmxn">Meyer</td>
+  </tr>
+  <tr>
+    <td class="tg-left">1:00-3:00pm</td>
+    <td class="tg-73oq">Afternoon lecture (with 10 min break)</a></td>
+    <td class="tg-lmxn">Banbury</td>
+  </tr>
+  <tr>
+    <td class="tg-left">3:00-6:00pm</td>
+    <td class="tg-73oq">Project time / tutorials</a></td>
+    <td class="tg-lmxn">Banbury</td>
+  </tr>
+  <tr>
+    <td class="tg-left">6:00-7:30pm</td>
+    <td class="tg-73oq">Dinner</a></td>
+    <td class="tg-lmxn">Robertson</td>
+  </tr>
+  <tr>
+    <td class="tg-left">7:30-late</td>
+    <td class="tg-73oq">Sometimes evening activity (informal talk, trivia, etc.)</a></td>
+    <td class="tg-lmxn">Depends on activity (Check with organizers)</td>
+  </tr>
+</tbody>
+</table>
+
+<table class="tg">
+<thead>
+  <tr>
     <th class="tg-jn54" colspan="3"><span style="font-weight:bold">Wednesday, July 10, 2024</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:00am</td>
+    <td class="tg-left">9:00-9:30am</td>
     <td class="tg-73oq">Welcome</td>
-    <td class="tg-lmxn"></td>
+    <td class="tg-lmxn">John Serences & EJ Chichilnisky</td>
   </tr>
   <tr>
-    <td class="tg-left">9:30am</td>
+    <td class="tg-left">9:30-11.30am</td>
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#ej-chichilnisky">Neural Code of the Retina</a></td>
     <td class="tg-lmxn">EJ Chichilnisky</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2022/lecture_notes.html#john-serences">Models of Attention</a></td>
     <td class="tg-lmxn">John Serences</td>
   </tr>
@@ -46,18 +91,18 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30am</td>
+    <td class="tg-left">9:30-11.30am</td>
     <td class="tg-73oq">Natural Scene Statistics</td>
     <td class="tg-lmxn">Eero Simoncelli</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Early Vision and Natural Scenes/Natural Behavior</td>
     <td class="tg-lmxn">Stephanie Palmer</td>
   </tr>
   <tr>
-    <td class="tg-left">3:00pm</td>
-    <td class="tg-73oq">(Optional) Coding tutorial</td>
+    <td class="tg-left">3:00-5:00pm</td>
+    <td class="tg-73oq">(Optional) Python coding tutorial</td>
     <td class="tg-lmxn">John Serences</td>
   </tr>
 </tbody>
@@ -73,17 +118,17 @@
 </thead>
 <tbody>
     <tr>
-    <td class="tg-left">9:30am</td>
+    <td class="tg-left">9:30-11.30am</td>
     <td class="tg-73oq">Neural Encoding models & GLMs</td>
     <td class="tg-lmxn">Jonathan Pillow</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Eye Movements and Early Visual Processing</td>
     <td class="tg-lmxn">Jacob Yates</span></td>
   </tr>
   <tr>
-    <td class="tg-left">3:00pm</td>
+    <td class="tg-left">3:00-5:00pm</td>
     <td class="tg-73oq">(Optional) Plenoptic Toolbox Tutorial</td>
     <td class="tg-lmxn">Billy Broderick</td>
   </tr>
@@ -105,12 +150,12 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30am</td>
+    <td class="tg-left">9:30-11.30am</td>
     <td class="tg-73oq">Latent Variable Models, Perception as Inference</td>
     <td class="tg-lmxn">Lea Duncker</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Peripheral Vision and Attention</td>
     <td class="tg-lmxn">Ruth Rosenholtz</td>
   </tr>
@@ -132,17 +177,17 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30am</td>
+    <td class="tg-left">9:30-11.30am</td>
     <td class="tg-73oq">Dynamics of Visual Attention</td>
     <td class="tg-lmxn">Rachel Denison</td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Visual Motion Processing</td>
     <td class="tg-lmxn">Tony Movshon</td>
   </tr>
   <tr>
-    <td class="tg-left">8:00pm</td>
+    <td class="tg-left">7:30pm</td>
     <td class="tg-73oq">TA Talks</td>
     <td class="tg-lmxn">Catrina Hacker, Eline Kupers, Declan Rowley</td>
   </tr>
@@ -159,12 +204,12 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30am</td>
+    <td class="tg-left">9:30-11.30am</td>
     <td class="tg-73oq">Continuous Psychophysics and 'natural' vision</td>
     <td class="tg-lmxn">Kate Bonnen</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Half day off</td>
     <td class="tg-lmxn"></td>
   </tr>
@@ -181,17 +226,17 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30am</td>
+    <td class="tg-left">9:30-11:30am</td>
     <td class="tg-73oq">TBD</td>
     <td class="tg-lmxn">Stefan Treue</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Binocular Vision</td>
     <td class="tg-lmxn">Emily Cooper</td>
   </tr>
   <tr>
-    <td class="tg-left">8:00pm</td>
+    <td class="tg-left">7:30pm</td>
     <td class="tg-73oq">Animal Research Discussion</td>
     <td class="tg-lmxn">Stefan Treue</td>
   </tr>
@@ -208,17 +253,17 @@
 </thead>
 <tbody>
 <tr>
-    <td class="tg-left">9:30am</td>
+    <td class="tg-left">9:30-11:30am</td>
     <td class="tg-73oq">Relating Neural Populations to Behavior</td>
     <td class="tg-lmxn">Marlene Cohen</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Cross-species Organization of the Visual System</td>
     <td class="tg-lmxn">Madineh Sedigh-Sarvestani</td>
   </tr>
   <tr>
-    <td class="tg-left">8:00pm</td>
+    <td class="tg-left">7:30pm</td>
     <td class="tg-73oq">Vision Trivia</td>
     <td class="tg-lmxn">Emily Cooper</td>
   </tr>
@@ -235,12 +280,12 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30am</td>
+    <td class="tg-left">9:30-11:30am</td>
     <td class="tg-73oq">Sight Restoration</td>
     <td class="tg-lmxn">Ione Fine</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Defocus</td>
     <td class="tg-lmxn">Emma Alexander</td>
   </tr>
@@ -262,7 +307,7 @@
     <td class="tg-lmxn"></td>
   </tr>
   <tr>
-    <td class="tg-left">12:00pm</td>
+    <td class="tg-left">1:00pm</td>
     <td class="tg-73oq">Day-off</td>
     <td class="tg-lmxn"></td>
   </tr>
@@ -279,12 +324,12 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:00am</td>
+    <td class="tg-left">9:30-11:30am</td>
     <td class="tg-73oq">Neural Codes - Unsolved Problems</td>
     <td class="tg-lmxn">Jennifer Groh</td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Cognitive-Motor-Visual Interactions</td>
     <td class="tg-lmxn">Taraz Lee</span></td>
   </tr>
@@ -302,12 +347,12 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:00am</td>
+    <td class="tg-left">9:30-11:30am</td>
     <td class="tg-73oq">Hierarchical Processing from Vision to Memory</td>
     <td class="tg-lmxn">Mariam Aly</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq">Neural Mechanisms Underlying Object Recognition in Primates</td>
     <td class="tg-lmxn">Kohitij Kar</span></td>
   </tr>
@@ -330,18 +375,13 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:00am</td>
+    <td class="tg-left">9:30am-11:30</td>
     <td class="tg-73oq">Normalization</td>
     <td class="tg-lmxn">Lindsey Glickfeld</span></td>
   </tr>
   <tr>
     <td class="tg-left">Afternoon</td>
     <td class="tg-73oq">Break for Finishing Projects</td>
-    <td class="tg-lmxn"></td>
-  </tr>
-  <tr>
-    <td class="tg-left">6:00pm</td>
-    <td class="tg-73oq">Course Banquet at Robertson</td>
     <td class="tg-lmxn"></td>
   </tr>
 </tbody>
@@ -363,7 +403,7 @@
   </tr>
   <tr>
     <td class="tg-left">12:00pm</td>
-    <td class="tg-73oq">Wrap-up Discussions</td>
+    <td class="tg-73oq">Wrap-up Discussions & Graduation</td>
     <td class="tg-lmxn"></td>
   </tr>
   <tr>

@@ -24,6 +24,18 @@ Relevant refs:
  - Carandini and Heeger. Summation and division by neurons in primate visual cortex. Science (1994).
  - Pillow et al. “Spatio-temporal correlations and visual signalling in a complete neuronal population”.  Nature (2008).
 
+ 3)  Compare GLM and deep neural networks - try out deep learning on some real neural data. See eg
+Deep convolutional models improve predictions of macaque V1 responses to natural images https://journals.plos.org/ploscompbiol/article?id=10.1371/ journal.pcbi.1006897 [2].
+
+Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses https://openreview.net/forum?id=HkEI22jeg [3].
+
+A recent paper argued that “modern machine learning” outperforms GLMs in many cases (although in the detailed results shown, GLM outperforms a deep neural network on most of the examples considered). Download their datasets and see if you can do better:
+
+Paper: https://www.frontiersin.org/articles/10.3389/fncom.2018.00056/ full
+
+Data: https://github.com/KordingLab/spykesML/tree/master/data
+(There are a lot of possible ways to think about improving: the paper did not consider different nonlinearities and made only limited attempts to select GLM features). 
+
 ## Lindsey Glickfeld
 
 In [Barbera et al.](https://www.sciencedirect.com/science/article/pii/S0896627321007856), we used a simple subunit based, Hubel and Wiesel style model to predict V1 responses to gratings and plaids, and then to test the effect of mask phase on these responses. 
