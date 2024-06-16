@@ -5,9 +5,10 @@
 
 ### Suggested Readings
 
-<a href="../_static/pdfs/chichilnisky/Pillow2008.pdf">Pillow (2008)</a>\
-<a href="../_static/pdfs/chichilnisky/Muratore2019c">Muratore (2019)</a>\
-<a href="../_static/pdfs/chichilnisky/Shah2020a">Shah (2020)</a>
+<a href="../_static/pdfs/chichilnisky/Pillow2008.pdf">Pillow, J.W., Shlens, J., Paninski, L., Sher, A., Litke, A.M., Chichilnisky, E.J. & Simoncelli, E.P. (2008) Spatio-temporal correlations and visual signalling in a complete neuronal population</a>\
+<a href="../_static/pdfs/chichilnisky/Muratore2019c">Muratore, D.G. & Chichilnisky, E.J. (2019) Artificial Retina: A Future Cellular-Resolution Brain-Machine Interface </a>\
+<a href="../_static/pdfs/chichilnisky/Shah2020a">Shah, N.P., Brackbill, N., Rhoades, C., Kling, A., Goetz, G., Litke, A.M., Sher, A., Simoncelli, E.P. & A. Chichilnisky, E.J. (2020) Inference of nonlinear receptive field subunits with spike-triggered clustering</a>
+
 
 ## John Serences 
 
@@ -19,9 +20,10 @@
 
 Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
 
+
 ## Eero Simoncelli
 
-My Official and Unofficial Bios (since I failed to introduce myself):
+My Official and Unofficial Bios:
 https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli
 
 ### Slides
@@ -31,29 +33,17 @@ https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli
 
 ### Suggested Readings
 
-• Opposing effects of selectivity and invariance in peripheral vision
-C M Ziemba and E P Simoncelli.  Nature Communications, vol.12(4597), Jul 2021.
-https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Ziemba20
+<a href="../_static/pdfs/simoncelli/ziemba-simoncelli-2021.pdf">Ziemba, C.M. and Simoncelli, E.P (2021) Opposing effects of selectivity and invariance in peripheral vision</a>
 
-• Selectivity and tolerance for visual texture in macaque V2
-C M Ziemba, J Freeman, J A Movshon and E P Simoncelli.  Proc. Nat'l Academy of Sciences, vol.113(22), pp. E3140-E3149, May 2016.
-https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Ziemba15
+<a href="../_static/pdfs/simoncelli/ziemba-freeman-movshon-simoncelli-2016.pdf">Ziemba, C.M., Freeman, J., Movshon, A.J. and Simoncelli, E.P.  (2016) Selectivity and tolerance for visual texture in macaque V2</a>
 
-• A functional and perceptual signature of the second visual area in primates
-J Freeman, C M Ziemba, D J Heeger, E P Simoncelli and J A Movshon.  Nature Neuroscience, vol.16(7), pp. 974--981, Jul 2013.
-https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Freeman13
+<a href="../_static/pdfs/simoncelli/freeman-ziemba-heeger-simoncelli-movshon-2013.pdf">Freeman, J., Ziemba, C.M., Heeger, D.J., Simoncelli, E.P. and Movshon, A.J. (2013) A functional and perceptual signature of the second visual area in primates</a>
 
-• Metamers of the ventral stream
-J Freeman and E P Simoncelli.  Nature Neuroscience, vol.14(9), pp. 1195--1201, Sep 2011.
-https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Girshick10
+<a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">Freeman, J. and Simoncelli, E.P. (2011) Metamers of the ventral stream</a>
 
-• Natural image statistics and neural representation
-E P Simoncelli and B Olshausen, 2001.
-https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Simoncelli01
+<a href="../_static/pdfs/simoncelli/simoncelli-olshausen-2001.pdf">Simoncelli, E.P. and Olshausen, B. (2001) Natural image statistics and neural representation</a>
 
-• A parametric texture model based on joint statistics of complex wavelet coefficients
-J Portilla and E P Simoncelli, 2000.
-https://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Portilla99
+<a href="../_static/pdfs/simoncelli/portilla-simoncelli-2000.pdf">Portilla, J. and Simoncelli, E.P. (2000) A parametric texture model based on joint statistics of complex wavelet coefficients</a>
 
 ### Code repository
 
@@ -62,11 +52,13 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 
 https://github.com/LabForComputationalVision/plenoptic/
 
+
 ## Stephanie Palmer
 
 ### Slides
 
 ### Suggested Readings
+
 
 ## Jonathan Pillow
 
@@ -76,20 +68,14 @@ https://github.com/LabForComputationalVision/plenoptic/
 
 ### Suggested Readings
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Pillow08_nature.html">Spatio-temporal correlations and visual signaling in a complete neuronal population</A>\
-Pillow, Shlens, Paninski, Sher , Litke, Chichilnisky, & Simoncelli. Nature (2008)
+<a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow, Shlens, Paninski, Sher , Litke, Chichilnisky, & Simoncelli (2008) Spatio-temporal correlations and visual signaling in a complete neuronal population</a>
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_ParkI_NN14.html"> (2014). Encoding and decoding in parietal cortex during sensorimotor decision-making</A>\
-Park, Meister, Huk, & Pillow. Nat. Neurosci. (2014)
+<a href="../_static/pdfs/pillow/Park-Meister-Huk-Pillow-2014.pdf">Park, Meister, Huk, & Pillow (2014) Encoding and decoding in parietal cortex during sensorimotor decision-making</a>
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_IlPark11_NIPS.html">Bayesian spike-triggered covariance</A>\
-Park Il Memming & Pillow JW. Neurips (2011).
+<a href="../_static/pdfs/pillow/Weber-Pillow-2017.pdf">Weber & Pillow (2017) Capturing the dynamical repertoire of single neurons with generalized linear models.</a>
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Weber_NC17.html">Capturing the dynamical repertoire of single neurons with generalized linear models.</A>\
-Weber & Pillow.  Neural Computation (2017). 
+<a href="../_static/pdfs/pillow/Latimer-Rieke-Pillow-2019.pdf">Latimer, Rieke, & Pillow (2019) Inferring synaptic inputs from spikes with a conductance-based neural encoding model</a>
 
-• <A HREF="http://pillowlab.princeton.edu/pubs/abs_Latimer_eLife19.html">Inferring synaptic inputs from spikes with a conductance-based neural encoding model</A>\
-Latimer, Rieke, & Pillow.  Elife (2019). 
 
 ## Jacob Yates
 
@@ -97,11 +83,13 @@ Latimer, Rieke, & Pillow.  Elife (2019).
 
 ### Suggested Readings
 
+
 ## Lea Duncker
 
 ### Slides
 
 ### Suggested Readings
+
 
 ## Ruth Rosenholtz
 
@@ -109,11 +97,13 @@ Latimer, Rieke, & Pillow.  Elife (2019).
 
 ### Suggested Readings
 
+
 ## Rachel Denison
 
 ### Slides
 
 ### Suggested Readings
+
 
 ## Tony Movshon
 
@@ -125,22 +115,23 @@ Latimer, Rieke, & Pillow.  Elife (2019).
 
 ### Suggested Readings
 
-<a href="../_static/pdfs/movshon/marr-1982-chapter1.pdf">Marr (1982)</a>\
-<a href="../_static/pdfs/movshon/barlow-1961.pdf">Barlow (1961)</a>
+<a href="../_static/pdfs/movshon/marr-1982-chapter1.pdf">Marr (1982) Chapter 1: The Philosophy and Approach, Vision</a>\
+<a href="../_static/pdfs/movshon/barlow-1961.pdf">Barlow (1961) Possible Principles Underlying the Transformations of Sensory Messages</a>
 
 For MT:
 
-<a href="../_static/pdfs/movshon/adelson-bergen-1985.pdf">Adelson & Bergen (1985)</a>\
-<a href="../_static/pdfs/movshon/rust-mante-simoncelli-movshon-2006.pdf">Rust et al. (2006)</a>
+<a href="../_static/pdfs/movshon/adelson-bergen-1985.pdf">Adelson & Bergen (1985) Spatiotemporal  energy  models  for  the  perception  of  motion</a>\
+<a href="../_static/pdfs/movshon/rust-mante-simoncelli-movshon-2006.pdf">Rust, N.C., Mante V., Simoncelli, E.J. & Anthony Movshon, A.J. (2006) How MT cells analyze the motion of visual patterns</a>
 
 Also see:
 
-<a href="../_static/pdfs/movshon/adelson-bergen-1991.pdf">Adelson & Bergen (1991)</a>\
-<a href="../_static/pdfs/movshon/anderson-1972.pdf">Anderson (1972)</a>\
-<a href="../_static/pdfs/movshon/barlow-1972.pdf">Barlow (1972)</a>\
-<a href="../_static/pdfs/movshon/enroth-cugell-robson-1984.pdf">Enroth, Cugell, Robson (1984)</a>\
-<a href="../_static/pdfs/movshon/lennie-movshon-2005.pdf">Lennie & Movshon (2005)</a>\
-<a href="../_static/pdfs/movshon/movshon-simoncelli-2014.pdf">Movshon & Simoncelli (2014)</a>
+<a href="../_static/pdfs/movshon/adelson-bergen-1991.pdf">Adelson & Bergen (1991) The Plenoptic Function and the Elements of Early Vision</a>\
+<a href="../_static/pdfs/movshon/anderson-1972.pdf">Anderson (1972) More is Different</a>\
+<a href="../_static/pdfs/movshon/barlow-1972.pdf">Barlow (1972) Single  units  and  sensation: A neuron  doctrine for  perceptual psychology?</a>\
+<a href="../_static/pdfs/movshon/enroth-cugell-robson-1984.pdf">Enroth, Cugell, Robson (1984) Functional  Characteristics  and  Diversity  of Cat  Retinal  Ganglion Cells</a>\
+<a href="../_static/pdfs/movshon/lennie-movshon-2005.pdf">Lennie & Movshon (2005) Coding of color and form in the geniculostriate visual pathway</a>\
+<a href="../_static/pdfs/movshon/movshon-simoncelli-2014.pdf">Movshon & Simoncelli (2014) Representation of Naturalistic Image Structure in the Primate Visual Cortex</a>
+
 
 ## Kate Bonnen
 
@@ -148,21 +139,21 @@ Also see:
 
 ### Suggested Readings
 
-1. Bonnen, K., Burge, J., Yates, J., Pillow, J., & Cormack, L. K. (2015). Continuous psychophysics: Target-tracking to measure visual sensitivity. Journal of vision, 15(3), 14-14.
-https://jov.arvojournals.org/article.aspx?articleid=2301260
+1. <a href="../_static/pdfs/bonnen/bonnen-et-al-2015.pdf">Bonnen, K., Burge, J., Yates, J., Pillow, J., & Cormack, L. K. (2015). Continuous psychophysics: Target-tracking to measure visual sensitivity</a>
 
-2. Noel, J. P., Caziot, B., Bruni, S., Fitzgerald, N. E., Avila, E., & Angelaki, D. E. (2021). Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making. Progress in Neurobiology, 201, 101996.
+2. <a href="../_static/pdfs/bonnen/noel-et-al-2021.pdf">Noel, J. P., Caziot, B., Bruni, S., Fitzgerald, N. E., Avila, E., & Angelaki, D. E. (2021). Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making</a>
 
-3. Matthis, J. S., Yates, J. L., & Hayhoe, M. M. (2018). Gaze and the control of foot placement when walking in natural terrain. Current Biology, 28(8), 1224-1233.
- https://www-cell-com.proxyiub.uits.iu.edu/current-biology/pdfExtended/S0960-9822(18)30309-9
+3. <a href="../_static/pdfs/bonnen/matthis-yates-hayhoe-2018.">Matthis, J. S., Yates, J. L., & Hayhoe, M. M. (2018). Gaze and the control of foot placement when walking in natural terrain</a>
 
-4. Bonnen, K., Matthis, J. S., Gibaldi, A., Banks, M. S., Levi, D. M., & Hayhoe, M. (2021). Binocular vision and the control of foot placement during walking in natural terrain. Scientific reports, 11(1), 1-12.
+4. <a href="../_static/pdfs/bonnen/bonnen-et-al-2021.pdf">Bonnen, K., Matthis, J. S., Gibaldi, A., Banks, M. S., Levi, D. M., & Hayhoe, M. (2021). Binocular vision and the control of foot placement during walking in natural terrain. </a>
+
 
 ## Stefan Treue
 
 ### Slides
 
 ### Suggested Readings
+
 
 ## Emily Cooper
 
@@ -176,23 +167,25 @@ My lecture period is focused on understanding eye movements in both natural and 
 
 • <a href="../_static/pdfs/cooper/Padmanaban2017.pdf">Padmanaban, Nitish, et al. "Optimizing virtual reality for all users through gaze-contingent and adaptive focus displays." Proceedings of the National Academy of Sciences 114.9 (2017): 2183-2188.</a>
 
+
 ## Marlene Cohen
 
 ### Suggested Readings
 
 **This one first:**
-<a href="../_static/pdfs/cohen/rust_cohen_2022.pdf">Rust & Cohen (2022)</a>
+<a href="../_static/pdfs/cohen/rust_cohen_2022.pdf">Rust & Cohen (2022) Priority coding in the visual system</a>
 
 **See also**
-<a href="../_static/pdfs/cohen/CohenKohn2011.pdf">Cohen & Kohn (2011)</a>
+<a href="../_static/pdfs/cohen/CohenKohn2011.pdf">Cohen & Kohn (2011) Measuring and interpreting neuronal correlations</a>
 
 I will also touch on some newer methods for analyzing neural population data. People wanting to learn more might find these papers useful:
 
-Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R., and Bassett, D.S. (2019). The importance of the whole: topological data analysis for the network neuroscientist. Network Neuroscience 3, 656{673.
+<a href="../_static/pdfs/cohen/sizemore-etal-2011.pdf">Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R., and Bassett, D.S. (2019). The importance of the whole: topological data analysis for the network neuroscientist</a>
 
-Rouse TC, Ni AM, Huang C, Cohen MR (2021). Topological insights into the neural basis of flexible behavior. bioRxiv doi: https://doi.org/10.1101/2021.09.24.461717 Wu-Yan, E., Betzel, R.F., Tang, E., Gu, S., Pasqualetti, F., and Bassett, D.S. (2020).
+<a href="../_static/pdfs/cohen/rouse-ni-huang-cohen-2011.pdf">Rouse TC, Ni AM, Huang C, Cohen MR (2021). Topological insights into the neural basis of flexible behavior</a>
 
-Benchmarking measures of network controllability on canonical graph models. Journal of Nonlinear Science 30, 2195{2233.
+<a href="../_static/pdfs/cohen/wu-yan-etal-2020.pdf">Wu-Yan, E., Betzel, R.F., Tang, E., Gu, S., Pasqualetti, F., and Bassett, D.S. (2020). Benchmarking measures of network controllability on canonical graph models </a>
+
 
 ## Madineh Sedigh-Sarvestani
 
@@ -200,17 +193,20 @@ Benchmarking measures of network controllability on canonical graph models. Jour
 
 ### Suggested Readings
 
+
 ## Ione Fine
 
 ### Slides
 
 ### Suggested Readings
 
+
 ## Emma Alexander
 
 ### Slides
 
 ### Suggested Readings
+
 
 ## Jennifer Groh
 
@@ -222,11 +218,13 @@ Benchmarking measures of network controllability on canonical graph models. Jour
 
 <a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun 2019</a>
 
+
 ## Taraz Lee
 
 ### Slides
 
 ### Suggested Readings
+
 
 ## Maryam Aly
 
@@ -246,6 +244,7 @@ Benchmarking measures of network controllability on canonical graph models. Jour
 ### Slides
 
 ### Suggested Readings
+
 
 ## Lindsey Glickfeld
 
