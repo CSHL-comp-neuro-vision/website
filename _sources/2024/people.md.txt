@@ -22,7 +22,7 @@
 
 **[Eline Kupers](https://elinekupers.github.io)**
 
-<!-- <image src="../_static/images/2022/duncker_sml.jpg" alt="Catrina Hacker" position="left" style="border-radius: 8px;width:20vh"> -->
+<image src="../_static/images/2024/hacker_sml.jpg" alt="Catrina Hacker" position="left" style="border-radius: 8px;width:20vh">
 
 **[Catrina Hacker](https://catrinahacker.com/)**
 

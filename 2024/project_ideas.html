@@ -43,20 +43,28 @@
 <li class="toctree-l1"><a class="reference internal" href="schedule.html">Schedule</a></li>
 <li class="toctree-l1"><a class="reference internal" href="lecture_notes.html">Lecture Notes</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Project Ideas</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#from-jonathan-pillow">From Jonathan Pillow</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#lindsey-glickfeld">Lindsey Glickfeld</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#emily-cooper">Emily Cooper</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#ej-chichilnisky">EJ Chichilnisky</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#marlene-cohen">Marlene Cohen</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#john-serences">John Serences</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#eero-simoncelli">Eero Simoncelli</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#kate-bonnen">Kate Bonnen</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#suggestions-related-to-eero-s-plenoptic-code-repository">Suggestions related to Eero’s plenoptic code repository</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="#anitha-pasupathy">Anitha Pasupathy</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#jennifer-groh">Jennifer Groh</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#stephanie-palmer">Stephanie Palmer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#jonathan-pillow">Jonathan Pillow</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#jacob-yates">Jacob Yates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#lea-duncker">Lea Duncker</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#ruth-rosenholtz">Ruth Rosenholtz</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#rachel-denison">Rachel Denison</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#tony-movshon">Tony Movshon</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#kate-bonnen">Kate Bonnen</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#stefan-treue">Stefan Treue</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#emily-cooper">Emily Cooper</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#marlene-cohen">Marlene Cohen</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#madineh-sedigh-sarvestani">Madineh Sedigh-Sarvestani</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#ione-fine">Ione Fine</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#emma-alexander">Emma Alexander</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#jennifer-groh">Jennifer Groh</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#taraz-lee">Taraz Lee</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#mariam-aly">Mariam Aly</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#kohitij-kar">Kohitij Kar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#lindsey-glickfeld">Lindsey Glickfeld</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="course_tshirt_submissions.html">Course T-Shirt</a></li>
@@ -98,8 +106,28 @@
              
   <section id="project-ideas">
 <h1>Project Ideas<a class="headerlink" href="#project-ideas" title="Permalink to this heading"></a></h1>
-<section id="from-jonathan-pillow">
-<h2>From Jonathan Pillow<a class="headerlink" href="#from-jonathan-pillow" title="Permalink to this heading"></a></h2>
+<section id="ej-chichilnisky">
+<h2>EJ Chichilnisky<a class="headerlink" href="#ej-chichilnisky" title="Permalink to this heading"></a></h2>
+<p>download Pillow data set, fit GLM. test if we can do better with some kind of subunit model fit (Shah 2020 paper)?</p>
+</section>
+<section id="john-serences">
+<h2>John Serences<a class="headerlink" href="#john-serences" title="Permalink to this heading"></a></h2>
+</section>
+<section id="eero-simoncelli">
+<h2>Eero Simoncelli<a class="headerlink" href="#eero-simoncelli" title="Permalink to this heading"></a></h2>
+<p>Metamers: given a model and a reference image, stochastically generate a new image whose model representation is identical to that of the reference image.  [ref:  Freeman &amp; Simoncelli 2011]</p>
+<p>Eigendistortions: given a model and a reference image, compute the image perturbation that produces the smallest and largest changes (in terms of Euclidean distance) in the model response space.  [ref: Berardino et al 2017]</p>
+<p>Maximal differentiation (MAD) competition: given two models that measure distance between images and a reference image, generate pairs of images that optimally distinguish the models. Specifically, synthesize a pair of images that the first model says are equi-distant from the reference while the second model says they are maximally/minimally distant from the reference. Synthesize a second pair with the roles of the two models reversed.  [ref: Wang &amp; Simoncelli 2008]</p>
+<p>Geodesics: given a model and two images, attempt to synthesize a sequence of images that lie on the shortest (“geodesic”) path in the model’s representation space. [ref. Henaff &amp; Simoncelli 2016]</p>
+<p>(note from Dan: not really a project idea, but a tool you could use in a project)
+My lab has produced a python library of tools to explore vision models by  synthesizing novel informative images.
+This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s here: https://github.com/LabForComputationalVision/plenoptic/. Kate Bonnen is an expert user and someone to ask questions about it.</p>
+</section>
+<section id="stephanie-palmer">
+<h2>Stephanie Palmer<a class="headerlink" href="#stephanie-palmer" title="Permalink to this heading"></a></h2>
+</section>
+<section id="jonathan-pillow">
+<h2>Jonathan Pillow<a class="headerlink" href="#jonathan-pillow" title="Permalink to this heading"></a></h2>
 <ol class="arabic simple">
 <li><p>Temporal vs. rate coding in retina (or any other dataset you’d like to examine).
 How much information is carried in the precise timing of spikes vs. in slowly-fluctuating spike rates?  One way to address this question is to decode spikes under models that incorporate vs. ignore precise spike timing information.
@@ -131,48 +159,20 @@ Deep convolutional models improve predictions of macaque V1 responses to natural
 <p>Data: https://github.com/KordingLab/spykesML/tree/master/data
 (There are a lot of possible ways to think about improving: the paper did not consider different nonlinearities and made only limited attempts to select GLM features).</p>
 </section>
-<section id="lindsey-glickfeld">
-<h2>Lindsey Glickfeld<a class="headerlink" href="#lindsey-glickfeld" title="Permalink to this heading"></a></h2>
-<p>In <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0896627321007856">Barbera et al.</a>, we used a simple subunit based, Hubel and Wiesel style model to predict V1 responses to gratings and plaids, and then to test the effect of mask phase on these responses.</p>
-<ol class="arabic simple">
-<li><p>This model built V1 cells that only have one (excitatory) subunit and orientation preference/selectivity is defined by the elongation of the long axis of the RF. However, V1 neurons typically have an “on” and an “off” subunit, and in the mouse orientation preference/selectivity is defined by the axis of overlap of these subunits. Build a new version of this model with on/off subunits and test whether this changes (A) the magnitude of cross orientation interactions and (B) the sensitivity of those interactions to mask phase.</p></li>
-<li><p>In cat/primate V1, plaid stimuli drive responses that are component selective.  However, in mouse V1, responses can be either pattern and component selective. Use this simple subunit model to (A) determine whether V1 neurons are component and/or pattern selective and (B) test whether these responses are sensitive to mask phase.</p></li>
-</ol>
-<p>The code for the model in Barbera et al. can be found here: https://figshare.com/collections/BarberaPriebeGlickfeld_Neuron_2022/5677225/ see Figure4_model_code.m</p>
+<section id="jacob-yates">
+<h2>Jacob Yates<a class="headerlink" href="#jacob-yates" title="Permalink to this heading"></a></h2>
 </section>
-<section id="emily-cooper">
-<h2>Emily Cooper<a class="headerlink" href="#emily-cooper" title="Permalink to this heading"></a></h2>
-<p>I’ve shared a (non-exhaustive) list of some public databases of natural images, depth maps, and eye movements that may be useful for projects here:</p>
-<p>https://docs.google.com/document/d/1bVTdvXXoGN4Ya4mutdEBQOQdmO6tc68uHHIccrvdlTI/edit?usp=sharing</p>
-<p>Project suggestion 1: What does your next fixation point look like?
-Using the DOVES dataset of eye movements during free-viewing of calibrated natural images (see Google Doc; https://live.ece.utexas.edu/research/doves/), select pairs of fixation points in temporal sequence and create small image patches centered on those fixation points. Characterize the visual similarity (or dissimilarity) of these pairs of sequentially fixated image patches using any approaches you’d like (e.g., mutual information, difference in slope of Fourier power spectrum, difference in orientation spectrum, difference in RMS contrast, SSIM). Next, compare the distribution of these measures to a distribution derived from randomly selected pairs of image patches. Are sequentially fixated image patches more similar or different from random pairs of image patches based on any of these measures? Be sure to control for the distance between pairs (image patches that are closer to each other are known to be more similar). If you do find a pattern, does it extend to fixated points with larger separations in time? You could try this analysis on one of the other eye movements datasets, but keep in mind that the pixel intensity values in Hollywood movies are not necessarily linear with respect to light in the world.</p>
-<p>Project suggestion 2: How far away is your next fixation?
-When engaged in natural tasks, people tend to fixate points that are relatively close to them, as compared to a random sample of points from their surrounding environment. Using the UT Austin Natural Image Databases (see Google Doc; https://natural-scenes.cps.utexas.edu/db.shtml – just the subset with co-registered images and depth maps, scroll down to “Stereo Image and Range Data Collection”), investigate potential low level fixation strategies that might recapitulate this behavior. First, simulate a set of random fixation points and plot the distribution of associated scene distances from the depth maps – this should generally match the overall distribution of distances found in the scenes. Next, try biasing your fixation points based on low level properties of the co-registered images run the scene images. For example, you could run the images through an edge detection algorithm and select a random sample of points that fall on luminance edges. You could calculate the local RMS contrast of points and weight your fixation sampling strategy towards higher contrast image regions. You could even assert that people only fixate points that are red. Do any of these strategies result in the near-distance bias we observe in natural fixations?</p>
+<section id="lea-duncker">
+<h2>Lea Duncker<a class="headerlink" href="#lea-duncker" title="Permalink to this heading"></a></h2>
 </section>
-<section id="ej-chichilnisky">
-<h2>EJ Chichilnisky<a class="headerlink" href="#ej-chichilnisky" title="Permalink to this heading"></a></h2>
-<p>download Pillow data set, fit GLM. test if we can do better with some kind of subunit model fit (Shah 2020 paper)?</p>
+<section id="ruth-rosenholtz">
+<h2>Ruth Rosenholtz<a class="headerlink" href="#ruth-rosenholtz" title="Permalink to this heading"></a></h2>
 </section>
-<section id="marlene-cohen">
-<h2>Marlene Cohen<a class="headerlink" href="#marlene-cohen" title="Permalink to this heading"></a></h2>
-<p>Generate a fake multineuron data set. This should include spike count, BOLD, or calcium imaging responses of n neurons (or voxels) on m trials. You could use models from any of several tutorials to generate these responses. (I know that ChoiceProbabilityTutorial will do this for a population of MT neurons.) From this fake data set, calculate:</p>
-<ol class="arabic simple">
-<li><p>the average correlation between each pair of neurons (this could be noise or signal correlation, depending on the data set you generated)</p></li>
-<li><p>the dimensionality of the shared variability (e.g. by calculating the proportion variance explained by the first k principal components for k=1:n)</p></li>
-<li><p>for the overachievers among you, calculate some fancy measurements too, such as communication subspace dimensionality if you modeled multiple brain areas (good code here: https://github.com/joao-semedo/communication-subspace) or average or modal controllability (good code at #3 here: https://complexsystemsupenn.com/codedata ; start with the correlation matrix with the diagonal set to 0 instead of 1). If you would like to experiment with topological data analysis, I can provide code for that too.</p></li>
-</ol>
-<p>Next, make some change to your model that will affect the shared variability (maybe add in a common noise source, or change some model parameters) and repeat the calculations in #1-3. Can you gain some insight into how those numbers are related?</p>
-<p>Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?</p>
+<section id="rachel-denison">
+<h2>Rachel Denison<a class="headerlink" href="#rachel-denison" title="Permalink to this heading"></a></h2>
 </section>
-<section id="eero-simoncelli">
-<h2>Eero Simoncelli<a class="headerlink" href="#eero-simoncelli" title="Permalink to this heading"></a></h2>
-<p>Metamers: given a model and a reference image, stochastically generate a new image whose model representation is identical to that of the reference image.  [ref:  Freeman &amp; Simoncelli 2011]</p>
-<p>Eigendistortions: given a model and a reference image, compute the image perturbation that produces the smallest and largest changes (in terms of Euclidean distance) in the model response space.  [ref: Berardino et al 2017]</p>
-<p>Maximal differentiation (MAD) competition: given two models that measure distance between images and a reference image, generate pairs of images that optimally distinguish the models. Specifically, synthesize a pair of images that the first model says are equi-distant from the reference while the second model says they are maximally/minimally distant from the reference. Synthesize a second pair with the roles of the two models reversed.  [ref: Wang &amp; Simoncelli 2008]</p>
-<p>Geodesics: given a model and two images, attempt to synthesize a sequence of images that lie on the shortest (“geodesic”) path in the model’s representation space. [ref. Henaff &amp; Simoncelli 2016]</p>
-<p>(note from Dan: not really a project idea, but a tool you could use in a project)
-My lab has produced a python library of tools to explore vision models by  synthesizing novel informative images.
-This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s here: https://github.com/LabForComputationalVision/plenoptic/. Kate Bonnen is an expert user and someone to ask questions about it.</p>
+<section id="tony-movshon">
+<h2>Tony Movshon<a class="headerlink" href="#tony-movshon" title="Permalink to this heading"></a></h2>
 </section>
 <section id="kate-bonnen">
 <h2>Kate Bonnen<a class="headerlink" href="#kate-bonnen" title="Permalink to this heading"></a></h2>
@@ -182,8 +182,7 @@ This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2
 <li><p>Using a sampling approach to fit a Kalman filter with varying parameters (i.e. what if the detectability of the stimulus changes over time).</p></li>
 <li><p>Implement a LQG with subjective beliefs (as in this paper) and then try to design a set of conditions that will maximally expose subjective beliefs about the dynamics of the trajectory.</p></li>
 </ol>
-<section id="suggestions-related-to-eero-s-plenoptic-code-repository">
-<h3>Suggestions related to Eero’s plenoptic code repository<a class="headerlink" href="#suggestions-related-to-eero-s-plenoptic-code-repository" title="Permalink to this heading"></a></h3>
+<p><strong>Suggestions related to Eero’s plenoptic code repository</strong></p>
 <p><strong>From Billy</strong>
 I’ve been wanting to extend metamers to generate several metamers at once that are as maximally different (in either pixel space, model space, or by some other metric) from each other as possible</p>
 <p><strong>From Nikhil</strong>
@@ -196,19 +195,44 @@ A texture aware (full reference) perceptual metric would compare isolated featur
 <p><strong>From Xinyuan Zhao</strong>
 There is a perceptual distance metric called normalized steerable pyramid distance (NSPD) in the code. It is analogous to the published work of normalized Laplacian pyramid distance (NLPD), only replacing the Laplacian pyramid with the steerable pyramid. I have spent some time working on it, but did not get it to perform very well (now about the same as NLPD). Maybe it can be improved by summer school students.</p>
 </section>
+<section id="stefan-treue">
+<h2>Stefan Treue<a class="headerlink" href="#stefan-treue" title="Permalink to this heading"></a></h2>
 </section>
-<section id="anitha-pasupathy">
-<h2>Anitha Pasupathy<a class="headerlink" href="#anitha-pasupathy" title="Permalink to this heading"></a></h2>
-<p>In Kim et al., 2019, we demonstrated that shape selectivity in V4 is independent of texture selectivity. In other words, selectivity for 2D shape is similar regardless of the surface texture that’s painted on the shape. This argues against the possibility that shape selectivity is a by-product of preference for higher order texture statistics in V4 (Okazawa et al., 2013).</p>
-<p>Using the artiphysiology approach of Pospisil et al., (2018) one could ask whether individual units in AlexNet (or another DNN) exhibit the same shape preference across different surface textures painted on the 2D shape.  Comparing the circuitry of units that show texture-invariant shape selectivity and those that do not, one could get some insights into how texture-invariant shape selectivity might be built.</p>
-<p>(Note from Dan: see <a class="reference external" href="https://models.roboflow.com/">roboflow</a> for some pre-trained PyTorch models to run)</p>
+<section id="emily-cooper">
+<h2>Emily Cooper<a class="headerlink" href="#emily-cooper" title="Permalink to this heading"></a></h2>
+<p>I’ve shared a (non-exhaustive) list of some public databases of natural images, depth maps, and eye movements that may be useful for projects here:</p>
+<p>https://docs.google.com/document/d/1bVTdvXXoGN4Ya4mutdEBQOQdmO6tc68uHHIccrvdlTI/edit?usp=sharing</p>
+<p>Project suggestion 1: What does your next fixation point look like?
+Using the DOVES dataset of eye movements during free-viewing of calibrated natural images (see Google Doc; https://live.ece.utexas.edu/research/doves/), select pairs of fixation points in temporal sequence and create small image patches centered on those fixation points. Characterize the visual similarity (or dissimilarity) of these pairs of sequentially fixated image patches using any approaches you’d like (e.g., mutual information, difference in slope of Fourier power spectrum, difference in orientation spectrum, difference in RMS contrast, SSIM). Next, compare the distribution of these measures to a distribution derived from randomly selected pairs of image patches. Are sequentially fixated image patches more similar or different from random pairs of image patches based on any of these measures? Be sure to control for the distance between pairs (image patches that are closer to each other are known to be more similar). If you do find a pattern, does it extend to fixated points with larger separations in time? You could try this analysis on one of the other eye movements datasets, but keep in mind that the pixel intensity values in Hollywood movies are not necessarily linear with respect to light in the world.</p>
+<p>Project suggestion 2: How far away is your next fixation?
+When engaged in natural tasks, people tend to fixate points that are relatively close to them, as compared to a random sample of points from their surrounding environment. Using the UT Austin Natural Image Databases (see Google Doc; https://natural-scenes.cps.utexas.edu/db.shtml – just the subset with co-registered images and depth maps, scroll down to “Stereo Image and Range Data Collection”), investigate potential low level fixation strategies that might recapitulate this behavior. First, simulate a set of random fixation points and plot the distribution of associated scene distances from the depth maps – this should generally match the overall distribution of distances found in the scenes. Next, try biasing your fixation points based on low level properties of the co-registered images run the scene images. For example, you could run the images through an edge detection algorithm and select a random sample of points that fall on luminance edges. You could calculate the local RMS contrast of points and weight your fixation sampling strategy towards higher contrast image regions. You could even assert that people only fixate points that are red. Do any of these strategies result in the near-distance bias we observe in natural fixations?</p>
+</section>
+<section id="marlene-cohen">
+<h2>Marlene Cohen<a class="headerlink" href="#marlene-cohen" title="Permalink to this heading"></a></h2>
+<p>Generate a fake multineuron data set. This should include spike count, BOLD, or calcium imaging responses of n neurons (or voxels) on m trials. You could use models from any of several tutorials to generate these responses. (I know that ChoiceProbabilityTutorial will do this for a population of MT neurons.) From this fake data set, calculate:</p>
+<ol class="arabic simple">
+<li><p>the average correlation between each pair of neurons (this could be noise or signal correlation, depending on the data set you generated)</p></li>
+<li><p>the dimensionality of the shared variability (e.g. by calculating the proportion variance explained by the first k principal components for k=1:n)</p></li>
+<li><p>for the overachievers among you, calculate some fancy measurements too, such as communication subspace dimensionality if you modeled multiple brain areas (good code here: https://github.com/joao-semedo/communication-subspace) or average or modal controllability (good code at #3 here: https://complexsystemsupenn.com/codedata ; start with the correlation matrix with the diagonal set to 0 instead of 1). If you would like to experiment with topological data analysis, I can provide code for that too.</p></li>
+</ol>
+<p>Next, make some change to your model that will affect the shared variability (maybe add in a common noise source, or change some model parameters) and repeat the calculations in #1-3. Can you gain some insight into how those numbers are related?</p>
+<p>Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?</p>
+</section>
+<section id="madineh-sedigh-sarvestani">
+<h2>Madineh Sedigh-Sarvestani<a class="headerlink" href="#madineh-sedigh-sarvestani" title="Permalink to this heading"></a></h2>
+</section>
+<section id="ione-fine">
+<h2>Ione Fine<a class="headerlink" href="#ione-fine" title="Permalink to this heading"></a></h2>
+</section>
+<section id="emma-alexander">
+<h2>Emma Alexander<a class="headerlink" href="#emma-alexander" title="Permalink to this heading"></a></h2>
 </section>
 <section id="jennifer-groh">
 <h2>Jennifer Groh<a class="headerlink" href="#jennifer-groh" title="Permalink to this heading"></a></h2>
 <p>“How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own! “</p>
 </section>
-<section id="madineh-sedigh-sarvestani">
-<h2>Madineh Sedigh-Sarvestani<a class="headerlink" href="#madineh-sedigh-sarvestani" title="Permalink to this heading"></a></h2>
+<section id="taraz-lee">
+<h2>Taraz Lee<a class="headerlink" href="#taraz-lee" title="Permalink to this heading"></a></h2>
 </section>
 <section id="mariam-aly">
 <h2>Mariam Aly<a class="headerlink" href="#mariam-aly" title="Permalink to this heading"></a></h2>
@@ -217,6 +241,18 @@ There is a perceptual distance metric called normalized steerable pyramid distan
 <li><p>Córdova NI, Turk‐Browne NB, Aly M. Focusing on what matters: Modulation of the human hippocampus by relational attention. Hippocampus. 2019 Nov;29(11):1025-37. https://pubmed.ncbi.nlm.nih.gov/30779473/</p></li>
 <li><p>Ruiz NA, Meager MR, Agarwal S, Aly M. The medial temporal lobe is critical for spatial relational perception. Journal of Cognitive Neuroscience. 2020 Sep 1;32(9):1780-95. https://pubmed.ncbi.nlm.nih.gov/32427068/</p></li>
 </ul>
+</section>
+<section id="kohitij-kar">
+<h2>Kohitij Kar<a class="headerlink" href="#kohitij-kar" title="Permalink to this heading"></a></h2>
+</section>
+<section id="lindsey-glickfeld">
+<h2>Lindsey Glickfeld<a class="headerlink" href="#lindsey-glickfeld" title="Permalink to this heading"></a></h2>
+<p>In <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0896627321007856">Barbera et al.</a>, we used a simple subunit based, Hubel and Wiesel style model to predict V1 responses to gratings and plaids, and then to test the effect of mask phase on these responses.</p>
+<ol class="arabic simple">
+<li><p>This model built V1 cells that only have one (excitatory) subunit and orientation preference/selectivity is defined by the elongation of the long axis of the RF. However, V1 neurons typically have an “on” and an “off” subunit, and in the mouse orientation preference/selectivity is defined by the axis of overlap of these subunits. Build a new version of this model with on/off subunits and test whether this changes (A) the magnitude of cross orientation interactions and (B) the sensitivity of those interactions to mask phase.</p></li>
+<li><p>In cat/primate V1, plaid stimuli drive responses that are component selective.  However, in mouse V1, responses can be either pattern and component selective. Use this simple subunit model to (A) determine whether V1 neurons are component and/or pattern selective and (B) test whether these responses are sensitive to mask phase.</p></li>
+</ol>
+<p>The code for the model in Barbera et al. can be found here: https://figshare.com/collections/BarberaPriebeGlickfeld_Neuron_2022/5677225/ see Figure4_model_code.m</p>
 </section>
 </section>
 
