@@ -213,9 +213,11 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ### Suggested Readings
 
-• <a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso 2018</a>\
-• <a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters & Murphy 2018</a>\
-• <a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun 2019</a>
+• <a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso et al. (2018). Single neurons may encode simultaneous stimuli
+by switching between activity patterns</a>\
+• <a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters & Murphy et al. (2018). The eardrums move when the eyes move: A
+multisensory effect on the mechanics of hearing</a>\
+• <a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun et al. (2019). Coordinated multiplexing of information about separate objects in visual cortex </a>
 
 <br/>
 
@@ -227,7 +229,7 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 <br/>
 
-## Maryam Aly
+## Mariam Aly
 
 ### Slides
 
@@ -253,7 +255,7 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ### Suggested Readings
 
-• <a href="../_static/pdfs/glickfeld/barbera2022.pdf">Barbera (2022)</a>\
-• <a href="../_static/pdfs/glickfeld/niell2021.pdf">Niell (2021)</a>
+• <a href="../_static/pdfs/glickfeld/barbera2022.pdf">Barbera (2022). Feedforward mechanisms of cross-orientation interactions in mouse V1</a>\
+• <a href="../_static/pdfs/glickfeld/niell2021.pdf">Niell & Scanziani (2021). How Cortical Circuits Implement Cortical Computations: Mouse Visual Cortex as a Model</a>
 
 
