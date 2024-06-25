@@ -109,8 +109,8 @@ DOI:10.1167/jov.19.7.15.</a>\
 ### Suggested Readings
 
 Recent reviews on dynamic attention:
-• <a href="../_static/pdfs/denison/denison-2024-nrp.pdf"> Denison, R.N. (2024). Visual temporal attention from perception to computation. _Nat. Rev. Psychol. 3_, 261–274. DOI:10.1038/s44159-024-00294-0.</a>\
-• <a href="../_static/pdfs/denison/nobre-ede-2023-neuron.pdf"> Nobre, A.C. & van Ede, F. (2023). Attention in flux. _Neuron 111_(7), 971–986.</a>\
+• <a href="../_static/pdfs/denison/denison-2024-nrp.pdf"> Denison, R.N. (2024). Visual temporal attention from perception to computation. _Nat. Rev. Psychol. 3_, 261–274. DOI:10.1038/s44159-024-00294-0.</a>
+• <a href="../_static/pdfs/denison/nobre-ede-2023-neuron.pdf"> Nobre, A.C. & van Ede, F. (2023). Attention in flux. _Neuron 111_(7), 971–986.</a>
 
 If further interested in our normalization model of dynamic attention:\
 • <a href="../_static/pdfs/denison/denison-carrasco-heeger-2021-nhb.pdf"> Denison, R.N., Carrasco, M. & Heeger, D.J. A dynamic normalization model of temporal attention. _Nat Hum Behav_, 5, 1674–1685 DOI:10.1038/s41562-021-01129-1.</a>\
@@ -184,13 +184,13 @@ My lecture period is focused on understanding eye movements in both natural and 
 
 ### Suggested Readings
 
-**This one first:**
+**This one first:**\
 • <a href="../_static/pdfs/cohen/rust_cohen_2022.pdf">Rust & Cohen (2022). Priority coding in the visual system</a>
 
-**See also**
-• <a href="../_static/pdfs/cohen/CohenKohn2011.pdf">Cohen & Kohn (2011). Measuring and interpreting neuronal correlations</a>\
+**See also**\
+• <a href="../_static/pdfs/cohen/CohenKohn2011.pdf">Cohen & Kohn (2011). Measuring and interpreting neuronal correlations</a>
 
-I will also touch on some newer methods for analyzing neural population data. People wanting to learn more might find these papers useful:\
+I will also touch on some newer methods for analyzing neural population data. People wanting to learn more might find these papers useful:
 
 • <a href="../_static/pdfs/cohen/sizemore-etal-2011.pdf">Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R., and Bassett, D.S. (2019). The importance of the whole: topological data analysis for the network neuroscientist</a>\
 • <a href="../_static/pdfs/cohen/rouse-ni-huang-cohen-2011.pdf">Rouse TC, Ni AM, Huang C, Cohen MR (2021). Topological insights into the neural basis of flexible behavior</a>\
