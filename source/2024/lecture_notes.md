@@ -29,8 +29,8 @@ https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli
 
 ### Slides
 
-<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-discriminability-2022.pdf">Discriminability</a>\
-<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-metamers-2022.pdf">Metamers</a>
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-discriminability-2022.pdf">Discriminability</a>\
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-metamers-2022.pdf">Metamers</a>
 
 ### Suggested Readings
 
@@ -43,7 +43,7 @@ https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli
 
 ### Code repository
 
-Eero's lab has produced a python library of tools to explore vision models by synthesizing novel informative images.
+Eero's lab has produced a python library of tools to explore vision models by synthesizing novel informative images.\
 This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016).
 
 https://github.com/LabForComputationalVision/plenoptic/
@@ -95,6 +95,11 @@ https://github.com/LabForComputationalVision/plenoptic/
 
 ### Suggested Readings
 
+• <a href="../_static/pdfs/rosenholtz/rosenholtz-2016-annurev-vision.pdf"> Rosenholtz R. (2016). Capabilities and Limitations of Peripheral Vision. _Annu Rev Vis Sci.14_(2):437-457. DOI:10.1146/annurev-vision-082114-035733.</a>\
+• <a href="../_static/pdfs/rosenholtz/rosenholtz-huang-ehinger-2012-fpsyg.pdf"> Rosenholtz, R., Huang, J. & Ehinger, K.A. (2012). Rethinking the Role of Top-Down Attention in Vision: Effects Attributable to a Lossy Representation in Peripheral Vision. _Frontiers in Psychology, 3_. DOI:10.3389/fpsyg.2012.00013.</a>\
+• <a href="../_static/pdfs/rosenholtz/rosenholtz-yu-keshvari-2019-jov.pdf"> Rosenholtz, R., Yu, D., & Keshvari, S. (2019). Challenges to pooling models of crowding: Implications for visual mechanisms. _Journal of Vision, 19_(7):15.
+DOI:10.1167/jov.19.7.15.</a>\
+
 <br/>
 
 ## Rachel Denison
@@ -103,15 +108,23 @@ https://github.com/LabForComputationalVision/plenoptic/
 
 ### Suggested Readings
 
+Recent reviews on dynamic attention:
+• <a href="../_static/pdfs/denison/denison-2024-nrp.pdf"> Denison, R.N. (2024). Visual temporal attention from perception to computation. _Nat. Rev. Psychol. 3_, 261–274. DOI:10.1038/s44159-024-00294-0.</a>\
+• <a href="../_static/pdfs/denison/nobre-ede-2023-neuron.pdf"> Nobre, A.C. & van Ede, F. (2023). Attention in flux. _Neuron 111_(7), 971–986.</a>\
+
+If further interested in our normalization model of dynamic attention:\
+• <a href="../_static/pdfs/denison/denison-carrasco-heeger-2021-nhb.pdf"> Denison, R.N., Carrasco, M. & Heeger, D.J. A dynamic normalization model of temporal attention. _Nat Hum Behav_, 5, 1674–1685 DOI:10.1038/s41562-021-01129-1.</a>\
+• <a href="https://osf.io/dkx7n/"> Corresponding Code</a>\
+
 <br/>
 
 ## Tony Movshon
 
 ### Slides
 
-<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Visual system introduction slides</a>\
-<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-2.pdf">Visual system introduction slides</a>\
-<a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-3.pdf">MT slides</a>
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Visual system introduction slides</a>\
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-2.pdf">Visual system introduction slides</a>\
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-3.pdf">MT slides</a>
 
 ### Suggested Readings
 
@@ -139,10 +152,10 @@ Also see:<br/>
 
 ### Suggested Readings
 
-1. <a href="../_static/pdfs/bonnen/bonnen-et-al-2015.pdf">Bonnen, K., Burge, J., Yates, J., Pillow, J., & Cormack, L. K. (2015). Continuous psychophysics: Target-tracking to measure visual sensitivity</a>
-2. <a href="../_static/pdfs/bonnen/noel-et-al-2021.pdf">Noel, J. P., Caziot, B., Bruni, S., Fitzgerald, N. E., Avila, E., & Angelaki, D. E. (2021). Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making</a>
-3. <a href="../_static/pdfs/bonnen/matthis-yates-hayhoe-2018.">Matthis, J. S., Yates, J. L., & Hayhoe, M. M. (2018). Gaze and the control of foot placement when walking in natural terrain</a>
-4. <a href="../_static/pdfs/bonnen/bonnen-et-al-2021.pdf">Bonnen, K., Matthis, J. S., Gibaldi, A., Banks, M. S., Levi, D. M., & Hayhoe, M. (2021). Binocular vision and the control of foot placement during walking in natural terrain. </a>
+• <a href="../_static/pdfs/bonnen/bonnen-et-al-2015.pdf">Bonnen, K., Burge, J., Yates, J., Pillow, J., & Cormack, L. K. (2015). Continuous psychophysics: Target-tracking to measure visual sensitivity</a>\
+• <a href="../_static/pdfs/bonnen/noel-et-al-2021.pdf">Noel, J. P., Caziot, B., Bruni, S., Fitzgerald, N. E., Avila, E., & Angelaki, D. E. (2021). Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making</a>\
+• <a href="../_static/pdfs/bonnen/matthis-yates-hayhoe-2018.">Matthis, J. S., Yates, J. L., & Hayhoe, M. M. (2018). Gaze and the control of foot placement when walking in natural terrain</a>\
+• <a href="../_static/pdfs/bonnen/bonnen-et-al-2021.pdf">Bonnen, K., Matthis, J. S., Gibaldi, A., Banks, M. S., Levi, D. M., & Hayhoe, M. (2021). Binocular vision and the control of foot placement during walking in natural terrain.</a>
 
 <br/>
 
@@ -172,16 +185,16 @@ My lecture period is focused on understanding eye movements in both natural and 
 ### Suggested Readings
 
 **This one first:**
-<a href="../_static/pdfs/cohen/rust_cohen_2022.pdf">Rust & Cohen (2022). Priority coding in the visual system</a>
+• <a href="../_static/pdfs/cohen/rust_cohen_2022.pdf">Rust & Cohen (2022). Priority coding in the visual system</a>
 
 **See also**
-<a href="../_static/pdfs/cohen/CohenKohn2011.pdf">Cohen & Kohn (2011). Measuring and interpreting neuronal correlations</a>
+• <a href="../_static/pdfs/cohen/CohenKohn2011.pdf">Cohen & Kohn (2011). Measuring and interpreting neuronal correlations</a>\
 
-I will also touch on some newer methods for analyzing neural population data. People wanting to learn more might find these papers useful:
+I will also touch on some newer methods for analyzing neural population data. People wanting to learn more might find these papers useful:\
 
-<a href="../_static/pdfs/cohen/sizemore-etal-2011.pdf">Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R., and Bassett, D.S. (2019). The importance of the whole: topological data analysis for the network neuroscientist</a>\
-<a href="../_static/pdfs/cohen/rouse-ni-huang-cohen-2011.pdf">Rouse TC, Ni AM, Huang C, Cohen MR (2021). Topological insights into the neural basis of flexible behavior</a>\
-<a href="../_static/pdfs/cohen/wu-yan-etal-2020.pdf">Wu-Yan, E., Betzel, R.F., Tang, E., Gu, S., Pasqualetti, F., and Bassett, D.S. (2020). Benchmarking measures of network controllability on canonical graph models </a>
+• <a href="../_static/pdfs/cohen/sizemore-etal-2011.pdf">Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R., and Bassett, D.S. (2019). The importance of the whole: topological data analysis for the network neuroscientist</a>\
+• <a href="../_static/pdfs/cohen/rouse-ni-huang-cohen-2011.pdf">Rouse TC, Ni AM, Huang C, Cohen MR (2021). Topological insights into the neural basis of flexible behavior</a>\
+• <a href="../_static/pdfs/cohen/wu-yan-etal-2020.pdf">Wu-Yan, E., Betzel, R.F., Tang, E., Gu, S., Pasqualetti, F., and Bassett, D.S. (2020). Benchmarking measures of network controllability on canonical graph models </a>
 
 <br/>
 
@@ -213,10 +226,8 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ### Suggested Readings
 
-• <a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso et al. (2018). Single neurons may encode simultaneous stimuli
-by switching between activity patterns</a>\
-• <a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters & Murphy et al. (2018). The eardrums move when the eyes move: A
-multisensory effect on the mechanics of hearing</a>\
+• <a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso et al. (2018). Single neurons may encode simultaneous stimuli by switching between activity patterns</a>\
+• <a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters & Murphy et al. (2018). The eardrums move when the eyes move: A multisensory effect on the mechanics of hearing. _PNAS_</a>\
 • <a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun et al. (2019). Coordinated multiplexing of information about separate objects in visual cortex </a>
 
 <br/>
@@ -233,13 +244,13 @@ multisensory effect on the mechanics of hearing</a>\
 
 ### Slides
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part1.pdf">Part 1</a>
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part2.pdf">Part 2</a>
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part1.pdf">Part 1</a>
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part2.pdf">Part 2</a>
 
 ### Suggested Readings
 
-•  Aly M, Turk-Browne NB. Flexible weighting of diverse inputs makes hippocampal function malleable. Neuroscience Letters. 2018 Jul 27;680:13-22. https://pubmed.ncbi.nlm.nih.gov/28587901/ \
-•  Turk-Browne NB. The hippocampus as a visual area organized by space and time: A spatiotemporal similarity hypothesis. Vision research. 2019 Dec 1;165:123-30. https://pubmed.ncbi.nlm.nih.gov/31734633/
+• <a href="../_static/pdfs/aly/aly-turkbrowne-2018-neurosciletters.pdf">Aly M., Turk-Browne N.B. (2018). Flexible weighting of diverse inputs makes hippocampal function malleable. _Neuroscience Letters, 27_:680:13-22. DOI:10.1016/j.neulet.2017.05.063.</a>\
+•  <a href="../_static/pdfs/aly/turkbrowne-2019-visres.pdf">Turk-Browne N.B. (2019). The hippocampus as a visual area organized by space and time: A spatiotemporal similarity hypothesis. _Vision research, 165_:123-30. DOI:10.1016/j.visres.2019.10.007.</a>
 
 <br/>
 
