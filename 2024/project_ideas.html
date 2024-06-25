@@ -108,7 +108,9 @@
 <h1>Project Ideas<a class="headerlink" href="#project-ideas" title="Permalink to this heading"></a></h1>
 <section id="ej-chichilnisky">
 <h2>EJ Chichilnisky<a class="headerlink" href="#ej-chichilnisky" title="Permalink to this heading"></a></h2>
-<p>download Pillow data set, fit GLM. test if we can do better with some kind of subunit model fit (Shah 2020 paper)?</p>
+<ol class="arabic simple">
+<li><p>Download Pillow data set. Fit GLM. Test if we can do better with some kind of subunit model fit (Shah 2020 paper)?</p></li>
+</ol>
 </section>
 <section id="john-serences">
 <h2>John Serences<a class="headerlink" href="#john-serences" title="Permalink to this heading"></a></h2>
@@ -123,7 +125,7 @@
 </ol>
 <p>(note from Dan: not really a project idea, but a tool you could use in a project)
 My lab has produced a python library of tools to explore vision models by  synthesizing novel informative images.
-This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s here: https://github.com/LabForComputationalVision/plenoptic/. Kate Bonnen is an expert user and someone to ask questions about it.</p>
+This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s [here]https://github.com/LabForComputationalVision/plenoptic/: Kate Bonnen is an expert user and someone to ask questions about it.</p>
 </section>
 <section id="stephanie-palmer">
 <h2>Stephanie Palmer<a class="headerlink" href="#stephanie-palmer" title="Permalink to this heading"></a></h2>
@@ -139,26 +141,24 @@ Project idea;  compare decoding under an LNP model and a Poisson GLM with spike 
 <ul class="simple">
 <li><p>Pillow et al. “Spatio-temporal correlations and visual signalling in a complete neuronal population”.  Nature (2008).</p></li>
 </ul>
-<p>See also: GLM tutorial code (https://github.com/pillowlab/GLMspiketraintutorial).</p>
+<p>See also: <a class="reference external" href="https://github.com/pillowlab/GLMspiketraintutorial">GLM tutorial code</a>.</p>
 <ol class="arabic simple" start="2">
 <li><p>Can a Poisson GLM exhibit divisive normalization?
 Divisive normalization is one of the putative “canonical computations” carried out in the brain, but we still lack a good computational understanding of how it’s carried out, or how to infer statistical models that can exhibit divisive normalization.</p></li>
 </ol>
 <p>The Poisson generalized linear model (GLM) for spike trains provides a simple, tractable statistical model of spike trains. But can it exhibit divisive normalization?</p>
 <p>Relevant refs:</p>
-<ul class="simple">
-<li><p>Carandini &amp; Heeger,, Normalization as a canonical neural computation. Nat Rev Neurosci (2011).</p></li>
-<li><p>Carandini and Heeger. Summation and division by neurons in primate visual cortex. Science (1994).</p></li>
-<li><p>Pillow et al. “Spatio-temporal correlations and visual signalling in a complete neuronal population”.  Nature (2008).</p></li>
-</ul>
+<p>• <a href="../_static/pdfs/pillow/carandini-heeger-2011-natrevneuro.pdf">Carandini &amp; Heeger (2011) Normalization as a canonical neural computation. <em>Nat Rev Neurosci, 13</em>:51-62. DOI:10.1038/nrn3136.</a>
+<a href="../_static/pdfs/pillow/carandini-heeger-1994-science.pdf">Carandini &amp; Heeger. (1994). Summation and division by neurons in primate visual cortex. <em>Science, 264</em>(5183):1333-1336. DOI:10.1126/science.8191289.</a>
+• <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow et al. (2008). Spatio-temporal correlations and visual signalling in a complete neuronal population. <em>Nature, 454</em>(21). DOI:10.1038/nature07140.</a></p>
 <ol class="arabic simple" start="3">
-<li><p>Compare GLM and deep neural networks - try out deep learning on some real neural data. See eg
-Deep convolutional models improve predictions of macaque V1 responses to natural images https://journals.plos.org/ploscompbiol/article?id=10.1371/ journal.pcbi.1006897 [2].</p></li>
+<li><p>Compare GLM and deep neural networks - try out deep learning on some real neural data. See e.g.:
+• <a class="reference external" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897">Deep convolutional models improve predictions of macaque V1 responses to natural images</a>.</p></li>
 </ol>
-<p>Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses https://openreview.net/forum?id=HkEI22jeg [3].</p>
-<p>A recent paper argued that “modern machine learning” outperforms GLMs in many cases (although in the detailed results shown, GLM outperforms a deep neural network on most of the examples considered). Download their datasets and see if you can do better:</p>
-<p>Paper: https://www.frontiersin.org/articles/10.3389/fncom.2018.00056/ full</p>
-<p>Data: https://github.com/KordingLab/spykesML/tree/master/data
+<p>• <a class="reference external" href="https://openreview.net/forum?id=HkEI22jeg">Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses</a>.</p>
+<p>• A recent paper argued that “modern machine learning” outperforms GLMs in many cases (although in the detailed results shown, GLM outperforms a deep neural network on most of the examples considered). Download their datasets and see if you can do better:
+• <a class="reference external" href="https://www.frontiersin.org/articles/10.3389/fncom.2018.00056/full">Paper</a>
+• <a class="reference external" href="https://github.com/KordingLab/spykesML/tree/master/data">Data</a>
 (There are a lot of possible ways to think about improving: the paper did not consider different nonlinearities and made only limited attempts to select GLM features).</p>
 </section>
 <section id="jacob-yates">
@@ -195,19 +195,24 @@ Deep convolutional models improve predictions of macaque V1 responses to natural
 <li><p>Implement a LQG with subjective beliefs (as in this paper) and then try to design a set of conditions that will maximally expose subjective beliefs about the dynamics of the trajectory.</p></li>
 </ol>
 <p><strong>Suggestions related to Eero’s plenoptic code repository</strong></p>
-<p><strong>From Billy</strong>
-I’ve been wanting to extend metamers to generate several metamers at once that are as maximally different (in either pixel space, model space, or by some other metric) from each other as possible</p>
-<p><strong>From Nikhil</strong>
-One thing that could be interesting is to use MAD competition to generate images that can differentiate between deepnet layers and the portilla model. People have done a lot just synthesizing from both models but could be interesting to see if there are actual fundamental differences in the representations that are captured by each.
-In the same vain, I’d like to see how well the portilla model does at discriminative tasks like classification. Since a lot of work is saying deepnets trained for classification are texture biased it would be interesting to just see how well a texture model does at object recognition for example on imagenet. Maybe it can provide a better baseline to then evaluate performance of recognition models that capture more than just texture statistics.</p>
+<p><strong>From Billy</strong></p>
+<ol class="arabic simple">
+<li><p>I’ve been wanting to extend metamers to generate several metamers at once that are as maximally different (in either pixel space, model space, or by some other metric) from each other as possible</p></li>
+</ol>
+<p><strong>From Nikhil</strong></p>
+<ol class="arabic simple">
+<li><p>One thing that could be interesting is to use MAD competition to generate images that can differentiate between deepnet layers and the portilla model. People have done a lot just synthesizing from both models but could be interesting to see if there are actual fundamental differences in the representations that are captured by each.</p></li>
+<li><p>In the same vain, I’d like to see how well the portilla model does at discriminative tasks like classification. Since a lot of work is saying deepnets trained for classification are texture biased it would be interesting to just see how well a texture model does at object recognition for example on imagenet. Maybe it can provide a better baseline to then evaluate performance of recognition models that capture more than just texture statistics.</p></li>
+</ol>
 <p><strong>From Pierre-Étienne</strong></p>
 <ol class="arabic simple">
-<li><p>It would be interesting to use eigendistortions to understand the computational role of layers deep inside a network (/biological system). Instead of end2end maximally minimally visible distortions, one could ask for changes in an image that result in changes of the representation in layer i that is most / least visible to layer j. Same question could be asked of unit i and unit j. Same question can be asked for the curvature of sequences (geodesics), which would help understand what piece in a net do straightening and how.\</p></li>
-<li><p>An idea to help understand the shape of the natural image manifold is to use triplets of related images and a model to measure the angles between the geodesics that link them, the shapes of these triangles would reveal the local curvature of the space as seen by the model.\</p></li>
-<li><p>A texture aware (full reference) perceptual metric would compare isolated features accurately (allowing for shifts and changes in luminance/contrast) while comparing textures loosely (using local statistics only)- and gradually interpolate between these two extremes. A step in that direction is to build a normalized steerable pyramid distance (an evolution of the normalized laplacian pyramid) with a texture/feature gate given by the ratio of local representation std to local representation mean. One would then show that the metric is tolerant to resamplings of texture patterns and sensitive to the exact form of isolated features, just like our visual experience (ie do psychophysics).</p></li>
+<li><p>It would be interesting to use eigendistortions to understand the computational role of layers deep inside a network (/biological system). Instead of end2end maximally minimally visible distortions, one could ask for changes in an image that result in changes of the representation in layer i that is most / least visible to layer j. Same question could be asked of unit i and unit j. Same question can be asked for the curvature of sequences (geodesics), which would help understand what piece in a net do straightening and how.</p></li>
+<li><p>An idea to help understand the shape of the natural image manifold is to use triplets of related images and a model to measure the angles between the geodesics that link them, the shapes of these triangles would reveal the local curvature of the space as seen by the model. A texture aware (full reference) perceptual metric would compare isolated features accurately (allowing for shifts and changes in luminance/contrast) while comparing textures loosely (using local statistics only)- and gradually interpolate between these two extremes. A step in that direction is to build a normalized steerable pyramid distance (an evolution of the normalized laplacian pyramid) with a texture/feature gate given by the ratio of local representation std to local representation mean. One would then show that the metric is tolerant to resamplings of texture patterns and sensitive to the exact form of isolated features, just like our visual experience (ie do psychophysics).</p></li>
 </ol>
-<p><strong>From Xinyuan Zhao</strong>
-There is a perceptual distance metric called normalized steerable pyramid distance (NSPD) in the code. It is analogous to the published work of normalized Laplacian pyramid distance (NLPD), only replacing the Laplacian pyramid with the steerable pyramid. I have spent some time working on it, but did not get it to perform very well (now about the same as NLPD). Maybe it can be improved by summer school students.</p>
+<p><strong>From Xinyuan Zhao</strong></p>
+<ol class="arabic simple">
+<li><p>There is a perceptual distance metric called normalized steerable pyramid distance (NSPD) in the code. It is analogous to the published work of normalized Laplacian pyramid distance (NLPD), only replacing the Laplacian pyramid with the steerable pyramid. I have spent some time working on it, but did not get it to perform very well (now about the same as NLPD). Maybe it can be improved by summer school students.</p></li>
+</ol>
 </section>
 <section id="stefan-treue">
 <h2>Stefan Treue<a class="headerlink" href="#stefan-treue" title="Permalink to this heading"></a></h2>
@@ -224,14 +229,14 @@ When engaged in natural tasks, people tend to fixate points that are relatively 
 </section>
 <section id="marlene-cohen">
 <h2>Marlene Cohen<a class="headerlink" href="#marlene-cohen" title="Permalink to this heading"></a></h2>
-<p>Generate a fake multineuron data set. This should include spike count, BOLD, or calcium imaging responses of n neurons (or voxels) on m trials. You could use models from any of several tutorials to generate these responses. (I know that ChoiceProbabilityTutorial will do this for a population of MT neurons.) From this fake data set, calculate:</p>
 <ol class="arabic simple">
-<li><p>the average correlation between each pair of neurons (this could be noise or signal correlation, depending on the data set you generated)</p></li>
-<li><p>the dimensionality of the shared variability (e.g. by calculating the proportion variance explained by the first k principal components for k=1:n)</p></li>
-<li><p>for the overachievers among you, calculate some fancy measurements too, such as communication subspace dimensionality if you modeled multiple brain areas (good code <a href="https://github.com/joao-semedo/communication-subspace">here</a>) or average or modal controllability (good code at #3 <a href="https://complexsystemsupenn.com/codedata">here</a>; start with the correlation matrix with the diagonal set to 0 instead of 1). If you would like to experiment with topological data analysis, I can provide code for that too.</p></li>
+<li><p>Generate a fake multineuron data set. This should include spike count, BOLD, or calcium imaging responses of n neurons (or voxels) on m trials. You could use models from any of several tutorials to generate these responses. (I know that ChoiceProbabilityTutorial will do this for a population of MT neurons.) From this fake data set, calculate:</p></li>
 </ol>
-<p>Next, make some change to your model that will affect the shared variability (maybe add in a common noise source, or change some model parameters) and repeat the calculations in #1-3. Can you gain some insight into how those numbers are related?</p>
-<p>Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?</p>
+<p>a. The average correlation between each pair of neurons (this could be noise or signal correlation, depending on the data set you generated).\</p>
+<p>b. The dimensionality of the shared variability (e.g. by calculating the proportion variance explained by the first k principal components for k=1:n)\</p>
+<p>c. For the overachievers among you, calculate some fancy measurements too, such as communication subspace dimensionality if you modeled multiple brain areas (good code <a href="https://github.com/joao-semedo/communication-subspace">here</a>) or average or modal controllability (good code at #3 <a href="https://complexsystemsupenn.com/codedata">here</a>; start with the correlation matrix with the diagonal set to 0 instead of 1). If you would like to experiment with topological data analysis, I can provide code for that too.\</p>
+<p>d. Next, make some change to your model that will affect the shared variability (maybe add in a common noise source, or change some model parameters) and repeat the calculations in #a-c. Can you gain some insight into how those numbers are related?\</p>
+<p>e. Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?</p>
 </section>
 <section id="madineh-sedigh-sarvestani">
 <h2>Madineh Sedigh-Sarvestani<a class="headerlink" href="#madineh-sedigh-sarvestani" title="Permalink to this heading"></a></h2>
@@ -270,7 +275,7 @@ When engaged in natural tasks, people tend to fixate points that are relatively 
 <li><p>This model built V1 cells that only have one (excitatory) subunit and orientation preference/selectivity is defined by the elongation of the long axis of the RF. However, V1 neurons typically have an “on” and an “off” subunit, and in the mouse orientation preference/selectivity is defined by the axis of overlap of these subunits. Build a new version of this model with on/off subunits and test whether this changes (A) the magnitude of cross orientation interactions and (B) the sensitivity of those interactions to mask phase.</p></li>
 <li><p>In cat/primate V1, plaid stimuli drive responses that are component selective.  However, in mouse V1, responses can be either pattern and component selective. Use this simple subunit model to (A) determine whether V1 neurons are component and/or pattern selective and (B) test whether these responses are sensitive to mask phase.</p></li>
 </ol>
-<p>The code for the model in Barbera et al. can be found here: https://figshare.com/collections/BarberaPriebeGlickfeld_Neuron_2022/5677225/ see Figure4_model_code.m</p>
+<p>The code for the model in Barbera et al. can be found <a href="https://figshare.com/collections/BarberaPriebeGlickfeld_Neuron_2022/5677225/">here</a>, see <em>Figure4_model_code.m</em>.</p>
 </section>
 </section>
 
