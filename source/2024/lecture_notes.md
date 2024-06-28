@@ -19,8 +19,6 @@
 • <a href="../_static/pdfs/serences/HendersonRademakerSerences_2022.pdf"> Henderson, M.M., Rademaker, R.L., Serences, J.T. (2022). Flexible utilization of spatial- and motor- based codes for the storage of visuo-spatial information </a>
 
 
-Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
-
 <br/>
 
 ## Eero Simoncelli
