@@ -18,14 +18,14 @@
 ## TAs
 
 
-<!-- <image src="../_static/images/2024/birman_sml.png" alt="Eline Kupers" position="left" style="border-radius: 8px;width:20vh"> -->
+<image src="../_static/images/2024/kupers_sml.jpg" alt="Eline Kupers" position="left" style="border-radius: 8px;width:20vh">
 
 **[Eline Kupers](https://elinekupers.github.io)**
 
-<!-- <image src="../_static/images/2022/duncker_sml.jpg" alt="Catrina Hacker" position="left" style="border-radius: 8px;width:20vh"> -->
+<image src="../_static/images/2024/hacker_sml.jpg" alt="Catrina Hacker" position="left" style="border-radius: 8px;width:20vh">
 
 **[Catrina Hacker](https://catrinahacker.com/)**
 
-<!-- <image src="../_static/images/2022/duncker_sml.jpg" alt="Lea Duncker" position="left" style="border-radius: 8px;width:20vh"> -->
+<!-- <image src="../_static/images/2024/rowley_sml.jpg" alt="Declan Rowley" position="left" style="border-radius: 8px;width:20vh"> -->
 
 **Declan Rowley**
