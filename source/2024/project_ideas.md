@@ -76,6 +76,13 @@ Next, make some change to your model that will affect the shared variability (ma
 
 Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?
 
+## Jon Serences
+Traditional models of visual information processing assume that stable neural codes are required to support stable percepts and memories. However, recent work suggests that codes are highly dynamic, and there has been increasing focus on understanding how (or if) these dynamics play a role in efficient coding. For example, neural codes dynamically change as a function of recent stimulus history (adaptation), over a short time-scale of seconds during perceptual and memory-related tasks (short-term drift), and even over the course of days-months, well after task performance has stabilized (long-term representational drift). That said, the functional role that these dynamics play in visual information processing is still unclear. Adaptation is usually thought to reduce redundancy and energy expenditure when encoding expected or frequently encountered stimuli. Short-term drift may help to insulate memories from sensory interference and to prospectively transform representations into codes that can more readily support interactions with relevant objects in the environment. The role of long-term representational drift is less clear, with prior work suggesting a role in sparsifying neural codes or exploring the neural solution space to support more efficient processing.
+
+Project idea:
+
+Use a continuous time recurrent neural network (example code in python tutorials) to build a network that performs a simple delayed match to sample (DMTS) task (or some other task of your own design). Does the network naturally exhibit within-trial dynamics after training? Does it settle into a crystalized state after reaching asymptotic performance, or does it continue to explore the solution space? What role do these dynamics play in successfully learning your task? And last, what parameters drive increased dynamics in the networks in the support of more efficient processing? For example, in a DMTS memory task, you could look at how the network adaptively prepares to compare the second stimulus to the first during the delay period and what factors might encourage the network to become more dynamic in support of more efficient task performance (e.g. manipulations of the loss function, changes in connectivity, E/I balance, etc)? 
+
 ## Eero Simoncelli
 
 Metamers: given a model and a reference image, stochastically generate a new image whose model representation is identical to that of the reference image.  [ref:  Freeman & Simoncelli 2011]
@@ -89,6 +96,13 @@ Geodesics: given a model and two images, attempt to synthesize a sequence of ima
 (note from Dan: not really a project idea, but a tool you could use in a project)
 My lab has produced a python library of tools to explore vision models by  synthesizing novel informative images.
 This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s here: https://github.com/LabForComputationalVision/plenoptic/. Kate Bonnen is an expert user and someone to ask questions about it.
+
+## Stephanie Palmer
+Open the provided natural movie and associated retinal data from the larval salamander. Use DeepLabCut, your favorite tracking algorithm, or your own hand-tracking to map out the trajectories of 1-5 objects in one of the five scenes. Does the retinal population have information about these trajectories? Compute the correlation between the population firing and the past, present, and future position of your chosen object. At what lag is the correlation maximal? What other metrics could you use to quantify this? 
+
+Try to animate a circle so that it looks "alive". What kind of features do you want your pet circle's trajectory to have? Try making it unpredictable; try making it oscillate. Can you make a trajectory that would pass a Turing test?
+
+Find a good open-source model retina and play it a natural movie. How much can you modify the movie before you can tell the difference in the retina's response. Find the retina's metamers! This riffs on ideas you'll hear from Eero and EJ. 
 
 ## Kate Bonnen
 

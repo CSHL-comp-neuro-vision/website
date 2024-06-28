@@ -14,9 +14,10 @@
 ## John Serences 
 
 ### Suggested Readings
+• <a href="../_static/pdfs/serences/SheehanSerences_PlosBio_2022.pdf">Sheehan, T.C. and Serences, J.T. (2022). Attractive serial dependence overcomes repulsive neuronal adaptation. PLoS Biology </a>
+• <a href="../_static/pdfs/serences/Henderson_Serences_Rungratsameetaweemana_biorxiv.pdf">Henderson, M.M., Serences, J.,T., Rungratsameetaweemana, N. (2023). Dynamic categorization rules alter representations in human visual cortex</a>\
+• <a href="../_static/pdfs/serences/HendersonRademakerSerences_2022.pdf"> Henderson, M.M., Rademaker, R.L., Serences, J.T. (2022). Flexible utilization of spatial- and motor- based codes for the storage of visuo-spatial information </a>
 
-• <a href="https://faculty.washington.edu/gboynton/publications/boynton-neuroimage12.pdf">Boynton, GM., Engel, S., Heeger, D (2012). Linear systems analysis of the fMRI signal</a>\
-• <a href="https://www.biorxiv.org/content/10.1101/2021.04.06.438664v2">Sheehan, T.C. and Serences, J.T. (in press). Attractive serial dependence overcomes repulsive neuronal adaptation. PLoS Biology </a>
 
 Tutorial: EventRelated_fMRI_tutorial.ipynb or EventRelated_fMRI_tutorial.m
 
@@ -55,6 +56,15 @@ https://github.com/LabForComputationalVision/plenoptic/
 ### Slides
 
 ### Suggested Readings
+website\source\_static\pdfs\palmer\wangetal2022.pdf
+• <a href="../_static/pdfs/palmer/palmeretal2015.pdf">Palmer, S. E., Marre, O., Berry, M. J., & Bialek, W. (2015). Predictive information in a sensory population. Proceedings of the National Academy of Sciences, 112(22), 6908-6913.</a>\
+• <a href="../_static/pdfs/palmer/salisbury_palmer2016.pdf">Salisbury, J. M., & Palmer, S. E. (2016). Optimal prediction in the retina and natural motion statistics. Journal of Statistical Physics, 162(5), 1309-1323.</a>\
+• <a href="../_static/pdfs/palmer/wang_segev_borst_palmer2021.pdf">Wang, S., Segev, I., Borst, A., & Palmer, S. (2021). Maximally efficient prediction in the early fly visual system may support evasive flight maneuvers. PLoS computational biology, 17(5), e1008965.</a>
+
+extra:
+• <a href="../_static/pdfs/palmer/wangetal2022.pdf">Wang, S., Hoshal, B., de Laittre, E., Marre, O., Berry, M., & Palmer, S. (2022). Learning low-dimensional generalizable natural features from retina using a U-net.</a>\
+• <a href="../_static/pdfs/palmer/Hoshaletal2023.pdf">Hoshal, B. D., Holmes, C. M., Bojanek, K., Salisbury, J., Berry, M. J., Marre, O., & Palmer, S. E. (2023). Stimulus invariant aspects of the retinal code drive discriminability of natural scenes</a>
+
 
 <br/>
 
