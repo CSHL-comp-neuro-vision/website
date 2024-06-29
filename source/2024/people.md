@@ -26,6 +26,6 @@
 
 **[Catrina Hacker](https://catrinahacker.com/)**
 
-<!-- <image src="../_static/images/2024/rowley_sml.jpg" alt="Declan Rowley" position="left" style="border-radius: 8px;width:20vh"> -->
+<image src="../_static/images/2024/rowley_sml.jpg" alt="Declan Rowley" position="left" style="border-radius: 8px;width:20vh">
 
-**Declan Rowley**
+**[Declan Rowley](https://decrow3.github.io/)**

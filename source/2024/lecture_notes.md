@@ -55,9 +55,9 @@ https://github.com/LabForComputationalVision/plenoptic/
 
 ### Suggested Readings
 
-• <a href="../_static/pdfs/palmer/palmeretal2015.pdf">Palmer, S. E., Marre, O., Berry, M. J., & Bialek, W. (2015). Predictive information in a sensory population. Proceedings of the National Academy of Sciences, 112(22), 6908-6913.</a>\
-• <a href="../_static/pdfs/palmer/salisbury_palmer2016.pdf">Salisbury, J. M., & Palmer, S. E. (2016). Optimal prediction in the retina and natural motion statistics. Journal of Statistical Physics, 162(5), 1309-1323.</a>\
-• <a href="../_static/pdfs/palmer/wang_segev_borst_palmer2021.pdf">Wang, S., Segev, I., Borst, A., & Palmer, S. (2021). Maximally efficient prediction in the early fly visual system may support evasive flight maneuvers. PLoS computational biology, 17(5), e1008965.</a>
+• <a href="../_static/pdfs/palmer/palmeretal2015.pdf">Palmer, S. E., Marre, O., Berry, M. J., & Bialek, W. (2015). Predictive information in a sensory population</a>\
+• <a href="../_static/pdfs/palmer/salisbury_palmer2016.pdf">Salisbury, J. M., & Palmer, S. E. (2016). Optimal prediction in the retina and natural motion statistics</a>\
+• <a href="../_static/pdfs/palmer/wang_segev_borst_palmer2021.pdf">Wang, S., Segev, I., Borst, A., & Palmer, S. (2021). Maximally efficient prediction in the early fly visual system may support evasive flight maneuvers</a>
 
 extra: \
 • <a href="../_static/pdfs/palmer/wangetal2022.pdf">Wang, S., Hoshal, B., de Laittre, E., Marre, O., Berry, M., & Palmer, S. (2022). Learning low-dimensional generalizable natural features from retina using a U-net.</a>\
@@ -86,6 +86,10 @@ extra: \
 ### Slides
 
 ### Suggested Readings
+
+• <a href="../_static/pdfs/yates/casile_victor_rucci2019.pdf"> Casile A, Victor, J.D., Rucci, M. (2019). Contrast sensitivity reveals an oculomotor strategy for temporally encoding space.</a>\
+• <a href="../_static/pdfs/yates/victor_rucci2015.pdf">Victor, J.D., & Rucci M. (2015). The unsteady eye: an information-processing stage, not a bug</a>\
+• <a href="../_static/pdfs/yates/yatesetal2023.pdf">Yates, J.L., Coop, S.H., Sarch, G.H., Wu, R.J., Butts, D.A., Rucci M., Mitchel, J.F. (2023). Detailed characterization of neural selectivity in free viewing primates</a>
 
 <br/>
 
