@@ -29,3 +29,7 @@ Past T-Shirt designs:
 2000
 <image src="../_static/t-shirts/2000-front.jpg" alt="2000 front" position="left" style="border-radius: 8px;width:20vh">
 <image src="../_static/t-shirts/2000-back.jpg" alt="2000 front" position="left" style="border-radius: 8px;width:20vh">
+
+2018
+<image src="../_static/t-shirts/2018-front.jpeg" alt="2018 front" position="left" style="border-radius: 8px;width:20vh">
+<image src="../_static/t-shirts/2018-back.jpeg" alt="2018 front" position="left" style="border-radius: 8px;width:20vh">
