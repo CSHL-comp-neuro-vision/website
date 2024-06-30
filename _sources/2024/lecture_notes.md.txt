@@ -260,7 +260,7 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 ### Suggested Readings
 
 • <a href="../_static/pdfs/aly/aly-turkbrowne-2018-neurosciletters.pdf">Aly M. & Turk-Browne N.B. (2018). Flexible weighting of diverse inputs makes hippocampal function malleable. </a>\
-•  <a href="../_static/pdfs/aly/turkbrowne-2019-visres.pdf">Turk-Browne N.B. (2019). The hippocampus as a visual area organized by space and time: A spatiotemporal similarity hypothesis.</a>
+• <a href="../_static/pdfs/aly/turkbrowne-2019-visres.pdf">Turk-Browne N.B. (2019). The hippocampus as a visual area organized by space and time: A spatiotemporal similarity hypothesis.</a>
 
 <br/>
 
@@ -269,6 +269,12 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 ### Slides
 
 ### Suggested Readings
+
+Please read in order of priority:
+• Priority 1: <a href="../_static/pdfs/kar/01_kar-dicarlo-2024-annurevvissci.pdf">Kar, K. & DiCarlo, J.J. (2024) The Quest for an Integrated Set of Neural Mechanisms Underlying Object Recognition in Primates.</a>\
+• Priority 2: <a href="../_static/pdfs/kar/02_kar-etal-2019-nature-neurosci.pdf">Kar, K. (2019). Kubilius, J., Schmidt, K. Issa, E.B., DiCarlo, J.J. (2019). Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior.</a>\
+• Priority 3: <a href="../_static/pdfs/kar/03-kar-dicarlo-2021-neuron.pdf">Kar, K. & DiCarlo, J.J. (2021) Fast Recurrent Processing via Ventrolateral Prefrontal Cortex Is Needed by the Primate Ventral Stream for Robust Core Visual Object Recognition.</a>\
+• Priority 4: <a href="../_static/pdfs/kar/04-tuckute-etal-2024-arxiv.pdf">Tuckute, G., Finzi, D., Margalit, E., Yates, J., Zylberberg, J., Fyshe, A., Chung, S., Fedorenko, E., Kriegeskorte, N., Grill-Spector, K., & Kar, K. (2024). How to optimize neuroscience data utilization and experiment design for advancing primate visual and linguistic brain models?</a>
 
 <br/>
 

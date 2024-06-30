@@ -19,7 +19,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">8:00-9:30am</td>
+    <td class="tg-left">8-9:30am</td>
     <td class="tg-73oq">Breakfast</td>
     <td class="tg-lmxn">Robertson</td>
   </tr>
@@ -29,27 +29,27 @@
     <td class="tg-lmxn">Banbury</span></td>
   </tr>
   <tr>
-    <td class="tg-left">11:30am-1:00pm</td>
+    <td class="tg-left">11:30am-1pm</td>
     <td class="tg-73oq">Lunch</a></td>
     <td class="tg-lmxn">Meyer</td>
   </tr>
   <tr>
-    <td class="tg-left">1:00-3:00pm</td>
+    <td class="tg-left">1-3pm</td>
     <td class="tg-73oq">Afternoon lecture (with 10 min break)</a></td>
     <td class="tg-lmxn">Banbury</td>
   </tr>
   <tr>
-    <td class="tg-left">3:00-6:00pm</td>
+    <td class="tg-left">3-6pm</td>
     <td class="tg-73oq">Project time / tutorials</a></td>
     <td class="tg-lmxn">Banbury</td>
   </tr>
   <tr>
-    <td class="tg-left">6:00-7:30pm</td>
+    <td class="tg-left">6-7:30pm</td>
     <td class="tg-73oq">Dinner</a></td>
     <td class="tg-lmxn">Robertson</td>
   </tr>
   <tr>
-    <td class="tg-left">7:30-late</td>
+    <td class="tg-left">7:30pm-late</td>
     <td class="tg-73oq">Sometimes evening activity (informal talk, trivia, etc.)</a></td>
     <td class="tg-lmxn">Depends on activity (Check with organizers)</td>
   </tr>
