@@ -160,6 +160,14 @@ For inspiration, read about the behavioral tasks in these studies:\
 
 ## Kohitij Kar
 
+For background, I added two tutorials:
+1. A [Jupyter notebook](https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/python/NoiseCorrection/noise_correction_demo_py.ipynb) with a tutorial demonstrating the effects of misrepresenting relationships between variables due to noise in their estimates and how to retrieve the true relationship using noise correction techniques. 
+2. [A tutorial on predicting neural activity using deep net features.](https://github.com/kohitij-kar/prediction_demo)
+
+Project idea:
+1. Use one artificial neural network (Target) as a stand-in for human/monkey behavior or neural activity. Then optimize the experimental design, using methods like controversial stimuli generation, to best discriminate other models of that Target.
+
+
 ## Lindsey Glickfeld
 
 In [Barbera et al.](https://www.sciencedirect.com/science/article/pii/S0896627321007856), we used a simple subunit based, Hubel and Wiesel style model to predict V1 responses to gratings and plaids, and then to test the effect of mask phase on these responses. 
