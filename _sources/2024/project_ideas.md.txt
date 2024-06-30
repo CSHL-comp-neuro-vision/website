@@ -144,6 +144,16 @@ e. Possible publishable extension: Do these calculations in a real data set (you
 
 ## Emma Alexander
 
+Light fields describe the spatial and angular distribution of light, characterizing the set of images that could be taken of a given scene. Thus, light field cameras allow post-capture sampling of images from hypothetical cameras with different positions or apertures. Using light field data such as <a href="https://drive.google.com/file/d/18GiXf3dBND5ZCgKm49AwW7rt0UgV4JV4/view">example 1</a>, <a href="https://drive.google.com/file/d/18GiXf3dBND5ZCgKm49AwW7rt0UgV4JV4/view">example 2</a>, or other light fields available online such as <a href="http://graphics.stanford.edu/data/LF/lfs.html">here</a>, we can explore the implications of different optical designs on downstream processing.
+
+Warm up: Use the camera data to extract pinhole images from different viewpoints. Compare pinhole images to full-aperture images in terms of appearance, depth of field, and noise level. Explore spatial-angular slices (sometimes called “epipolar images”). Consider which sub-images would be best for stereo depth perception and depth from defocus, and test these hypotheses.
+
+Project 1: Based on Liang, Chia-Kai, Yi-Chang Shih, and Homer H. Chen. "Light field analysis for modeling image formation." IEEE Transactions on Image Processing, model the light field sampling of an eye of your choice, in the style of fig 1 of Levin, Anat, William T. Freeman, and Frédo Durand. "Understanding camera trade-offs through a Bayesian analysis of light field projections." 
+
+Project 2 Read Banks, Martin S., et al. "Why do animal eyes have pupils of different shapes?." Science Advances. Test the effect of pupil shape on stereo depth performance by simulating apertures from the light field data. Consider what makes a fair comparison and how the effects you observe might be exaggerated through optical design.
+
+Project 3: Read Levin, Anat, et al. "Image and depth from a conventional camera with a coded aperture." ACM transactions on graphics (TOG). Simulate their aperture code and depth recovery algorithm, and compare to non-coded depth from defocus.
+
 ## Jennifer Groh
 
 1. How does a brain create/read out a multiplexed code?  Figure 7 of Caruso et al 2018 provides a back-of-the-envelope sketch of a circuit model of some possibilities for the de-multiplexing.  Try implementing one of these, or come up with your own!
