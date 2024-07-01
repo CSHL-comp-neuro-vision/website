@@ -61,6 +61,33 @@
 <table class="tg">
 <thead>
   <tr>
+    <th class="tg-jn54" colspan="3"><span style="font-weight:bold">Tuesday, July 9, 2024</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-left">evening</td>
+    <td class="tg-73oq">Students/organizers arrive</td>
+    <!-- <td class="tg-lmxn">John Serences & Jonathan Pillow</td> -->
+  </tr>
+  <tr>
+    <td class="tg-left">8:00pm</td>
+    <td class="tg-73oq">Evening Welcome (Robertson Hall)</td>
+    <td class="tg-lmxn">Jonathan Pillow & John Serences</span></td>
+  </tr>
+  <!-- <tr>
+    <td class="tg-left">1:00-3:00pm</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#john-serences">Models of Attention</a></td>
+    <td class="tg-lmxn">John Serences</td>
+  </tr> -->
+</tbody>
+</table>
+
+<br>
+
+<table class="tg">
+<thead>
+  <tr>
     <th class="tg-jn54" colspan="3"><span style="font-weight:bold">Wednesday, July 10, 2024</span></th>
   </tr>
 </thead>
@@ -68,17 +95,17 @@
   <tr>
     <td class="tg-left">9:00-9:30am</td>
     <td class="tg-73oq">Welcome</td>
-    <td class="tg-lmxn">John Serences & EJ Chichilnisky</td>
+    <td class="tg-lmxn">John Serences & Jonathan Pillow</td>
   </tr>
-  <tr>
-    <td class="tg-left">9:30-11.30am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#ej-chichilnisky">Neural Code of the Retina</a></td>
-    <td class="tg-lmxn">EJ Chichilnisky</span></td>
+    <tr>
+    <td class="tg-left">9:30-11:30am</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#eero-simoncelli">Natural Scene Statistics and Efficient Coding</td>
+    <td class="tg-lmxn">Eero Simoncelli</span></td>
   </tr>
   <tr>
     <td class="tg-left">1:00-3:00pm</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#john-serences">Models of Attention</a></td>
-    <td class="tg-lmxn">John Serences</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#ej-chichilnisky">Neural Code of the Retina</a></td>
+    <td class="tg-lmxn">EJ Chichilnisky</span></td>
   </tr>
 </tbody>
 </table>
@@ -93,9 +120,9 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30-11.30am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#eero-simoncelli">Natural Scene Statistics</td>
-    <td class="tg-lmxn">Eero Simoncelli</span></td>
+    <td class="tg-left">9:30-11:30am</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#jonathan-pillow">Neural Encoding models & GLMs</td>
+    <td class="tg-lmxn">Jonathan Pillow</span></td>
   </tr>
   <tr>
     <td class="tg-left">1:00-3:00pm</td>
@@ -119,10 +146,10 @@
   </tr>
 </thead>
 <tbody>
-    <tr>
-    <td class="tg-left">9:30-11.30am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#jonathan-pillow">Neural Encoding models & GLMs</td>
-    <td class="tg-lmxn">Jonathan Pillow</span></td>
+  <tr>
+    <td class="tg-left">9:30-11:30am</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#lea-duncker">Latent Variable Models, Perception as Inference</td>
+    <td class="tg-lmxn">Lea Duncker</span></td>
   </tr>
   <tr>
     <td class="tg-left">1:00-3:00pm</td>
@@ -144,6 +171,7 @@
 
 <br>
 
+
 <table class="tg">
 <thead>
   <tr>
@@ -152,9 +180,9 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30-11.30am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#lea-duncker">Latent Variable Models, Perception as Inference</td>
-    <td class="tg-lmxn">Lea Duncker</span></td>
+    <td class="tg-left">9:30-11:30am</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#john-serences">Dynamics in Visual Processing</a></td>
+    <td class="tg-lmxn">John Serences</td>
   </tr>
   <tr>
     <td class="tg-left">1:00-3:00pm</td>
@@ -179,7 +207,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30-11.30am</td>
+    <td class="tg-left">9:30-11:30am</td>
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#rachel-denison">Dynamics of Visual Attention</td>
     <td class="tg-lmxn">Rachel Denison</td>
   </tr>
@@ -201,17 +229,17 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-jn54" colspan="3"><span style="font-weight:bold">Monday, 15, 2024</span></th>
+    <th class="tg-jn54" colspan="3"><span style="font-weight:bold">Monday, July 15, 2024</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30-11.30am</td>
+    <td class="tg-left">9:30-11:30am</td>
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#kate-bonnen">Continuous Psychophysics and 'natural' vision</td>
     <td class="tg-lmxn">Kate Bonnen</span></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00-3:00pm</td>
+    <td class="tg-left">Afternoon</td>
     <td class="tg-73oq">Half day off</td>
     <td class="tg-lmxn"></td>
   </tr>
@@ -229,7 +257,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:30-11:30am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#stefan-treue">TBD</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#stefan-treue">Physiology of Visual Attention</td>
     <td class="tg-lmxn">Stefan Treue</span></td>
   </tr>
   <tr>
@@ -304,12 +332,12 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:00am</td>
+    <td class="tg-left">Morning</td>
     <td class="tg-73oq">Day-off</td>
     <td class="tg-lmxn"></td>
   </tr>
   <tr>
-    <td class="tg-left">1:00pm</td>
+    <td class="tg-left">Afternoon</td>
     <td class="tg-73oq">Day-off</td>
     <td class="tg-lmxn"></td>
   </tr>
@@ -377,7 +405,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-left">9:30am-11:30</td>
+    <td class="tg-left">9:30am-11:30am</td>
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#lindsey-glickfeld">Normalization</td>
     <td class="tg-lmxn">Lindsey Glickfeld</span></td>
   </tr>

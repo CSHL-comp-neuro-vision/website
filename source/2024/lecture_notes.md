@@ -218,6 +218,10 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ### Suggested Readings
 
+• <a href="../_static/pdfs/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">Clippingdale, S. & Wilson, R. (1996). Self-similar neural networks based on a Kohonen learning rule.</a>\
+• <a href="../_static/pdfs/sedigh-sarvestani/KonkleAlvarez-2022-ASelfSupervisedDomainGeneralLearningFrameworkForHumanVentralStreamRepresentation.pdf">Konkle, T. & Alvarez, G.A. (2022) A self-supervised domain-general learning framework for human ventral stream representation.</a>\
+• <a href="../_static/pdfs/sedigh-sarvestani/Sedigh-Sarvestanietal.-2021-ASinusoidalTransformationOfTheVisualFieldIsTheBasisForPeriodicMapsInAreaV2.pdf">Sedigh-Sarvestani et al. (2021). A sinusoidal transformation of the visual field is the basis for periodic maps in area V2.</a>
+
 <br/>
 
 ## Ione Fine
@@ -245,7 +249,7 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 ### Suggested Readings
 
 • <a href="../_static/pdfs/groh/GrohSchmehlCarusoTokdar-2024-SignalSwitchingMayEnhanceProcessingPowerOfTheBrain.pdf">Groh, J.M., Schmehl, M.N., Caruso V.C., & Tokdar, S.C. (2024). Signal switching may enhance processing power of the brain.</a>\
-• <a href="../_static/pdfs/groh/Junetal-2022-CoordinatedMultiplexingOfInformationAboutSeparateObjectsInVisualCortex.pdf">Jun, N.Y. et al. (2022). Coordinated multiplexing of information about separate objects in visual cortex.</a>\
+• <a href="../_static/pdfs/groh/Junetal-2022-CoordinatedMultiplexingOfInformationAboutSeparateObjectsInVisualCortex.pdf">Jun, N.Y. et al. (2022). Coordinated multiplexing of information about separate objects in visual cortex.</a>
 
 And optionally...
 
