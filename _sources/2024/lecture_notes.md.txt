@@ -229,6 +229,8 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 ### Slides
 
 ### Suggested Readings
+• <a href="../_static/pdfs/fine/FineBoynton-2015-PulseTrainsToPercepts-TheChallengeOfCreatingAPerceptuallyIntelligibleWorldWithSightRecoveryTechnologies.pdf">Fine, I. & Boynton, G.M. (2015). Pulse trains to percepts: the challenge of creating a perceptually intelligible world with sigh recovery technologies</a>\
+• <a href="../_static/pdfs/fine/FineBoynton-2023-AVirtualPatientSimulationModelingTheNeuralAndPerceptualEffectsOfHumanVisualCorticalStimulationFromPulseTrainsToPercepts.pdf">Fine, I. & Boynton, G.M. (2023). A virtual patient simulation modeling the neural and perceptual effects of human visual cortical stimulation, from pulse trains to percepts</a>
 
 <br/>
 
@@ -268,6 +270,11 @@ And optionally...
 ### Slides
 
 ### Suggested Readings
+• <a href="../_static/pdfs/lee/Leeetal-2023-TheForced-ResponseModel-ANewChronometricApproachToMeasureConflictProcessing.pdf">Lee, T., Sellers, J., Jonides, J. & Zhang, H. (2023). The forced-response method: A new chronometric approach to measure conflict processing</a>\
+• <a href="../_static/pdfs/lee/Pellissonetal-2010-SensorimotorAdaptationOfSaccadicEyeMovements.pdf">Pélisson, D., Alahyane, N., Panouillères, M. & Tilikete, C. (2010). Sensorimotor adaptation of saccadic eye movements.</a>\
+• <a href="../_static/pdfs/lee/PolaniaNitscheRuff-2018-StydyingAndModifyingBrainFunctionWithNon-InvasiveBrainStimulation.pdf">Polanía, R., Nitsche, M.A. & Ruff, C.C. (2018). Studying and modifying brain function with non-invasive brain stimulation.</a>\
+• <a href="../_static/pdfs/lee/TheeuwesBelopolskyOlivers-2009-InteractionsBetweenWorkingMemoryAttentionAndEyeMovements.pdf">Theeuwes, J., Belopolsky, A. & Olivers, C.N.L. (2009). Interactions between working memory, attention, and eye movements.</a>\
+• <a href="../_static/pdfs/lee/vanEde-2020-VisualWorkingMemoryAndAction-FunctionalLinksAndBi-DirectionalInfluences.pdf">van Ede, F. (2020). Visual working memory and action: Functional links and bi-directional influences.</a>
 
 <br/>
 
