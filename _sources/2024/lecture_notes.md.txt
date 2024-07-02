@@ -228,6 +228,8 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ### Slides
 
+<a href= "https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/fine/FineProvisionalSlides.pdf">Provisional Lecture Slides</a>
+
 ### Suggested Readings
 • <a href="../_static/pdfs/fine/FineBoynton-2015-PulseTrainsToPercepts-TheChallengeOfCreatingAPerceptuallyIntelligibleWorldWithSightRecoveryTechnologies.pdf">Fine, I. & Boynton, G.M. (2015). Pulse trains to percepts: the challenge of creating a perceptually intelligible world with sigh recovery technologies</a>\
 • <a href="../_static/pdfs/fine/FineBoynton-2023-AVirtualPatientSimulationModelingTheNeuralAndPerceptualEffectsOfHumanVisualCorticalStimulationFromPulseTrainsToPercepts.pdf">Fine, I. & Boynton, G.M. (2023). A virtual patient simulation modeling the neural and perceptual effects of human visual cortical stimulation, from pulse trains to percepts</a>
