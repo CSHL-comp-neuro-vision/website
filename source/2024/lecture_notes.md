@@ -184,10 +184,14 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 
 ### Suggested Readings
 
-My lecture period is focused on understanding eye movements in both natural and unnatural settings. We’ll start by going over some basic and fun information about oculomotor control (Kowler review is relevant/interesting for this, but not necessary). Then I’d like to tell you about the importance of binocular coordination of eye movements, particularly for fixating points at different distances and keeping the eyes in focus. Once we’ve covered these foundations, I’ll tell you about some studies I’ve been involved in that examine fixation patterns during natural behavior, how these natural patterns are disrupted in augmented reality systems, and how optocomputational displays can restore natural eye movements. Of the studies I’ll present, I’m suggesting you read the Padmanaban one (but it’s not very computational, so you’ll understand my presentation fine without reading in advance). I’m happy to share additional relevant readings for anyone who’s interested. 
+<!-- My lecture period is focused on understanding eye movements in both natural and unnatural settings. We’ll start by going over some basic and fun information about oculomotor control (Kowler review is relevant/interesting for this, but not necessary). Then I’d like to tell you about the importance of binocular coordination of eye movements, particularly for fixating points at different distances and keeping the eyes in focus. Once we’ve covered these foundations, I’ll tell you about some studies I’ve been involved in that examine fixation patterns during natural behavior, how these natural patterns are disrupted in augmented reality systems, and how optocomputational displays can restore natural eye movements. Of the studies I’ll present, I’m suggesting you read the Padmanaban one (but it’s not very computational, so you’ll understand my presentation fine without reading in advance). I’m happy to share additional relevant readings for anyone who’s interested.  -->
 
-• <a href="../_static/pdfs/cooper/Kowler2011.pdf">Kowler, E. (2011) Eye movements: The past 25 years.</a>\
-• <a href="../_static/pdfs/cooper/Padmanaban2017.pdf">Padmanaban, N. et al. (2017) Optimizing virtual reality for all users through gaze-contingent and adaptive focus displays.</a>
+
+• <a href="../_static/pdfs/cooper/DayanAbbott_Section3.3_p97-113_PopulationDecoding.pdf">Dayan & Abbott Theoretical Neuroscience textbook population deocding chapter</a>\
+• <a href="../_static/pdfs/cooper/Manning_PLOSCB.pdf">Manning et al. (2024). Transformations of sensory information in the brain suggest changing criteria for optimality.</a>\
+• <a href="../_static/pdfs/cooper/Sprague_ScienceAdvances.pdf">Sprague et al. (2015). Stereopsis is adaptive for the natural environment.</a>
+<!-- • <a href="../_static/pdfs/cooper/Kowler2011.pdf">Kowler, E. (2011) Eye movements: The past 25 years.</a>\
+• <a href="../_static/pdfs/cooper/Padmanaban2017.pdf">Padmanaban, N. et al. (2017) Optimizing virtual reality for all users through gaze-contingent and adaptive focus displays.</a> -->
 
 <br/>
 
@@ -214,6 +218,10 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ### Suggested Readings
 
+• <a href="../_static/pdfs/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">Clippingdale, S. & Wilson, R. (1996). Self-similar neural networks based on a Kohonen learning rule.</a>\
+• <a href="../_static/pdfs/sedigh-sarvestani/KonkleAlvarez-2022-ASelfSupervisedDomainGeneralLearningFrameworkForHumanVentralStreamRepresentation.pdf">Konkle, T. & Alvarez, G.A. (2022) A self-supervised domain-general learning framework for human ventral stream representation.</a>\
+• <a href="../_static/pdfs/sedigh-sarvestani/Sedigh-Sarvestanietal.-2021-ASinusoidalTransformationOfTheVisualFieldIsTheBasisForPeriodicMapsInAreaV2.pdf">Sedigh-Sarvestani et al. (2021). A sinusoidal transformation of the visual field is the basis for periodic maps in area V2.</a>
+
 <br/>
 
 ## Ione Fine
@@ -230,15 +238,28 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ### Suggested Readings
 
+• <a href="http://graphics.cs.cmu.edu/courses/15-463/lectures/lecture_10.pdf">Introductory slides</a>\
+• <a href="../_static/pdfs/alexander/AdelsonBergen-1991-The plenoptic function and the elements of early vision.pdf">Adelson, Edward H., and James R. Bergen. The plenoptic function and the elements of early vision. Vol. 2. Cambridge, MA, USA: Vision and Modeling Group, Media Laboratory, Massachusetts Institute of Technology, 1991</a>\
+• <a href="../_static/pdfs/alexander/LiangShihChen-2011-LightFieldAnalysisForModelingImageFormation.pdf">Liang, Chia-Kai, Yi-Chang Shih, and Homer H. Chen. "Light field analysis for modeling image formation." IEEE Transactions on Image Processing 20.2 (2010): 446-460</a>
+
 <br/>
 
 ## Jennifer Groh
 
 ### Suggested Readings
 
-• <a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso et al. (2018). Single neurons may encode simultaneous stimuli by switching between activity patterns</a>\
+• <a href="../_static/pdfs/groh/GrohSchmehlCarusoTokdar-2024-SignalSwitchingMayEnhanceProcessingPowerOfTheBrain.pdf">Groh, J.M., Schmehl, M.N., Caruso V.C., & Tokdar, S.C. (2024). Signal switching may enhance processing power of the brain.</a>\
+• <a href="../_static/pdfs/groh/Junetal-2022-CoordinatedMultiplexingOfInformationAboutSeparateObjectsInVisualCortex.pdf">Jun, N.Y. et al. (2022). Coordinated multiplexing of information about separate objects in visual cortex.</a>
+
+And optionally...
+
+• <a href="../_static/pdfs/groh/Schmehletal.-2024-MultipleObjectsEvokeFluctuatingResponsesInSeveralRegionsOfTheVisualPathway.pdf">Schmehl, M.N. et al. (2024). Multiple objects evoke fluctuating responses in several regions of the visual pathway.</a>\
+• <a href="../_static/pdfs/groh/Caruso_NatComm2018_with_supplement.pdf">Caruso et al. (2018). Single neurons may encode simultaneous stimuli by switching between activity patterns</a>
+
+
+<!-- 
 • <a href="../_static/pdfs/groh/Gruters_Murphy_PNAS_2018.pdf">Gruters & Murphy et al. (2018). The eardrums move when the eyes move: A multisensory effect on the mechanics of hearing.</a>\
-• <a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun et al. (2019). Coordinated multiplexing of information about separate objects in visual cortex </a>
+• <a href="../_static/pdfs/groh/Jun_Main_v17_Supp_v5_clean.pdf">Jun et al. (2019). Coordinated multiplexing of information about separate objects in visual cortex </a> -->
 
 <br/>
 
