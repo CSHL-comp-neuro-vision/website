@@ -6,8 +6,8 @@
 ### Suggested Readings
 
 • <a href="../_static/pdfs/chichilnisky/Pillow2008.pdf">Pillow, J.W., Shlens, J., Paninski, L., Sher, A., Litke, A.M., Chichilnisky, E.J. & Simoncelli, E.P. (2008). Spatio-temporal correlations and visual signalling in a complete neuronal population</a>\
-• <a href="../_static/pdfs/chichilnisky/Muratore2019c">Muratore, D.G. & Chichilnisky, E.J. (2019). Artificial Retina: A Future Cellular-Resolution Brain-Machine Interface </a>\
-• <a href="../_static/pdfs/chichilnisky/Shah2020a">Shah, N.P., Brackbill, N., Rhoades, C., Kling, A., Goetz, G., Litke, A.M., Sher, A., Simoncelli, E.P. & A. Chichilnisky, E.J. (2020). Inference of nonlinear receptive field subunits with spike-triggered clustering</a>
+• <a href="../_static/pdfs/chichilnisky/Muratore2019c.pdf">Muratore, D.G. & Chichilnisky, E.J. (2019). Artificial Retina: A Future Cellular-Resolution Brain-Machine Interface </a>\
+• <a href="../_static/pdfs/chichilnisky/Shah2020a.pdf">Shah, N.P., Brackbill, N., Rhoades, C., Kling, A., Goetz, G., Litke, A.M., Sher, A., Simoncelli, E.P. & A. Chichilnisky, E.J. (2020). Inference of nonlinear receptive field subunits with spike-triggered clustering</a>
 
 <br/>
 
@@ -165,7 +165,7 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 
 • <a href="../_static/pdfs/bonnen/bonnen-et-al-2015.pdf">Bonnen, K., Burge, J., Yates, J., Pillow, J., & Cormack, L.K. (2015). Continuous psychophysics: Target-tracking to measure visual sensitivity</a>\
 • <a href="../_static/pdfs/bonnen/noel-et-al-2021.pdf">Noel, J.P., Caziot, B., Bruni, S., Fitzgerald, N.E., Avila, E., & Angelaki, D.E. (2021). Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making</a>\
-• <a href="../_static/pdfs/bonnen/matthis-yates-hayhoe-2018.">Matthis, J.S., Yates, J.L., & Hayhoe, M.M. (2018). Gaze and the control of foot placement when walking in natural terrain</a>\
+• <a href="../_static/pdfs/bonnen/matthis-yates-hayhoe-2018.pdf">Matthis, J.S., Yates, J.L., & Hayhoe, M.M. (2018). Gaze and the control of foot placement when walking in natural terrain</a>\
 • <a href="../_static/pdfs/bonnen/bonnen-et-al-2021.pdf">Bonnen, K., Matthis, J.S., Gibaldi, A., Banks, M.S., Levi, D.M., & Hayhoe, M. (2021). Binocular vision and the control of foot placement during walking in natural terrain.</a>
 
 <br/>
@@ -202,8 +202,8 @@ My lecture period is focused on understanding eye movements in both natural and 
 
 I will also touch on some newer methods for analyzing neural population data. People wanting to learn more might find these papers useful:
 
-• <a href="../_static/pdfs/cohen/sizemore-etal-2011.pdf">Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R. & Bassett, D.S. (2019). The importance of the whole: topological data analysis for the network neuroscientist</a>\
-• <a href="../_static/pdfs/cohen/rouse-ni-huang-cohen-2011.pdf">Rouse T.C., Ni A.M., Huang C & Cohen M.R. (2021). Topological insights into the neural basis of flexible behavior</a>\
+• <a href="../_static/pdfs/cohen/sizemore-etal-2019.pdf">Sizemore, A.E., Phillips-Cremins, J.E., Ghrist, R. & Bassett, D.S. (2019). The importance of the whole: topological data analysis for the network neuroscientist</a>\
+• <a href="../_static/pdfs/cohen/rouse-ni-huang-cohen-2021.pdf">Rouse T.C., Ni A.M., Huang C & Cohen M.R. (2021). Topological insights into the neural basis of flexible behavior</a>\
 • <a href="../_static/pdfs/cohen/wu-yan-etal-2020.pdf">Wu-Yan, E., Betzel, R.F., Tang, E., Gu, S., Pasqualetti, F. & Bassett, D.S. (2020). Benchmarking measures of network controllability on canonical graph models </a>
 
 <br/>
