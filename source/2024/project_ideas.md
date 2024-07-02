@@ -149,6 +149,10 @@ You can also invert this exercise. Given a large-scale organization in the visua
 
 ## Ione Fine
 
+• Create a collection of receptive fields (e.g. oriented Gabors that vary in location, orientation and size tuning. How is  a ‘star’ (a light spot in a dark background) represented amongst these Gabors? How would you best represent a ‘star’ with this collection of receptive fields. \
+• We see adaptation in cortical electrical stimulation. It may or may not be the same thing as normal cortical adaptation to standard visual stimulation. It might be worth having a think about that. \
+• What about an LGN prosthetic?
+
 ## Emma Alexander
 
 Light fields describe the spatial and angular distribution of light, characterizing the set of images that could be taken of a given scene. Thus, light field cameras allow post-capture sampling of images from hypothetical cameras with different positions or apertures. Using light field data such as <a href="https://drive.google.com/file/d/18GiXf3dBND5ZCgKm49AwW7rt0UgV4JV4/view">example 1</a>, <a href="https://drive.google.com/file/d/18GiXf3dBND5ZCgKm49AwW7rt0UgV4JV4/view">example 2</a>, or other light fields available online such as <a href="http://graphics.stanford.edu/data/LF/lfs.html">here</a>, we can explore the implications of different optical designs on downstream processing.
