@@ -23,13 +23,8 @@
 
 ## Eero Simoncelli
 
-My Official and Unofficial Bios:
+Official and Unofficial Bios:
 <a href="https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli">https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli</a>
-
-### Slides
-
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-discriminability-2022.pdf">Discriminability</a>\
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/simoncelli/cshl-simoncelli-metamers-2022.pdf">Metamers</a>
 
 ### Suggested Readings
 
@@ -40,9 +35,8 @@ My Official and Unofficial Bios:
 • <a href="../_static/pdfs/simoncelli/simoncelli-olshausen-2001.pdf">Simoncelli, E.P. & Olshausen, B. (2001). Natural image statistics and neural representation</a>\
 • <a href="../_static/pdfs/simoncelli/portilla-simoncelli-2000.pdf">Portilla, J. & Simoncelli, E.P. (2000). A parametric texture model based on joint statistics of complex wavelet coefficients</a>
 
-### Code repository
-
-Eero's lab has produced a python library of tools to explore vision models by synthesizing novel informative images.\
+**Code repository**
+Eero's lab has produced a python library of tools to explore vision models by synthesizing novel informative images.
 This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016).
 
 <a href="https://github.com/LabForComputationalVision/plenoptic/">https://github.com/LabForComputationalVision/plenoptic/</a>
@@ -50,8 +44,6 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 <br/>
 
 ## Stephanie Palmer
-
-### Slides
 
 ### Suggested Readings
 
@@ -68,10 +60,6 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 
 ## Jonathan Pillow
 
-### Slides
-
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/pillow/pillow_GLMs_CSHL2022slides.pdf">Lecture slides</a>
-
 ### Suggested Readings
 
 • <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow, Shlens, Paninski, Sher, Litke, Chichilnisky & Simoncelli (2008). Spatio-temporal correlations and visual signaling in a complete neuronal population</a>\
@@ -83,8 +71,6 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 
 ## Jacob Yates
 
-### Slides
-
 ### Suggested Readings
 
 • <a href="../_static/pdfs/yates/casile_victor_rucci2019.pdf"> Casile A, Victor, J.D. & Rucci, M. (2019). Contrast sensitivity reveals an oculomotor strategy for temporally encoding space.</a>\
@@ -95,15 +81,11 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 
 ## Lea Duncker
 
-### Slides
-
 ### Suggested Readings
 
 <br/>
 
 ## Ruth Rosenholtz
-
-### Slides
 
 ### Suggested Readings
 
@@ -114,8 +96,6 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 <br/>
 
 ## Rachel Denison
-
-### Slides
 
 ### Suggested Readings
 
@@ -131,35 +111,19 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 
 ## Tony Movshon
 
-### Slides
-
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-1.pdf">Visual system introduction slides</a>\
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-2.pdf">Visual system introduction slides</a>\
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2022/raw/main/movshon/movshon-lecture-3.pdf">MT slides</a>
-
 ### Suggested Readings
 
-• <a href="../_static/pdfs/movshon/marr-1982-chapter1.pdf">Marr (1982).The Philosophy and Approach, Vision</a>\
-• <a href="../_static/pdfs/movshon/barlow-1961.pdf">Barlow (1961). Possible Principles Underlying the Transformations of Sensory Messages</a>
-
-**For MT:**<br/>
+• <a href="../_static/pdfs/movshon/Vannietal2020.pdf">Vanni et al (2020) - Anatomy and Physiology of Macaque Visual Cortical Areas V1, V2, and V5/MT: Bases for Biologically Realistic Models</a>\
 • <a href="../_static/pdfs/movshon/adelson-bergen-1985.pdf">Adelson & Bergen (1985). Spatiotemporal  energy  models  for  the  perception  of  motion</a>\
+• <a href="../_static/pdfs/movshon/emerson-bergen-adelson-1991.pdf">Emerson, Bergen & Adelson (1991). Directionally Selective and the  Computation Cat  Visual Cortex  </a>\
+• <a href="../_static/pdfs/movshon/wei-2018.pdf">Wei (2018). Neural Mechanisms of Motion Processing in the Mammalian Retina </a>\ 
+• <a href="../_static/pdfs/movshon/Borst-Groschner-2023.pdf">Borst & Groschner (2023). How Flies See Motion</a>\ 
+• <a href="../_static/pdfs/movshon/Wienecke-Leong-Clandinin-2018.pdf">Wienecke, Leong & Clandinin (2018). Linear Summation Underlies Direction Selectivity in Drosophila </a>\
 • <a href="../_static/pdfs/movshon/rust-mante-simoncelli-movshon-2006.pdf">Rust et al. (2006). How MT cells analyze the motion of visual patterns</a>
-
-
-**Also see:**<br/>
-• <a href="../_static/pdfs/movshon/adelson-bergen-1991.pdf">Adelson & Bergen (1991). The Plenoptic Function and the Elements of Early Vision</a>\
-• <a href="../_static/pdfs/movshon/anderson-1972.pdf">Anderson (1972). More is Different</a>\
-• <a href="../_static/pdfs/movshon/barlow-1972.pdf">Barlow (1972). Single  units  and  sensation: A neuron  doctrine for  perceptual psychology?</a>\
-• <a href="../_static/pdfs/movshon/enroth-cugell-robson-1984.pdf">Enroth, Cugell & Robson (1984). Functional  Characteristics  and  Diversity  of Cat  Retinal  Ganglion Cells</a>\
-• <a href="../_static/pdfs/movshon/lennie-movshon-2005.pdf">Lennie & Movshon (2005). Coding of color and form in the geniculostriate visual pathway</a>\
-• <a href="../_static/pdfs/movshon/movshon-simoncelli-2014.pdf">Movshon & Simoncelli (2014). Representation of Naturalistic Image Structure in the Primate Visual Cortex</a>
 
 <br/>
 
 ## Kate Bonnen
-
-### Slides
 
 ### Suggested Readings
 
@@ -172,15 +136,11 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 
 ## Stefan Treue
 
-### Slides
-
 ### Suggested Readings
 
 <br/>
 
 ## Emily Cooper
-
-### Slides
 
 ### Suggested Readings
 
@@ -214,8 +174,6 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ## Madineh Sedigh-Sarvestani
 
-### Slides
-
 ### Suggested Readings
 
 • <a href="../_static/pdfs/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">Clippingdale, S. & Wilson, R. (1996). Self-similar neural networks based on a Kohonen learning rule.</a>\
@@ -226,7 +184,6 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ## Ione Fine
 
-### Slides
 
 <a href= "https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/fine/FineProvisionalSlides.pdf">Provisional Lecture Slides</a>
 
@@ -237,8 +194,6 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 <br/>
 
 ## Emma Alexander
-
-### Slides
 
 ### Suggested Readings
 
@@ -269,8 +224,6 @@ And optionally...
 
 ## Taraz Lee
 
-### Slides
-
 ### Suggested Readings
 • <a href="../_static/pdfs/lee/Leeetal-2023-TheForced-ResponseModel-ANewChronometricApproachToMeasureConflictProcessing.pdf">Lee, T., Sellers, J., Jonides, J. & Zhang, H. (2023). The forced-response method: A new chronometric approach to measure conflict processing</a>\
 • <a href="../_static/pdfs/lee/Pellissonetal-2010-SensorimotorAdaptationOfSaccadicEyeMovements.pdf">Pélisson, D., Alahyane, N., Panouillères, M. & Tilikete, C. (2010). Sensorimotor adaptation of saccadic eye movements.</a>\
@@ -296,8 +249,6 @@ And optionally...
 
 ## Kohitij Kar
 
-### Slides
-
 ### Suggested Readings
 
 Please read in order of priority:
@@ -309,8 +260,6 @@ Please read in order of priority:
 <br/>
 
 ## Lindsey Glickfeld
-
-### Slides
 
 ### Suggested Readings
 
