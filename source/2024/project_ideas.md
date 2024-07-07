@@ -86,6 +86,11 @@ Relevant refs:
 
 ## Tony Movshon
 
+Building a motion energy model for cortical direction selectivity. As a starting point, look at the <a href="https://github.com/CSHL-comp-neuro-vision/tutorials/tree/main/matlab/ModelingMotionProcessing">model in the Rust et al 2006 paper</a> -- motion energy front end, then pattern motion computation. I will talk about that paper at the end of the lecture.
+
+It's a good package and a good exercise for students.
+
+
 ## Kate Bonnen
 
 1. Continuous matching experiment.  Employing a tracking method to continuously match a visual feature (e.g., orientation).
