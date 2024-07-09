@@ -23,23 +23,25 @@
 
 ## Eero Simoncelli
 
-Official and Unofficial Bios:
-<a href="https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli">https://www.cns.nyu.edu/events/growingupinscience/unofficial.html#Simoncelli</a>
-
 ### Suggested Readings
-
-• <a href="../_static/pdfs/simoncelli/ziemba-simoncelli-2021.pdf">Ziemba, C.M. & Simoncelli, E.P (2021). Opposing effects of selectivity and invariance in peripheral vision</a>\
-• <a href="../_static/pdfs/simoncelli/ziemba-freeman-movshon-simoncelli-2016.pdf">Ziemba, C.M., Freeman, J., Movshon, A.J. & Simoncelli, E.P.  (2016). Selectivity and tolerance for visual texture in macaque V2</a>\
-• <a href="../_static/pdfs/simoncelli/freeman-ziemba-heeger-simoncelli-movshon-2013.pdf">Freeman, J., Ziemba, C.M., Heeger, D.J., Simoncelli, E.P. & Movshon, A.J. (2013). A functional and perceptual signature of the second visual area in primates</a>\
+• <a href="..\_static\pdfs\movshon\barlow-1961.pdf"> Barlow, H. B. (1961a). Possible principles underlying the transformations of sensory messages</a>\
+• <a href="..\_static\pdfs\simoncelli\Barlow-1969.pdf"> Barlow, H. B. (1969). Pattern recognition and the responses of sensory neurons</a>\
+• <a href="..\_static\pdfs\movshon\adelson-bergen-1991.pdf"> Adelson, E. H. & Bergen J. R. (1991). The Plenoptic Function and the Elements of Early Vision</a>\
+• <a href="https://foundationsofvision.stanford.edu/chapter-4-wavelength-encoding/ ">Wandell, B.A. (1995). Foundations of vision.  [Chapter on trichromacy and metamers] </a>\
+• <a href="..\_static\pdfs\simoncelli\Balas-Nakano-Rosenholtz-2009.pdf"> Balas, B., Nakano, L. & Rosenholtz, R. (2009). A summary-statistic representation in peripheral vision explains visual crowding</a>\
 • <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">Freeman, J. & Simoncelli, E.P. (2011). Metamers of the ventral stream</a>\
-• <a href="../_static/pdfs/simoncelli/simoncelli-olshausen-2001.pdf">Simoncelli, E.P. & Olshausen, B. (2001). Natural image statistics and neural representation</a>\
-• <a href="../_static/pdfs/simoncelli/portilla-simoncelli-2000.pdf">Portilla, J. & Simoncelli, E.P. (2000). A parametric texture model based on joint statistics of complex wavelet coefficients</a>
+• <a href="../_static/pdfs/simoncelli/ziemba-simoncelli-2021.pdf">Ziemba, C.M. & Simoncelli, E.P. (2021). Opposing effects of selectivity and invariance in peripheral vision</a>\
+• <a href="../_static/pdfs/simoncelli/Zhou-Duong-Simoncelli-2024.pdf">Zhou, J.Y. Duong, L.R. &  Simoncelli, E.P. (2024). A unified framework for perceived magnitude and discriminability of sensory stimuli</a>\
+• <a href="../_static/pdfs/simoncelli/Ganguli-Simoncelli-2016.pdf">Ganguli, D. & Simoncelli, E.P. (2016). Neural and perceptual signatures of efficient sensory coding</a>\
+• <a href="../_static/pdfs/simoncelli/wei-stocker-2017.pdf">Wei, X-X., & Stocker, A.A. (2017). Lawful relation between perceptual bias and discriminability</a>\
+• <a href="../_static/pdfs/simoncelli/Berardinoetal-2017.pdf">Berardino, A., Laparra, V., Ballé, J. & Simoncelli, E.P. (2017). Eigen-distortions of hierarchical representations</a>
 
 **Code repository**
 Eero's lab has produced a python library of tools to explore vision models by synthesizing novel informative images.
-This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016).
+This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">Metamers</a>, Eigendistortions (<a href="../_static/pdfs/simoncelli/Berardinoetal-2017.pdf">Berardino 2017</a>), Maximal differentiation (MAD) competition (<a href="../_static/pdfs/simoncelli/wang-simoncelli-2008.pdf">Wang 2008</a>), and Geodesics (<a href="../_static/pdfs/simoncelli/henaff-simoncelli-2016.pdf">Henaff 2016</a>).
 
 <a href="https://github.com/LabForComputationalVision/plenoptic/">https://github.com/LabForComputationalVision/plenoptic/</a>
+
 
 <br/>
 
@@ -147,7 +149,7 @@ This includes Metamers (as per the lecture), Eigendistortions (Berardino 2017), 
 <!-- My lecture period is focused on understanding eye movements in both natural and unnatural settings. We’ll start by going over some basic and fun information about oculomotor control (Kowler review is relevant/interesting for this, but not necessary). Then I’d like to tell you about the importance of binocular coordination of eye movements, particularly for fixating points at different distances and keeping the eyes in focus. Once we’ve covered these foundations, I’ll tell you about some studies I’ve been involved in that examine fixation patterns during natural behavior, how these natural patterns are disrupted in augmented reality systems, and how optocomputational displays can restore natural eye movements. Of the studies I’ll present, I’m suggesting you read the Padmanaban one (but it’s not very computational, so you’ll understand my presentation fine without reading in advance). I’m happy to share additional relevant readings for anyone who’s interested.  -->
 
 
-• <a href="../_static/pdfs/cooper/DayanAbbott_Section3.3_p97-113_PopulationDecoding.pdf">Dayan & Abbott Theoretical Neuroscience textbook population deocding chapter</a>\
+• <a href="../_static/pdfs/cooper/DayanAbbott_Section3.3_p97-113_PopulationDecoding.pdf">Dayan & Abbott Theoretical Neuroscience textbook population decoding chapter</a>\
 • <a href="../_static/pdfs/cooper/Manning_PLOSCB.pdf">Manning et al. (2024). Transformations of sensory information in the brain suggest changing criteria for optimality.</a>\
 • <a href="../_static/pdfs/cooper/Sprague_ScienceAdvances.pdf">Sprague et al. (2015). Stereopsis is adaptive for the natural environment.</a>
 <!-- • <a href="../_static/pdfs/cooper/Kowler2011.pdf">Kowler, E. (2011) Eye movements: The past 25 years.</a>\
