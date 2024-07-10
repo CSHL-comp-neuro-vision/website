@@ -286,15 +286,40 @@ When engaged in natural tasks, people tend to fixate points that are relatively 
 </section>
 <section id="kohitij-kar">
 <h2>Kohitij Kar<a class="headerlink" href="#kohitij-kar" title="Permalink to this heading"></a></h2>
-<p>For background, I added two tutorials:</p>
+<p>For background, I added two tutorials: \</p>
 <ol class="arabic simple">
-<li><p>A <a class="reference external" href="https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/python/NoiseCorrection/noise_correction_demo_py.ipynb">Jupyter notebook</a> with a tutorial demonstrating the effects of misrepresenting relationships between variables due to noise in their estimates and how to retrieve the true relationship using noise correction techniques.</p></li>
-<li><p><a class="reference external" href="https://github.com/kohitij-kar/prediction_demo">A tutorial on predicting neural activity using deep net features.</a></p></li>
+<li><p>A <a class="reference external" href="https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/python/NoiseCorrection/noise_correction_demo_py.ipynb">Jupyter notebook</a> with a tutorial demonstrating the effects of misrepresenting relationships between variables due to noise in their estimates and how to retrieve the true relationship using noise correction techniques.  \</p></li>
+<li><p><a class="reference external" href="https://github.com/kohitij-kar/prediction_demo">A tutorial on predicting neural activity using deep net features.</a> \</p></li>
 </ol>
-<p>Project idea:</p>
+<p>Project idea:  <br />
+Core Concept: Develop a strategy to determine which models of vision are most aligned with a Target model, using ResNet-50 as a proxy for primate object recognition. Usually that target model is a human or monkey – but for our project let’s use a fully accessible ANN like ResNet-50. The goal is to optimize experimental design to discriminate between competing models that claim to be good representations of the Target. \</p>
+<p>Key Components:  \</p>
 <ol class="arabic simple">
-<li><p>Use one artificial neural network (Target) as a stand-in for human/monkey behavior or neural activity. Then optimize the experimental design, using methods like controversial stimuli generation, to best discriminate other models of that Target.</p></li>
+<li><p>Target Model: ResNet-50 (standing in for primate visual system).  \</p></li>
+<li><p>Competing Models: Various vision models claiming to represent the Target (you can use AlexNet, other ResNets, ViT, simCLR etc).  \</p></li>
+<li><p>Experimental Design Optimization: Techniques to generate stimuli that best differentiate between models. (Look up <a class="reference external" href="https://www.pnas.org/doi/10.1073/pnas.1912334117">Golan et al. 2020</a>).  \</p></li>
+<li><p>Evaluation Metrics: Methods to quantify alignment between competing models and the Target (look up: <a class="reference external" href="https://www.jneurosci.org/content/38/33/7255">Rajalingham et al. 2018</a>).  \</p></li>
 </ol>
+<p>Methodology:  \</p>
+<ol class="arabic simple">
+<li><p>Implement ResNet-50 as the Target model.  \</p></li>
+<li><p>Select or implement a set of competing vision models.  \</p></li>
+<li><p>Develop an optimization framework for experimental design:  <br />
+a. Use techniques like controversial stimuli generation (<a class="reference external" href="https://www.pnas.org/doi/10.1073/pnas.1912334117">Golan et al. 2020</a>).  <br />
+b. Aim to maximize differences in responses amongst competing models.  \</p></li>
+<li><p>Generate optimal stimuli sets to achieve 3b  \</p></li>
+<li><p>Evaluate model responses to these stimuli  \</p></li>
+<li><p>Analyze the results to rank competing models based on their alignment with the Target  \</p></li>
+<li><p>Ground truth retrieval and validation (see below) \</p></li>
+</ol>
+<p>The main idea for the validation is – develop identical models: when the Target and reference models are identical, the experimental design should: \</p>
+<p>• Generate stimuli that produce nearly identical responses across both models.  <br />
+• Result in a discrimination task that fails to find significant differences.  <br />
+• Show high correlation and low divergence measures between identical model outputs (compared to other models).  \</p>
+<p>One can generate identical models by:  <br />
+• Implementing multiple runs of the same model with different initializations.  <br />
+• Linearly transform the feature space of a model to another space and treat them as separate models.  <br />
+• This project leverages existing model to optimize experimental design that helps develop a more targeted evaluation of those same vision models.  \</p>
 </section>
 <section id="lindsey-glickfeld">
 <h2>Lindsey Glickfeld<a class="headerlink" href="#lindsey-glickfeld" title="Permalink to this heading"></a></h2>
