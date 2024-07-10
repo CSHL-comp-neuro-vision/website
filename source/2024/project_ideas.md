@@ -188,31 +188,31 @@ For inspiration, read about the behavioral tasks in these studies:\
 
 ## Kohitij Kar
 
-For background, I added two tutorials: \
+For background, I added two tutorials:  \
 1. A [Jupyter notebook](https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/python/NoiseCorrection/noise_correction_demo_py.ipynb) with a tutorial demonstrating the effects of misrepresenting relationships between variables due to noise in their estimates and how to retrieve the true relationship using noise correction techniques.  \
-2. [A tutorial on predicting neural activity using deep net features.](https://github.com/kohitij-kar/prediction_demo) \
+2. [A tutorial on predicting neural activity using deep net features.](https://github.com/kohitij-kar/prediction_demo)  \
 
 Project idea:  \
-Core Concept: Develop a strategy to determine which models of vision are most aligned with a Target model, using ResNet-50 as a proxy for primate object recognition. Usually that target model is a human or monkey -- but for our project let’s use a fully accessible ANN like ResNet-50. The goal is to optimize experimental design to discriminate between competing models that claim to be good representations of the Target. \
+Core Concept: Develop a strategy to determine which models of vision are most aligned with a Target model, using ResNet-50 as a proxy for primate object recognition. Usually that target model is a human or monkey -- but for our project let’s use a fully accessible ANN like ResNet-50. The goal is to optimize experimental design to discriminate between competing models that claim to be good representations of the Target.  \
 
 Key Components:  \
-1. Target Model: ResNet-50 (standing in for primate visual system).  \
-2. Competing Models: Various vision models claiming to represent the Target (you can use AlexNet, other ResNets, ViT, simCLR etc).  \
-3. Experimental Design Optimization: Techniques to generate stimuli that best differentiate between models. (Look up [Golan et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1912334117)).  \
-4. Evaluation Metrics: Methods to quantify alignment between competing models and the Target (look up: [Rajalingham et al. 2018](https://www.jneurosci.org/content/38/33/7255)).  \
+1. Target Model: ResNet-50 (standing in for primate visual system). 
+2. Competing Models: Various vision models claiming to represent the Target (you can use AlexNet, other ResNets, ViT, simCLR etc).  
+3. Experimental Design Optimization: Techniques to generate stimuli that best differentiate between models. (Look up [Golan et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1912334117)).  
+4. Evaluation Metrics: Methods to quantify alignment between competing models and the Target (look up: [Rajalingham et al. 2018](https://www.jneurosci.org/content/38/33/7255)).  
 
-Methodology:  \
+Methodology:  
 1. Implement ResNet-50 as the Target model.  \
 2. Select or implement a set of competing vision models.  \
 3. Develop an optimization framework for experimental design:  \
 	a. Use techniques like controversial stimuli generation ([Golan et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1912334117)).  \
 	b. Aim to maximize differences in responses amongst competing models.  \
 4. Generate optimal stimuli sets to achieve 3b  \
-5. Evaluate model responses to these stimuli  \
+5. Evaluate model responses to these stimuli   \
 6. Analyze the results to rank competing models based on their alignment with the Target  \
-7. Ground truth retrieval and validation (see below) \
+7. Ground truth retrieval and validation (see below)  \
 
-The main idea for the validation is -- develop identical models: when the Target and reference models are identical, the experimental design should: \
+The main idea for the validation is -- develop identical models: when the Target and reference models are identical, the experimental design should:  \
 
 • Generate stimuli that produce nearly identical responses across both models.  \
 • Result in a discrimination task that fails to find significant differences.  \
