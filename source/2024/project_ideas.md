@@ -180,16 +180,16 @@ Project 3: Read Levin, Anat, et al. "Image and depth from a conventional camera 
 
 ## Mariam Aly
 
-1. Design and program a behavioral experiment that assesses relational attention and/or perception. The task should be designed to tax hippocampal representations, based on the knowledge you acquired from the assigned readings above. You can use PsychoPy, PsychToolBox for Matlab, Gorilla, jsPsych, Pavlovia, or similar software. \
+1. Design and program a behavioral experiment that assesses relational attention and/or perception. The task should be designed to tax hippocampal representations, based on the knowledge you acquired from the assigned readings above. You can use PsychoPy, PsychToolBox for Matlab, Gorilla, jsPsych, Pavlovia, or similar software. 
 
 For inspiration, read about the behavioral tasks in these studies:\
 • <a href="../_static/pdfs/aly/cordova-turkbrowne-aly-2019-hippocampus.pdf">Córdova N.I., Turk‐Browne N.B., & Aly M. (2019). Focusing on what matters: Modulation of the human hippocampus by relational attention. _Hippocampus,29_(11):1025-37. DOI: 10.1002/hipo.23082.</a>\
-• <a href="../_static/pdfs/aly/ruiz-meager-agarwal-aly-2020-jocn.pdf">Ruiz N.A., Meager M.R., Agarwal S., Aly M. The medial temporal lobe is critical for spatial relational perception. _Journal of Cognitive Neuroscience, 32_(9):1780-95. DOI:10.1162/jocn_a_01583.</a>\
+• <a href="../_static/pdfs/aly/ruiz-meager-agarwal-aly-2020-jocn.pdf">Ruiz N.A., Meager M.R., Agarwal S., Aly M. The medial temporal lobe is critical for spatial relational perception. _Journal of Cognitive Neuroscience, 32_(9):1780-95. DOI:10.1162/jocn_a_01583.</a>
 
 ## Kohitij Kar
 
 For background, I added two tutorials:
-1. A [Jupyter notebook](https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/python/NoiseCorrection/noise_correction_demo_py.ipynb) with a tutorial demonstrating the effects of misrepresenting relationships between variables due to noise in their estimates and how to retrieve the true relationship using noise correction techniques.  \
+1. A [Jupyter notebook](https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/python/NoiseCorrection/noise_correction_demo_py.ipynb) with a tutorial demonstrating the effects of misrepresenting relationships between variables due to noise in their estimates and how to retrieve the true relationship using noise correction techniques.  
 2. [A tutorial on predicting neural activity using deep net features.](https://github.com/kohitij-kar/prediction_demo)
 
 Project idea:  \
@@ -199,7 +199,7 @@ Key Components:
 1. Target Model: ResNet-50 (standing in for primate visual system). 
 2. Competing Models: Various vision models claiming to represent the Target (you can use AlexNet, other ResNets, ViT, simCLR etc).  
 3. Experimental Design Optimization: Techniques to generate stimuli that best differentiate between models. (Look up [Golan et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1912334117)).  
-4. Evaluation Metrics: Methods to quantify alignment between competing models and the Target (look up: [Rajalingham et al. 2018](https://www.jneurosci.org/content/38/33/7255)).  
+4. Evaluation Metrics: Methods to quantify alignment between competing models and the Target (look up: [Rajalingham et al. 2018](https://www.jneurosci.org/content/38/33/7255)).
 
 Methodology:  
 1. Implement ResNet-50 as the Target model.  
@@ -213,7 +213,6 @@ Methodology:
 7. Ground truth retrieval and validation (see below)  
 
 The main idea for the validation is -- develop identical models: when the Target and reference models are identical, the experimental design should:  
-
 • Generate stimuli that produce nearly identical responses across both models.  
 • Result in a discrimination task that fails to find significant differences.  
 • Show high correlation and low divergence measures between identical model outputs (compared to other models).  
