@@ -70,6 +70,8 @@ Relevant refs:
 
 ## Ruth Rosenholtz
 
+See also this useful [code repository](https://github.com/RosenholtzLab/CCP_CSHL)!
+
 1. Combining predictions of peripheral vision with fixation data. We provide a subset of 100 images from the COCO-Periph dataset. The visualizations and code provided allow one to create visualizations of the information available for a (mostly) arbitrary fixation. We also provide eye tracking data for these images, from the COCO-Search 18 dataset from Greg Zelinsky. Observers executed these fixations while performing a search task. This combination of model predictions and eye tracking data should enable a number of interesting projects. For instance, consider the sequence of fixation locations, {(fx_i, fy_i), (fx_i+1, fy_i+1)}. Was the object at (fx_i+1, fy_i+1) likely identifiable when fixating (fx_i, fy_i), according to the peripheral vision model? In which case what might be the purpose of that saccade?
 
 2. Many aspects of peripheral vision get worse in a roughly linear way. Acuity worsens as an approximately linear function of eccentricity, as does the critical spacing of crowding, as do hyperacuity and other aspects of vision. Van Essen and Anderson (1995) and others have suggested that this makes the information encoded about a stimulus relatively invariant to viewing distance. Under what circumstances does this hold, and when does it fail? Does it matter that the different linear functions have different slopes and intercepts?
