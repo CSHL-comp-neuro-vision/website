@@ -196,7 +196,7 @@
     <td class="tg-lmxn">Ruth Rosenholtz</td>
   </tr>
     <tr>
-    <td class="tg-left">7:30pm</td>
+    <td class="tg-left">4:00-6:00pm</td>
     <td class="tg-73oq">Evening discussion on DEI/How to cope with academia</td>
     <td class="tg-lmxn">Catrina Hacker, Eline Kupers, Declan Rowley</td>
   </tr>
