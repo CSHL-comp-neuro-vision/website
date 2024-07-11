@@ -4,7 +4,7 @@
 
 Explore the evolution of computational models for light responses in the retina and think about how to evaluate their performance and what they teach us about visual processing.
 
-Start by downloading the data set from [Pillow et al GLM paper (2001)](https://github.com/CSHL-comp-neuro-vision/tutorials/tree/main/data/Pillow-2008):
+Start by downloading the data set from [Pillow et al GLM paper (2008)](https://github.com/CSHL-comp-neuro-vision/tutorials/tree/main/data/Pillow-2008):
 
 * fit a LN model to the data (see [this paper](https://pubmed.ncbi.nlm.nih.gov/11405422)) 
 * fit a GLM to the data (see [this paper](http://www.ncbi.nlm.nih.gov/pubmed/18650810))
