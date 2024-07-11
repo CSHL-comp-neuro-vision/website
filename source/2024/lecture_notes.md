@@ -85,12 +85,11 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ### Suggested Readings
 
-• <a href="../_static/pdfs/duncker/adelson-2000-illusions-chapter.pdf"> Adelson, E.H. (2000). Lightness Perception and Lightness Illusions. (Chapter in The New Cognitive Neurosciences). </a>  \
-• <a href="../_static/pdfs/duncker/bishop-EM-chapter.pdf">Bishop, C/.M. (2006) Mixture Models and EM. (Chapter 9 in Pattern Recognition and Machine Learning). </a>\
-• <a href="../_static/pdfs/duncker/cunningham-yu-2014-natureneuro.pdf">Cunningham, J.P. & Yu, B.M. (2014). Dimensionality reduction for large-scale neural recordings.</a>
-• <a href="../_static/pdfs/duncker/ernst-banks-2002-nature.pdf">Ernst M.O. & Banks, M.S. (2002). Humans integrate visual and haptic information in a statistically optimal fashion.</a>
-• <a href="../_static/pdfs/duncker/olshausen-field-1996a-nature.pdf">Olshausen, B.A. & Field, D.J. (1996).  of simple-cell receptive field properties by learning a sparse code for natural Images.</a>
-
+• <a href="../_static/pdfs/duncker/adelson-2000-illusions-chapter.pdf"> Adelson, E.H. (2000). Lightness Perception and Lightness Illusions. (Chapter in The New Cognitive Neurosciences). </a>\
+• <a href="../_static/pdfs/duncker/bishop-EM-chapter.pdf">Bishop, C.M. (2006) Mixture Models and EM. (Chapter 9 in Pattern Recognition and Machine Learning). </a>\
+• <a href="../_static/pdfs/duncker/cunningham-yu-2014-natureneuro.pdf">Cunningham, J.P. & Yu, B.M. (2014). Dimensionality reduction for large-scale neural recordings. </a>\
+• <a href="../_static/pdfs/duncker/ernst-banks-2002-nature.pdf">Ernst M.O. & Banks, M.S. (2002). Humans integrate visual and haptic information in a statistically optimal fashion. </a>\
+• <a href="../_static/pdfs/duncker/olshausen-field-1996a-nature.pdf">Olshausen, B.A. & Field, D.J. (1996).  of simple-cell receptive field properties by learning a sparse code for natural Images. </a>
 
 <br/>
 
@@ -261,10 +260,11 @@ And optionally...
 ### Suggested Readings
 
 Please read in order of priority:
-• Priority 1: <a href="../_static/pdfs/kar/01_kar-dicarlo-2024-annurevvissci.pdf">Kar, K. & DiCarlo, J.J. (2024) The Quest for an Integrated Set of Neural Mechanisms Underlying Object Recognition in Primates.</a>\
-• Priority 2: <a href="../_static/pdfs/kar/02_kar-etal-2019-nature-neurosci.pdf">Kar, K. (2019). Kubilius, J., Schmidt, K. Issa, E.B., DiCarlo, J.J. (2019). Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior.</a>\
-• Priority 3: <a href="../_static/pdfs/kar/03-kar-dicarlo-2021-neuron.pdf">Kar, K. & DiCarlo, J.J. (2021) Fast Recurrent Processing via Ventrolateral Prefrontal Cortex Is Needed by the Primate Ventral Stream for Robust Core Visual Object Recognition.</a>\
-• Priority 4: <a href="../_static/pdfs/kar/04-tuckute-etal-2024-arxiv.pdf">Tuckute, G., Finzi, D., Margalit, E., Yates, J., Zylberberg, J., Fyshe, A., Chung, S., Fedorenko, E., Kriegeskorte, N., Grill-Spector, K., & Kar, K. (2024). How to optimize neuroscience data utilization and experiment design for advancing primate visual and linguistic brain models?</a>
+
+• Priority 1: <a href="../_static/pdfs/kar/01_kar-dicarlo-2024-annurevvissci.pdf">Kar, K. & DiCarlo, J.J. (2024) The Quest for an Integrated Set of Neural Mechanisms Underlying Object Recognition in Primates. </a>\
+• Priority 2: <a href="../_static/pdfs/kar/02_kar-etal-2019-nature-neurosci.pdf">Kar, K. (2019). Kubilius, J., Schmidt, K. Issa, E.B., DiCarlo, J.J. (2019). Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior. </a>\
+• Priority 3: <a href="../_static/pdfs/kar/03-kar-dicarlo-2021-neuron.pdf">Kar, K. & DiCarlo, J.J. (2021) Fast Recurrent Processing via Ventrolateral Prefrontal Cortex Is Needed by the Primate Ventral Stream for Robust Core Visual Object Recognition. </a>\
+• Priority 4: <a href="../_static/pdfs/kar/04-tuckute-etal-2024-arxiv.pdf">Tuckute, G., Finzi, D., Margalit, E., Yates, J., Zylberberg, J., Fyshe, A., Chung, S., Fedorenko, E., Kriegeskorte, N., Grill-Spector, K., & Kar, K. (2024). How to optimize neuroscience data utilization and experiment design for advancing primate visual and linguistic brain models? </a>
 
 <br/>
 

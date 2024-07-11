@@ -6,22 +6,22 @@ Explore the evolution of computational models for light responses in the retina 
 
 Start by downloading the data set from [Pillow et al GLM paper (2001)](https://github.com/CSHL-comp-neuro-vision/tutorials/tree/main/data/Pillow-2008):
 
-• fit a LN model to the data (see [this paper](https://pubmed.ncbi.nlm.nih.gov/11405422))
-• fit a GLM to the data (see [this paper](http://www.ncbi.nlm.nih.gov/pubmed/18650810))
-• fit a “subunit” model to the data (see [this paper](https://www.ncbi.nlm.nih.gov/pubmed/32149600))
-• fit a CNN model to the data (see [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515384))
+* fit a LN model to the data (see [this paper](https://pubmed.ncbi.nlm.nih.gov/11405422)) 
+* fit a GLM to the data (see [this paper](http://www.ncbi.nlm.nih.gov/pubmed/18650810))
+* fit a “subunit” model to the data (see [this paper](https://www.ncbi.nlm.nih.gov/pubmed/32149600))
+* fit a CNN model to the data (see [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515384))
 
 The first and second models will be fairly easy based on the code provided and what you learned in the lecture today.
 The third and fourth will involve digging in to newer models and working with this data set.
 
 Questions:
-• What is the best metric by which to assess model performance?
-• How much more accurately do the more complex models perform?
-• What do these different models tell you about the retinal computations?
-• What are the limitations of the stimulus (rather than the model) in this setting?
-• What are the challenges of producing predicted spike trains from these models?
-• BONUS: Clean up this distribution and provide Python access code!
-• BONUS: Provide code for the last two models to include in this distribution!
+* What is the best metric by which to assess model performance?
+* How much more accurately do the more complex models perform?
+* What do these different models tell you about the retinal computations?
+* What are the limitations of the stimulus (rather than the model) in this setting?
+* What are the challenges of producing predicted spike trains from these models?
+* BONUS: Clean up this distribution and provide Python access code!
+* BONUS: Provide code for the last two models to include in this distribution!
 
 ## John Serences
 
@@ -56,11 +56,10 @@ Find a good open-source model retina and play it a natural movie. How much can y
 How much information is carried in the precise timing of spikes vs. in slowly-fluctuating spike rates?  One way to address this question is to decode spikes under models that incorporate vs. ignore precise spike timing information. 
 Project idea;  compare decoding under an LNP model and a Poisson GLM with spike history filters. How much (if any) additional information can you recover about the stimulus when you incorporate spike history?
 
-Relevant refs: 
+Relevant refs:
 
- - Pillow et al. “Spatio-temporal correlations and visual signalling in a complete neuronal population”.  Nature (2008).
-
-See also: [GLM tutorial code](https://github.com/pillowlab/GLMspiketraintutorial).
+* <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow et al. “Spatio-temporal correlations and visual signalling in a complete neuronal population”. </a>
+* See also: [GLM tutorial code](https://github.com/pillowlab/GLMspiketraintutorial).
 
 2. Can a Poisson GLM exhibit divisive normalization?
 Divisive normalization is one of the putative "canonical computations" carried out in the brain, but we still lack a good computational understanding of how it's carried out, or how to infer statistical models that can exhibit divisive normalization.
@@ -69,18 +68,19 @@ The Poisson generalized linear model (GLM) for spike trains provides a simple, t
  
 Relevant refs: 
 
-• <a href="../_static/pdfs/pillow/carandini-heeger-2011-natrevneuro.pdf">Carandini & Heeger (2011) Normalization as a canonical neural computation. _Nat Rev Neurosci, 13_:51-62. DOI:10.1038/nrn3136.</a>
-<a href="../_static/pdfs/pillow/carandini-heeger-1994-science.pdf">Carandini & Heeger. (1994). Summation and division by neurons in primate visual cortex. _Science, 264_(5183):1333-1336. DOI:10.1126/science.8191289.</a>
-• <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow et al. (2008). Spatio-temporal correlations and visual signalling in a complete neuronal population. _Nature, 454_(21). DOI:10.1038/nature07140.</a>
+* <a href="../_static/pdfs/pillow/carandini-heeger-2011-natrevneuro.pdf">Carandini & Heeger (2011) Normalization as a canonical neural computation. _Nat Rev Neurosci, 13_:51-62. DOI:10.1038/nrn3136.</a>
+* <a href="../_static/pdfs/pillow/carandini-heeger-1994-science.pdf">Carandini & Heeger. (1994). Summation and division by neurons in primate visual cortex. _Science, 264_(5183):1333-1336. DOI:10.1126/science.8191289.</a>
+* <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow et al. (2008). Spatio-temporal correlations and visual signalling in a complete neuronal population. _Nature, 454_(21). DOI:10.1038/nature07140.</a>
 
  3. Compare GLM and deep neural networks - try out deep learning on some real neural data. See e.g.:
 • [Deep convolutional models improve predictions of macaque V1 responses to natural images](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897).
 
-• [Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses](https://openreview.net/forum?id=HkEI22jeg).
+* [Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses](https://openreview.net/forum?id=HkEI22jeg).
 
-• A recent paper argued that “modern machine learning” outperforms GLMs in many cases (although in the detailed results shown, GLM outperforms a deep neural network on most of the examples considered). Download their datasets and see if you can do better:
-• [Paper](https://www.frontiersin.org/articles/10.3389/fncom.2018.00056/full)
-• [Data](https://github.com/KordingLab/spykesML/tree/master/data)
+A recent paper argued that “modern machine learning” outperforms GLMs in many cases (although in the detailed results shown, GLM outperforms a deep neural network on most of the examples considered). Download their datasets and see if you can do better:
+* [Paper](https://www.frontiersin.org/articles/10.3389/fncom.2018.00056/full)
+* [Data](https://github.com/KordingLab/spykesML/tree/master/data)
+
 (There are a lot of possible ways to think about improving: the paper did not consider different nonlinearities and made only limited attempts to select GLM features). 
 
 ## Jacob Yates
