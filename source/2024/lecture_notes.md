@@ -85,14 +85,21 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ### Suggested Readings
 
+• <a href="../_static/pdfs/duncker/adelson-2000-illusions-chapter.pdf"> Adelson, E.H. (2000). Lightness Perception and Lightness Illusions. (Chapter in The New Cognitive Neurosciences). </a>  \
+• <a href="../_static/pdfs/duncker/bishop-EM-chapter.pdf">Bishop, C/.M. (2006) Mixture Models and EM. (Chapter 9 in Pattern Recognition and Machine Learning). </a>\
+• <a href="../_static/pdfs/duncker/cunningham-yu-2014-natureneuro.pdf">Cunningham, J.P. & Yu, B.M. (2014). Dimensionality reduction for large-scale neural recordings.</a>
+• <a href="../_static/pdfs/duncker/ernst-banks-2002-nature.pdf">Ernst M.O. & Banks, M.S. (2002). Humans integrate visual and haptic information in a statistically optimal fashion.</a>
+• <a href="../_static/pdfs/duncker/olshausen-field-1996a-nature.pdf">Olshausen, B.A. & Field, D.J. (1996).  of simple-cell receptive field properties by learning a sparse code for natural Images.</a>
+
+
 <br/>
 
 ## Ruth Rosenholtz
 
 ### Suggested Readings
 
-• <a href="../_static/pdfs/rosenholtz/rosenholtz-2016-annurev-vision.pdf"> Rosenholtz R. (2016). Capabilities and Limitations of Peripheral Vision</a>\
-• <a href="../_static/pdfs/rosenholtz/rosenholtz-huang-ehinger-2012-fpsyg.pdf"> Rosenholtz, R., Huang, J. & Ehinger, K.A. (2012). Rethinking the Role of Top-Down Attention in Vision: Effects Attributable to a Lossy Representation in Peripheral Vision</a>\
+• <a href="../_static/pdfs/rosenholtz/rosenholtz-2016-annurev-vision.pdf"> Rosenholtz R. (2016). Capabilities and Limitations of Peripheral Vision</a>  \
+• <a href="../_static/pdfs/rosenholtz/rosenholtz-huang-ehinger-2012-fpsyg.pdf"> Rosenholtz, R., Huang, J. & Ehinger, K.A. (2012). Rethinking the Role of Top-Down Attention in Vision: Effects Attributable to a Lossy Representation in Peripheral Vision</a>  \
 • <a href="../_static/pdfs/rosenholtz/rosenholtz-yu-keshvari-2019-jov.pdf"> Rosenholtz, R., Yu, D., & Keshvari, S. (2019). Challenges to pooling models of crowding: Implications for visual mechanisms</a>
 
 <br/>
@@ -102,11 +109,11 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 ### Suggested Readings
 
 **Recent reviews on dynamic attention:**\
-• <a href="../_static/pdfs/denison/denison-2024-nrp.pdf"> Denison, R.N. (2024). Visual temporal attention from perception to computation</a>\
+• <a href="../_static/pdfs/denison/denison-2024-nrp.pdf"> Denison, R.N. (2024). Visual temporal attention from perception to computation</a>   \
 • <a href="../_static/pdfs/denison/nobre-ede-2023-neuron.pdf"> Nobre, A.C. & van Ede, F. (2023). Attention in flux</a>
 
 **If further interested in our normalization model of dynamic attention:**\
-• <a href="../_static/pdfs/denison/denison-carrasco-heeger-2021-nhb.pdf"> Denison, R.N., Carrasco, M. & Heeger, D.J. A dynamic normalization model of temporal attention</a>\
+• <a href="../_static/pdfs/denison/denison-carrasco-heeger-2021-nhb.pdf"> Denison, R.N., Carrasco, M. & Heeger, D.J. A dynamic normalization model of temporal attention</a>   \
 • <a href="https://osf.io/dkx7n/"> Corresponding Code</a>
 
 <br/>
@@ -149,8 +156,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 <!-- My lecture period is focused on understanding eye movements in both natural and unnatural settings. We’ll start by going over some basic and fun information about oculomotor control (Kowler review is relevant/interesting for this, but not necessary). Then I’d like to tell you about the importance of binocular coordination of eye movements, particularly for fixating points at different distances and keeping the eyes in focus. Once we’ve covered these foundations, I’ll tell you about some studies I’ve been involved in that examine fixation patterns during natural behavior, how these natural patterns are disrupted in augmented reality systems, and how optocomputational displays can restore natural eye movements. Of the studies I’ll present, I’m suggesting you read the Padmanaban one (but it’s not very computational, so you’ll understand my presentation fine without reading in advance). I’m happy to share additional relevant readings for anyone who’s interested.  -->
 
 
-• <a href="../_static/pdfs/cooper/DayanAbbott_Section3.3_p97-113_PopulationDecoding.pdf">Dayan & Abbott Theoretical Neuroscience textbook population decoding chapter</a>\
-• <a href="../_static/pdfs/cooper/Manning_PLOSCB.pdf">Manning et al. (2024). Transformations of sensory information in the brain suggest changing criteria for optimality.</a>\
+• <a href="../_static/pdfs/cooper/DayanAbbott_Section3.3_p97-113_PopulationDecoding.pdf">Dayan & Abbott Theoretical Neuroscience textbook population decoding chapter</a>
+• <a href="../_static/pdfs/cooper/Manning_PLOSCB.pdf">Manning et al. (2024). Transformations of sensory information in the brain suggest changing criteria for optimality.</a>
 • <a href="../_static/pdfs/cooper/Sprague_ScienceAdvances.pdf">Sprague et al. (2015). Stereopsis is adaptive for the natural environment.</a>
 <!-- • <a href="../_static/pdfs/cooper/Kowler2011.pdf">Kowler, E. (2011) Eye movements: The past 25 years.</a>\
 • <a href="../_static/pdfs/cooper/Padmanaban2017.pdf">Padmanaban, N. et al. (2017) Optimizing virtual reality for all users through gaze-contingent and adaptive focus displays.</a> -->
@@ -161,9 +168,9 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ### Suggested Readings
 
-**This one first:**\
+**This one first:**
 • <a href="../_static/pdfs/cohen/rust_cohen_2022.pdf">Rust & Cohen (2022). Priority coding in the visual system</a>\
-**See also:**\
+**See also:**
 • <a href="../_static/pdfs/cohen/CohenKohn2011.pdf">Cohen & Kohn (2011). Measuring and interpreting neuronal correlations</a>
 
 I will also touch on some newer methods for analyzing neural population data. People wanting to learn more might find these papers useful:
