@@ -47,6 +47,10 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Stephanie Palmer
 
+• <a href="../_static/pdfs/palmer/SEP_efficient_coding_notes.pdf">1. Efficient coding notes</a>\
+• <a href="../_static/pdfs/palmer/SEP_spike_train_info_notes.pdf">2. Spike train infor notes</a>\
+• <a href="../_static/pdfs/palmer/intro_prob_and_inference_with_solutions.pdf">3. Probability and Inference</a>
+
 ### Suggested Readings
 
 • <a href="../_static/pdfs/palmer/palmeretal2015.pdf">Palmer, S.E., Marre, O., Berry, M.J. & Bialek, W. (2015). Predictive information in a sensory population</a>\
