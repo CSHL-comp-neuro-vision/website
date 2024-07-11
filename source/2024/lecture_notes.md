@@ -1,4 +1,4 @@
-# Lecture Notes
+# Slides and readings
 
 
 ## EJ Chichilnisky
@@ -66,7 +66,7 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Jonathan Pillow
 
-• <a href="../_static/pdfs/pillow/pillow_GLMs_CSHL2024.pdf">Lecture notes</a>
+• <a href="../_static/pdfs/pillow/pillow_GLMs_CSHL2024.pdf">Slides</a>
 
 ### Suggested Readings
 
