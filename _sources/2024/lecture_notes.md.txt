@@ -66,6 +66,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Jonathan Pillow
 
+• <a href="../_static/pdfs/pillow/pillow_GLMs_CSHL2024.pdf">Lecture notes</a>\
+
 ### Suggested Readings
 
 • <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow, Shlens, Paninski, Sher, Litke, Chichilnisky & Simoncelli (2008). Spatio-temporal correlations and visual signaling in a complete neuronal population</a>\
