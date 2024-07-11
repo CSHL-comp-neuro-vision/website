@@ -2,7 +2,26 @@
 
 ## EJ Chichilnisky
 
-1. Download Pillow data set. Fit GLM. Test if we can do better with some kind of subunit model fit (Shah 2020 paper)?
+Explore the evolution of computational models for light responses in the retina and think about how to evaluate their performance and what they teach us about visual processing.
+
+Start by downloading the data set from [Pillow et al GLM paper (2008)](https://github.com/CSHL-comp-neuro-vision/tutorials/tree/main/data/Pillow-2008):
+
+* fit a LN model to the data (see [this paper](https://pubmed.ncbi.nlm.nih.gov/11405422)) 
+* fit a GLM to the data (see [this paper](http://www.ncbi.nlm.nih.gov/pubmed/18650810))
+* fit a “subunit” model to the data (see [this paper](https://www.ncbi.nlm.nih.gov/pubmed/32149600))
+* fit a CNN model to the data (see [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515384))
+
+The first and second models will be fairly easy based on the code provided and what you learned in the lecture today.
+The third and fourth will involve digging in to newer models and working with this data set.
+
+Questions:
+* What is the best metric by which to assess model performance?
+* How much more accurately do the more complex models perform?
+* What do these different models tell you about the retinal computations?
+* What are the limitations of the stimulus (rather than the model) in this setting?
+* What are the challenges of producing predicted spike trains from these models?
+* BONUS: Clean up this distribution and provide Python access code!
+* BONUS: Provide code for the last two models to include in this distribution!
 
 ## John Serences
 
@@ -25,7 +44,7 @@ This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2
 ## Stephanie Palmer
 
 Project ideas:
-Open the provided natural movie and associated retinal data from the larval salamander. Use DeepLabCut, your favorite tracking algorithm, or your own hand-tracking to map out the trajectories of 1-5 objects in one of the five scenes. Does the retinal population have information about these trajectories? Compute the correlation between the population firing and the past, present, and future position of your chosen object. At what lag is the correlation maximal? What other metrics could you use to quantify this? 
+Open the provided natural movie and associated retinal [data](https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/data/Palmer-2024/salamanderRGCdata_long_fish_movie.mat) from the larval salamander. Use DeepLabCut, your favorite tracking algorithm, or your own hand-tracking to map out the trajectories of 1-5 objects in one of the five scenes. Does the retinal population have information about these trajectories? Compute the correlation between the population firing and the past, present, and future position of your chosen object. At what lag is the correlation maximal? What other metrics could you use to quantify this? 
 
 Try to animate a circle so that it looks "alive". What kind of features do you want your pet circle's trajectory to have? Try making it unpredictable; try making it oscillate. Can you make a trajectory that would pass a Turing test?
 
@@ -37,11 +56,10 @@ Find a good open-source model retina and play it a natural movie. How much can y
 How much information is carried in the precise timing of spikes vs. in slowly-fluctuating spike rates?  One way to address this question is to decode spikes under models that incorporate vs. ignore precise spike timing information. 
 Project idea;  compare decoding under an LNP model and a Poisson GLM with spike history filters. How much (if any) additional information can you recover about the stimulus when you incorporate spike history?
 
-Relevant refs: 
+Relevant refs:
 
- - Pillow et al. “Spatio-temporal correlations and visual signalling in a complete neuronal population”.  Nature (2008).
-
-See also: [GLM tutorial code](https://github.com/pillowlab/GLMspiketraintutorial).
+* <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow et al. “Spatio-temporal correlations and visual signalling in a complete neuronal population”. </a>
+* See also: [GLM tutorial code](https://github.com/pillowlab/GLMspiketraintutorial).
 
 2. Can a Poisson GLM exhibit divisive normalization?
 Divisive normalization is one of the putative "canonical computations" carried out in the brain, but we still lack a good computational understanding of how it's carried out, or how to infer statistical models that can exhibit divisive normalization.
@@ -50,25 +68,47 @@ The Poisson generalized linear model (GLM) for spike trains provides a simple, t
  
 Relevant refs: 
 
-• <a href="../_static/pdfs/pillow/carandini-heeger-2011-natrevneuro.pdf">Carandini & Heeger (2011) Normalization as a canonical neural computation. _Nat Rev Neurosci, 13_:51-62. DOI:10.1038/nrn3136.</a>
-<a href="../_static/pdfs/pillow/carandini-heeger-1994-science.pdf">Carandini & Heeger. (1994). Summation and division by neurons in primate visual cortex. _Science, 264_(5183):1333-1336. DOI:10.1126/science.8191289.</a>
-• <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow et al. (2008). Spatio-temporal correlations and visual signalling in a complete neuronal population. _Nature, 454_(21). DOI:10.1038/nature07140.</a>
+* <a href="../_static/pdfs/pillow/carandini-heeger-2011-natrevneuro.pdf">Carandini & Heeger (2011) Normalization as a canonical neural computation. _Nat Rev Neurosci, 13_:51-62. DOI:10.1038/nrn3136.</a>
+* <a href="../_static/pdfs/pillow/carandini-heeger-1994-science.pdf">Carandini & Heeger. (1994). Summation and division by neurons in primate visual cortex. _Science, 264_(5183):1333-1336. DOI:10.1126/science.8191289.</a>
+* <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow et al. (2008). Spatio-temporal correlations and visual signalling in a complete neuronal population. _Nature, 454_(21). DOI:10.1038/nature07140.</a>
 
  3. Compare GLM and deep neural networks - try out deep learning on some real neural data. See e.g.:
-• [Deep convolutional models improve predictions of macaque V1 responses to natural images](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897).
+	* [Deep convolutional models improve predictions of macaque V1 responses to natural images](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897).
+	* [Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses](https://openreview.net/forum?id=HkEI22jeg).
 
-• [Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses](https://openreview.net/forum?id=HkEI22jeg).
+A recent paper argued that “modern machine learning” outperforms GLMs in many cases (although in the detailed results shown, GLM outperforms a deep neural network on most of the examples considered). Download their datasets and see if you can do better:
+* [Paper](https://www.frontiersin.org/articles/10.3389/fncom.2018.00056/full)
+* [Data](https://github.com/KordingLab/spykesML/tree/master/data)
 
-• A recent paper argued that “modern machine learning” outperforms GLMs in many cases (although in the detailed results shown, GLM outperforms a deep neural network on most of the examples considered). Download their datasets and see if you can do better:
-• [Paper](https://www.frontiersin.org/articles/10.3389/fncom.2018.00056/full)
-• [Data](https://github.com/KordingLab/spykesML/tree/master/data)
 (There are a lot of possible ways to think about improving: the paper did not consider different nonlinearities and made only limited attempts to select GLM features). 
 
 ## Jacob Yates
 
 ## Lea Duncker
 
+A scalable Bayesian STRF model through Gaussian Process inducing points
+
+A lot of work in receptive field modeling has been concerned with the development of scalable and data efficient estimators. Here, a common approach has been to encode known receptive field properties like smoothness, locality, or temporal recency in a statistical model of the receptive field weights. Popular choices for this have been the use of a set of basis functions [1] or to do maximum a posteriori estimation and type-II maximum likelihood learning in a Bayesian linear regression model with a given choice of prior distribution [2, 3, 4]. An attractive choice for such prior distributions have been Gaussian Processes [2, 3, 4, 5], where assumptions like smoothness in the receptive field are encoded through the covariance between neighboring weights. While these models are conceptually attractive, they suffer from scalability issues – it’s hard to apply them in settings with large stimulus ensembles. Thus, a lot of work has focused on taking this approach and making estimators scalable, typically by approximating the resulting prior distribution in some way [4, 6].
+
+The idea for this project is to consider the same setting of Bayesian linear regression, where the linear weights are the receptive field and a prior distribution over the weights is modeled as a Gaussian Process. We will use an idea from the Gaussian Process literature called “inducing points” [7] to develop a scalable estimation approach. The project will involve:
+
+• Familiarizing yourself with the literature on GP-based STRF models
+• Pen and paper derivations of the model equations
+• Implementation of the sparse GP regression building on existing GP libraries in Python (e.g. GPflow or GPytorch)
+• Applications to simulated and neural data 
+
+References: 
+[1] Pillow, J. W., Shlens, J., Paninski, L., Sher, A., Litke, A. M., Chichilnisky, E. J., & Simoncelli, E. P. (2008). Spatio-temporal correlations and visual signalling in a complete neuronal population. Nature, 454(7207), 995-999.
+[2] Sahani, M., & Linden, J. (2002). Evidence optimization techniques for estimating stimulus-response functions. Advances in neural information processing systems, 15.
+[3] Park, M., & Pillow, J. W. (2011). Receptive field inference with localized priors. PLoS computational biology, 7(10), e1002219.
+[4] Duncker, L., Ruda, K. M., Field, G. D., & Pillow, J. W. (2023). Scalable variational inference for low-rank spatiotemporal receptive fields. Neural computation, 35(6), 995-1027.
+[5] Williams, C., & Rasmussen, C. (1995). Gaussian processes for regression. Advances in neural information processing systems, 8.
+[6] Aoi, M. C., & Pillow, J. W. (2017). Scalable Bayesian inference for high-dimensional neural receptive fields. bioRxiv, 212217.
+[7] Titsias, M. (2009, April). Variational learning of inducing variables in sparse Gaussian processes. In Artificial intelligence and statistics (pp. 567-574). PMLR.
+
 ## Ruth Rosenholtz
+
+See also this useful [code repository](https://github.com/RosenholtzLab/CCP_CSHL)!
 
 1. Combining predictions of peripheral vision with fixation data. We provide a subset of 100 images from the COCO-Periph dataset. The visualizations and code provided allow one to create visualizations of the information available for a (mostly) arbitrary fixation. We also provide eye tracking data for these images, from the COCO-Search 18 dataset from Greg Zelinsky. Observers executed these fixations while performing a search task. This combination of model predictions and eye tracking data should enable a number of interesting projects. For instance, consider the sequence of fixation locations, {(fx_i, fy_i), (fx_i+1, fy_i+1)}. Was the object at (fx_i+1, fy_i+1) likely identifiable when fixating (fx_i, fy_i), according to the peripheral vision model? In which case what might be the purpose of that saccade?
 
@@ -133,13 +173,13 @@ When engaged in natural tasks, people tend to fixate points that are relatively 
 
 1. Generate a fake multineuron data set. This should include spike count, BOLD, or calcium imaging responses of n neurons (or voxels) on m trials. You could use models from any of several tutorials to generate these responses. (I know that ChoiceProbabilityTutorial will do this for a population of MT neurons.) From this fake data set, calculate:
 
-a. The average correlation between each pair of neurons (this could be noise or signal correlation, depending on the data set you generated).\
+a. The average correlation between each pair of neurons (this could be noise or signal correlation, depending on the data set you generated).  
 
-b. The dimensionality of the shared variability (e.g. by calculating the proportion variance explained by the first k principal components for k=1:n)\
+b. The dimensionality of the shared variability (e.g. by calculating the proportion variance explained by the first k principal components for k=1:n) 
 
-c. For the overachievers among you, calculate some fancy measurements too, such as communication subspace dimensionality if you modeled multiple brain areas (good code <a href="https://github.com/joao-semedo/communication-subspace">here</a>) or average or modal controllability (good code at #3 <a href="https://complexsystemsupenn.com/codedata">here</a>; start with the correlation matrix with the diagonal set to 0 instead of 1). If you would like to experiment with topological data analysis, I can provide code for that too.\
+c. For the overachievers among you, calculate some fancy measurements too, such as communication subspace dimensionality if you modeled multiple brain areas (good code <a href="https://github.com/joao-semedo/communication-subspace">here</a>) or average or modal controllability (good code at #3 <a href="https://complexsystemsupenn.com/codedata">here</a>; start with the correlation matrix with the diagonal set to 0 instead of 1). If you would like to experiment with topological data analysis, I can provide code for that too.  
 
-d. Next, make some change to your model that will affect the shared variability (maybe add in a common noise source, or change some model parameters) and repeat the calculations in #a-c. Can you gain some insight into how those numbers are related?\
+d. Next, make some change to your model that will affect the shared variability (maybe add in a common noise source, or change some model parameters) and repeat the calculations in #a-c. Can you gain some insight into how those numbers are related? 
 
 e. Possible publishable extension: Do these calculations in a real data set (yours? Or several from my lab are available if you would like). Which ways of quantifying shared variability are most closely associated with behavior, stimuli, task condition, or some other quantity you think is important?
 
@@ -154,8 +194,8 @@ You can also invert this exercise. Given a large-scale organization in the visua
 
 ## Ione Fine
 
-• Create a collection of receptive fields (e.g. oriented Gabors that vary in location, orientation and size tuning. How is  a ‘star’ (a light spot in a dark background) represented amongst these Gabors? How would you best represent a ‘star’ with this collection of receptive fields. \
-• We see adaptation in cortical electrical stimulation. It may or may not be the same thing as normal cortical adaptation to standard visual stimulation. It might be worth having a think about that. \
+• Create a collection of receptive fields (e.g. oriented Gabors that vary in location, orientation and size tuning. How is  a ‘star’ (a light spot in a dark background) represented amongst these Gabors? How would you best represent a ‘star’ with this collection of receptive fields. 
+• We see adaptation in cortical electrical stimulation. It may or may not be the same thing as normal cortical adaptation to standard visual stimulation. It might be worth having a think about that. 
 • What about an LGN prosthetic?
 
 ## Emma Alexander
@@ -178,20 +218,48 @@ Project 3: Read Levin, Anat, et al. "Image and depth from a conventional camera 
 
 ## Mariam Aly
 
-1. Design and program a behavioral experiment that assesses relational attention and/or perception. The task should be designed to tax hippocampal representations, based on the knowledge you acquired from the assigned readings above. You can use PsychoPy, PsychToolBox for Matlab, Gorilla, jsPsych, Pavlovia, or similar software. \
+1. Design and program a behavioral experiment that assesses relational attention and/or perception. The task should be designed to tax hippocampal representations, based on the knowledge you acquired from the assigned readings above. You can use PsychoPy, PsychToolBox for Matlab, Gorilla, jsPsych, Pavlovia, or similar software. 
 
-For inspiration, read about the behavioral tasks in these studies:\
-• <a href="../_static/pdfs/aly/cordova-turkbrowne-aly-2019-hippocampus.pdf">Córdova N.I., Turk‐Browne N.B., & Aly M. (2019). Focusing on what matters: Modulation of the human hippocampus by relational attention. _Hippocampus,29_(11):1025-37. DOI: 10.1002/hipo.23082.</a>\
-• <a href="../_static/pdfs/aly/ruiz-meager-agarwal-aly-2020-jocn.pdf">Ruiz N.A., Meager M.R., Agarwal S., Aly M. The medial temporal lobe is critical for spatial relational perception. _Journal of Cognitive Neuroscience, 32_(9):1780-95. DOI:10.1162/jocn_a_01583.</a>\
+For inspiration, read about the behavioral tasks in these studies:
+• <a href="../_static/pdfs/aly/cordova-turkbrowne-aly-2019-hippocampus.pdf">Córdova N.I., Turk‐Browne N.B., & Aly M. (2019). Focusing on what matters: Modulation of the human hippocampus by relational attention. _Hippocampus,29_(11):1025-37. DOI: 10.1002/hipo.23082.</a>
+
+• <a href="../_static/pdfs/aly/ruiz-meager-agarwal-aly-2020-jocn.pdf">Ruiz N.A., Meager M.R., Agarwal S., Aly M. The medial temporal lobe is critical for spatial relational perception. _Journal of Cognitive Neuroscience, 32_(9):1780-95. DOI:10.1162/jocn_a_01583.</a>
 
 ## Kohitij Kar
 
 For background, I added two tutorials:
-1. A [Jupyter notebook](https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/python/NoiseCorrection/noise_correction_demo_py.ipynb) with a tutorial demonstrating the effects of misrepresenting relationships between variables due to noise in their estimates and how to retrieve the true relationship using noise correction techniques. 
+1. A [Jupyter notebook](https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/python/NoiseCorrection/noise_correction_demo_py.ipynb) with a tutorial demonstrating the effects of misrepresenting relationships between variables due to noise in their estimates and how to retrieve the true relationship using noise correction techniques.  
 2. [A tutorial on predicting neural activity using deep net features.](https://github.com/kohitij-kar/prediction_demo)
 
-Project idea:
-1. Use one artificial neural network (Target) as a stand-in for human/monkey behavior or neural activity. Then optimize the experimental design, using methods like controversial stimuli generation, to best discriminate other models of that Target.
+Project idea:  
+Core Concept: Develop a strategy to determine which models of vision are most aligned with a Target model, using ResNet-50 as a proxy for primate object recognition. Usually that target model is a human or monkey -- but for our project let’s use a fully accessible ANN like ResNet-50. The goal is to optimize experimental design to discriminate between competing models that claim to be good representations of the Target.  
+
+Key Components:  
+1. Target Model: ResNet-50 (standing in for primate visual system). 
+2. Competing Models: Various vision models claiming to represent the Target (you can use AlexNet, other ResNets, ViT, simCLR etc).  
+3. Experimental Design Optimization: Techniques to generate stimuli that best differentiate between models. (Look up [Golan et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1912334117)).  
+4. Evaluation Metrics: Methods to quantify alignment between competing models and the Target (look up: [Rajalingham et al. 2018](https://www.jneurosci.org/content/38/33/7255)).
+
+Methodology:  
+1. Implement ResNet-50 as the Target model.  
+2. Select or implement a set of competing vision models. 
+3. Develop an optimization framework for experimental design:  
+	a. Use techniques like controversial stimuli generation ([Golan et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1912334117)).  
+	b. Aim to maximize differences in responses amongst competing models.  
+4. Generate optimal stimuli sets to achieve 3b  
+5. Evaluate model responses to these stimuli   
+6. Analyze the results to rank competing models based on their alignment with the Target  
+7. Ground truth retrieval and validation (see below)  
+
+The main idea for the validation is -- develop identical models: when the Target and reference models are identical, the experimental design should:  
+• Generate stimuli that produce nearly identical responses across both models.  
+• Result in a discrimination task that fails to find significant differences.  
+• Show high correlation and low divergence measures between identical model outputs (compared to other models).  
+
+One can generate identical models by:  
+• Implementing multiple runs of the same model with different initializations.  
+• Linearly transform the feature space of a model to another space and treat them as separate models.  
+• This project leverages existing model to optimize experimental design that helps develop a more targeted evaluation of those same vision models.  
 
 
 ## Lindsey Glickfeld
