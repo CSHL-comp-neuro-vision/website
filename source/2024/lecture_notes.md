@@ -23,6 +23,9 @@
 
 ## Eero Simoncelli
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/simoncelli/cshl-simoncelli-discriminability-2024.pdf">Slides part 1</a>
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/simoncelli/cshl-simoncelli-metamers-2024.pdf">Slides part 2</a>
+
 ### Suggested Readings
 • <a href="..\_static\pdfs\movshon\barlow-1961.pdf"> Barlow, H. B. (1961a). Possible principles underlying the transformations of sensory messages</a>\
 • <a href="..\_static\pdfs\simoncelli\Barlow-1969.pdf"> Barlow, H. B. (1969). Pattern recognition and the responses of sensory neurons</a>\
