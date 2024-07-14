@@ -13,6 +13,8 @@
 
 ## John Serences 
 
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/serences/Serences_CSHL-2024.pdf">Slides</a>
+
 ### Suggested Readings
 • <a href="../_static/pdfs/serences/SheehanSerences_PlosBio_2022.pdf">Sheehan, T.C. & Serences, J.T. (2022). Attractive serial dependence overcomes repulsive neuronal adaptation. PLoS Biology </a>\
 • <a href="../_static/pdfs/serences/Henderson_Serences_Rungratsameetaweemana_biorxiv.pdf">Henderson, M.M., Serences, J.,T. & Rungratsameetaweemana, N. (2023). Dynamic categorization rules alter representations in human visual cortex</a>\
@@ -51,7 +53,7 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 ## Stephanie Palmer
 
 • <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/palmer/1-CSHL2024_intro_info_efficient_coding.pdf">Slides part 1</a>\
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/palmer/2-CSHL2024_intro_info_bottleneck.pdf">Slides part 2</a>\
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/palmer/2-CSHL2024_intro_info_bottleneck.pdf">Slides part 2</a>
 
 
 • <a href="../_static/pdfs/palmer/SEP_efficient_coding_notes.pdf">1. Efficient coding notes</a>\
@@ -85,6 +87,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 <br/>
 
 ## Jacob Yates
+
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/yates/yates_cshl_1.pdf">Slides</a>
 
 ### Suggested Readings
 
