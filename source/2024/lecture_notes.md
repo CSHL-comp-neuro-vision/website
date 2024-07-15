@@ -100,6 +100,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Lea Duncker
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/duncker/LVMs-Duncker.pdf">Slides</a>
+
 ### Suggested Readings
 
 • <a href="../_static/pdfs/duncker/adelson-2000-illusions-chapter.pdf"> Adelson, E.H. (2000). Lightness Perception and Lightness Illusions. (Chapter in The New Cognitive Neurosciences). </a>\
