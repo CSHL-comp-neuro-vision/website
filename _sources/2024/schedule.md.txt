@@ -392,11 +392,6 @@
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#kohitij-kar">Neural Mechanisms Underlying Object Recognition in Primates</td>
     <td class="tg-lmxn">Kohitij Kar</span></td>
   </tr>
-  <tr>
-    <td class="tg-left">6:00pm</td>
-    <td class="tg-73oq">Course Banquet at Robertson</td>
-    <td class="tg-lmxn"></td>
-  </tr>
 </tbody>
 </table>
 
@@ -418,6 +413,11 @@
   <tr>
     <td class="tg-left">Afternoon</td>
     <td class="tg-73oq">Break for Finishing Projects</td>
+    <td class="tg-lmxn"></td>
+  </tr>
+  <tr>
+    <td class="tg-left">6:00pm</td>
+    <td class="tg-73oq">Course Banquet at Robertson</td>
     <td class="tg-lmxn"></td>
   </tr>
 </tbody>
