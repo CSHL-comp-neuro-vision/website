@@ -122,6 +122,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Rachel Denison
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/denison/Denison_CSHL2024_AttentionalDynamics.pdf">Slides</a>
+
 ### Suggested Readings
 
 **Recent reviews on dynamic attention:**\
@@ -135,6 +137,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 <br/>
 
 ## Tony Movshon
+
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/movshon/movshon-cshl-240714.pdf">Slides</a>
 
 ### Suggested Readings
 
