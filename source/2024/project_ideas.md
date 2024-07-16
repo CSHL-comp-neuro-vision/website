@@ -84,6 +84,9 @@ A recent paper argued that “modern machine learning” outperforms GLMs in man
 
 ## Jacob Yates
 
+Try loading the DOVES dataset and making a movie out of the eye trajectories. This data (<a href="https://github.com/CSHL-comp-neuro-vision/tutorials/tree/main/matlab/Doves-Yates2024">Matlab</a>/<a href="https://github.com/CSHL-comp-neuro-vision/tutorials/tree/main/python/Doves-Yates2024">Python</a>) contains natural images with dpi eyetracking and is likely useful to many projects.
+
+
 ## Lea Duncker
 
 A scalable Bayesian STRF model through Gaussian Process inducing points
