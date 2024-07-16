@@ -25,7 +25,7 @@
 
 ## Eero Simoncelli
 
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/simoncelli/cshl-simoncelli-discriminability-2024.pdf">Slides part 1</a>
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/simoncelli/cshl-simoncelli-discriminability-2024.pdf">Slides part 1</a>\
 • <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/simoncelli/cshl-simoncelli-metamers-2024.pdf">Slides part 2</a>
 
 ### Suggested Readings
@@ -75,7 +75,9 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Jonathan Pillow
 
-• <a href="../_static/pdfs/pillow/pillow_GLMs_CSHL2024.pdf">Slides</a>
+• <a href="../_static/pdfs/pillow/pillow_GLMs_CSHL2024.pdf">Slides</a>\
+• <a href="https://github.com/pillowlab/GLMspiketraintutorial">GLM Tutorial (Matlab)</a>\
+• <a href="https://github.com/pillowlab/GLMspiketraintutorial_python">GLM Tutorial (Python)</a>
 
 ### Suggested Readings
 
