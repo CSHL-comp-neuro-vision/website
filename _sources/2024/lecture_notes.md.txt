@@ -156,8 +156,12 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Kate Bonnen
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/bonnen/CSHL-2024.pdf">Slides</a>
+
 ### Suggested Readings
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/bonnen/TICS-review-BurgeBonnen.pdf">Burge & Bonnen. (2024). Continuous psychophysics: Past, Present, and Future</a>\
+• <a href="../_static/pdfs/bonnen/MullerEtAl-2023-RetinalMotionStatisticsDuringNaturalLocomotion.pdf">Muller et al. (2023). Retinal motion statistics during natural locomotion</a>\
 • <a href="../_static/pdfs/bonnen/bonnen-et-al-2015.pdf">Bonnen, K., Burge, J., Yates, J., Pillow, J., & Cormack, L.K. (2015). Continuous psychophysics: Target-tracking to measure visual sensitivity</a>\
 • <a href="../_static/pdfs/bonnen/noel-et-al-2021.pdf">Noel, J.P., Caziot, B., Bruni, S., Fitzgerald, N.E., Avila, E., & Angelaki, D.E. (2021). Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making</a>\
 • <a href="../_static/pdfs/bonnen/matthis-yates-hayhoe-2018.pdf">Matthis, J.S., Yates, J.L., & Hayhoe, M.M. (2018). Gaze and the control of foot placement when walking in natural terrain</a>\
