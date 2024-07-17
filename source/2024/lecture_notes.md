@@ -116,6 +116,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Ruth Rosenholtz
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/rosenholtz/Rosenholtz_CSHL2024_PVAttn.pdf">Slides</a>
+
 ### Suggested Readings
 
 • <a href="../_static/pdfs/rosenholtz/rosenholtz-2016-annurev-vision.pdf"> Rosenholtz R. (2016). Capabilities and Limitations of Peripheral Vision</a>  \
