@@ -196,6 +196,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Marlene Cohen
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/cohen/Cohen_CSHL2024_share.pdf">Slides</a>
+
 ### Suggested Readings
 
 **This one first:**
