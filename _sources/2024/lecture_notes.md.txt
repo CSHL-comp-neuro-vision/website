@@ -181,6 +181,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Emily Cooper
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/cooper/CSHL_2024.pdf">Slides</a>
+
 ### Suggested Readings
 
 <!-- My lecture period is focused on understanding eye movements in both natural and unnatural settings. We’ll start by going over some basic and fun information about oculomotor control (Kowler review is relevant/interesting for this, but not necessary). Then I’d like to tell you about the importance of binocular coordination of eye movements, particularly for fixating points at different distances and keeping the eyes in focus. Once we’ve covered these foundations, I’ll tell you about some studies I’ve been involved in that examine fixation patterns during natural behavior, how these natural patterns are disrupted in augmented reality systems, and how optocomputational displays can restore natural eye movements. Of the studies I’ll present, I’m suggesting you read the Padmanaban one (but it’s not very computational, so you’ll understand my presentation fine without reading in advance). I’m happy to share additional relevant readings for anyone who’s interested.  -->
