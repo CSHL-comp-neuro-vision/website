@@ -318,7 +318,7 @@
   <tr>
     <td class="tg-left">9:30-11:30am</td>
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2024/lecture_notes.html#ione-fine">Sight Restoration</td>
-    <td class="tg-lmxn">Ione Fine</span></td>
+    <td class="tg-lmxn">Zoe Kourtzi</span></td>
   </tr>
   <tr>
     <td class="tg-left">1:00-3:00pm</td>
