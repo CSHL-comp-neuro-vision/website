@@ -195,7 +195,7 @@ To start to play with these ideas. You can read <a href="../_static/pdfs/sedigh-
 You can also invert this exercise. Given a large-scale organization in the visual system, say foveal layout of photoreceptors in the retina, what should eye movements look like? The optimal movement might be defined as one that makes prediction of self-generated sensory inputs easier. In technical jargon, a good motor action is one that produces self-similar sensory inputs. See if you can use this idea to extract the movement distributions above from the retinal layouts produced given the movement distribution.
 
 
-## Ione Fine
+## Zoe Kourtzi
 
 • Create a collection of receptive fields (e.g. oriented Gabors that vary in location, orientation and size tuning. How is  a ‘star’ (a light spot in a dark background) represented amongst these Gabors? How would you best represent a ‘star’ with this collection of receptive fields. 
 • We see adaptation in cortical electrical stimulation. It may or may not be the same thing as normal cortical adaptation to standard visual stimulation. It might be worth having a think about that. 
