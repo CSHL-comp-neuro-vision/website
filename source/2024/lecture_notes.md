@@ -225,8 +225,7 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 <br/>
 
-## Zoe Kourtzi
-
+## Ione Fine
 
 <a href= "https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/fine/FineProvisionalSlides.pdf">Provisional Lecture Slides</a>
 
