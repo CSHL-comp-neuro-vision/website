@@ -217,6 +217,8 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ## Madineh Sedigh-Sarvestani
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/sarvestani/2024_07_CSHL.pdf">Slides</a>
+
 ### Suggested Readings
 
 • <a href="../_static/pdfs/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">Clippingdale, S. & Wilson, R. (1996). Self-similar neural networks based on a Kohonen learning rule.</a>\
@@ -227,7 +229,7 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 
 ## Ione Fine
 
-<a href= "https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/fine/FineProvisionalSlides.pdf">Provisional Lecture Slides</a>
+• <a href= "https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/fine/ColdSpringHarbor.pdf">Slides</a>
 
 ### Suggested Readings
 • <a href="../_static/pdfs/fine/FineBoynton-2015-PulseTrainsToPercepts-TheChallengeOfCreatingAPerceptuallyIntelligibleWorldWithSightRecoveryTechnologies.pdf">Fine, I. & Boynton, G.M. (2015). Pulse trains to percepts: the challenge of creating a perceptually intelligible world with sigh recovery technologies</a>\
@@ -236,6 +238,8 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 <br/>
 
 ## Emma Alexander
+
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/alexander/CSHL.pdf">Slides</a>
 
 ### Suggested Readings
 
@@ -246,6 +250,8 @@ I will also touch on some newer methods for analyzing neural population data. Pe
 <br/>
 
 ## Jennifer Groh
+
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/groh/multisensory_for_computational_vision2024.pdf">Slides</a>
 
 ### Suggested Readings
 
