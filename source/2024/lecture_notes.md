@@ -175,6 +175,8 @@ This includes <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">M
 
 ## Stefan Treue
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/treue/Treue_Attention_CSH_2024.pdf">Slides</a>
+
 ### Suggested Readings
 
 <br/>
