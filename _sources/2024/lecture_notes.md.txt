@@ -285,10 +285,8 @@ And optionally...
 
 ## Mariam Aly
 
-### Slides
-
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part1.pdf">Part 1</a>\
-• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part2.pdf">Part 2</a>
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part1.pdf">Slides part 1</a>\
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/aly/CSHL2024_Aly_Lecture_Part2.pdf">Slides part 2</a>
 
 ### Suggested Readings
 
@@ -298,6 +296,8 @@ And optionally...
 <br/>
 
 ## Kohitij Kar
+
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/kar/cshl_ko2.pdf">Slides</a>
 
 ### Suggested Readings
 
