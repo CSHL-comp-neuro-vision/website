@@ -312,6 +312,9 @@ Please read in order of priority:
 
 ## Lindsey Glickfeld
 
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/glickfield/CSHL2024_Normalization.pdf">Slides part 1 (Normalization)</a>
+• <a href="https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/glickfield/CSHL2024_Data.pdf">Slides part 2 (Data)</a>
+
 ### Suggested Readings
 
 • <a href="../_static/pdfs/glickfeld/barbera2022.pdf">Barbera, D., Preibe, N.J. & Glickfeld, L.L. (2022). Feedforward mechanisms of cross-orientation interactions in mouse V1</a>\
