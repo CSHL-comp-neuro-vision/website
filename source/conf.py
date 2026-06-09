@@ -19,8 +19,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'CSHL: Computational Neuroscience Vision'
-copyright = '2024, Eline Kupers, Catrina Hacker, Declan Rowley'
-author = 'Eline Kupers, Catrina Hacker, Declan Rowley'
+copyright = '2026, Catrina Hacker, Ann Kotkat'
+author = 'Catrina Hacker, Ann Kotkat'
 
 
 
