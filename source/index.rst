@@ -22,12 +22,12 @@ Computational approaches to neuroscience produce important advances in our under
    :maxdepth: 1
    :caption: 2024 Course
 
-   2024/schedule
-   2024/lecture_notes
-   2024/project_ideas
-   2024/course_tshirt_submissions
-   2024/people
-   2024/photos
+   2026/schedule
+   2026/lecture_notes
+   2026/project_ideas
+   2026/course_tshirt_submissions
+   2026/people
+   2026/photos
 
 .. toctree::
    :hidden:
