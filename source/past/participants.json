@@ -1,5 +1,12 @@
 
 [
+    {"Year": "2024", 
+     "Organiziers": ["Jonathan Pillow", "Emily Cooper", "John Serences"],
+     "Teaching Assistants": ["Catrina Hacker", "Eline Kupers", "Declan Rowley"],
+     "Lecturers": ["Emma Alexander", "Mariam Aly", "Kathryn Bonnen", "Billy Broderick", "EJ Chichilnisky", "Marlene Cohen", "Rachel Denison", "Lea Duncker", "Ione Fine", "Lindsey Glickfeld", "Jennifer Groh", "Kohitij Kar", "Taraz Lee", "Tony Movshon", "Stephanie Palmer", "Ruth Rosenholtz", "Madineh Sedigh-Sarvestani", "Eero Simoncelli", "Stefan Treue", "Jacob Yates"],
+     "Students": ["Claire Baum", "Arnab Biswas", "Mohamed Sadek Bouanane", "Adithyanarayan Chandrasekaran", "Grace DiRisio", "Rania Ezzo", "Sara Gannon", "Angelica Godinez", "Robert Haret", "Amelia Harrison", "Arthur Hong", "Deyue Kong", "Ann Kotkat", "Holly Kular", "Howard Li", "Timothy Ma", "Florencia Martinez Addiego", "Vaishnavi Mohan", "Ronan O'Shea", "Andra Rudzite", "Jhoseph Shin", "Bharath Chandra Talluri", "Josh Wilson", "Yixin Yuan"]
+
+    },
     {
         "Year": "2022",
         "Organizers": ["Jonathan Pillow", "Emily Cooper", "John Serences"],
