@@ -35,11 +35,11 @@ There is also a separate "slides-2024" repository. This is a private repository 
 		- images 						: profile pictures, etc.
 		- pdfs 							: pdfs linked to suggested readings markdown page
 		- t-shirts 						: jpegs of previous course t-shirts
-	- `2022` (-- obsolete folder kept for reference, soon will be deleted)
-	- `2024`  						: most important folder!
+	- `2024` (-- obsolete folder kept for reference, soon will be deleted)
+	- `2026`  						: most important folder!
 		- course_tshirt_submissions.md  : Page with instructions to submit t-shirt submissions (and inspirations from prior years)
 		- lecture_notes.md 				: Page with lecture slides and suggested readings (pdfs).
-		- people.md 					: Page with 2024 Organizers, TAs and students 
+		- people.md 					: Page with 2026 Organizers, TAs and students 
 		- photos.md 					: Page with URL to Google Photo album
 		- project_ideas.md 				: Page with URL to suggested project ideas by lecturers
 		- schedule.md 					: Page with schedule
@@ -89,23 +89,21 @@ If you add a new markdown file you need to add a line in the table of contents f
 git pull origin main
 ```
 
-### A. Lecture slides (pdfs stored in the "slide-2024" repo).
+### A. Lecture slides (lecture_notes.md + pdfs stored in the "slide-2026" repo).
 1. Make a folder with the Lecturer's last name
 2. Add pdfs
 3. Push changes to git repo
-4. Link pdfs to Lecturer's section in "main" branch ../website/source/2024/lecture_notes.md to full repository URL with html "href" command: `<a href= "https://github.com/CSHL-comp-neuro-vision/slides-2024/raw/main/<last_name>/<file_name.pdf>" Slides part X </a>`
+4. Link pdfs to Lecturer's section in "main" branch ../website/source/2024/lecture_notes.md to full repository URL with html "href" command: `<a href= "https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/<last_name>/<file_name.pdf>" Slides part X </a>`
 5. Update website (see Step 2: Re-building the site)
 
-### B. Suggested readings (suggest_readings.md + pdfs)
-1. Add pdfs to static/pdf folder
-2. Open `../website/source/2024/lecture_notes.md`
-3. Link pdfs to text in `lecture_notes.md` markdown file. 
-4. Update website (seeStep 2: Re-building the site)
+### B. Suggested readings (lecture_notes.md + pdfs stored in the "slide-2026" repo)
+1. Add pdfs to folder with lecturer's last name in slides-2026 repo.
+2. Open `../website/source/2026/lecture_notes.md`
+3. Link pdfs to text in `lecture_notes.md` markdown file (`<a href= "https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/<last_name>/<file_name.pdf>" Citation for paper </a>`). 
+4. Update website (see Step 2: Re-building the site)
 
-### C. Suggested project ideas (also suggest_readings.md)  
-1. Add pdfs to `website/source/_static/pdfs/` folder
-2. Open `lecture_notes.md` markdown file, link pdfs to text, for example:
-`<a href="../_static/pdfs/cohen/rust_cohen_2022.pdf">Rust & Cohen (2022)</a>`
+### C. Suggested project ideas (project_ideas.md)  
+1. Open `project_ideas.md` markdown file and add project ideas, links, etc.
 3. Update website (see Step 2: Re-building the site)
 
 ### D. Schedule (schedule.md) has links to Lecturer's lecture_notes.md  
