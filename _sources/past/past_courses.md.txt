@@ -12,6 +12,56 @@
 .tg .tg-pgjb{background-color:#66ccff;border-color:#66ccff;text-align:left;vertical-align:top}
 </style>
 
+## 2024
+
+**Cold Spring Harbor Laboratory, July 9 - July 23, 2024**
+
+<div style="display:block;text-align:left"><img border="0" src="../_static/images/past/2024.jpg" style="width:100%" />
+<div>
+<hr />
+</div>
+
+<script>
+	document.querySelectorAll('').addEventListener('mouseover', function() {
+		  this.src = 'path/to/my/image.png';
+		});
+</script>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pgjb"><span style="font-weight:bold">Organizers</span></th>
+    <th class="tg-zv4m"><a href="http://pillowlab.princeton.edu/" target="_blank" rel="noopener noreferrer">Jonathan Pillow</a></th>
+    <th class="tg-zv4m"><a href="http://www.emilyacooper.org/" target="_blank" rel="noopener noreferrer">Emily Cooper</a></th>
+    <th class="tg-zv4m"><a href="https://serenceslab.ucsd.edu/" target="_blank" rel="noopener noreferrer">John Serences</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ml8a">Teaching Assistants</td>
+    <td class="tg-zv4m"><a href="https://www.catrinahacker.com/" target="_blank" rel="noopener noreferrer">Catrina Hacker</a></td>
+    <td class="tg-zv4m"><a href="https://decrow3.github.io/" target="_blank" rel="noopener noreferrer">Declan Rowley</a></td>
+    <td class="tg-zv4m"><a href="https://elinekupers.github.io" target="_blank" rel="noopener noreferrer">Eline Kupers</a></td>
+    <td class="tg-zv4m"></td>
+  </tr>
+  <tr>
+    <td class="tg-ml8a">Lecturers</td>
+    <td class="tg-zv4m">Emma Alexander<br>Mariam Aly<br>Kathryn Bonnen<br>Billy Broderick<br>EJ Chichilnisky<br>Marlene Cohen<br>Rachel Denison<br></td>
+    <td class="tg-zv4m">Lea Duncker<br>Ione Fine<br>Lindsey Glickfeld<br>Jennifer Groh<br>Kohitij Kar<br>Taraz Lee<br>Tony Movshon<br></td>
+    <td class="tg-zv4m">Stephanie Palmer<br>Ruth Rosenholtz<br>Madnieh Sedigh-Sarvestani<br>Eero Simoncelli<br>Stefan Treue<br>Jacob Yates<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ml8a">Students</td>
+    <td class="tg-zv4m">Claire Baum<br>Arnab Biswas<br>Mohamed Sadek Bouanane<br>Adithyanarayan Chandrasekaran<br>Grace DiRisio<br>Rania Ezzo<br>Sara Gannon<br>Angelica Godinez<br></td>
+    <td class="tg-zv4m">Robert Haret<br>Amelia Harrison<br>Arthur Hong<br>Deyue Kong<br>Ann Kotkat<br>Holly Kular<br>Howard Li<br>Timothy Ma<br></td>
+    <td class="tg-zv4m">Florencia Martinez Addiego<br>Vaishnavi Mohan<br>Ronan O'Shea<br>Andra Rudzite<br>Jhoseph Shin<br>Bharath Chandra Talluri<br>Josh Wilson<br>Yixin Yuan<br></td>
+  </tr>
+</tbody>
+</table>
+
+<br><br><br>
+
+
 ## 2022
 
 **Cold Spring Harbor Laboratory, July 7 - July 20, 2022**

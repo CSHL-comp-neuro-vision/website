@@ -9,7 +9,7 @@
   <title>Project Ideas &mdash; CSHL: Computational Neuroscience Vision  documentation</title>
       <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=b86133f3" />
       <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=9edc463e" />
-      <link rel="stylesheet" type="text/css" href="../_static/custom.css?v=e333336f" />
+      <link rel="stylesheet" type="text/css" href="../_static/custom.css?v=11f34df6" />
 
   
       <script src="../_static/jquery.js?v=5d32c60e"></script>
@@ -48,6 +48,7 @@
 <li class="toctree-l1"><a class="reference internal" href="schedule.html">Schedule</a></li>
 <li class="toctree-l1"><a class="reference internal" href="lecture_notes.html">Slides and readings</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Project Ideas</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#flatiron-resources">Flatiron Resources</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#tony-movshon">Tony Movshon</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#e-j-chichilnisky">E.J. Chichilnisky</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#eero-simoncelli">Eero Simoncelli</a></li>
@@ -111,6 +112,18 @@
              
   <section id="project-ideas">
 <h1>Project Ideas<a class="headerlink" href="#project-ideas" title="Link to this heading"></a></h1>
+<section id="flatiron-resources">
+<h2>Flatiron Resources<a class="headerlink" href="#flatiron-resources" title="Link to this heading"></a></h2>
+<p>Billy Broderick and Edoardo Balzani will join us from the Flatiron Institute to share two open source software packages that you may find helpful for your projects.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://nemos.readthedocs.io/en/latest/">NeMoS (Neural ModelS)</a> is a statistical modeling framework optimized for systems neuroscience and powered by jax. It streamlines the process of defining and selecting models, through a collection of easy-to-use methods for feature design. A NeMoS port of Jonathan Pillow’s GLM tutorials can be found <a class="reference external" href="https://balzaniedoardo.github.io/nemos_glm_tutorials/index.html">here</a>.</p></li>
+<li><p><a class="reference external" href="https://docs.plenoptic.org/docs/tags/2.0.0/">Plenoptic</a> is a python library for model-based synthesis of perceptual stimuli, built on top of pytorch. For any pytorch model, users can generate stimuli which enable interpretation of model properties through examination of features that are enhanced, suppressed, or discarded. These stimuli can then be used in follow up experiments to validate or falsify model predictions. plenoptic also contains pytorch implementations of some vision models and image-processing tools, such as the Steerable Pyramid and the Portilla-Simonelli texture model.</p></li>
+</ul>
+<p>Their group has an additional resource they will not share in the tutorials that you may find useful for your projects or research.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://pynapple.org/">Pynapple</a> is a light-weight python library for neurophysiological data analysis. The goal is to offer a versatile set of tools to study typical data in the field, i.e. time series (spike times, behavioral events, etc.) and time intervals (trials, brain states, etc.). It also provides users with generic functions for neuroscience such as tuning curves, cross-correlograms and filtering.</p></li>
+</ul>
+</section>
 <section id="tony-movshon">
 <h2>Tony Movshon<a class="headerlink" href="#tony-movshon" title="Link to this heading"></a></h2>
 </section>
@@ -119,15 +132,6 @@
 </section>
 <section id="eero-simoncelli">
 <h2>Eero Simoncelli<a class="headerlink" href="#eero-simoncelli" title="Link to this heading"></a></h2>
-<ol class="arabic simple">
-<li><p>Metamers: given a model and a reference image, stochastically generate a new image whose model representation is identical to that of the reference image.  [ref:  Freeman &amp; Simoncelli 2011]</p></li>
-<li><p>Eigendistortions: given a model and a reference image, compute the image perturbation that produces the smallest and largest changes (in terms of Euclidean distance) in the model response space.  [ref: Berardino et al 2017]</p></li>
-<li><p>Maximal differentiation (MAD) competition: given two models that measure distance between images and a reference image, generate pairs of images that optimally distinguish the models. Specifically, synthesize a pair of images that the first model says are equi-distant from the reference while the second model says they are maximally/minimally distant from the reference. Synthesize a second pair with the roles of the two models reversed.  [ref: Wang &amp; Simoncelli 2008]</p></li>
-<li><p>Geodesics: given a model and two images, attempt to synthesize a sequence of images that lie on the shortest (“geodesic”) path in the model’s representation space. [ref. Henaff &amp; Simoncelli 2016]</p></li>
-</ol>
-<p>(note from Dan: not really a project idea, but a tool you could use in a project)
-My lab has produced a python library of tools to explore vision models by  synthesizing novel informative images.
-This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s [here]https://github.com/LabForComputationalVision/plenoptic/: Kate Bonnen is an expert user and someone to ask questions about it.</p>
 </section>
 <section id="stephanie-palmer">
 <h2>Stephanie Palmer<a class="headerlink" href="#stephanie-palmer" title="Link to this heading"></a></h2>
