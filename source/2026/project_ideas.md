@@ -1,22 +1,23 @@
 # Project Ideas
 
+## Flatiron Resources
+
+Billy Broderick and Edoardo Balzani will join us from the Flatiron Institute to share two open source software packages that you may find helpful for your projects. 
+
+* [NeMoS (Neural ModelS)](https://nemos.readthedocs.io/en/latest/) is a statistical modeling framework optimized for systems neuroscience and powered by jax. It streamlines the process of defining and selecting models, through a collection of easy-to-use methods for feature design. A NeMoS port of Jonathan Pillow’s GLM tutorials can be found [here](https://balzaniedoardo.github.io/nemos_glm_tutorials/index.html). 
+
+* [Plenoptic](https://docs.plenoptic.org/docs/tags/2.0.0/) is a python library for model-based synthesis of perceptual stimuli, built on top of pytorch. For any pytorch model, users can generate stimuli which enable interpretation of model properties through examination of features that are enhanced, suppressed, or discarded. These stimuli can then be used in follow up experiments to validate or falsify model predictions. plenoptic also contains pytorch implementations of some vision models and image-processing tools, such as the Steerable Pyramid and the Portilla-Simonelli texture model.
+
+Their group has an additional resource they will not share in the tutorials that you may find useful for your projects or research.
+
+* [Pynapple](https://pynapple.org/) is a light-weight python library for neurophysiological data analysis. The goal is to offer a versatile set of tools to study typical data in the field, i.e. time series (spike times, behavioral events, etc.) and time intervals (trials, brain states, etc.). It also provides users with generic functions for neuroscience such as tuning curves, cross-correlograms and filtering.
+
+
 ## Tony Movshon
 
 ## E.J. Chichilnisky
 
 ## Eero Simoncelli
-
-1. Metamers: given a model and a reference image, stochastically generate a new image whose model representation is identical to that of the reference image.  [ref:  Freeman & Simoncelli 2011]
-
-2. Eigendistortions: given a model and a reference image, compute the image perturbation that produces the smallest and largest changes (in terms of Euclidean distance) in the model response space.  [ref: Berardino et al 2017]
-
-3. Maximal differentiation (MAD) competition: given two models that measure distance between images and a reference image, generate pairs of images that optimally distinguish the models. Specifically, synthesize a pair of images that the first model says are equi-distant from the reference while the second model says they are maximally/minimally distant from the reference. Synthesize a second pair with the roles of the two models reversed.  [ref: Wang & Simoncelli 2008]
-
-4. Geodesics: given a model and two images, attempt to synthesize a sequence of images that lie on the shortest ("geodesic") path in the model's representation space. [ref. Henaff & Simoncelli 2016]
-
-(note from Dan: not really a project idea, but a tool you could use in a project)
-My lab has produced a python library of tools to explore vision models by  synthesizing novel informative images.
-This includes Metamers (as per my talk yesterday), Eigendistortions (Berardino 2017), Maximal differentiation (MAD) competition (Wang 2008), and Geodesics (Henaff 2016). Might be useful for some students in the course.  If you want to link it from Slack or from the course GitHub, it’s [here]https://github.com/LabForComputationalVision/plenoptic/: Kate Bonnen is an expert user and someone to ask questions about it.
 
 ## Stephanie Palmer
 

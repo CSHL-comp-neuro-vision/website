@@ -14,6 +14,8 @@
 
 **[John Serences](https://serenceslab.ucsd.edu/)**
 
+<image src="../_static/images/2026/lea-small.jpg" alt="Lea Duncker" position="left" style="border-radius: 8px;width:20vh">
+
 **[Lea Duncker](https://zuckermaninstitute.columbia.edu/lea-duncker-phd)**
 
 
@@ -24,4 +26,6 @@
 
 **[Catrina Hacker](https://catrinahacker.com/)**
 
-**[Ann Kotkat](https://decrow3.github.io/)**
+<image src="../_static/images/2026/kotkat_sml.jpg" alt="Ann Kotkat" position="left" style="border-radius: 8px;width:20vh">
+
+**[Ann Kotkat](https://www.bio.lmu.de/en/people/contact-page/ann-kotkat-120735ac.html)**
