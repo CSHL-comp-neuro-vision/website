@@ -62,7 +62,7 @@ In [Barbera et al.](https://www.sciencedirect.com/science/article/pii/S089662732
 
 2.  In cat/primate V1, plaid stimuli drive responses that are component selective.  However, in mouse V1, responses can be either pattern and component selective. Use this simple subunit model to (A) determine whether V1 neurons are component and/or pattern selective and (B) test whether these responses are sensitive to mask phase. 
 
-The code for the model in Barbera et al. can be found <a href="https://figshare.com/collections/BarberaPriebeGlickfeld_Neuron_2022/5677225/">here</a>, see _Figure4_model_code.m_.
+The code for the model in Barbera et al. can be found <a href="https://doi.org/10.6084/m9.figshare.c.5677225">here</a>, see _Figure4_model_code.m_.
 
 ## Emma Alexander
 
