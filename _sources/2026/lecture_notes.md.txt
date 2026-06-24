@@ -40,6 +40,9 @@
 
 ## Lindsey Glickfeld
 
+### Suggested Readings
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/glickfield/CarandiniHeeger2013.pdf">Carandini & Heeger (2013) Normalization as a canonical neural computation.</a>
+
 ## Emma Alexander
 
 ## Taraz Lee
