@@ -70,6 +70,13 @@ There is also a separate "slides-2024" repository. This is a private repository 
 git clone https://github.com/CSHL-comp-neuro-vision/website
 conda env create -f environment.yml
 ```
+IF NEEDED: The original environment.yml may contain platform-specific package builds, specifically for macOS. 
+To make the file more portable (tested on ubuntu), one can use the environment cleaning script as follows
+```
+python clean_conda_env.py environment.yml environment_clean.yml
+conda env create -f environment_clean.yml
+```
+The script removes platform-specific build strings, low-level system packages, and local machine paths while keeping the main project dependencies.
 
 2. Checkout the "main" branch
 
