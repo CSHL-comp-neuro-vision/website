@@ -6,21 +6,21 @@
 ### Suggested Readings
 Start here:
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/Movshon/adelson-bergen-1991.pdf">Adelson, E. H., & Bergen, J. R. (1991). The plenoptic function and the elements of early vision. In M. Landy & J. A. Movshon (Eds.), Computational Models of Visual Processing (pp. 3–20). MIT Press.</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/movshon/adelson-bergen-1991.pdf">Adelson, E. H., & Bergen, J. R. (1991). The plenoptic function and the elements of early vision. In M. Landy & J. A. Movshon (Eds.), Computational Models of Visual Processing (pp. 3–20). MIT Press.</a>
 
 If you want to read more:
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/Movshon/anderson-1972.pdf">Anderson, P. W. (1972). More is different: Broken symmetry and the nature of the hierarchical structure of science. Science, 177(4047), 393–396.</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/movshon/anderson-1972.pdf">Anderson, P. W. (1972). More is different: Broken symmetry and the nature of the hierarchical structure of science. Science, 177(4047), 393–396.</a>
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/Movshon/barlow-1972.pdf">Barlow, H. B. (1972). Single units and sensation: A neuron doctrine for perceptual psychology? Perception, 1, 371–394.</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/movshon/barlow-1972.pdf">Barlow, H. B. (1972). Single units and sensation: A neuron doctrine for perceptual psychology? Perception, 1, 371–394.</a>
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/Movshon/deangelis-ohzawa-freeman-1995.pdf">DeAngelis, G. C., Ohzawa, I., & Freeman, R. D. (1995). Receptive-field dynamics in the central visual pathways. Trends in Neurosciences, 18(10), 451–458.</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/movshon/deangelis-ohzawa-freeman-1995.pdf">DeAngelis, G. C., Ohzawa, I., & Freeman, R. D. (1995). Receptive-field dynamics in the central visual pathways. Trends in Neurosciences, 18(10), 451–458.</a>
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/Movshon/enroth-cugell-robson-1984.pdf">Enroth-Cugell, C., & Robson, J. G. (1984). Functional characteristics and diversity of cat retinal ganglion cells: Basic characteristics and quantitative description. Investigative Ophthalmology & Visual Science, 25(3), 250–267.</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/movshon/enroth-cugell-robson-1984.pdf">Enroth-Cugell, C., & Robson, J. G. (1984). Functional characteristics and diversity of cat retinal ganglion cells: Basic characteristics and quantitative description. Investigative Ophthalmology & Visual Science, 25(3), 250–267.</a>
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/Movshon/krakauer-etal-2017.pdf">Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. Neuron, 93(3), 480–490. https://doi.org/10.1016/j.neuron.2016.12.041</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/movshon/krakauer-etal-2017.pdf">Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. Neuron, 93(3) 480–490. https://doi.org/10.1016/j.neuron.2016.12.041</a>
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/Movshon/lennie-movshon-2005.pdf">Lennie, P., & Movshon, J. A. (2005). Coding of color and form in the geniculostriate visual pathway. Journal of the Optical Society of America A, 22(10), 2013–2033.</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/movshon/lennie-movshon-2005.pdf">Lennie, P., & Movshon, J. A. (2005). Coding of color and form in the geniculostriate visual pathway. Journal of the Optical Society of America A, 22(10), 2013–2033.</a>
 
 <br/>
 
