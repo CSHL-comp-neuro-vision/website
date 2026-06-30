@@ -55,17 +55,37 @@ A recent paper argued that “modern machine learning” outperforms GLMs in man
 
 ## Jacob Yates
 
+Here are two colab notebooks that work as tutorials for modeling and measuring neural selectivity during natural vision. The datasets that accompany them should automatically download when run.
+* [shifter](https://drive.google.com/file/d/1IWwcktZbyNruXmU5QbPIOYAIRg2JqqrT/view?usp=drive_link)
+* [modeling](https://drive.google.com/file/d/1vyh5Lz-75bJo6f5hNzsFOuN5UNW43Hu5/view?usp=drive_link)
+
+One project could be to try to add inductive biases based on known properties of the visual front end to improve the modeling in the second notebook. Does adding a retina improve the generalization across stimulus domains? 
+
 ## Carsen Stringer
 
 ## Lea Duncker
 
 ## James Fitzgerald
 
+In my talk, I will discuss behavior, neural coding, and network mechanisms associated with visual motion processing. I will primarily emphasize flies and zebrafish for the mechanistic possibilities afforded by connectomics and whole-brain functional imaging. I encourage interested students to reach out to me for more information and discussion.
+
+1. Neural network mechanisms of binocular integration in larval zebrafish. We recently developed a theoretical framework for predicting synaptic connectivity from densely measured neuronal activity, and we are now applying this theory to a Function-Linked (FuL) Connectomics collected by the Baier lab at the Max Planck Institute for Biological Intelligence. More specifically, the dataset consists of functional calcium imaging of optic-flow-responsive neurons in the pretectum and electron-microscopy based connectomics in the same specimen. The pretectum is a retinorecipient brain area, but retinal responses were not measured experimentally. This project would examine the impact that various retinal models have on the predictions of the theory. References: [1](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023255), [2](https://arxiv.org/abs/2310.20309), [3](https://www.nature.com/articles/s41592-022-01621-0).
+2. Behaviorally aligned representations in larval zebrafish. We recently found that the statistics of behavior predict the statistics of visual motion encoding in many regions of the zebrafish brain. This project would examine how decisions made when quantifying behavior impact the model's predictions and explanatory power. For instance, what behavioral quantification works best to explain the data in pretectum and other visual areas? Do the statistics of measured behavior or descending motor commands better predict visual activity? References:[1](https://www.biorxiv.org/content/10.64898/2026.02.04.703828v2.abstract), [2](https://www.cell.com/current-biology/fulltext/S0960-9822(25)01003-6).
+3. From connectomics to algorithm. I have long-standing interests in the algorithms of visual motion estimation and their normative basis in natural scene statistics. Most recently, I have been building connectome-constrained models. This project would explore ways to connect these two aspects of my research interests in the fly. References: [1](https://www.annualreviews.org/content/journals/10.1146/annurev-vision-101623-025432), [2](https://www.biorxiv.org/content/10.1101/2024.11.01.621596v2.abstract)
+
 ## John Serences
 
 Use a continuous time recurrent neural network (example code in python tutorials) to build a network that performs a simple delayed match to sample (DMTS) task (or some other task of your own design). Does the network naturally exhibit within-trial dynamics after training? Does it settle into a crystalized state after reaching asymptotic performance, or does it continue to explore the solution space? What role do these dynamics play in successfully learning your task? And last, what parameters drive increased dynamics in the networks in the support of more efficient processing? For example, in a DMTS memory task, you could look at how the network adaptively prepares to compare the second stimulus to the first during the delay period and what factors might encourage the network to become more dynamic in support of more efficient task performance (e.g. manipulations of the loss function, changes in connectivity, E/I balance, etc)? 
 
 ## Jorge Otero-Millan
+
+1. Saccade control and plant compensation
+
+Derive (or learn) the optimal control policy for a saccade when the oculomotor plant is a first-order low-pass, with viscosity and an elastic restoring force but inertia neglected. Start by inverting the plant to confirm the classic result analytically: a step proportional to position plus a pulse proportional to velocity. Then ask whether an optimization or a trained policy recovers it. Solve the minimum-time problem with bounded drive by Pontryagin's principle (the answer is a single rectangular pulse, one switch, then a tonic step), and compare against minimizing control effort or endpoint variance under signal-dependent noise, which you can do analytically or with policy-gradient learning through the differentiable plant.
+
+2. Sensor fusion for gaze stabilization
+
+Derive (or learn) how to fuse visual and vestibular signals for gaze stabilization, where the goal is to compensate for sensor dynamics. The two sensors are complementary: the semicircular canals report head angular velocity through a high-pass filter (the cupula's dominant time constant is only a few seconds, so the signal washes out during sustained rotation), while retinal-slip/optokinetic motion is a low-pass, delayed sensor, reliable for steady motion, useless at high frequencies. Start by showing analytically that no single sensor suffices and, crucially, that the brain cannot simply invert the canal: a naive inverse amplifies low-frequency noise without bound, so the well-posed solution is a complementary filter that recovers the missing low-frequency content from vision instead of from inversion. Then ask whether an optimal estimator or a trained policy recovers it: the steady-state Kalman filter that fuses a high-pass, noisy canal measurement with a low-pass, noisy visual measurement of retinal slip is a complementary filter, with a crossover frequency set by the sensor time constants and the noise ratio. Pose the objective as minimizing retinal slip across the frequency bands. Work on velocity no need to model eye position.
 
 ## Stefan Treue
 
