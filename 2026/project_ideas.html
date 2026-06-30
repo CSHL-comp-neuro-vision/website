@@ -171,6 +171,12 @@ Divisive normalization is one of the putative “canonical computations” carri
 </section>
 <section id="jacob-yates">
 <h2>Jacob Yates<a class="headerlink" href="#jacob-yates" title="Permalink to this heading"></a></h2>
+<p>Here are two colab notebooks that work as tutorials for modeling and measuring neural selectivity during natural vision. The datasets that accompany them should automatically download when run.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://drive.google.com/file/d/1IWwcktZbyNruXmU5QbPIOYAIRg2JqqrT/view?usp=drive_link">shifter</a></p></li>
+<li><p><a class="reference external" href="https://drive.google.com/file/d/1vyh5Lz-75bJo6f5hNzsFOuN5UNW43Hu5/view?usp=drive_link">modeling</a></p></li>
+</ul>
+<p>One project could be to try to add inductive biases based on known properties of the visual front end to improve the modeling in the second notebook. Does adding a retina improve the generalization across stimulus domains?</p>
 </section>
 <section id="carsen-stringer">
 <h2>Carsen Stringer<a class="headerlink" href="#carsen-stringer" title="Permalink to this heading"></a></h2>
@@ -180,6 +186,12 @@ Divisive normalization is one of the putative “canonical computations” carri
 </section>
 <section id="james-fitzgerald">
 <h2>James Fitzgerald<a class="headerlink" href="#james-fitzgerald" title="Permalink to this heading"></a></h2>
+<p>In my talk, I will discuss behavior, neural coding, and network mechanisms associated with visual motion processing. I will primarily emphasize flies and zebrafish for the mechanistic possibilities afforded by connectomics and whole-brain functional imaging. I encourage interested students to reach out to me for more information and discussion.</p>
+<ol class="arabic simple">
+<li><p>Neural network mechanisms of binocular integration in larval zebrafish. We recently developed a theoretical framework for predicting synaptic connectivity from densely measured neuronal activity, and we are now applying this theory to a Function-Linked (FuL) Connectomics collected by the Baier lab at the Max Planck Institute for Biological Intelligence. More specifically, the dataset consists of functional calcium imaging of optic-flow-responsive neurons in the pretectum and electron-microscopy based connectomics in the same specimen. The pretectum is a retinorecipient brain area, but retinal responses were not measured experimentally. This project would examine the impact that various retinal models have on the predictions of the theory. References: <a class="reference external" href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023255">1</a>, <a class="reference external" href="https://arxiv.org/abs/2310.20309">2</a>, <a class="reference external" href="https://www.nature.com/articles/s41592-022-01621-0">3</a>.</p></li>
+<li><p>Behaviorally aligned representations in larval zebrafish. We recently found that the statistics of behavior predict the statistics of visual motion encoding in many regions of the zebrafish brain. This project would examine how decisions made when quantifying behavior impact the model’s predictions and explanatory power. For instance, what behavioral quantification works best to explain the data in pretectum and other visual areas? Do the statistics of measured behavior or descending motor commands better predict visual activity? References:<a class="reference external" href="https://www.biorxiv.org/content/10.64898/2026.02.04.703828v2.abstract">1</a>, <a class="reference external" href="https://www.cell.com/current-biology/fulltext/S0960-9822(25)01003-6">2</a>.</p></li>
+<li><p>From connectomics to algorithm. I have long-standing interests in the algorithms of visual motion estimation and their normative basis in natural scene statistics. Most recently, I have been building connectome-constrained models. This project would explore ways to connect these two aspects of my research interests in the fly. References: <a class="reference external" href="https://www.annualreviews.org/content/journals/10.1146/annurev-vision-101623-025432">1</a>, <a class="reference external" href="https://www.biorxiv.org/content/10.1101/2024.11.01.621596v2.abstract">2</a></p></li>
+</ol>
 </section>
 <section id="john-serences">
 <h2>John Serences<a class="headerlink" href="#john-serences" title="Permalink to this heading"></a></h2>
@@ -187,6 +199,14 @@ Divisive normalization is one of the putative “canonical computations” carri
 </section>
 <section id="jorge-otero-millan">
 <h2>Jorge Otero-Millan<a class="headerlink" href="#jorge-otero-millan" title="Permalink to this heading"></a></h2>
+<ol class="arabic simple">
+<li><p>Saccade control and plant compensation</p></li>
+</ol>
+<p>Derive (or learn) the optimal control policy for a saccade when the oculomotor plant is a first-order low-pass, with viscosity and an elastic restoring force but inertia neglected. Start by inverting the plant to confirm the classic result analytically: a step proportional to position plus a pulse proportional to velocity. Then ask whether an optimization or a trained policy recovers it. Solve the minimum-time problem with bounded drive by Pontryagin’s principle (the answer is a single rectangular pulse, one switch, then a tonic step), and compare against minimizing control effort or endpoint variance under signal-dependent noise, which you can do analytically or with policy-gradient learning through the differentiable plant.</p>
+<ol class="arabic simple" start="2">
+<li><p>Sensor fusion for gaze stabilization</p></li>
+</ol>
+<p>Derive (or learn) how to fuse visual and vestibular signals for gaze stabilization, where the goal is to compensate for sensor dynamics. The two sensors are complementary: the semicircular canals report head angular velocity through a high-pass filter (the cupula’s dominant time constant is only a few seconds, so the signal washes out during sustained rotation), while retinal-slip/optokinetic motion is a low-pass, delayed sensor, reliable for steady motion, useless at high frequencies. Start by showing analytically that no single sensor suffices and, crucially, that the brain cannot simply invert the canal: a naive inverse amplifies low-frequency noise without bound, so the well-posed solution is a complementary filter that recovers the missing low-frequency content from vision instead of from inversion. Then ask whether an optimal estimator or a trained policy recovers it: the steady-state Kalman filter that fuses a high-pass, noisy canal measurement with a low-pass, noisy visual measurement of retinal slip is a complementary filter, with a crossover frequency set by the sensor time constants and the noise ratio. Pose the objective as minimizing retinal slip across the frequency bands. Work on velocity no need to model eye position.</p>
 </section>
 <section id="stefan-treue">
 <h2>Stefan Treue<a class="headerlink" href="#stefan-treue" title="Permalink to this heading"></a></h2>
