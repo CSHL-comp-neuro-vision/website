@@ -389,7 +389,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:30-11:30am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2026/lecture_notes.html#danique-jeurissen">Decision-Making and Parietal Cortex</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2026/lecture_notes.html#danique-jeurissen">Using causal tools to study vision and cognition</td>
     <td class="tg-lmxn">Danique Jeurissen</span></td>
   </tr>
   <tr>
