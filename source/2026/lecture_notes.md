@@ -36,8 +36,8 @@ If you want to read more:
 ### Suggested Readings
 
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/pillow/Pillow_etal_2008.pdf">Pillow, Shlens, Paninski, Sher, Litke, Chichilnisky & Simoncelli (2008). Spatio-temporal correlations and visual signaling in a complete neuronal population</a>\
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/pillow/Park-Meister-Huk-Pillow-2014.pdf">Park, Meister, Huk & Pillow (2014). Encoding and decoding in parietal cortex during sensorimotor decision-making</a>\
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/pillow/Weber-Pillow-2017.pdf">Weber & Pillow (2017). Capturing the dynamical repertoire of single neurons with generalized linear models.</a>\
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/pillow/Park-Meister-Huk-Pillow-2014.pdf">Park, Meister, Huk & Pillow (2014). Encoding and decoding in parietal cortex during sensorimotor decision-making</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/pillow/Weber-Pillow-2017.pdf">Weber & Pillow (2017). Capturing the dynamical repertoire of single neurons with generalized linear models.</a>
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/pillow/Latimer-Rieke-Pillow-2019.pdf">Latimer, Rieke & Pillow (2019). Inferring synaptic inputs from spikes with a conductance-based neural encoding model</a>
 
 <br/>
@@ -122,8 +122,8 @@ If you want to read more:
 ## Madineh Sedigh-Sarvestani
 
 ### Suggested Readings
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">Clippingdale, S. & Wilson, R. (1996). Self-similar neural networks based on a Kohonen learning rule.</a>\
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/KonkleAlvarez-2022-ASelfSupervisedDomainGeneralLearningFrameworkForHumanVentralStreamRepresentation.pdf">Konkle, T. & Alvarez, G.A. (2022). A self-supervised domain-general learning framework for human ventral stream representation.</a>\
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">Clippingdale, S. & Wilson, R. (1996). Self-similar neural networks based on a Kohonen learning rule.</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/KonkleAlvarez-2022-ASelfSupervisedDomainGeneralLearningFrameworkForHumanVentralStreamRepresentation.pdf">Konkle, T. & Alvarez, G.A. (2022). A self-supervised domain-general learning framework for human ventral stream representation.</a>
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/Sedigh-Sarvestanietal.-2021-ASinusoidalTransformationOfTheVisualFieldIsTheBasisForPeriodicMapsInAreaV2.pdf">Sedigh-Sarvestani et al. (2021). A sinusoidal transformation of the visual field is the basis for periodic maps in area V2.</a>
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/MaBouDi_2026_seeingToSteer.pdf">MaBouDi (2026). Neuroethology: Seeing to steer in flies</a>
 
