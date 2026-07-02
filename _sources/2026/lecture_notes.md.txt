@@ -111,12 +111,21 @@ If you want to read more:
 
 ## Emily Cooper
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/cooper/CSHL_2026_forTAs.pdf">Slides</a>
+
 ### Suggested Readings
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/cooper/Manning_PLOSCB.pdf">Manning et al. (2024). Transformations of sensory information in the brain suggest changing criteria for optimality.</a> 
 
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/cooper/2026Chin_SciAdv.pdf">Chin et al. (2026). Focusing on color: How the eye chooses which wavelength to see best.</a>
 
+
 ## Madineh Sedigh-Sarvestani
+
+### Suggested Readings
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">Clippingdale, S. & Wilson, R. (1996). Self-similar neural networks based on a Kohonen learning rule.</a>\
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/KonkleAlvarez-2022-ASelfSupervisedDomainGeneralLearningFrameworkForHumanVentralStreamRepresentation.pdf">Konkle, T. & Alvarez, G.A. (2022). A self-supervised domain-general learning framework for human ventral stream representation.</a>\
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/Sedigh-Sarvestanietal.-2021-ASinusoidalTransformationOfTheVisualFieldIsTheBasisForPeriodicMapsInAreaV2.pdf">Sedigh-Sarvestani et al. (2021). A sinusoidal transformation of the visual field is the basis for periodic maps in area V2.</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/MaBouDi_2026_seeingToSteer.pdf">MaBouDi (2026). Neuroethology: Seeing to steer in flies</a>
 
 ## Agostina Palmigiano
 
@@ -130,6 +139,9 @@ If you want to read more:
 ## Taraz Lee
 
 ## Danique Jeurissen
+
+### Suggested Readings
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/jeurissen/JazayeriAfraz_Neuron_2017.pdf">Jazayeri & Afraz (2017). Navigating the neural space in search of the neural code.</a>
 
 ## Geoff Boynton
 
