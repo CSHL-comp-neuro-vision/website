@@ -124,11 +124,31 @@ The code for the model in Barbera et al. can be found <a href="https://doi.org/1
 
 ## Emma Alexander
 
+ Light fields describe the spatial and angular distribution of light, characterizing the set of images that could be taken of a given scene. Thus, light field cameras allow post-capture sampling of images from hypothetical cameras with different positions or apertures. Using light field data such as <a href="https://drive.google.com/file/d/18GiXf3dBND5ZCgKm49AwW7rt0UgV4JV4/view">example 1</a>, <a href="https://drive.google.com/file/d/18GiXf3dBND5ZCgKm49AwW7rt0UgV4JV4/view">example 2</a>, or other light fields available online, we can explore the implications of different optical designs on downstream processing.
+
+Warm up: Use the camera data to extract pinhole images from different viewpoints. Compare pinhole images to full-aperture images in terms of appearance, depth of field, and noise level. Explore spatial-angular slices (sometimes called “epipolar images”). Consider which sub-images would be best for stereo depth perception and depth from defocus, and test these hypotheses.
+
+Project 1: Based on Liang, Chia-Kai, Yi-Chang Shih, and Homer H. Chen. "Light field analysis for modeling image formation." IEEE Transactions on Image Processing, model the light field sampling of an eye of your choice, in the style of fig 1 of Levin, Anat, William T. Freeman, and Frédo Durand. "Understanding camera trade-offs through a Bayesian analysis of light field projections." 
+
+Project 2 Read Banks, Martin S., et al. "Why do animal eyes have pupils of different shapes?." Science Advances. Test the effect of pupil shape on stereo depth performance by simulating apertures from the light field data. Consider what makes a fair comparison and how the effects you observe might be exaggerated through optical design.
+
+Project 3: Read Levin, Anat, et al. "Image and depth from a conventional camera with a coded aperture." ACM transactions on graphics (TOG). Simulate their aperture code and depth recovery algorithm, and compare to non-coded depth from defocus.
+
 ## Taraz Lee
+
+You may want to look at saccade adaptation or population receptive field mapping. I believe there are several open PRF mapping data, such as the NYU data set: https://doi-org.proxy.lib.umich.edu/10.1016/j.neuroimage.2021.118609 or something from Kendrick Kay: https://kendrickkay.net/analyzePRF/. It could be fun to try out different parameters for the receptive fields (e.g., 2d gaussian vs mexican hat vs. something else).
 
 ## Danique Jeurissen
 
 ## Geoff Boynton
+
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/realtime_log_warp_camera.py">realtime_log_warp_camera.py</a>
+<a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/realtime_schwartz_v1_warp_camera.py">realtime_schwartz_v1_warp_camera.py</a>
+
+1. Modify the ‘Schwartz’ V1 mapping code to add V2 and V3 retinotopic maps, like those in:  https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000651
+2. Modify the ‘Schwartz’ V1 script to incorporate the individual differences seen in Duncan et al (2003).  Can you perceive the differences in the cortical magnification when showing a standard image like an eye-chart?
+3. Add an artificial scotoma in the mapping.  How does the apparent size and shape of a lesion depend on whether it is defined in visual or cortical coordinates?
+4. Simulate microsaccades and small eye movements.  How does this affect the location of positions in the fovea representation of V1 compared to the periphery?
 
 ## Jim DiCarlo
 
