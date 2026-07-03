@@ -159,7 +159,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:30-11:30am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2026/lecture_notes.html#jonathan-pillow">Neural Encoding Models & GLM</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2026/lecture_notes.html#jonathan-pillow">Neural Encoding Models & GLM (guaranteed losing models)</td>
     <td class="tg-lmxn">Jonathan Pillow</span></td>
   </tr>
   <tr>
