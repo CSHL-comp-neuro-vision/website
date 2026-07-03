@@ -77,8 +77,13 @@
     <td class="tg-lmxn"></td>
   </tr> -->
   <tr>
+    <td class="tg-left">6:00pm</td>
+    <td class="tg-73oq">Evening Welcome Cocktail reception (Robertson Hall)</td>
+    <td class="tg-lmxn">Jonathan Pillow, John Serences, and Lea Duncker</span></td>
+  </tr>
+  <tr>
     <td class="tg-left">7:00pm</td>
-    <td class="tg-73oq">Evening Welcome (Robertson Hall)</td>
+    <td class="tg-73oq">Evening Welcome Dinner (Robertson Hall)</td>
     <td class="tg-lmxn">Jonathan Pillow, John Serences, and Lea Duncker</span></td>
   </tr>
   <!-- <tr>
@@ -200,6 +205,11 @@
     <td class="tg-73oq">Evening discussion on DEI/How to cope with academia</td>
     <td class="tg-lmxn">Catrina Hacker, Ann Kotkat</td>
   </tr>
+  <tr>
+    <td class="tg-left">6:00pm</td>
+    <td class="tg-73oq">Pizza night at Banbury</td>
+    <td class="tg-lmxn"></td>
+  </tr>
 </tbody>
 </table>
 
@@ -275,6 +285,11 @@
     <td class="tg-left">Afternoon</td>
     <td class="tg-73oq">Animal Research Discussion</td>
     <td class="tg-lmxn">Stefan Treue</td>
+  </tr>
+  <tr>
+    <td class="tg-left">6:00pm</td>
+    <td class="tg-73oq">Wine & Cheese party at Banbury</td>
+    <td class="tg-lmxn"></td>
   </tr>
 </tbody>
 </table>
@@ -422,6 +437,11 @@
   </tr>
   <tr>
     <td class="tg-left">6:00pm</td>
+    <td class="tg-73oq">Cocktails</td>
+    <td class="tg-lmxn"></td>
+  </tr>
+  <tr>
+    <td class="tg-left">7:00pm</td>
     <td class="tg-73oq">Course Banquet at Robertson</td>
     <td class="tg-lmxn"></td>
   </tr>
