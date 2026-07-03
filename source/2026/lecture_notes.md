@@ -30,6 +30,20 @@ If you want to read more:
 
 ## Stephanie Palmer
 
+
+### Suggested Readings
+
+* <a href="../_static/pdfs/palmer/palmeretal2015.pdf">Palmer, S.E., Marre, O., Berry, M.J. & Bialek, W. (2015). Predictive information in a sensory population</a>\
+* <a href="../_static/pdfs/palmer/salisbury_palmer2016.pdf">Salisbury, J.M. & Palmer, S.E. (2016). Optimal prediction in the retina and natural motion statistics</a>\
+* <a href="../_static/pdfs/palmer/wang_segev_borst_palmer2021.pdf">Wang, S., Segev, I., Borst, A. & Palmer, S. (2021). Maximally efficient prediction in the early fly visual system may support evasive flight maneuvers</a>
+
+**Extra:** \
+* <a href="../_static/pdfs/palmer/wangetal2022.pdf">Wang, S., Hoshal, B., de Laittre, E., Marre, O., Berry, M. & Palmer, S. (2022). Learning low-dimensional generalizable natural features from retina using a U-net.</a>\
+* <a href="../_static/pdfs/palmer/Hoshaletal2023.pdf">Hoshal, B.D., Holmes, C.M., Bojanek, K., Salisbury, J., Berry, M.J., Marre, O. & Palmer, S.E. (2023). Stimulus invariant aspects of the retinal code drive discriminability of natural scenes</a>
+
+
+<br/>
+
 ## Jonathan Pillow
 
 
@@ -63,6 +77,14 @@ If you want to read more:
 * <a href="../_static/pdfs/yates/yates_2023_freeviewing_extended.pdf">Yates, J. L., Coop, S. H., Sarch, G. H., Wu, R.-J., Butts, D. A., Rucci, M., &amp; Mitchell, J. F. (2023). Detailed characterization of neural selectivity in free viewing primates. Nature Communications, 14, 3656.</a>
 
 ## Carsen Stringer
+
+
+### Suggested Readings
+
+* <a href="../_static/pdfs/stringer/2001.07092v2.pdf">Lindsay, G.W. (2021). Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future</a>\
+* <a href="../_static/pdfs/stringer/s41467-025-61171-9.pdf">Du, F., Núñez-Ochoa, M.A., Pachitariu, M. & Stringer, C. (2025). A simplified minimodel of visual cortical neurons</a>\
+* <a href="../_static/pdfs/stringer/s41586-025-09180-y.pdf">Zhong, L., Baptista, S., Gattoni, R., Arnold, J., Flickinger, D., Stringer, C. & Pachitariu, M. (2025). Unsupervised pretraining in biological neural networks</a>\
+* If you are unfamiliar with MLPs and convolutional layers, our chapter in the AI in Microscopy book might be helpful: [Loss functions and architectures](https://bioimagingai.janelia.org/4-architectures.html).
 
 ## Lea Duncker
 
