@@ -35,7 +35,7 @@ If you want to read more:
 
 ### Suggested Readings
 
-* <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow, Shlens, Paninski, Sher, Litke, Chichilnisky & Simoncelli (2008). Spatio-temporal correlations and visual signaling in a complete neuronal population</a>\
+* <a href="../_static/pdfs/pillow/Pillow_etal_2008.pdf">Pillow, Shlens, Paninski, Sher, Litke, Chichilnisky & Simoncelli (2008). Spatio-temporal correlations and visual signaling in a complete neuronal population</a>
 * <a href="../_static/pdfs/pillow/Park-Meister-Huk-Pillow-2014.pdf">Park, Meister, Huk & Pillow (2014). Encoding and decoding in parietal cortex during sensorimotor decision-making</a>
 * <a href="../_static/pdfs/pillow/Weber-Pillow-2017.pdf">Weber & Pillow (2017). Capturing the dynamical repertoire of single neurons with generalized linear models.</a>
 * <a href="../_static/pdfs/pillow/Latimer-Rieke-Pillow-2019.pdf">Latimer, Rieke & Pillow (2019). Inferring synaptic inputs from spikes with a conductance-based neural encoding model</a>
@@ -131,7 +131,7 @@ If you want to read more:
 ## Lindsey Glickfeld
 
 ### Suggested Readings
-* <a href="../_static/pdfs/glickfield/CarandiniHeeger2013.pdf">Carandini & Heeger (2013) Normalization as a canonical neural computation.</a>
+* <a href="../_static/pdfs/glickfeld/CarandiniHeeger2013.pdf">Carandini & Heeger (2013) Normalization as a canonical neural computation.</a>
 
 ## Emma Alexander
 
@@ -146,8 +146,8 @@ If you want to read more:
 * <a href="../_static/pdfs/lee/BrissendenetalBioRxiv2026.pdf">Brissenden, Vesia & Lee. (2026). Cerebellar perturbation impairs human working memory and degrades spatial tuning throughout cortex.</a>
 * <a href="../_static/pdfs/lee/BrissendenetalNatHumBeh2025.pdf">Brissenden et al. (2025). Errors of attention adaptively warp spatial cognition.</a>
 * <a href="../_static/pdfs/lee/Pellissonetal-2010-SensorimotorAdaptationOfSaccadicEyeMovements.pdf">Pelisson et al. (2010). Sensorimotor adaptation of saccadic eye movements.</a>
-* <a href="../_static/pdfs/lee/PolaniaNitscheRuff-2018-StydyingAndModifyingBrainFunctionWithNon-InvasiveBrainStimulation">Polania et al. (2018). Studying and modifying brain function with non-invasive brain stimulation.</a>
-* <a href="../_static/pdfs/lee/TheeuwesBelopolskyOlivers-2009-InteractionsBetweenWorkingMemoryAttentionAndEyeMovements">Theeuwes et al. (2009). Interactions between working memory, attention, and eye movements</a>
+* <a href="../_static/pdfs/lee/PolaniaNitscheRuff-2018-StydyingAndModifyingBrainFunctionWithNon-InvasiveBrainStimulation.pdf">Polania et al. (2018). Studying and modifying brain function with non-invasive brain stimulation.</a>
+* <a href="../_static/pdfs/lee/TheeuwesBelopolskyOlivers-2009-InteractionsBetweenWorkingMemoryAttentionAndEyeMovements.pdf">Theeuwes et al. (2009). Interactions between working memory, attention, and eye movements</a>
 * <a href="../_static/pdfs/lee/vanEde-2020-VisualWorkingMemoryAndAction-FunctionalLinksAndBi-DirectionalInfluences.pdf">van Ede (2020) Visual working memory and action: Functional links and bidirectional influences</a>
 
 ## Danique Jeurissen
