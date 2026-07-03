@@ -366,7 +366,7 @@
 <tbody>
   <tr>
     <td class="tg-left">9:30-11:30am</td>
-    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2026/lecture_notes.html#emma-alexander">Bio-inspired Computer Vision</td>
+    <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2026/lecture_notes.html#emma-alexander">Light fields</td>
     <td class="tg-lmxn">Emma Alexander</td>
   </tr>
   <tr>
