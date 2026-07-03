@@ -4,11 +4,11 @@
 ## Tony Movshon
 
 ### Suggested Readings
-Start here:
+**Start here:**
 
 * <a href="../_static/pdfs/movshon/adelson-bergen-1991.pdf">Adelson, E. H., & Bergen, J. R. (1991). The plenoptic function and the elements of early vision. In M. Landy & J. A. Movshon (Eds.), Computational Models of Visual Processing (pp. 3–20). MIT Press.</a>
 
-If you want to read more:
+**If you want to read more:**
 
 * <a href="../_static/pdfs/movshon/anderson-1972.pdf">Anderson, P. W. (1972). More is different: Broken symmetry and the nature of the hierarchical structure of science. Science, 177(4047), 393–396.</a>
 
@@ -37,7 +37,7 @@ If you want to read more:
 * <a href="../_static/pdfs/palmer/salisbury_palmer2016.pdf">Salisbury, J.M. & Palmer, S.E. (2016). Optimal prediction in the retina and natural motion statistics</a>\
 * <a href="../_static/pdfs/palmer/wang_segev_borst_palmer2021.pdf">Wang, S., Segev, I., Borst, A. & Palmer, S. (2021). Maximally efficient prediction in the early fly visual system may support evasive flight maneuvers</a>
 
-**Extra:** \
+**Extra:** 
 * <a href="../_static/pdfs/palmer/wangetal2022.pdf">Wang, S., Hoshal, B., de Laittre, E., Marre, O., Berry, M. & Palmer, S. (2022). Learning low-dimensional generalizable natural features from retina using a U-net.</a>\
 * <a href="../_static/pdfs/palmer/Hoshaletal2023.pdf">Hoshal, B.D., Holmes, C.M., Bojanek, K., Salisbury, J., Berry, M.J., Marre, O. & Palmer, S.E. (2023). Stimulus invariant aspects of the retinal code drive discriminability of natural scenes</a>
 
