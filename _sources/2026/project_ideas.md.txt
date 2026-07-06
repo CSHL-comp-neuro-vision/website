@@ -144,6 +144,88 @@ You may want to look at saccade adaptation or population receptive field mapping
 
 ## Danique Jeurissen
 
+<b>Modeling compensation after focal optogenetic suppression in area MT</b>
+
+ 
+
+<b>Keywords</b>: columnar organization, motion processing, MT, perceptual decision making
+
+ 
+
+<b>Target audience</b>: Students with any level of coding skills. This project requires you to do more thinking than coding, and can be extended in several directions. Use of AI coding tools is totally appropriate for this project. You do the thinking; AI can do the coding.
+
+ 
+
+<b>Tutorials</b>: The tutorials on GitHub that may be of special interest to you include ChoiceProbabilityTutorial and DiffusionProcessTutorial. Knowing the basics of signal detection theory will be helpful as well.
+
+ 
+
+<b>Background</b>: Fetsch et al (2018, eLife - data available in the paper linked below) used optogenetics to suppress small, functionally-defined groups of direction-tuned neurons ("columns") in area MT of macaques performing a motion discrimination task. Suppressing a column biased the monkey's choices away from that column's preferred direction, as expected if MT provides the momentary evidence for a decision about motion. Importantly, the behavioral bias goes away at a timescale of a few hundred trials within a session (~1 hour), even though the optogenetic suppression itself remained effective throughout. In other words, the brain compensated for a loss of input and behavior recovers to baseline performance. This project asks: what type of compensatory mechanism(s) could produce that recovery?
+
+ 
+
+<b>The project</b>: Build a simple simulation of a direction-tuned MT population, "suppress" one column, and implement candidate compensation mechanisms. The first mechanism could be 'local compensation in MT', the second mechanism could be 'downstream compensation in readout of MT signals'. Implement each mechanism (and potentially others) and see which can restore behavior.
+
+ 
+
+<b>Step 1. Build the MT population and readout.</b> Simulate neural responses from a few columns of MT neurons. For example, generate eight groups of neurons (columns) that are direction-tuned and cover the full set of 360°. These neurons should respond to a random-dot stimulus of varying motion coherence and moving in a left or right direction. A linear readout (weighted sum of population activity) converts population activity into a left/right choice. Verify this produces a reasonable psychometric curve.
+
+<b>Step 2. Suppress a column.</b> Reduce the gain of the leftward-preferring cells. A partial reduction may be more realistic than a total silencing (you can try to match the magnitude of the real opsin effect if you like). Confirm that your silencing biases the psychometric curve, as in the paper.
+
+<b>Step 3. Implement two compensation mechanisms, and ask which one(s) can restore the psychometric curve:</b>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Local MT compensation</b>: the gain and/or tuning sharpness of the neighboring direction columns changes, while the readout weights stay fixed.
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Downstream compensation</b>: the readout weights change, while MT gains stay fixed (a stand-in for reweighting by a downstream area such as LIP).
+
+You can tweak the parameters by hand to find something reasonable, or write code to search for the best solution. Of course, feel free to try combining both: there's no biological reason the brain would rely on only one.
+
+ 
+
+<b>Optional extensions</b>: You now have the basics in place: a model of MT that you can suppress at the columnar level to get a behavioral bias, and a compensatory mechanism to recover behavior. Depending on your interests, you can go in many different directions with this project. Below are a few examples. If time allows, you can try multiple of these. Feel free to pick your own rabbit hole instead.
+
+ 
+
+<b>a) What happens on laser-off trials?</b>
+
+Different mechanisms may be able to restore behavior, but they may make different predictions about what happens to neural data and behavior. Optogenetic suppression is delivered on a random subset of interleaved trials within a session. The rest are normal, laser-off trials. If compensation involves a change to the circuit (whether in MT's neighboring-column gains or in the downstream readout weights), it probably cannot only be in this state for laser on trials. Instead, the circuit may now be in a new state for all trial types. When the trial starts, the monkey has no way of knowing in advance which trial type is coming (laser on or off). So, the same compensated parameters are in place on laser-off trials too, using input from a population that, on those trials, has no suppressed column. This predicts that laser-off performance may also drift over the session, and the direction and magnitude of that drift may differ between the mechanisms. You can try to generate predictions from your own model for each mechanism. Note: data is available online with matlab scripts to analyze it. You could try to compare your prediction to the data. However, the study may be underpowered to detect subtle changes over time.
+
+ 
+
+<b>b) Hypercolumns in MT</b>
+
+For the main project you can simulate eight direction-tuned columns. This represents tuning for a small region in the visual field (one hypercolumn with one spatial response field). In reality, MT contains many such sets of direction-tuned neurons, each representing a different, partially overlapping retinotopic location. The study used a random-dot-motion stimulus that extended several visual degrees in size. Given MT's receptive field size (at a few degrees eccentricity), the random dots will partially activate the direction columns of neighboring retinotopic locations as well as the one centered on the stimulus. You can build a more realistic model that extends the population to two dimensions (retinotopic position × preferred direction) and ask whether compensation could come from a spatially neighboring, direction-matched populations that were only weakly driven by the stimulus to begin with.
+
+ 
+
+<b>c) Predict electrophysiology data</b>
+
+What would 'local compensation' vs 'downstream readout' look like if you recorded from neurons in MT and/or downstream areas? You can try to make predictions for that data that we could record in the lab. Let's say we can do simultaneous high-density recordings (e.g. primate Neuropixels) across multiple areas: What type of data would you collect? How would you analyze it? (This connects to ongoing work in the lab, so I would be curious to hear what you predict!)
+
+ 
+
+<b>d) Long timescale of compensation</b>
+
+Newsome and Paré (1988, J Neurosc) show that even after a complete lesioning of area MT, the monkey can recover behavior after a few weeks (only a relatively small deficit persists). What kind of mechanisms can account for this type of compensation? Note: this is a more advanced extension for students who have completed other extensions, and who have a special interest in modeling how multiple brain areas interact.
+
+ 
+
+<b>e) Short timescale of compensation</b>
+
+Your main project should focus on the across-trial / within-session recovery (the gradual reduction of bias over the course of a session, occurring over tens of minutes). The Fetsch paper also reports a separate, faster form of compensation operating within a single trial (on the order of a few hundred milliseconds). Consider whether the same mechanism can account for compensation on the fast timescale as well. You can try to model the evidence-accumulation process and try to explain how long evidence integration may lead to better behavioral performance. Note: this is a more advanced extension for students who have completed other extensions, and who have a special interest in how evidence accumulates over time.
+
+ 
+
+<b>Suggested presentation content</b>: A brief intro about the compensatory effect after reducing neural activity in a column in MT, followed by a short demo of the simulated population of MT neurons that you created. Show the effect of optogenetic suppression on your neural population and the effect on behavior in the early part of the session. Explain the two compensation mechanisms (local compensation vs compensation at the readout stage) and how you implemented them. Show how each of them can recover the psychometric curve toward the end of the experimental session. Then add whichever optional component(s) you choose.
+
+ 
+
+If you pick this project, I'm happy to chat throughout the course. Feel free to DM me on the compvision26 slack. I will be there on the last day of the course to see the project presentations and would be happy to discuss then as well.  
+
+ 
+
+<b>Data availability & reference</b>: https://elifesciences.org/articles/36523/figures#content
+
+
 ## Geoff Boynton
 
 <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/realtime_log_warp_camera.py">realtime_log_warp_camera.py</a>
