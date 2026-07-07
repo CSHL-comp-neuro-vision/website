@@ -43,6 +43,9 @@
 
 ## Stephanie Palmer
 
+• <a href="../_static/pdfs/palmer/SEP_efficient_coding_notes.pdf">1. Efficient coding notes</a>
+• <a href="../_static/pdfs/palmer/SEP_spike_train_info_notes.pdf">2. Spike train information notes</a>
+• <a href="../_static/pdfs/palmer/intro_prob_and_inference_with_solutions.pdf">3. Probability and Inference</a>
 
 ### Suggested Readings
 
