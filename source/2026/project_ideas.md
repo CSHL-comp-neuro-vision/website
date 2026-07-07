@@ -17,9 +17,39 @@ Their group has an additional resource they will not share in the tutorials that
 
 ## E.J. Chichilnisky
 
+Explore the evolution of computational models for light responses in the retina and think about how to evaluate their performance and what they teach us about visual processing.
+
+Start by downloading the data set from [Pillow et al GLM paper (2008)](https://github.com/CSHL-comp-neuro-vision/tutorials/tree/main/data/Pillow-2008):
+
+* fit a LN model to the data (see [this paper](https://pubmed.ncbi.nlm.nih.gov/11405422)) 
+* fit a GLM to the data (see [this paper](http://www.ncbi.nlm.nih.gov/pubmed/18650810))
+* fit a “subunit” model to the data (see [this paper](https://www.ncbi.nlm.nih.gov/pubmed/32149600))
+* fit a CNN model to the data (see [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515384))
+* fit a two-layer CNN model to the same data, based on [this paper](https://pubmed.ncbi.nlm.nih.gov/37451264/)
+
+The first and second models will be fairly easy based on the code provided and what you learned in the lecture today.
+The third and fourth will involve digging in to newer models and working with this data set.
+
+Questions:
+* What is the best metric by which to assess model performance?
+* How much more accurately do the more complex models perform?
+* What do these different models tell you about the retinal computations?
+* What are the limitations of the stimulus (rather than the model) in this setting?
+* What are the challenges of producing predicted spike trains from these models?
+* BONUS: Clean up this distribution and provide Python access code!
+* BONUS: Provide code for the last two models to include in this distribution!
+
+Please use AI coding tools as much as you would like for this. However, if you use AI tools, also come up with some “sanity checks” for the results to help ensure that it’s doing the right thing and be ready to show them.
+
 ## Eero Simoncelli
 
 ## Stephanie Palmer
+
+1. Open the provided natural movie and associated retinal [data](https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/data/Palmer-2024/salamanderRGCdata_long_fish_movie.mat) from the larval salamander. Use DeepLabCut, your favorite tracking algorithm, or your own hand-tracking to map out the trajectories of 1-5 objects in one of the five scenes. Does the retinal population have information about these trajectories? Compute the correlation between the population firing (you can use any method you like to “summarize” the population as a whole, including [a “low rank” Ising model](https://www.biorxiv.org/content/10.64898/2026.01.30.702802v1.full) or a [predictive](https://www.biorxiv.org/content/10.1101/2025.10.18.683195v1) [Variational Information Bottleneck technique](https://github.com/RElbers/info-nce-pytorch) - the AI minions are your friends for that) and the past, present, and future position of your chosen object. At what lag is the correlation maximal? What other metrics could you use to quantify this?
+
+2. Try to animate a circle so that it looks “alive”. What kind of features do you want your pet circle’s trajectory to have? Try making it unpredictable; try making it oscillate. Can you make a trajectory that would pass a Turing test? If you want, you can set the AI minions against each other for this task. We have some recent work on natural motion (a [dynamic scale mixture model](https://mail.google.com/mail/u/0/#inbox/KtbxLzGSvtCXcjCNtXsdvdfkGvSfRSPvkL)) that you might start with. What makes different kinds of natural motion different?
+
+3. Find a good open-source model retina and play it a natural movie. How much can you modify the movie before you can tell the difference in the retina’s response. Find the retina’s metamers! This riffs on ideas you’ll hear from Eero and EJ.
 
 ## Jonathan Pillow
 
