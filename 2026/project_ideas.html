@@ -1,21 +1,21 @@
-
-
 <!DOCTYPE html>
-<html class="writer-html5" lang="en" data-content_root="../">
+<html class="writer-html5" lang="en" >
 <head>
-  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Project Ideas &mdash; CSHL: Computational Neuroscience Vision  documentation</title>
-      <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=b86133f3" />
-      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=9edc463e" />
-
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
   
-      <script src="../_static/jquery.js?v=5d32c60e"></script>
-      <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-      <script src="../_static/documentation_options.js?v=5929fcd5"></script>
-      <script src="../_static/doctools.js?v=fd6eb6e6"></script>
-      <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
     <script src="../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -28,15 +28,11 @@
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
         <div class="wy-side-nav-search" >
-
-          
-          
-          <a href="../index.html" class="icon icon-home">
-            CSHL: Computational Neuroscience Vision
+            <a href="../index.html" class="icon icon-home"> CSHL: Computational Neuroscience Vision
           </a>
 <div role="search">
   <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="text" name="q" placeholder="Search docs" />
     <input type="hidden" name="check_keywords" value="yes" />
     <input type="hidden" name="area" value="default" />
   </form>
@@ -98,8 +94,8 @@
         <div class="rst-content">
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
-      <li><a href="../index.html" class="icon icon-home" aria-label="Home"></a></li>
-      <li class="breadcrumb-item active">Project Ideas</li>
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>Project Ideas</li>
       <li class="wy-breadcrumbs-aside">
             <a href="../_sources/2026/project_ideas.md.txt" rel="nofollow"> View page source</a>
       </li>
@@ -110,9 +106,9 @@
            <div itemprop="articleBody">
              
   <section id="project-ideas">
-<h1>Project Ideas<a class="headerlink" href="#project-ideas" title="Link to this heading"></a></h1>
+<h1>Project Ideas<a class="headerlink" href="#project-ideas" title="Permalink to this heading"></a></h1>
 <section id="flatiron-resources">
-<h2>Flatiron Resources<a class="headerlink" href="#flatiron-resources" title="Link to this heading"></a></h2>
+<h2>Flatiron Resources<a class="headerlink" href="#flatiron-resources" title="Permalink to this heading"></a></h2>
 <p>Billy Broderick and Edoardo Balzani will join us from the Flatiron Institute to share two open source software packages that you may find helpful for your projects.</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://nemos.readthedocs.io/en/latest/">NeMoS (Neural ModelS)</a> is a statistical modeling framework optimized for systems neuroscience and powered by jax. It streamlines the process of defining and selecting models, through a collection of easy-to-use methods for feature design. A NeMoS port of Jonathan Pillow’s GLM tutorials can be found <a class="reference external" href="https://balzaniedoardo.github.io/nemos_glm_tutorials/index.html">here</a>.</p></li>
@@ -124,19 +120,46 @@
 </ul>
 </section>
 <section id="tony-movshon">
-<h2>Tony Movshon<a class="headerlink" href="#tony-movshon" title="Link to this heading"></a></h2>
+<h2>Tony Movshon<a class="headerlink" href="#tony-movshon" title="Permalink to this heading"></a></h2>
 </section>
 <section id="e-j-chichilnisky">
-<h2>E.J. Chichilnisky<a class="headerlink" href="#e-j-chichilnisky" title="Link to this heading"></a></h2>
+<h2>E.J. Chichilnisky<a class="headerlink" href="#e-j-chichilnisky" title="Permalink to this heading"></a></h2>
+<p>Explore the evolution of computational models for light responses in the retina and think about how to evaluate their performance and what they teach us about visual processing.</p>
+<p>Start by downloading the data set from <a class="reference external" href="https://github.com/CSHL-comp-neuro-vision/tutorials/tree/main/data/Pillow-2008">Pillow et al GLM paper (2008)</a>:</p>
+<ul class="simple">
+<li><p>fit a LN model to the data (see <a class="reference external" href="https://pubmed.ncbi.nlm.nih.gov/11405422">this paper</a>)</p></li>
+<li><p>fit a GLM to the data (see <a class="reference external" href="http://www.ncbi.nlm.nih.gov/pubmed/18650810">this paper</a>)</p></li>
+<li><p>fit a “subunit” model to the data (see <a class="reference external" href="https://www.ncbi.nlm.nih.gov/pubmed/32149600">this paper</a>)</p></li>
+<li><p>fit a CNN model to the data (see <a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5515384">this paper</a>)</p></li>
+<li><p>fit a two-layer CNN model to the same data, based on <a class="reference external" href="https://pubmed.ncbi.nlm.nih.gov/37451264/">this paper</a></p></li>
+</ul>
+<p>The first and second models will be fairly easy based on the code provided and what you learned in the lecture today.
+The third and fourth will involve digging in to newer models and working with this data set.</p>
+<p>Questions:</p>
+<ul class="simple">
+<li><p>What is the best metric by which to assess model performance?</p></li>
+<li><p>How much more accurately do the more complex models perform?</p></li>
+<li><p>What do these different models tell you about the retinal computations?</p></li>
+<li><p>What are the limitations of the stimulus (rather than the model) in this setting?</p></li>
+<li><p>What are the challenges of producing predicted spike trains from these models?</p></li>
+<li><p>BONUS: Clean up this distribution and provide Python access code!</p></li>
+<li><p>BONUS: Provide code for the last two models to include in this distribution!</p></li>
+</ul>
+<p>Please use AI coding tools as much as you would like for this. However, if you use AI tools, also come up with some “sanity checks” for the results to help ensure that it’s doing the right thing and be ready to show them.</p>
 </section>
 <section id="eero-simoncelli">
-<h2>Eero Simoncelli<a class="headerlink" href="#eero-simoncelli" title="Link to this heading"></a></h2>
+<h2>Eero Simoncelli<a class="headerlink" href="#eero-simoncelli" title="Permalink to this heading"></a></h2>
 </section>
 <section id="stephanie-palmer">
-<h2>Stephanie Palmer<a class="headerlink" href="#stephanie-palmer" title="Link to this heading"></a></h2>
+<h2>Stephanie Palmer<a class="headerlink" href="#stephanie-palmer" title="Permalink to this heading"></a></h2>
+<ol class="arabic simple">
+<li><p>Open the provided natural movie and associated retinal <a class="reference external" href="https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/data/Palmer-2024/salamanderRGCdata_long_fish_movie.mat">data</a> from the larval salamander. Use DeepLabCut, your favorite tracking algorithm, or your own hand-tracking to map out the trajectories of 1-5 objects in one of the five scenes. Does the retinal population have information about these trajectories? Compute the correlation between the population firing (you can use any method you like to “summarize” the population as a whole, including <a class="reference external" href="https://www.biorxiv.org/content/10.64898/2026.01.30.702802v1.full">a “low rank” Ising model</a> or a <a class="reference external" href="https://www.biorxiv.org/content/10.1101/2025.10.18.683195v1">predictive</a> <a class="reference external" href="https://github.com/RElbers/info-nce-pytorch">Variational Information Bottleneck technique</a> - the AI minions are your friends for that) and the past, present, and future position of your chosen object. At what lag is the correlation maximal? What other metrics could you use to quantify this?</p></li>
+<li><p>Try to animate a circle so that it looks “alive”. What kind of features do you want your pet circle’s trajectory to have? Try making it unpredictable; try making it oscillate. Can you make a trajectory that would pass a Turing test? If you want, you can set the AI minions against each other for this task. We have some recent work on natural motion (a <a class="reference external" href="https://mail.google.com/mail/u/0/#inbox/KtbxLzGSvtCXcjCNtXsdvdfkGvSfRSPvkL">dynamic scale mixture model</a>) that you might start with. What makes different kinds of natural motion different?</p></li>
+<li><p>Find a good open-source model retina and play it a natural movie. How much can you modify the movie before you can tell the difference in the retina’s response. Find the retina’s metamers! This riffs on ideas you’ll hear from Eero and EJ.</p></li>
+</ol>
 </section>
 <section id="jonathan-pillow">
-<h2>Jonathan Pillow<a class="headerlink" href="#jonathan-pillow" title="Link to this heading"></a></h2>
+<h2>Jonathan Pillow<a class="headerlink" href="#jonathan-pillow" title="Permalink to this heading"></a></h2>
 <ol class="arabic simple">
 <li><p>Temporal vs. rate coding in retina (or any other dataset you’d like to examine).
 How much information is carried in the precise timing of spikes vs. in slowly-fluctuating spike rates?  One way to address this question is to decode spikes under models that incorporate vs. ignore precise spike timing information.
@@ -174,7 +197,7 @@ Divisive normalization is one of the putative “canonical computations” carri
 <p>(There are a lot of possible ways to think about improving: the paper did not consider different nonlinearities and made only limited attempts to select GLM features).</p>
 </section>
 <section id="jacob-yates">
-<h2>Jacob Yates<a class="headerlink" href="#jacob-yates" title="Link to this heading"></a></h2>
+<h2>Jacob Yates<a class="headerlink" href="#jacob-yates" title="Permalink to this heading"></a></h2>
 <p>Here are two colab notebooks that work as tutorials for modeling and measuring neural selectivity during natural vision. The datasets that accompany them should automatically download when run.</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://drive.google.com/file/d/1IWwcktZbyNruXmU5QbPIOYAIRg2JqqrT/view?usp=drive_link">shifter</a></p></li>
@@ -183,15 +206,15 @@ Divisive normalization is one of the putative “canonical computations” carri
 <p>One project could be to try to add inductive biases based on known properties of the visual front end to improve the modeling in the second notebook. Does adding a retina improve the generalization across stimulus domains?</p>
 </section>
 <section id="carsen-stringer">
-<h2>Carsen Stringer<a class="headerlink" href="#carsen-stringer" title="Link to this heading"></a></h2>
+<h2>Carsen Stringer<a class="headerlink" href="#carsen-stringer" title="Permalink to this heading"></a></h2>
 <p>In <a class="reference external" href="https://www.nature.com/articles/s41467-025-61171-9">Du et al 2025</a>, we recorded a new dataset of over 29,000 neurons responding to up to 65,000 natural image presentations in mouse V1. These neurons were expressing jGCaMP8s and we recorded their activity using two-photon calcium imaging at a rate of 30Hz. We fit simplified two-layer convolutional neural network models to each neuron, explaining around 70% of the response variance in the dataset. We have an example tutorial on how to fit linear and two-layer convolutional models to this dataset <a class="reference external" href="https://github.com/MouseLand/course-materials/tree/main/visual_models">here</a>, and the full dataset is available <a class="reference external" href="https://janelia.figshare.com/articles/dataset/Towards_a_simplified_model_of_primary_visual_cortex/28797638">here</a>.</p>
 <p>Example projects include exploring how downstream circuits in the mouse brain may extract features from the visual world, by using these simplified models as input to a larger model and training the model to perform a task such as object recognition or object tracking. The students can also explore alternative architectures for the neural responses, using a variety of pretrained CNN or transformer models, such as from huggingface, as a base for fitting the visual responses in the dataset. Another option is to explore the features that the neurons are most selective for, and looking for patterns across neurons based on receptive field location or size.</p>
 </section>
 <section id="lea-duncker">
-<h2>Lea Duncker<a class="headerlink" href="#lea-duncker" title="Link to this heading"></a></h2>
+<h2>Lea Duncker<a class="headerlink" href="#lea-duncker" title="Permalink to this heading"></a></h2>
 </section>
 <section id="james-fitzgerald">
-<h2>James Fitzgerald<a class="headerlink" href="#james-fitzgerald" title="Link to this heading"></a></h2>
+<h2>James Fitzgerald<a class="headerlink" href="#james-fitzgerald" title="Permalink to this heading"></a></h2>
 <p>In my talk, I will discuss behavior, neural coding, and network mechanisms associated with visual motion processing. I will primarily emphasize flies and zebrafish for the mechanistic possibilities afforded by connectomics and whole-brain functional imaging. I encourage interested students to reach out to me for more information and discussion.</p>
 <ol class="arabic simple">
 <li><p>Neural network mechanisms of binocular integration in larval zebrafish. We recently developed a theoretical framework for predicting synaptic connectivity from densely measured neuronal activity, and we are now applying this theory to a Function-Linked (FuL) Connectomics collected by the Baier lab at the Max Planck Institute for Biological Intelligence. More specifically, the dataset consists of functional calcium imaging of optic-flow-responsive neurons in the pretectum and electron-microscopy based connectomics in the same specimen. The pretectum is a retinorecipient brain area, but retinal responses were not measured experimentally. This project would examine the impact that various retinal models have on the predictions of the theory. References: <a class="reference external" href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023255">1</a>, <a class="reference external" href="https://arxiv.org/abs/2310.20309">2</a>, <a class="reference external" href="https://www.nature.com/articles/s41592-022-01621-0">3</a>.</p></li>
@@ -200,11 +223,11 @@ Divisive normalization is one of the putative “canonical computations” carri
 </ol>
 </section>
 <section id="john-serences">
-<h2>John Serences<a class="headerlink" href="#john-serences" title="Link to this heading"></a></h2>
+<h2>John Serences<a class="headerlink" href="#john-serences" title="Permalink to this heading"></a></h2>
 <p>Use a continuous time recurrent neural network (example code in python tutorials) to build a network that performs a simple delayed match to sample (DMTS) task (or some other task of your own design). Does the network naturally exhibit within-trial dynamics after training? Does it settle into a crystalized state after reaching asymptotic performance, or does it continue to explore the solution space? What role do these dynamics play in successfully learning your task? And last, what parameters drive increased dynamics in the networks in the support of more efficient processing? For example, in a DMTS memory task, you could look at how the network adaptively prepares to compare the second stimulus to the first during the delay period and what factors might encourage the network to become more dynamic in support of more efficient task performance (e.g. manipulations of the loss function, changes in connectivity, E/I balance, etc)?</p>
 </section>
 <section id="jorge-otero-millan">
-<h2>Jorge Otero-Millan<a class="headerlink" href="#jorge-otero-millan" title="Link to this heading"></a></h2>
+<h2>Jorge Otero-Millan<a class="headerlink" href="#jorge-otero-millan" title="Permalink to this heading"></a></h2>
 <ol class="arabic simple">
 <li><p>Saccade control and plant compensation</p></li>
 </ol>
@@ -215,13 +238,13 @@ Divisive normalization is one of the putative “canonical computations” carri
 <p>Derive (or learn) how to fuse visual and vestibular signals for gaze stabilization, where the goal is to compensate for sensor dynamics. The two sensors are complementary: the semicircular canals report head angular velocity through a high-pass filter (the cupula’s dominant time constant is only a few seconds, so the signal washes out during sustained rotation), while retinal-slip/optokinetic motion is a low-pass, delayed sensor, reliable for steady motion, useless at high frequencies. Start by showing analytically that no single sensor suffices and, crucially, that the brain cannot simply invert the canal: a naive inverse amplifies low-frequency noise without bound, so the well-posed solution is a complementary filter that recovers the missing low-frequency content from vision instead of from inversion. Then ask whether an optimal estimator or a trained policy recovers it: the steady-state Kalman filter that fuses a high-pass, noisy canal measurement with a low-pass, noisy visual measurement of retinal slip is a complementary filter, with a crossover frequency set by the sensor time constants and the noise ratio. Pose the objective as minimizing retinal slip across the frequency bands. Work on velocity no need to model eye position.</p>
 </section>
 <section id="stefan-treue">
-<h2>Stefan Treue<a class="headerlink" href="#stefan-treue" title="Link to this heading"></a></h2>
+<h2>Stefan Treue<a class="headerlink" href="#stefan-treue" title="Permalink to this heading"></a></h2>
 </section>
 <section id="kohitij-kar">
-<h2>Kohitij Kar<a class="headerlink" href="#kohitij-kar" title="Link to this heading"></a></h2>
+<h2>Kohitij Kar<a class="headerlink" href="#kohitij-kar" title="Permalink to this heading"></a></h2>
 </section>
 <section id="emily-cooper">
-<h2>Emily Cooper<a class="headerlink" href="#emily-cooper" title="Link to this heading"></a></h2>
+<h2>Emily Cooper<a class="headerlink" href="#emily-cooper" title="Permalink to this heading"></a></h2>
 <p>I’ve shared a (non-exhaustive) list of some public databases of natural images, depth maps, and eye movements that may be useful for projects <a class="reference external" href="https://docs.google.com/document/d/1bVTdvXXoGN4Ya4mutdEBQOQdmO6tc68uHHIccrvdlTI/edit?tab=t.0">here</a>. Some suggestions:</p>
 <ol class="arabic simple">
 <li><p>How does the task affect your gaze? Use the <a class="reference external" href="https://www.projectaria.com/datasets/nymeria/">Nymeria Dataset</a> and/or <a class="reference external" href="https://github.com/eacooper/NymeriaGazeTools">Nymeria Gaze Tools</a> to extract and quantify patterns in gaze across two different tasks. The Nymeria Dataset contains egocentric video and gaze data recorded from participants performing a variety of naturalistic tasks in real-world environments, and the Nymeria Gaze Tools provide utilities for loading and processing this data. Begin by identifying at least two task categories that are well-represented in the dataset and meaningfully different in their cognitive or motor demands (e.g., navigation vs. object manipulation, or social interaction vs. solitary activity). For each task category, extract and compare gaze-relevant measures of your choosing. Some natural starting points are: fixation duration and spatial dispersion of fixations across the scene. For each measure, compare distributions across task conditions, visualize the results, and apply appropriate statistical tests. Are any of these measures reliably different across tasks? If so, do the differences make intuitive sense given what each task requires of the observer? As an optional extension, ask whether gaze features alone are sufficient to classify the task being performed: this turns your analysis into a prediction problem.</p></li>
@@ -230,16 +253,16 @@ Divisive normalization is one of the putative “canonical computations” carri
 </ol>
 </section>
 <section id="madineh-sedigh-sarvestani">
-<h2>Madineh Sedigh-Sarvestani<a class="headerlink" href="#madineh-sedigh-sarvestani" title="Link to this heading"></a></h2>
+<h2>Madineh Sedigh-Sarvestani<a class="headerlink" href="#madineh-sedigh-sarvestani" title="Permalink to this heading"></a></h2>
 <p>The brain, and the visual systems in particular, exhibits a lot of large-scale organization. Where does this organization come from and why is it different among species? One possibility is self-organization, where small-scale local interactions in neural circuits combine to generate large-scale organization, without any explicit ‘training’. Self-organization can be modeled with simple learning rules, or with more complex self-supervised approaches developed recently <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/KonkleAlvarez-2022-ASelfSupervisedDomainGeneralLearningFrameworkForHumanVentralStreamRepresentation.pdf">(Konkle and Alvarez 2022)</a>. And it can be used to explain the formation of cortical maps <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/Sedigh-Sarvestanietal.-2021-ASinusoidalTransformationOfTheVisualFieldIsTheBasisForPeriodicMapsInAreaV2.pdf">(Sedigh-Sarvestani et al. 2021)</a>, layout of cells in the retina <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">(Clippingdale and Wilson 1996)</a>, place and grid cells and other cases of large-scale neural network organization. What’s more, self-organization in the sensory system can be explained as a natural byproduct of sensorimotor interactions. In other words, the influence of body movements on sensory  inputs may be the critical variable that shapes self-organizing mechanisms in a species-specific way.</p>
 <p>To start to play with these ideas. You can read <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">Clippingdale and Wilson 1996</a>,where a simple self-organizing learning rule is used to determine the layout of photoreceptors on the retina, given particular patterns of eye movements. Some starter code is in this google collab <a href="https://colab.research.google.com/drive/1DzVJdCVg4JdkI6_jxf3fFHiMqmETZjNa#scrollTo=UPnARMbeBMcT">notebook</a>. What sort of retinal layouts (e.g. uniform, fovea, etc) develop from a combination of different movement patterns (e.g. rotation and translation in different amounts). You can also try to look up, or simulate, the actual movement distributions for humans (Gaze in Wild and/or GENUA PESTO) and see if the model produces foveal layout. You can then use the code <a href="https://colab.research.google.com/drive/1SH1Moj0KsM-7CluSWZerGco7jtna3QgT">here</a>, to determine if different retinal layouts produce different retinotopy maps in visual areas. You might also try making a hierarchical visual system and feed the retinotopy map of a lower area into a higher one to see how they transform.</p>
 <p>You can also invert this exercise. Given a large-scale organization in the visual system, say foveal layout of photoreceptors in the retina, what should eye movements look like? The optimal movement might be defined as one that makes prediction of self-generated sensory inputs easier. In technical jargon, a good motor action is one that produces self-similar sensory inputs. See if you can use this idea to extract the movement distributions above from the retinal layouts produced given the movement distribution.</p>
 </section>
 <section id="agostina-palmigiano">
-<h2>Agostina Palmigiano<a class="headerlink" href="#agostina-palmigiano" title="Link to this heading"></a></h2>
+<h2>Agostina Palmigiano<a class="headerlink" href="#agostina-palmigiano" title="Permalink to this heading"></a></h2>
 </section>
 <section id="lindsey-glickfeld">
-<h2>Lindsey Glickfeld<a class="headerlink" href="#lindsey-glickfeld" title="Link to this heading"></a></h2>
+<h2>Lindsey Glickfeld<a class="headerlink" href="#lindsey-glickfeld" title="Permalink to this heading"></a></h2>
 <p>In <a class="reference external" href="https://www.sciencedirect.com/science/article/pii/S0896627321007856">Barbera et al.</a>, we used a simple subunit based, Hubel and Wiesel style model to predict V1 responses to gratings and plaids, and then to test the effect of mask phase on these responses.</p>
 <ol class="arabic simple">
 <li><p>This model built V1 cells that only have one (excitatory) subunit and orientation preference/selectivity is defined by the elongation of the long axis of the RF. However, V1 neurons typically have an “on” and an “off” subunit, and in the mouse orientation preference/selectivity is defined by the axis of overlap of these subunits. Build a new version of this model with on/off subunits and test whether this changes (A) the magnitude of cross orientation interactions and (B) the sensitivity of those interactions to mask phase.</p></li>
@@ -248,7 +271,7 @@ Divisive normalization is one of the putative “canonical computations” carri
 <p>The code for the model in Barbera et al. can be found <a href="https://doi.org/10.6084/m9.figshare.c.5677225">here</a>, see <em>Figure4_model_code.m</em>.</p>
 </section>
 <section id="emma-alexander">
-<h2>Emma Alexander<a class="headerlink" href="#emma-alexander" title="Link to this heading"></a></h2>
+<h2>Emma Alexander<a class="headerlink" href="#emma-alexander" title="Permalink to this heading"></a></h2>
 <p>Light fields describe the spatial and angular distribution of light, characterizing the set of images that could be taken of a given scene. Thus, light field cameras allow post-capture sampling of images from hypothetical cameras with different positions or apertures. Using light field data such as <a href="https://drive.google.com/file/d/18GiXf3dBND5ZCgKm49AwW7rt0UgV4JV4/view">example 1</a>, <a href="https://drive.google.com/file/d/18GiXf3dBND5ZCgKm49AwW7rt0UgV4JV4/view">example 2</a>, or other light fields available online, we can explore the implications of different optical designs on downstream processing.</p>
 <p>Warm up: Use the camera data to extract pinhole images from different viewpoints. Compare pinhole images to full-aperture images in terms of appearance, depth of field, and noise level. Explore spatial-angular slices (sometimes called “epipolar images”). Consider which sub-images would be best for stereo depth perception and depth from defocus, and test these hypotheses.</p>
 <p>Project 1: Based on Liang, Chia-Kai, Yi-Chang Shih, and Homer H. Chen. “Light field analysis for modeling image formation.” IEEE Transactions on Image Processing, model the light field sampling of an eye of your choice, in the style of fig 1 of Levin, Anat, William T. Freeman, and Frédo Durand. “Understanding camera trade-offs through a Bayesian analysis of light field projections.”</p>
@@ -256,11 +279,11 @@ Divisive normalization is one of the putative “canonical computations” carri
 <p>Project 3: Read Levin, Anat, et al. “Image and depth from a conventional camera with a coded aperture.” ACM transactions on graphics (TOG). Simulate their aperture code and depth recovery algorithm, and compare to non-coded depth from defocus.</p>
 </section>
 <section id="taraz-lee">
-<h2>Taraz Lee<a class="headerlink" href="#taraz-lee" title="Link to this heading"></a></h2>
+<h2>Taraz Lee<a class="headerlink" href="#taraz-lee" title="Permalink to this heading"></a></h2>
 <p>You may want to look at saccade adaptation or population receptive field mapping. I believe there are several open PRF mapping data, such as the NYU data set: https://doi-org.proxy.lib.umich.edu/10.1016/j.neuroimage.2021.118609 or something from Kendrick Kay: https://kendrickkay.net/analyzePRF/. It could be fun to try out different parameters for the receptive fields (e.g., 2d gaussian vs mexican hat vs. something else).</p>
 </section>
 <section id="danique-jeurissen">
-<h2>Danique Jeurissen<a class="headerlink" href="#danique-jeurissen" title="Link to this heading"></a></h2>
+<h2>Danique Jeurissen<a class="headerlink" href="#danique-jeurissen" title="Permalink to this heading"></a></h2>
 <p><b>Modeling compensation after focal optogenetic suppression in area MT</b></p>
 <p><b>Keywords</b>: columnar organization, motion processing, MT, perceptual decision making</p>
 <p><b>Target audience</b>: Students with any level of coding skills. This project requires you to do more thinking than coding, and can be extended in several directions. Use of AI coding tools is totally appropriate for this project. You do the thinking; AI can do the coding.</p>
@@ -289,7 +312,7 @@ Divisive normalization is one of the putative “canonical computations” carri
 <p><b>Data availability &amp; reference</b>: https://elifesciences.org/articles/36523/figures#content</p>
 </section>
 <section id="geoff-boynton">
-<h2>Geoff Boynton<a class="headerlink" href="#geoff-boynton" title="Link to this heading"></a></h2>
+<h2>Geoff Boynton<a class="headerlink" href="#geoff-boynton" title="Permalink to this heading"></a></h2>
 <p><a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/realtime_log_warp_camera.py">realtime_log_warp_camera.py</a>
 <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/realtime_schwartz_v1_warp_camera.py">realtime_schwartz_v1_warp_camera.py</a></p>
 <ol class="arabic simple">
@@ -300,7 +323,7 @@ Divisive normalization is one of the putative “canonical computations” carri
 </ol>
 </section>
 <section id="jim-dicarlo">
-<h2>Jim DiCarlo<a class="headerlink" href="#jim-dicarlo" title="Link to this heading"></a></h2>
+<h2>Jim DiCarlo<a class="headerlink" href="#jim-dicarlo" title="Permalink to this heading"></a></h2>
 </section>
 </section>
 

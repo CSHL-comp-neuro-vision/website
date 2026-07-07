@@ -26,6 +26,19 @@
 
 ## E.J. Chichilnisky
 
+### Suggested Readings
+**The attached articles may be useful to peruse (but reading in great detail is not needed).**
+* The Gollisch review gives an update on understanding diverse visual computations in parallel pathways of non-primate retinas.
+ <a href="../_static/pdfs/chichilnisky/Gollisch2010.pdf">Gollisch, T., & Meister, M. (2010). Eye smarter than scientists believed: neural computations in circuits of the retina. Neuron, 65(2), 150-164.</a>
+* The Field review gives an overview of the primate retina, focused on the well-known, numerically dominant cell types.
+ <a href="../_static/pdfs/chichilnisky/Field2007.pdf">Field, G. D., & Chichilnisky, E. J. (2007). Information processing in the primate retina: circuitry and coding. Annu. Rev. Neurosci., 30(1), 1-30.</a>
+* The Roska review tries to reconcile overall understanding and species differences.
+ <a href="../_static/pdfs/chichilnisky/Roska2014.pdf">Roska, M., & Meister, M. (2014). The Retina Dissects the Visual Scene into Distinct Features In: Werner JS, Chalupa LM, editors. The New Visual Neurosciences.</a>
+* The Goetz paper gives a sense of how precisely the morphology, function and genetic profiles of the different mouse RGC types are being understood.
+ <a href="../_static/pdfs/chichilnisky/Goetz2022.pdf">Goetz, J., Jessen, Z. F., Jacobi, A., Mani, A., Cooler, S., Greer, D., ... & Schwartz, G. W. (2022). Unified classification of mouse retinal ganglion cells using function, morphology, and gene expression. Cell reports, 40(2).</a>
+* The Kim paper has as its first figure an overview of current understanding of the morphological cell types in macaque.
+ <a href="../_static/pdfs/chichilnisky/Kim2022.pdf">Kim, Y. J., Peterson, B. B., Crook, J. D., Joo, H. R., Wu, J., Puller, C., ... & Dacey, D. M. (2022). Origins of direction selectivity in the primate retina. Nature communications, 13(1), 2862.</a>
+
 ## Eero Simoncelli
 
 ## Stephanie Palmer
@@ -33,14 +46,13 @@
 
 ### Suggested Readings
 
-* <a href="../_static/pdfs/palmer/palmeretal2015.pdf">Palmer, S.E., Marre, O., Berry, M.J. & Bialek, W. (2015). Predictive information in a sensory population</a>\
-* <a href="../_static/pdfs/palmer/salisbury_palmer2016.pdf">Salisbury, J.M. & Palmer, S.E. (2016). Optimal prediction in the retina and natural motion statistics</a>\
+* <a href="../_static/pdfs/palmer/palmeretal2015.pdf">Palmer, S.E., Marre, O., Berry, M.J. & Bialek, W. (2015). Predictive information in a sensory population</a>
+* <a href="../_static/pdfs/palmer/salisbury_palmer2016.pdf">Salisbury, J.M. & Palmer, S.E. (2016). Optimal prediction in the retina and natural motion statistics</a>
 * <a href="../_static/pdfs/palmer/wang_segev_borst_palmer2021.pdf">Wang, S., Segev, I., Borst, A. & Palmer, S. (2021). Maximally efficient prediction in the early fly visual system may support evasive flight maneuvers</a>
 
 **Extra:** 
-* <a href="../_static/pdfs/palmer/wangetal2022.pdf">Wang, S., Hoshal, B., de Laittre, E., Marre, O., Berry, M. & Palmer, S. (2022). Learning low-dimensional generalizable natural features from retina using a U-net.</a>\
+* <a href="../_static/pdfs/palmer/wangetal2022.pdf">Wang, S., Hoshal, B., de Laittre, E., Marre, O., Berry, M. & Palmer, S. (2022). Learning low-dimensional generalizable natural features from retina using a U-net.</a>
 * <a href="../_static/pdfs/palmer/Hoshaletal2023.pdf">Hoshal, B.D., Holmes, C.M., Bojanek, K., Salisbury, J., Berry, M.J., Marre, O. & Palmer, S.E. (2023). Stimulus invariant aspects of the retinal code drive discriminability of natural scenes</a>
-
 
 <br/>
 
@@ -81,9 +93,9 @@
 
 ### Suggested Readings
 
-* <a href="../_static/pdfs/stringer/2001.07092v2.pdf">Lindsay, G.W. (2021). Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future</a>\
-* <a href="../_static/pdfs/stringer/s41467-025-61171-9.pdf">Du, F., Núñez-Ochoa, M.A., Pachitariu, M. & Stringer, C. (2025). A simplified minimodel of visual cortical neurons</a>\
-* <a href="../_static/pdfs/stringer/s41586-025-09180-y.pdf">Zhong, L., Baptista, S., Gattoni, R., Arnold, J., Flickinger, D., Stringer, C. & Pachitariu, M. (2025). Unsupervised pretraining in biological neural networks</a>\
+* <a href="../_static/pdfs/stringer/2001.07092v2.pdf">Lindsay, G.W. (2021). Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future</a>
+* <a href="../_static/pdfs/stringer/s41467-025-61171-9.pdf">Du, F., Núñez-Ochoa, M.A., Pachitariu, M. & Stringer, C. (2025). A simplified minimodel of visual cortical neurons</a>
+* <a href="../_static/pdfs/stringer/s41586-025-09180-y.pdf">Zhong, L., Baptista, S., Gattoni, R., Arnold, J., Flickinger, D., Stringer, C. & Pachitariu, M. (2025). Unsupervised pretraining in biological neural networks</a>
 * If you are unfamiliar with MLPs and convolutional layers, our chapter in the AI in Microscopy book might be helpful: [Loss functions and architectures](https://bioimagingai.janelia.org/4-architectures.html).
 
 ## Lea Duncker
