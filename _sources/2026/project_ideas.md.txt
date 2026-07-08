@@ -125,6 +125,47 @@ Derive (or learn) how to fuse visual and vestibular signals for gaze stabilizati
 
 ## Kohitij Kar
 
+For background, I added two tutorials:
+1. A [Jupyter notebook](https://github.com/CSHL-comp-neuro-vision/tutorials/blob/main/python/NoiseCorrection/noise_correction_demo_py.ipynb) with a tutorial demonstrating the effects of misrepresenting relationships between variables due to noise in their estimates and how to retrieve the true relationship using noise correction techniques.  
+2. [A tutorial on predicting neural activity using deep net features.](https://github.com/kohitij-kar/prediction_demo)
+
+Project idea:  
+Core Concept: Develop a strategy to determine which models of vision are most aligned with a Target model, using ResNet-50 as a proxy for primate object recognition. Usually that target model is a human or monkey -- but for our project let’s use a fully accessible ANN like ResNet-50. The goal is to optimize experimental design to discriminate between competing models that claim to be good representations of the Target.  
+
+Key Components:  
+1. Target Model: ResNet-50 (standing in for primate visual system). 
+2. Competing Models: Various vision models claiming to represent the Target (you can use AlexNet, other ResNets, ViT, simCLR etc).  
+3. Experimental Design Optimization: Techniques to generate stimuli that best differentiate between models. (Look up [Golan et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1912334117)).  
+4. Evaluation Metrics: Methods to quantify alignment between competing models and the Target (look up: [Rajalingham et al. 2018](https://www.jneurosci.org/content/38/33/7255)).
+
+Methodology:  
+1. Implement ResNet-50 as the Target model.  
+2. Select or implement a set of competing vision models. 
+3. Develop an optimization framework for experimental design:  
+	a. Use techniques like controversial stimuli generation ([Golan et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1912334117)).  
+	b. Aim to maximize differences in responses amongst competing models.  
+4. Generate optimal stimuli sets to achieve 3b  
+5. Evaluate model responses to these stimuli   
+6. Analyze the results to rank competing models based on their alignment with the Target  
+7. Ground truth retrieval and validation (see below)  
+
+The main idea for the validation is -- develop identical models: when the Target and reference models are identical, the experimental design should:  
+• Generate stimuli that produce nearly identical responses across both models.  
+• Result in a discrimination task that fails to find significant differences.  
+• Show high correlation and low divergence measures between identical model outputs (compared to other models).  
+
+One can generate identical models by:  
+• Implementing multiple runs of the same model with different initializations.  
+• Linearly transform the feature space of a model to another space and treat them as separate models.  
+• This project leverages existing model to optimize experimental design that helps develop a more targeted evaluation of those same vision models.  
+
+Students can use code from the reverse-pred Python package and data from the associated OSF repository to test “image-level” reverse predictivity. Students can compute, for each natural image, how well macaque IT responses predict ANN feature activations. They can then rank images by reverse predictivity to identify the most brain-aligned and most brain-misaligned stimuli. Students can then visualize the top- and bottom-ranked images and ask what drives the mismatch? -- do mismatch images tend to contain clutter, unusual viewpoints, small objects, multiple objects, or texture-heavy content, showing how reverse predictivity can serve as a stimulus-level diagnostic for discovering where ANN representations diverge from the primate visual cortex.
+
+
+Code: https://pypi.org/project/reverse-pred/
+Data: https://osf.io/y3qmk/overview
+
+
 ## Emily Cooper
 
 I’ve shared a (non-exhaustive) list of some public databases of natural images, depth maps, and eye movements that may be useful for projects [here](https://docs.google.com/document/d/1bVTdvXXoGN4Ya4mutdEBQOQdmO6tc68uHHIccrvdlTI/edit?tab=t.0). Some suggestions:
@@ -204,8 +245,9 @@ You may want to look at saccade adaptation or population receptive field mapping
 
 <b>Step 3. Implement two compensation mechanisms, and ask which one(s) can restore the psychometric curve:</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Local MT compensation</b>: the gain and/or tuning sharpness of the neighboring direction columns changes, while the readout weights stay fixed.
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Downstream compensation</b>: the readout weights change, while MT gains stay fixed (a stand-in for reweighting by a downstream area such as LIP).
+<b>Local MT compensation</b>: the gain and/or tuning sharpness of the neighboring direction columns changes, while the readout weights stay fixed.
+
+<b>Downstream compensation</b>: the readout weights change, while MT gains stay fixed (a stand-in for reweighting by a downstream area such as LIP).
 
 You can tweak the parameters by hand to find something reasonable, or write code to search for the best solution. Of course, feel free to try combining both: there's no biological reason the brain would rely on only one.
 

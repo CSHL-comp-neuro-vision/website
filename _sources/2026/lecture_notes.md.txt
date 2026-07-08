@@ -146,6 +146,13 @@
 
 ## Kohitij Kar
 
+### Suggested Readings
+
+* <a href="../_static/pdfs/kar/annurev-vision-112823-030616.pdf">Kar, K., & DiCarlo, J. J. (2024). The quest for an integrated set of neural mechanisms underlying object recognition in primates. Annual Review of Vision Science, 10(1), 91-121.</a>
+* <a href="../_static/pdfs/kar/s42256-026-01204-0.pdf">Muzellec, S., & Kar, K. (2026). Reverse predictivity for bidirectional comparison of neural networks and biological brains. Nature Machine Intelligence, 8(3), 474-488.</a>
+* <a href="../_static/pdfs/kar/Sorensen2026.pdf">Sörensen, L. K. A., DiCarlo, J. J., & Kar, K. (2026). Hierarchical Optimization predicts Plasticity in the Macaque Inferior Temporal Cortex following Object Training. Nature Communications (in press).</a>
+* <a href="../_static/pdfs/kar/2024.02.23.581841v1.full.pdf">Ramezanpour, H., Ilic, F., Wildes, R. P., & Kar, K. (2024). Object motion representation in the macaque ventral stream–a gateway to understanding the brain’s intuitive physics engine. bioRxiv, 2024-02. (in review)</a>
+
 ## Emily Cooper
 
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/cooper/CSHL_2026_forTAs.pdf">Slides</a>
