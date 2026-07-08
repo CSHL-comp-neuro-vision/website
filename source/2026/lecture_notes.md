@@ -43,9 +43,9 @@
 
 ## Stephanie Palmer
 
-• <a href="../_static/pdfs/palmer/SEP_efficient_coding_notes.pdf">1. Efficient coding notes</a>
-• <a href="../_static/pdfs/palmer/SEP_spike_train_info_notes.pdf">2. Spike train information notes</a>
-• <a href="../_static/pdfs/palmer/intro_prob_and_inference_with_solutions.pdf">3. Probability and Inference</a>
+* <a href="../_static/pdfs/palmer/SEP_efficient_coding_notes.pdf">1. Efficient coding notes</a>
+* <a href="../_static/pdfs/palmer/SEP_spike_train_info_notes.pdf">2. Spike train information notes</a>
+* <a href="../_static/pdfs/palmer/intro_prob_and_inference_with_solutions.pdf">3. Probability and Inference</a>
 
 ### Suggested Readings
 
@@ -102,6 +102,15 @@
 * If you are unfamiliar with MLPs and convolutional layers, our chapter in the AI in Microscopy book might be helpful: [Loss functions and architectures](https://bioimagingai.janelia.org/4-architectures.html).
 
 ## Lea Duncker
+
+### Suggested Readings
+* <a href="../_static/pdfs/duncker/annurev.neuro.24.1.1193.pdf">Simoncelli, E. P., & Olshausen, B. A. (2001). Natural image statistics and neural representation. Annual Review of Neuroscience.</a>
+* <a href="../_static/pdfs/duncker/ganmor15.pdf">Ganmor, E., Landy, M. S., & Simoncelli, E. P. (2015). Near-optimal integration of orientation information across saccades. Journal of Vision.</a>
+* <a href="../_static/pdfs/duncker/PIIS009286741730538X.pdf">Chang, L., & Tsao, D. Y. (2017). The code for facial identity in the primate brain. Cell.</a>
+* <a href="../_static/pdfs/duncker/dynamics-review.pdf">Duncker, L., & Sahani, M. (2021). Dynamics on the manifold: Identifying computational dynamical activity from neural population recordings. Current Opinion in Neurobiology.</a>
+* <a href="../_static/pdfs/duncker/dim-reduction.pdf">Cunningham, J. P., & Yu, B. M. (2014). Dimensionality reduction for large-scale neural recordings. Nature Neuroscience.</a>
+* <a href="../_static/pdfs/duncker/olshausen-field-1996a.pdf">Olshausen, B. A., & Field, D. J. (1996). Emergence of simple-cell receptive field properties by learning a sparse code for natural images. Nature.</a>
+* <a href="../_static/pdfs/duncker/nn858.pdf">Weiss, Y., Simoncelli, E. P., & Adelson, E. H. (2002). Motion illusions as optimal percepts. Nature Neuroscience.</a>
 
 ## James Fitzgerald
 
