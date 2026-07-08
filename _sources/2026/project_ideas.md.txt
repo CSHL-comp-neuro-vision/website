@@ -99,6 +99,46 @@ Example projects include exploring how downstream circuits in the mouse brain ma
 
 ## Lea Duncker
 
+**1. Poisson GLM extensions of low-rank STRF receptive field models**
+
+Work in [1](https://direct.mit.edu/neco/article/35/6/995/115598/Scalable-Variational-Inference-for-Low-Rank) introduces a scalable model for STRF estimation with low-rank structure. However, the presented approaches assume a Gaussian linear setting, which limits its applicability to neural spike train recordings. The idea for this project would be to extend the methods of [1](https://direct.mit.edu/neco/article/35/6/995/115598/Scalable-Variational-Inference-for-Low-Rank) to a Poisson GLM setting. What would be nice about this is that the basis functions (e.g. raised and stretched cosine bumps) that are commonly used in GLMs are learned automatically and within a more general modeling framework. 
+
+**The project will involve:**
+* Familiarizing yourself with the literature on GP-based STRF models (see below for a few references)
+* Derivations of how this model would extend to the Poisson GLM setting
+* Implementation of the methods in Python or Matlab
+* Applications to simulated and neural data
+
+**References:**
+1. [L Duncker, KM Ruda, GDField, JW. Pillow. Scalable Variational Inference for Low-Rank Spatiotemporal Receptive Fields. Neural Computation (2023) 35 (6): 995–1027.](https://direct.mit.edu/neco/article/35/6/995/115598/Scalable-Variational-Inference-for-Low-Rank)
+2. [Pillow, J. W., Shlens, J., Paninski, L., Sher, A., Litke, A. M., Chichilnisky, E. J., & Simoncelli, E. P. (2008). Spatio-temporal correlations and visual signalling in a complete neuronal population. Nature, 454(7207), 995-999.](https://www.nature.com/articles/nature07140.pdf)
+3. [Sahani, M., & Linden, J. (2002). Evidence optimization techniques for estimating stimulus-response functions. Advances in neural information processing systems, 15.](https://proceedings.neurips.cc/paper_files/paper/2002/file/229754d7799160502a143a72f6789927-Paper.pdf)
+4. [Park, M., & Pillow, J. W. (2011). Receptive field inference with localized priors. PLoS computational biology, 7(10), e1002219.](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pcbi.1002219&type=printable) 
+
+
+**2. A scalable Bayesian STRF model through Gaussian Process inducing points**
+
+A lot of work in receptive field modeling has been concerned with the development of scalable and data efficient estimators. Here, a common approach has been to encode known receptive field properties like smoothness, locality, or temporal recency in a statistical model of the receptive field weights. Popular choices for this have been the use of a set of basis functions [1](https://www.nature.com/articles/nature07140.pdf) or to do maximum a posteriori estimation and type-II maximum likelihood learning in a Bayesian linear regression model with a given choice of prior distribution ([2](https://proceedings.neurips.cc/paper_files/paper/2002/file/229754d7799160502a143a72f6789927-Paper.pdf), [3](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pcbi.1002219&type=printable), [4](https://direct.mit.edu/neco/article/35/6/995/115598/Scalable-Variational-Inference-for-Low-Rank)). An attractive choice for such prior distributions have been Gaussian Processes ([2](https://proceedings.neurips.cc/paper_files/paper/2002/file/229754d7799160502a143a72f6789927-Paper.pdf), [3](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pcbi.1002219&type=printable), [4](https://direct.mit.edu/neco/article/35/6/995/115598/Scalable-Variational-Inference-for-Low-Rank), [5](https://proceedings.neurips.cc/paper_files/paper/1995/file/7cce53cf90577442771720a370c3c723-Paper.pdf)), where assumptions like smoothness in the receptive field are encoded through the covariance between neighboring weights. While these models are conceptually attractive, they suffer from scalability issues – it’s hard to apply them in settings with large stimulus ensembles. Thus, a lot of work has focused on taking this approach and making estimators scalable, typically by approximating the resulting prior distribution in some way ([4](https://direct.mit.edu/neco/article/35/6/995/115598/Scalable-Variational-Inference-for-Low-Rank), [6](https://www.biorxiv.org/content/10.1101/212217v1.full.pdf)).
+
+The idea for this project is to consider the same setting of Bayesian linear regression, where the linear weights are the receptive field and a prior distribution over the weights is modeled as a Gaussian Process. We will use an idea from the Gaussian Process literature called “inducing points” ([7](https://proceedings.mlr.press/v5/titsias09a/titsias09a.pdf)) to develop a scalable estimation approach. 
+
+**The project will involve:**
+* Familiarizing yourself with the literature on GP-based STRF models 
+* Pen and paper derivations of the model equations 
+* Implementation of the sparse GP regression in Python
+* Applications to simulated and neural data
+
+**References:**
+
+1. [Pillow, J. W., Shlens, J., Paninski, L., Sher, A., Litke, A. M., Chichilnisky, E. J., & Simoncelli, E. P. (2008). Spatio-temporal correlations and visual signalling in a complete neuronal population. Nature, 454(7207), 995-999.](https://www.nature.com/articles/nature07140.pdf)
+2. [Sahani, M., & Linden, J. (2002). Evidence optimization techniques for estimating stimulus-response functions. Advances in neural information processing systems, 15.](https://proceedings.neurips.cc/paper_files/paper/2002/file/229754d7799160502a143a72f6789927-Paper.pdf)
+3. [Park, M., & Pillow, J. W. (2011). Receptive field inference with localized priors. PLoS computational biology, 7(10), e1002219. ](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pcbi.1002219&type=printable)
+4. [Duncker, L., Ruda, K. M., Field, G. D., & Pillow, J. W. (2023). Scalable variational inference for low-rank spatiotemporal receptive fields. Neural computation, 35(6), 995-1027. ](https://direct.mit.edu/neco/article/35/6/995/115598/Scalable-Variational-Inference-for-Low-Rank)
+5. [Williams, C., & Rasmussen, C. (1995). Gaussian processes for regression. Advances in neural information processing systems, 8. ](https://proceedings.neurips.cc/paper_files/paper/1995/file/7cce53cf90577442771720a370c3c723-Paper.pdf)
+6. [Aoi, M. C., & Pillow, J. W. (2017). Scalable Bayesian inference for high-dimensional neural receptive fields. bioRxiv, 212217. ](https://www.biorxiv.org/content/10.1101/212217v1.full.pdf)
+7. [Titsias, M. (2009, April). Variational learning of inducing variables in sparse Gaussian processes. In Artificial intelligence and statistics (pp. 567-574). PMLR.](https://proceedings.mlr.press/v5/titsias09a/titsias09a.pdf)
+
+
 ## James Fitzgerald
 
 In my talk, I will discuss behavior, neural coding, and network mechanisms associated with visual motion processing. I will primarily emphasize flies and zebrafish for the mechanistic possibilities afforded by connectomics and whole-brain functional imaging. I encourage interested students to reach out to me for more information and discussion.
