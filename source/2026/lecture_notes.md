@@ -3,6 +3,8 @@
 
 ## Tony Movshon
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/movshon/movshon-elephants-260708.pdf">Slides</a>
+
 ### Suggested Readings
 **Start here:**
 
