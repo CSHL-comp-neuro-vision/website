@@ -141,7 +141,7 @@
     <td class="tg-lmxn">Stephanie Palmer</td>
   </tr>
   <tr>
-    <td class="tg-left">3:00-5:00pm</td>
+    <td class="tg-left">8:00pm</td>
     <td class="tg-73oq">(Optional) Python coding tutorial</td>
     <td class="tg-lmxn">John Serences</td>
   </tr>
