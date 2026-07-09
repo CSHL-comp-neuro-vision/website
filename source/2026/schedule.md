@@ -200,10 +200,10 @@
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2026/lecture_notes.html#lea-duncker">Latent Variables: From Perception to Neural Data</td>
     <td class="tg-lmxn">Lea Duncker</td>
   </tr>
-    <tr>
-    <td class="tg-left">4:00-6:00pm</td>
-    <td class="tg-73oq">Evening discussion on DEI/How to cope with academia</td>
-    <td class="tg-lmxn">Catrina Hacker, Ann Kotkat</td>
+  <tr>
+    <td class="tg-left">3:30-5:30pm</td>
+    <td class="tg-73oq">Diffusion models</td>
+    <td class="tg-lmxn">Eero Simoncelli</td>
   </tr>
   <tr>
     <td class="tg-left">6:00pm</td>
@@ -233,8 +233,8 @@
     <td class="tg-lmxn">John Serences</td>
   </tr>
   <tr>
-    <td class="tg-left">7:30pm</td>
-    <td class="tg-73oq">TA Talks</td>
+    <td class="tg-left">4:00-6:00pm</td>
+    <td class="tg-73oq">Evening discussion on DEI/How to cope with academia</td>
     <td class="tg-lmxn">Catrina Hacker, Ann Kotkat</td>
   </tr>
 </tbody>
@@ -388,6 +388,11 @@
     <td class="tg-left">1:00-3:00pm</td>
     <td class="tg-73oq"><a href="https://cshl-comp-neuro-vision.github.io/website/2026/lecture_notes.html#taraz-lee">Cognitive-Motor-Visual Interactions</td>
     <td class="tg-lmxn">Taraz Lee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-left">8:00pm</td>
+    <td class="tg-73oq">TA Talks</td>
+    <td class="tg-lmxn">Catrina Hacker, Ann Kotkat</td>
   </tr>
 </tbody>
 </table>
