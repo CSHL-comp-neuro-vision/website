@@ -13,6 +13,8 @@ Their group has an additional resource they will not share in the tutorials that
 * [Pynapple](https://pynapple.org/) is a light-weight python library for neurophysiological data analysis. The goal is to offer a versatile set of tools to study typical data in the field, i.e. time series (spike times, behavioral events, etc.) and time intervals (trials, brain states, etc.). It also provides users with generic functions for neuroscience such as tuning curves, cross-correlograms and filtering.
 
 
+A tutorial notebook and a series of exercises can be found [here](https://workshops.plenoptic.org/workshops/CSHL-vision-course-2026/branch/main/). The exercises could serve as starting points for projects – synthesizing model metamers for different deep net models, for example.
+
 ## Tony Movshon
 
 ## E.J. Chichilnisky
