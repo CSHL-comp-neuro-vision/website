@@ -142,7 +142,7 @@
   </tr>
   <tr>
     <td class="tg-left">8:00pm</td>
-    <td class="tg-73oq">(Optional) Python coding tutorial / AI discussion</td>
+    <td class="tg-73oq">(Optional) Python coding tutorial / [AI discussion](https://johnserences.github.io/python_for_psych_neuro.github.io/coding-with-ai/)</td>
     <td class="tg-lmxn">John Serences</td>
   </tr>
 </tbody>
@@ -169,7 +169,7 @@
   </tr>
   <tr>
     <td class="tg-left">3:00-5:00pm</td>
-    <td class="tg-73oq">(Optional) Flatiron Open Source Packages (<a href="https://docs.plenoptic.org/docs/tags/2.0.1/">plenoptic</a>, <a href ="https://nemos.readthedocs.io/en/latest/">nemos</a>)</td>q
+    <td class="tg-73oq">(Optional) Flatiron Open Source Packages (<a href="https://presentations.plenoptic.org/2026-07-10_cshl-vision/slides.html">slides</a>, <a href="https://docs.plenoptic.org/docs/tags/2.0.1/">plenoptic</a>, <a href ="https://nemos.readthedocs.io/en/latest/">nemos</a>)</td>q
     <td class="tg-lmxn">Billy Broderick & Edoardo Balzani</td>
   </tr>
   <tr>
