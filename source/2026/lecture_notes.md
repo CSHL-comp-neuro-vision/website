@@ -45,7 +45,7 @@
 
 ## Stephanie Palmer
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/palmer/SEPalmer_CSHL2026_intro_info_efficient_coding.pdf">Slides part 1</a>\
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/palmer/SEPalmer_CSHL2026_intro_info_efficient_coding.pdf">Slides part 1</a>
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/palmer/SEPalmer_CSHL_2026_nat_world_prediction.pdf">Slides part 2</a>
 
 ### Tutorials
