@@ -142,7 +142,7 @@
   </tr>
   <tr>
     <td class="tg-left">8:00pm</td>
-    <td class="tg-73oq">(Optional) Python coding tutorial / [AI discussion](https://johnserences.github.io/python_for_psych_neuro.github.io/coding-with-ai/)</td>
+    <td class="tg-73oq">(Optional) Python coding tutorial / <a href="https://johnserences.github.io/python_for_psych_neuro.github.io/coding-with-ai/">AI discussion</a></td>
     <td class="tg-lmxn">John Serences</td>
   </tr>
 </tbody>

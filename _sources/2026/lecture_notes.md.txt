@@ -24,6 +24,8 @@
 
 * <a href="../_static/pdfs/movshon/lennie-movshon-2005.pdf">Lennie, P., & Movshon, J. A. (2005). Coding of color and form in the geniculostriate visual pathway. Journal of the Optical Society of America A, 22(10), 2013–2033.</a>
 
+* <a href="../_static/pdfs/movshon/hodgkin-huxley-1952.pdf">Hodgkin & Huxley. (1952). A Quantitative description of membrane current and its application to conduction and excitation in nerve.</a>
+
 <br/>
 
 ## E.J. Chichilnisky
@@ -68,6 +70,7 @@
 
 ## Jonathan Pillow
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/pillow/pillow_GLMs_CSHL2026.pdf">Slides</a>
 
 ### Suggested Readings
 
@@ -214,7 +217,9 @@
 
 ### Suggested Readings
 * <a href="../_static/pdfs/jeurissen/JazayeriAfraz_Neuron_2017.pdf">Jazayeri & Afraz (2017). Navigating the neural space in search of the neural code.</a>
-
+* <a href="../_static/pdfs/jeurissen/JeurissenShushruth_Neuron_2022.pdf">Jeurissen et al. (2022). Deficits in decision-making induced by parietal cortex inactivation are compensated at two timescales.</a>
+* <a href="../_static/pdfs/jeurissen/Katz_Nature_2016.pdf">Katz et al. (2016). Dissociated functional significance of decision-related activity in the primate dorsal stream</a>
+* <a href="../_static/pdfs/jeurissen/Vaida_Lesions_TICS.pdf">Vaidya et al. (2019). Lesion Studies in Contemporary Neuroscience.</a>
 
 ## Geoff Boynton
 
