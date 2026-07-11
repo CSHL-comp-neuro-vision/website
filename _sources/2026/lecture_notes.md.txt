@@ -119,6 +119,8 @@
 
 ## Lea Duncker
 
+* <a href="https://drive.google.com/file/d/1ZU1Xii88yWXN9NFeuVEv-iqP4G2ZAftX/view?usp=sharing">Lecture tutorial notebook</a>
+
 ### Suggested Readings
 * <a href="../_static/pdfs/duncker/annurev.neuro.24.1.1193.pdf">Simoncelli, E. P., & Olshausen, B. A. (2001). Natural image statistics and neural representation. Annual Review of Neuroscience.</a>
 * <a href="../_static/pdfs/duncker/ganmor15.pdf">Ganmor, E., Landy, M. S., & Simoncelli, E. P. (2015). Near-optimal integration of orientation information across saccades. Journal of Vision.</a>
