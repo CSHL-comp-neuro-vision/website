@@ -201,7 +201,7 @@
     <td class="tg-lmxn">Lea Duncker</td>
   </tr>
   <tr>
-    <td class="tg-left">3:30-5:30pm</td>
+    <td class="tg-left">3:30-4:30pm</td>
     <td class="tg-73oq">Diffusion models</td>
     <td class="tg-lmxn">Eero Simoncelli</td>
   </tr>

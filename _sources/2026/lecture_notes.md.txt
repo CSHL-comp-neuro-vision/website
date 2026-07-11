@@ -45,6 +45,9 @@
 
 ## Eero Simoncelli
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/simoncelli/cshl-simoncelli-discriminability-2026.pdf">Slides Part 1</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/simoncelli/cshl-simoncelli-metamers-2026.pdf">Slides Part 2</a>
+
 ## Stephanie Palmer
 
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/palmer/SEPalmer_CSHL2026_intro_info_efficient_coding.pdf">Slides part 1</a>
@@ -82,6 +85,9 @@
 <br/>
 
 ## Jacob Yates
+
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/yates/Yates_CSHL_part_1_2.pdf">Slides Part 1</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/yates/Yates_CSHL_part_3.pdf">Slides Part 2</a>
 
 
 ### Suggested Readings
