@@ -109,6 +109,7 @@
 
 ## Carsen Stringer
 
+* [Slides.](https://docs.google.com/presentation/d/1NdHDA39s0tULPKTnVLI59M0T8PJEM3GDza9AtdGSf3E/edit?slide=id.p#slide=id.p)
 
 ### Suggested Readings
 
