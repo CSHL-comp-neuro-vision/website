@@ -120,6 +120,7 @@
 
 ## Lea Duncker
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/duncker/duncker-cshl-2026.pdf">Slides</a>
 * <a href="https://drive.google.com/file/d/1ZU1Xii88yWXN9NFeuVEv-iqP4G2ZAftX/view?usp=sharing">Lecture tutorial notebook</a>
 
 ### Suggested Readings
