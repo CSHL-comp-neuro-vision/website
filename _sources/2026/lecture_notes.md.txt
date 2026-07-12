@@ -146,6 +146,8 @@
 
 ## John Serences
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/serences/Serences_CSHL_July2026.pdf">Slides</a>
+
 ### Suggested Readings
 * <a href="../_static/pdfs/serences/Sadeh_Clopath_eLife_2022.pdf">Sadeh, S., & Clopath, C. (2022). Contribution of behavioural variability to representational drift. eLife, 11, e77907. https://doi.org/10.7554/eLife.77907</a>
 
