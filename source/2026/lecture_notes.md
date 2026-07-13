@@ -47,6 +47,36 @@
 
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/simoncelli/cshl-simoncelli-discriminability-2026.pdf">Slides Part 1</a>
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/simoncelli/cshl-simoncelli-metamers-2026.pdf">Slides Part 2</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/simoncelli/cshl-simoncelli-diffusionTutorial-2026.pdf">Diffusion tutorial</a>
+
+### Suggested Readings
+
+#### General (Barlow)
+* <a href="https://www.cnbc.cmu.edu/~tai/microns_papers/Barlow-SensoryCommunication-1961.pdf">Barlow, H.B. (1961).  Possible principles underlying the transformations  of sensory messages.  Chapter 13.  In: Sensory  Communication,   W.Rosenblith (Ed.), M.I.T. Press, pp. 217-234.</a>
+* <a href="https://mplab.ucsd.edu/users/marni/Igert/Barlow_1989.pdf">Barlow, H. B. (1989). Unsupervised learning. Neural Computation, 1, 295-311.</a>
+* <a href="https://boulderschool.yale.edu/sites/default/files/files/Barlow_2001.pdf">Barlow, H B (2001)  Redundancy reduction revisited.  Network: Computation in neural systems  12, 241-253.</a>
+
+#### Metamers
+* <a href="https://wandell.github.io/FOV-1995/">Wandell (1995) Foundations of Vision: Behavior, Neuroscience and Computation.</a>
+* <a href="../_static/pdfs/simoncelli/Visual_Pattern_Discrimination.pdf">Julesz (1962) Visual pattern discrimination. IEEE Trans. Inf. Theory 8, 84–92.</a>
+* <a href="../_static/pdfs/simoncelli/Balas-Nakano-Rosenholtz-2009.pdf">Balas et al (2009).  A summary-statistic representation in peripheral vision explains visual crowding. J. Vis. 9, 13 (2009).</a>
+* <a href="../_static/pdfs/simoncelli/portilla-simoncelli-2000.pdf">Portilla & Simoncelli (2000).  A parametric texture model based on joint statistics of complex wavelet coefficients. Int'l Journal of Computer Vision, vol.40(1), pp. 49--71.</a>
+* <a href="../_static/pdfs/simoncelli/freeman-simoncelli-2011.pdf">Freeman & Simoncelli (2011).  Metamers of the ventral stream. Nature Neuroscience, vol.14(9), pp. 1195--1201, Sep 2011.</a>
+* <a href="../_static/pdfs/simoncelli/freeman-ziemba-heeger-simoncelli-movshon-2013.pdf">Freeman et al (2013).  A functional and perceptual signature of the second visual area in primates. Nature Neuroscience, vol.16(7), pp. 974--981, Jul 2013.</a>
+
+#### Discriminability and Fisher Information
+* <a href="../_static/pdfs/simoncelli/ziemba-freeman-movshon-simoncelli-2016.pdf">Ziemba et al (2016). Selectivity and tolerance for visual texture in macaque V2. Proc. Nat'l Academy of Sciences, vol.113(22), pp. E3140-E3149.</a>
+* <a href="../_static/pdfs/simoncelli/ziemba-simoncelli-2021.pdf">Ziemba & Simoncelli (2021). Opposing effects of selectivity and invariance in peripheral vision Nature Communications, vol.12(4597).</a>
+* <a href="../_static/pdfs/simoncelli/zhou2024.pdf">Zhou et al (2024).  A unified framework for perceived magnitude and discriminability of sensory stimuli. Proc. Nat'l Academy of Sciences, vol.121(25).</a>
+* <a href="../_static/pdfs/simoncelli/Berardinoetal-2017.pdf">Berardino et al (2017).    Eigen-distortions of hierarchical representations. NeurIPS, vol.30 pp. 3530--3539.</a>
+
+
+#### Generative "Diffusion" models
+* <a href="../_static/pdfs/kadkhodaie20a-arxiv2007.13640-v2.pdf">Kadkhodaie & Simoncelli (2020).  Solving linear inverse problems using the prior implicit in a denoiser. arXiv, vol.2007.13640 Jul 2020</a>
+* <a href="../_static/pdfs/simoncelli/kadkhodaie24a.pdf">Kadkhodaie et al (2024).   Generalization in diffusion models arises from geometry-adaptive harmonic representation. Int'l Conf on Learning Representations (ICLR).</a>
+* <a href="../_static/pdfs/simoncelli/guth25.pdf">Guth et al (2025).   Learning normalized image densities via dual score matching. arXiv.org e-prints, Technical Report 2506.05310.</a>
+* <a href="../_static/pdfs/simoncelli/2506.01912v2.pdf">Kadkhodaie et al (2025).  Unconditional CNN denoisers contain sparse semantic representation of images. arXiv.org e-prints, Technical Report 2506.01912.</a>
+
 
 ## Stephanie Palmer
 
