@@ -1,8 +1,9 @@
 # Course T-Shirt
 
-Submit your course t-shirt designs to Eline, Catrina and Declan!
+Submit your course t-shirt designs to Catrina and Ann!
 
-Past T-Shirt designs:
+**Past T-Shirt designs:**
+
 1987
 <image src="../_static/t-shirts/1987.jpg" alt="1987 t-shirt" position="left" style="border-radius: 8px;width:20vh">
 
@@ -41,3 +42,10 @@ Past T-Shirt designs:
 <image src="../_static/t-shirts/2022-front.jpeg" alt="2022 front" position="left" style="border-radius: 8px;width:20vh">
 <image src="../_static/t-shirts/2022-back.jpeg" alt="2022 back" position="left" style="border-radius: 8px;width:20vh">
 
+2024
+
+<a href="../_static/t-shirts/2024_front.pdf">front</a>
+<image src="../_static/t-shirts/2024_front.png" alt="2024 front" position="left" style="border-radius: 8px;width:40vh">
+
+<a href="../_static/t-shirts/2024_back.pdf">back</a>
+<image src="../_static/t-shirts/2024_back.png" alt="2024 back" position="left" style="border-radius: 8px;width:40vh">

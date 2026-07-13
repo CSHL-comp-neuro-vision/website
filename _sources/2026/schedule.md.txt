@@ -261,7 +261,7 @@
     <td class="tg-lmxn">James Fitzgerald</td>
   </tr>
   <tr>
-    <td class="tg-left">4:00-6:00pm</td>
+    <td class="tg-left">5:00-6:00pm</td>
     <td class="tg-73oq">Discussion on DEI/How to cope with academia</td>
     <td class="tg-lmxn">Catrina Hacker, Ann Kotkat</td>
   </tr>

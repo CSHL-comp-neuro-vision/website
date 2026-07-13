@@ -189,6 +189,7 @@
 
 ## Jorge Otero-Millan
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/oteromillan/CSHL_Eye_movement_control.pdf">Slides</a>
 
 ### Suggested Readings
 * <a href="../_static/pdfs/oteromillan/Read%20et%20al.%20-%202022%20-%20Seeing%20the%20future%20Predictive%20control%20in%20neural%20models%20of%20ocular%20accommodation.pdf">Read, J. C. A., Kaspiris-Rousellis, C., Wood, T. S., Wu, B., Vlaskamp, B. N. S., &amp; Schor, C. M. (2022). Seeing the future: Predictive control in neural models of ocular accommodation. Journal of Vision, 22(9):4, 1–36.</a>
