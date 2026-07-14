@@ -164,6 +164,7 @@
 
 ## James Fitzgerald
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/fitzgerald/2026-07-13-VisualMotionCSHL_clean.pdf">Slides</a>
 
 ### Suggested Readings
 * <a href="../_static/pdfs/fitzgerald/2026.02.04.703828v2.full.pdf">Huang, S., Portugues, R., &amp; Fitzgerald, J. E. (2026). Behavioral alignment as an organizing principle in sensory coding. bioRxiv.</a>
@@ -206,6 +207,45 @@
 
 ## Stefan Treue
 
+### Suggested Readings
+
+#### On the modulation of cortical information processing by attention (from the talk, in order of appearance)
+
+* <a href="../_static/pdfs/treue/21176.pdf">Treue S, Martinez Trujillo JC (1999) Feature-based attention influences motion processing gain in macaque visual cortex. Nature 399: 575-579</a>
+* <a href="../_static/pdfs/treue/PIIS0960982204002684.pdf">Martinez-Trujillo JC, Treue S (2004) Feature-based attention increases the selectivity of population responses in primate visual cortex.  Current Biology 14: 744-751.</a>
+* <a href="../_static/pdfs/treue/nn1748.pdf">Womelsdorf T, Anton-Erxleben K, Pieper F, Treue S. Dynamic shifts of visual receptive fields in cortical area MT by spatial attention. Nature Neuroscience. 2006;9(9):1156–60.</a>
+* <a href="../_static/pdfs/treue/s41467-020-15989-0.pdf">Mehrpour V, Martinez-Trujillo JC & Treue S (2020) Attention amplifies neural representations of changes in sensory input at the expense of perceptual accuracy. Nature Communications, 11(1), 1-8 DOI: 10.1038/s41467-020-15989-0</a>
+* <a href="../static/pdfs/treue/hüer-et-al-2024-pathway-selective-optogenetics-reveals-the-functional-anatomy-of-top-down-attentional-modulation-in-the.pdf">Hüer J, Saxena P, Treue S (2024) Pathway-selective optogenetics reveals the functional anatomy of top–down attentional modulation in the macaque visual cortex. PNAS 121 (3) e2304511121 DOI: 10.1073/pnas.230451112</a>
+* <a href="../_static/pdfs/treue/s12915-021-00993-7.pdf">Veith VK, Quigley C, Treue S (2021) Cholinergic manipulations affect sensory responses but not attentional enhancement in macaque MT. BMC Biology, 19(1), 1-12 DOI: 10.1186/s12915-021-00993-7</a>
+* <a href="../_static/pdfs/treue/1-s2.0-S0165027025000020-main.pdf">Mayer S, Saxena P, Crayen MA, Treue S. Establishing In-vivo brain microdialysis for comparing concentrations of a variety of cortical neurotransmitters in the awake rhesus macaque between different cognitive states. Journal of Neuroscience Methods. 2025;415:110361. doi: 10.1016/j.jneumeth.2025.110361.</a>
+* <a href="../_static/pdfs/treue/2024.08.19.608609v2.full.pdf">Schneider F, Calapai A, Mundry R, Báez-Mendoza R, Gail A, Kagan I, et al. Confidence over competence: Real-time integration of social information in human continuous perceptual decision-making. eLife. 2024;13:RP101021. doi: 10.7554/eLife.101021.1.sa3.</a>
+* <a href="../_static/pdfs/treue/81641.pdf">Möller S, Unakafov AM, Fischer J, Gail A*, Treue S*, Kagan I* (2023) Human and macaque pairs employ different coordination strategies in a transparent decision game. eLife, 12:e81641 DOI: 10.7554/eLife.81641</a>
+* <a href="../_static/pdfs/treue/106757-v1.pdf">Isbaner S, Baez-Mendoza R, Bothe R, Eiteljoerge S, Fischer A, Gail A, et al. Dyadic Interaction Platform: A novel tool to study transparent social interactions. eLife. 2025;reviewed preprint:1–52. doi: 10.7554/eLife.106757.1.</a>
+
+
+#### On the modulation of cortical information processing by attention (background reading)
+* <a href="../_static/pdfs/treue/PIIS089662730200778X.pdf">Martinez-Trujillo JC, Treue S. Attentional modulation strength in cortical area MT depends on stimulus contrast. Neuron. 2002; 35:365–70.</a>
+* <a href="../_static/pdfs/treue/s12915-022-01428-7.pdf">Yoo S-A, Tsotsos J, Treue S, Fallah M, Martinez-Trujillo JC (2022) Attention to visual motion suppresses neuronal and behavioral sensitivity in nearby feature space. BMC Biology, 20(220) DOI: 10.1186/s12915-022-01428-7</a>
+* <a href="../_static/pdfs/treue/PIIS0166223622000157.pdf">Esghaei M, Treue S, Vidyasagar TR (2022) Dynamic coupling of oscillatory neural activity and its roles in visual attention. Trends in Neurosciences, 45(4):323-35  DOI:10.1016/j.tins.2022.01.003</a>
+* <a href="../_static/pdfs/treue/wild-treue-2021-primate-extrastriate-cortical-area-mst-a-gateway-between-sensation-and-cognition.pdf">Wild B, Treue S (2021) Primate extrastriate cortical area MST: a gateway between sensation and cognition. Journal of Neurophysiology, 125(5), 1851-1882 DOI: 10.1152/jn.00384.2020</a>
+* <a href="../_static/pdfs/treue/document.pdf">Kozyrev V, Daliri MR, Schwedhelm P, Treue S (2019) Strategic deployment of feature-based attentional gain in primate visual cortex. PLoS biology, 17(8), e3000387 DOI: 10.1371/journal.pbio.3000387</a>
+
+
+#### Relevant publications by other, from the talk, in order of appearance
+* <a href="../_static/pdfs/treue/PIIS0896627324008080.pdf">Zheng J, Meister M. The unbearable slowness of being: Why do we live at 10 bits/s? Neuron. 2025;113. doi: 10.1016/j.neuron.2024.11.008.</a>
+* <a href="../_static/pdfs/treue/science.4023713.pdf">Moran J, Desimone R. Selective attention gates visual processing in the extrastriate cortex. Science. 1985;229:782–4.</a>
+* <a href="../_static/pdfs/treue/04.09-VisAttnRev.pdf">Desimone R, Duncan J. Neural mechanisms of selective visual attention. Annual Review of Neuroscience. 1995;18:193–222.</a>
+* <a href="../_static/pdfs/treue/science.3353728.pdf">Spitzer H, Desimone R, Moran J. Increased attention enhances both behavioral and neuronal performance. Science. 1988;240(4850):338–40.</a>
+* <a href="../_static/pdfs/treue/431.full.pdf">McAdams CJ, Maunsell JHR. Effects of attention on orientation-tuning functions of single neurons in Macaque cortical area V4. Journal of Neuroscience. 1999;19(1):431–41.</a>
+* <a href="../static/pdfs/treue/nn0499_375.pdf">Lee DK, Itti L, Koch C, Braun J. Attention activates winner-take-all competition among visual filters. Nature Neuroscience. 1999;2(4):375–81.</a>
+* <a href="../_static/pdfs/treue/7591.full.pdf">Maunsell JHR, McAdams CJ. Effects of attention on neuronal response properties in visual cerebral cortex. In: Gazzaniga MS, editor. The New Cognitive Neurosciences. second edition ed. Cambridge, MA: MIT Press; 2000. p. 315–24.</a>
+
+
+#### On the importance of NHP research in the neurosciences
+* <a href="../_static/pdfs/treue/PIIS0896627314004930.pdf">Roelfsema PR, Treue S (2014). Basic neuroscience research with nonhuman primates: a small but indispensable component of biomedical research. Neuron 82(6): 1200-1204. DOI: 10.1016/j.neuron.2014.06.003</a>
+* <a href="../_static/pdfs/treue/https://books.google.com/books?hl=en&lr=&id=HXWrEAAAQBAJ&oi=fnd&pg=PP6&dq=Treue+S,+Lemon+RN+(2023)+The+indispensable+contribution+of+nonhuman+primates+to+biomedical+research+In:+Robinson+LM,+Weiss+A+(Eds.)+Nonhuman+Primate+Welfare:+From+History,+Science,+and+Ethics+to+Practice.+Cham,+Switzerland:+Springer.+ISBN+978-3-030-82707-6+DOI:+10.1007/978-3-030-82708-3&ots=zOuwkBUHP9&sig=3o5cIEYTuOocFyn8uKySf33Nifo#v=onepage&q&f=false">Treue S, Lemon RN (2023) The indispensable contribution of nonhuman primates to biomedical research In: Robinson LM, Weiss A (Eds.) Nonhuman Primate Welfare: From History, Science, and Ethics to Practice. Cham, Switzerland: Springer. ISBN 978-3-030-82707-6. DOI: 10.1007/978-3-030-82708-3</a>
+
+
 ## Kohitij Kar
 
 ### Suggested Readings
@@ -235,6 +275,8 @@
 ## Agostina Palmigiano
 
 ## Lindsey Glickfeld
+
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/glickfeld/CSHL2026_Normalization.pdf">Slides</a>
 
 ### Suggested Readings
 * <a href="../_static/pdfs/glickfeld/CarandiniHeeger2013.pdf">Carandini & Heeger (2013) Normalization as a canonical neural computation.</a>
