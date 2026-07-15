@@ -308,9 +308,9 @@
 
 ## Geoff Boynton
 
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/fMRI_Part_1.pdf">Slides Part 1</a>
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/fMRI_Part_2.pdf">Slides Part 2</a>
-* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/fMRI_Part_3.pdf">Slides Part 3</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/fMRI_Part_1.pptx">Slides Part 1</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/fMRI_Part_2.pptx">Slides Part 2</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/fMRI_Part_3.pptx">Slides Part 3</a>
 
 ### Suggested Readings
 
