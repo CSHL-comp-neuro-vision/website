@@ -268,6 +268,8 @@
 
 ## Madineh Sedigh-Sarvestani
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/sedigh-savestani/Sarvestani_CSHL_2026_notes.pdf">Slides</a>
+
 ### Suggested Readings
 * <a href="../_static/pdfs/sedigh-sarvestani/ClippingdaleWilson-1996-Self-SimilarNeuralNetworksBasedOnAKohonenLearningRule.pdf">Clippingdale, S. & Wilson, R. (1996). Self-similar neural networks based on a Kohonen learning rule.</a>
 * <a href="../_static/pdfs/sedigh-sarvestani/KonkleAlvarez-2022-ASelfSupervisedDomainGeneralLearningFrameworkForHumanVentralStreamRepresentation.pdf">Konkle, T. & Alvarez, G.A. (2022). A self-supervised domain-general learning framework for human ventral stream representation.</a>
