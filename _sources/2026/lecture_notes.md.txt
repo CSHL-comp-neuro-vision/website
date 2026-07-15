@@ -207,6 +207,8 @@
 
 ## Stefan Treue
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/treue/Treue_Attention_CSH2026.pdf">Slides</a>
+
 ### Suggested Readings
 
 #### On the modulation of cortical information processing by attention (from the talk, in order of appearance)
