@@ -308,6 +308,10 @@
 
 ## Geoff Boynton
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/fMRI_Part_1.pdf">Slides Part 1</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/fMRI_Part_2.pdf">Slides Part 2</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/boynton/fMRI_Part_3.pdf">Slides Part 3</a>
+
 ### Suggested Readings
 
 * <a href="../_static/pdfs/boynton/White_ProcNatlAcadSciUSA_2019.pdf">White et al. (2019). Parallel spatial channels converge at a bottleneck in anterior word-selective cortex.</a>
