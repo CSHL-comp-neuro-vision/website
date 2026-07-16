@@ -328,6 +328,8 @@
 
 ## Taraz Lee
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/lee/CHSL_2026.pdf">Slides</a>
+
 ### Suggested Readings
 * <a href="../_static/pdfs/lee/BrissendenetalBioRxiv2026.pdf">Brissenden, Vesia & Lee. (2026). Cerebellar perturbation impairs human working memory and degrades spatial tuning throughout cortex.</a>
 * <a href="../_static/pdfs/lee/BrissendenetalNatHumBeh2025.pdf">Brissenden et al. (2025). Errors of attention adaptively warp spatial cognition.</a>
