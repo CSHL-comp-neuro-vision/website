@@ -280,6 +280,38 @@
 
 ## Agostina Palmigiano
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/palmigiano/CSHL_circuit_models_student.ipynb">Notebook</a>
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/palmigiano/cshl_circuit_tools.py">Python code</a>
+
+### Suggested Readings
+
+#### Spiking v. rate
+* <a href="../_static/pdfs/palmigiano/Brunel_Hakim_1999.pdf">Brunel & Hakim (1999)</a>
+* <a href="../_static/pdfs/palmigiano/Ostojic_2014.pdf">Ostojic (2014)</a>
+* <a href="../_static/pdfs/palmigiano/Harish_Hansel_2015.pdf">Harish & Hansel (2015)</a>
+
+#### E-I nets
+* <a href="../_static/pdfs/palmigiano/WilsonCowan1972.pdf">Wilson & Cowan (1972)</a>
+* <a href="../_static/pdfs/palmigiano/kraynyukovaTchumatchenko_2018.pdf">Kraynyukova & Tchumatchenko (2018)</a>
+
+#### Rate v. voltage transformation
+* <a href="../_static/pdfs/palmigiano/MillerFumarola2012.pdf">Miller & Fumarola (2012)</a>
+
+#### Balanced amplification
+* <a href="../_static/pdfs/palmigiano/MurphyMiller_2009.pdf">Murphy & Miller (2009)</a>
+
+#### Inhibition stabilization and paradoxical effects
+* <a href="../_static/pdfs/palmigiano/Tsodyksetal_1997.pdf">Tsodyks et al. (1997)</a>
+* <a href="../_static/pdfs/palmigiano/Sansenietal_2020.pdf">Sanseni et al. (2020)</a>
+
+#### Mean field models
+* <a href="../_static/pdfs/palmigiano/SompolinskyCrisanti_1988.pdf">Sompolinsky & Crisanti (1988)</a>
+* <a href="../_static/pdfs/palmigiano/KadmonSompolinsky_2015.pdf">Kadmon & Sompolinsky (2015)</a>
+
+#### Reshuffling
+* <a href="../_static/pdfs/palmigiano/Sanzeni_Plamigiano_Nguyen_etal_2023.pdf">Sanzeni*, Palmigiano*, Nguyen* et al. (2023)</a>
+* <a href="../_static/pdfs/palmigiano/Nguyenetal_2025.pdf">Nguyen et al. (2025)</a>
+
 ## Lindsey Glickfeld
 
 * <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/glickfeld/CSHL2026_Normalization.pdf">Slides</a>
