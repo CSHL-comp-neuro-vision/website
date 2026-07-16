@@ -250,6 +250,8 @@
 
 ## Kohitij Kar
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/kar/Ko_CSHLCompVis_2026-compressed.pdf">Slides</a>
+
 ### Suggested Readings
 
 * <a href="../_static/pdfs/kar/annurev-vision-112823-030616.pdf">Kar, K., & DiCarlo, J. J. (2024). The quest for an integrated set of neural mechanisms underlying object recognition in primates. Annual Review of Vision Science, 10(1), 91-121.</a>
