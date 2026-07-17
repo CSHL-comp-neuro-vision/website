@@ -396,7 +396,7 @@
     <td class="tg-lmxn">Taraz Lee</span></td>
   </tr>
   <tr>
-    <td class="tg-left">8:00pm</td>
+    <td class="tg-left">7:30pm</td>
     <td class="tg-73oq">TA Talks</td>
     <td class="tg-lmxn">Catrina Hacker, Ann Kotkat</td>
   </tr>
