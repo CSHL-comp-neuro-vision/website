@@ -321,6 +321,8 @@
 
 ## Emma Alexander
 
+* <a href="https://github.com/CSHL-comp-neuro-vision/slides-2026/raw/main/alexander/Alexander_CSHL2026.pdf">Slides (ppt file available upon request)</a>
+
 ### Suggested Readings
 * <a href="https://graphics.cs.cmu.edu/courses/15-463/lectures/lecture_10.pdf">Introductory slides</a>
 * <a href="../_static/pdfs/alexander/AdelsonBergen-1991Theplenopticfunctionandtheelementsofearlyvision.pdf">Adelson, Edward H., and James R. Bergen. The plenoptic function and the elements of early vision. Vol. 2. Cambridge, MA, USA: Vision and Modeling Group, Media Laboratory, Massachusetts Institute of Technology, 1991.</a>
